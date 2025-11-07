@@ -1,0 +1,2736 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Website terms and conditions - SEQ Legal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get a quote
+
+
+Legal services
+
+
+
+
+Legal services
+Testimonials
+
+
+
+
+Legal templates
+
+
+
+
+Free legal documents
+Professional legal documents
+
+
+
+
+Legal Q&A
+
+
+Blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+ 
+ 
+Free legal documents
+ 
+ 
+Website terms and conditions
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Website terms and conditions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This website terms and conditions template is for use on websites with typical features: informational pages, contact forms and user-submitted content.
+
+
+The terms and conditions reflect applicable requirements of both European Union and United Kingdom law, including the directive on electronic commerce (
+Directive 2000/31/EC
+) and its UK implementing regulations (
+the Electronic Commerce (EC Directive) Regulations 2002
+).
+
+
+You may well need other legal documents on our website. In particular, you may need to publish a privacy policy that sets out information about how you handle users’ personal data.
+
+
+Moreover, these terms and conditions are insufficient for websites selling products, downloads or services. For websites selling subscriptions, see 
+these terms and conditions
+, which are available in a number of variants; for social networking websites, see 
+this pack of documents
+; and for a complete set of documents for an online store, see our 
+online shop packs
+.
+
+
+There’s more information below about the other documents you might need on your website.
+
+
+THIS DOCUMENT IS NO LONGER AVAILABLE ON THIS WEBSITE, BUT YOU CAN BUY THE DOCUMENT ON OUR WEBSITE CONTRACTS SITE.
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Please purchase a licence if you would like to use this template
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+What are website terms and conditions?
+
+
+Website terms and conditions set out the basis upon which users are permitted to use a website. They also cover related legal matters: statutory disclosures, warranty limitations, disclaimers of liability, and so on. As they are written by the website owner or the owner’s lawyers, website terms and conditions are most commonly focused upon the protection of the owner’s interests. The terms and conditions are usually set out on a special web page. 
+
+
+What clauses are included in these terms and conditions?
+
+
+The terms and conditions include the following provisions:
+
+
+
+
+a licence of the copyright in the website (and restrictions on what may be done with the material on the website);
+
+
+a disclaimer of liability, limiting the scope of legal claims that a user might bring against you;
+
+
+a clause governing user accounts, the use of passwords and restricted areas of the website;
+
+
+an acceptable use clause prohibiting various forms of undesirable conduct;
+
+
+a licence of user content, required because user content is itself protected by copyright and you need a licence in order to publish that content;
+
+
+rules relating to user content, such as prohibitions on defamatory and explicit material;
+
+
+a variation clause allowing you to change the terms and conditions;
+
+
+a clause specifying the applicable law and the jurisdiction in which disputes will be decided;
+
+
+a provision specifying some of the information which needs to be disclosed under UK and EU legislation.
+
+
+
+
+How do I use the terms and conditions?
+
+
+You can download a Microsoft Word (.DOCX) file by clicking the download button above.
+
+
+Before publishing the terms and conditions on your website, you will need to edit them using word processing software. After editing, you should convert them to an appropriate format such as HTML.  Your content management system (such as WordPress) may help you with the conversion.
+
+
+Before and during editing, please read the guidance notes accompanying the terms and conditions. They highlight some of the key issues, including drafting which reflects specific statutory requirements.
+
+
+Feel free to ask questions about the terms and conditions in the comments section below or using 
+our Q&A system
+.
+
+
+Why do I need website terms and conditions?
+
+
+Obscure in the footer of almost every web page, amongst little used links to website policies, investor relations reports and adverts for adverts, you’ll find a terms and conditions link. Almost no one reads terms and conditions. No one really likes them. Web designers work hard to minimise their impact upon the user experience. Some publishers really are too cool for legal documents (“Here’s the boring legal stuff! Ha ha!”). Nonetheless, the directives of company legal departments and/or the inchoate fear of legal calamity drive most publishers to include legal documents on their websites.
+
+
+What are the specific functions of terms and conditions?
+
+
+There are four main functions:
+
+
+
+
+to protect intellectual property rights;
+
+
+to limit or exclude liability in relation to the use of the website;
+
+
+to make information disclosures required by law; and
+
+
+to establish a contractual framework governing the relationship between the publisher and users of the website
+
+
+
+
+Our template terms and conditions cover each of these functions.
+
+
+See below for more details concerning the specific contents. 
+
+
+How would terms and conditions help protect my intellectual property?
+
+
+The different types of creative work that constitute a website (software, text, images, and so on) are protected by the law of copyright. Depending upon the website, other intellectual property rights might also apply, such as:
+
+
+
+
+moral rights and neighbouring rights;
+
+
+registered and unregistered trade mark rights;
+
+
+registered design rights;
+
+
+database rights.
+
+
+
+
+Under US law, patent rights can be relevant, but this is rarely the case in the EU.
+
+
+In any event, the copyright is usually the most significant right in the website context.
+
+
+Terms and conditions will usually include a copyright notice asserting ownership of the copyright and other rights in these creative works, but that isn’t the end of the matter.
+
+
+In order to use a website, a visitor’s web browser will need to create copies of those works. The act of copying is, on the face of it, an act of copyright infringement. To avoid infringement, the visitor needs a licence. Simply put, a licence is a right to do something that would, but for the licence, constitute an infringement.
+
+
+If you don’t include an express licence in your website terms and conditions, a licence will usually be implied. If a licence is implied, its terms will be uncertain. To give a crude example, there may be uncertainty as to whether users are entitled to take your content and use it on their own websites. To avoid this kind of uncertainty, your terms and conditions should include an express licence, alongside the copyright notice. 
+
+
+Am I protected from liability by disclaimers in terms and conditions?
+
+
+Maybe, sometimes.
+
+
+If you take the limitations of liability in the typical website terms and conditions at face value, you might think that there are no conceivable circumstances in which a website publisher will ever be liable to pay you compensation.
+
+
+A typical set of terms and conditions might exclude liability for:
+
+
+
+
+loss of data and software;
+
+
+loss arising out of malware on the website;
+
+
+loss arising out of reliance upon information published on the website;
+
+
+losses relating to material published by users on the website;business-related losses; and
+
+
+consequential and indirect losses.
+
+
+
+
+Liability may also be capped, often at a low level. Where website services are provided on a paid basis, the cap will frequently bet set by reference to the level of any fees (0.5x to 3x annual subscription fees would be typical).
+
+
+However, both UK and EU law control the effectiveness of disclaimers of liability. The rules themselves are complex, but a couple of examples will help.
+
+
+
+
+Under Section 2(1) the UK’s 
+Unfair Contract Terms Act 1977
+, a person “cannot by reference to any contract term or to a notice given to persons generally or to particular persons exclude or restrict his liability for death or personal injury resulting from negligence”.
+
+
+Under the UK’s 
+Consumer Rights Act 2015
+, which applies to B2C but not B2B contracts, a range of warranties are implied into contracts, and any clause which would exclude or restrict the website publisher’s liability under those warranties is not binding upon the consumer.
+
+
+
+
+Because of legal constraints of these kinds, the limitations of liability found in many sets of terms and conditions would not stand up to the scrutiny of a court of law. However, sometimes they will, and this is one area where you should not attempt any amateur lawyering.
+
+
+What information disclosures does the law require?
+
+
+Disclosure rules are a recurring motif of UK and EU consumer protection law.  If consumers are better informed, they will be in a better position to benefit from their legal rights – or so the argument goes.
+
+
+Similar considerations apply to individuals who aren’t strictly acting as consumers, such as users of a free service, and to small businesses in their dealings with large businesses.
+
+
+Here are some examples of disclosure requirements from UK and EU law.
+
+
+
+
+Article 5 of the EU’s Ecommerce Directive (
+Directive 2000/31/EC
+) requires that “Member States shall ensure that the service provider shall render easily, directly and permanently accessible to the recipients of the service and competent authorities, at least the following information: (a) the name of the service provider; (b) the geographic address at which the service provider is established; (c) the details of the service provider, including his electronic mail address, which allow him to be contacted rapidly and communicated with in a direct and effective manner; (d) … etc”.
+
+
+Under Schedule 2 of the 
+Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013
+ (the UK’s current implementation of the EU’s distance selling rules) businesses selling to consumers at a distance (including through a website) must disclosure a long list of different bits of information, as set out in Schedule 2. http://www.legislation.gov.uk/uksi/2013/3134/schedule/2/madeSection 25(2) of the UK’s Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015 provides that every UK company must include the following information on its websites: “(a) the part of the United Kingdom in which the company is registered; (b) the company’s registered number; (c) the address of the company’s registered office; (d) in the case of a limited company exempt from the obligation to use the word “limited” as part of its registered name under section 60 of the Act, the fact that it is a limited company; (e) in the case of a community interest company which is not a public company, the fact that it is a limited company; and (f) in the case of an investment company within the meaning of section 833 of the Act, the fact that it is such a company.”
+
+
+
+
+The template terms and conditions contain prompts for the disclosures that are most commonly required in relation to non-ecommerce websites.
+
+
+In addition to mandatory disclosures, website terms and conditions often contain flags about intended uses. Terms and conditions might prohibit children from accessing a website or purport to limit access to users in particular countries. Sometimes a law will apply only where a website is directed at a particular category of user, and these flags may help with an argument that a website is not so directed.
+
+
+Do I need a contract with users?
+
+
+A contract is an exchange of value and/or promises that is enforceable in a court of law.
+
+
+In English law, you can license copyright, disclaim liability, create confidentiality obligations and make statutory disclosures without creating a contractual relationship, but you will usually need a contract if you want to impose extra obligations upon your users.
+
+
+If your users are paying you for something, there will almost always be a contract, whether you want one or not.  If you are selling goods, there will be a contract of sale; and if you are selling services, there will be a contract of service. In the case of B2C relationships, both contracts for the sale of goods and the provision of services are heavily regulated. Accordingly, B2C contracting is another area where you should avoid DIY legal drafting.
+
+
+To be clear, our free website terms and conditions template is not sufficient for websites selling goods or services. You should either supplement the terms and conditions or use an alternative template. Many of our premium templates (see below) include provisions relating to goods and services, in both B2B and B2C contexts.
+
+
+What’s the difference between terms and conditions, terms of service and legal notices?
+
+
+Legal documents are plagued by nomenclatural inconsistency. On this front, website legal notices are as bad if not worse than other legal documents. Documents called “website terms”, “terms and conditions of use”, “conditions of service” might all perform identical functions. So don’t worry too much about what you call your document.
+
+
+I usually just call them “terms and conditions” – they are after all published on a website, so prefixing “website” isn’t very informative.
+
+
+If, however, a website includes multiple sets of terms and conditions, qualifiers are appropriate. For example terms and conditions of use vs terms and conditions of sale vs API terms and conditions.
+
+
+What alternative documents are available?
+
+
+We publish probably the widest range of website T&Cs documents available in English.  The full range of documents is available on Website Contracts (as Microsoft Word documents).
+
+
+A selection of the terms and conditions templates are listed in the tables below, but we have many more variations on the websites.
+
+
+Free-to-use websites
+
+
+These are terms and conditions for common types of free-to-use website.
+
+
+
+
+
+
+
+
+Title
+
+
+Description
+
+
+Get the document on…
+
+
+
+
+
+
+
+
+
+
+Blog terms and conditions
+
+
+T&Cs for a free-to-use blog, including provisions relating to blog comments.
+
+
+
+
+
+
+
+
+Brochure website terms and conditions
+
+
+T&Cs for a company or business website that acts as the online equivalent of a brochure.
+
+
+
+
+
+
+
+
+Affiliate website terms and conditions
+
+
+For use in relation to websites publishing and making money from affiliate links.
+
+
+
+
+
+
+
+
+Social network terms and conditions
+
+
+For a website offering social network functionality: user-generated content, messaging, groups, etc.
+
+
+
+
+
+
+
+
+
+
+Specialised informational websites
+
+
+These terms and conditions of use are for websites that publish special types of information.
+
+
+
+
+
+
+
+
+Title
+
+
+Description
+
+
+Get the document on…
+
+
+
+
+
+
+
+
+
+
+News website terms and conditions
+
+
+T&Cs for a website that publishes news.
+
+
+
+
+
+
+
+
+Financial website terms and conditions
+
+
+A document to govern the use of a (non-regulated) website publishing financial information.
+
+
+
+
+
+
+
+
+Legal website terms and conditions
+
+
+These T&Cs include special disclaimers in relation to legal information and advice.
+
+
+
+
+
+
+
+
+
+
+Website selling products or digital downloads
+
+
+These documents cover the use of websites selling products or digital downloads. They do not cover the contract of sale itself, but we do have a wide range of documents and packs that serve that purpose.
+
+
+
+
+
+
+
+
+Title
+
+
+Description
+
+
+Get the document on…
+
+
+
+
+
+
+
+
+
+
+Online shop terms and conditions
+
+
+These T&Cs govern the use of a website selling physical products. Use in conjnuction with our T&Cs of sale via a website document.
+
+
+
+
+
+
+
+
+Marketplace website terms and conditions
+
+
+T&Cs regulating the various relationships that arise out of the operation of a marketplace for products.
+
+
+
+
+
+
+
+
+Digital store terms and conditions
+
+
+T&Cs for a website selling digital download files. Use in conjunction with one of our download T&Cs documents.
+
+
+
+
+
+
+
+
+
+
+Subscription and other paid services websites
+
+
+If you are selling online services that are supplied through a website, then you need terms and conditions that cover relationships with both casual visitors and paying customers.
+
+
+
+
+
+
+
+
+Title
+
+
+Description
+
+
+Get the document on…
+
+
+
+
+
+
+
+
+
+
+Subscription website terms and conditions
+
+
+This generic document makes few assumptions about the nature of the services, but we do have service-specific variants.
+
+
+
+
+
+
+
+
+PAYG services website terms and conditions
+
+
+Similar to the subscription services document, but without the assumption of ongoing services.
+
+
+
+
+
+
+
+
+Dating website terms and conditions
+
+
+These T&Cs can be adapted for use on a wide range of dating-type websites.
+
+
+
+
+
+
+
+
+Recruitment website terms and conditions
+
+
+T&Cs governing the relationship between a website operator on the one hand, and casual visitors, recruiters and jobseekers on the other.
+
+
+
+
+
+
+
+
+
+
+What other documents will I need?
+
+
+What you need depends upon exactly what you are doing.
+
+
+Whilst we can’t give specific guidance here, website publishers might need the following, in addition to website terms and conditions.
+
+
+
+
+Privacy and cookies policies – Almost all websites will need a privacy policy, which should either contain or be accompanied by a cookie policy.
+
+
+Subscription and PAYG services agreements – If a user is buying services from you, those services will be provided under a contract, and the terms of that contract should be set out in writing.
+
+
+Download and licensing agreements – These types of documents cover the use of a copyright-protected work, in addition to the transaction through which a copy of the work was acquired. An example would be a EULA designed to regulate the use of downloadable software.
+
+
+Terms and conditions applying to the sale of goods – If you are selling goods, you should include terms and conditions defining the contract of sale. You may also want separate delivery and returns policies.
+
+
+
+
+
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Amy
+ 
+says:
+ 
+
+
+
+
+28 April 2020 at 2:23 pm
+ 
+
+
+
+
+
+
+Hello, 
+
+
+Please could you suggest which terms and conditions template would be most suitable for my website? 
+
+
+ 
+
+
+Thanks
+
+
+ 
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Kev Perks
+ 
+says:
+ 
+
+
+
+
+14 April 2020 at 7:21 am
+ 
+
+
+
+
+
+
+Hi,  I am looking at creating a website to show case my work.  With this in mind, the people will be able to purchase from the webiste and we will be able to post the goods to the customer.  The business costs of two equal partners and we are selling artwork.  I assume I will need a website t&c’s, a privacy policy and also t&c’s for the online shopping.  In additional to this we also have other businesses where we sell our products and we list them as stockists on our website.
+
+
+Can you let me know which of your t&c’s you think will be most suitable.
+
+
+Thanks
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+Alasdair Taylor
+ 
+says:
+ 
+
+
+
+
+20 April 2020 at 11:30 am
+ 
+
+
+
+
+
+
+Hi Kev, thanks for your message and apologies for the delay with this reply.  I have a couple of questions for you before I can give guidance here: (i) will the products be physical (Eg prints) or digital or both? (ii) in which country is your business based, and where will you sell? (iii) are you selling B2B or B2C or both? (iv) are you looking specifically for free-to-use templates?
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+Wolf
+ 
+says:
+ 
+
+
+
+
+9 June 2020 at 11:37 am
+ 
+
+
+
+
+
+
+Hi Alasdair,
+
+
+I’m based in the UK. I have a website/blog with a B2C shop and would like to sell my artworks (oil and acrylics). I’m also planning to sell printed material. What are your suggestions? I would love to see an artist website/blog/online shop pack.
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Sagar Lohar
+ 
+says:
+ 
+
+
+
+
+5 November 2019 at 7:41 am
+ 
+
+
+
+
+
+
+Hi,
+
+
+We want to make a job posting and dynamic website for UK region. Our office is located in India. We have 1 domain name of co.uk for job postings.
+
+
+Employers from UK can post the job and candidates from UK can apply to that job. We do not have any office in UK. Can we make our website live for UK only for the job posting and resume submission. There will be cost involved in posting the job for employers and creating dynamic CV for candidates. Our business account is in Indian bank.
+
+
+So what are the terms and the conditions for this live job website business. Please advise.
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+Alasdair Taylor
+ 
+says:
+ 
+
+
+
+
+5 November 2019 at 7:52 pm
+ 
+
+
+
+
+
+
+I suggest you have a look at this template (although NB it will not help in relation to any Indian law compliance issues):
+
+
+https://docular.net/documents/template/28/recruitment-website-terms-and-conditions
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Trevor Powell
+ 
+says:
+ 
+
+
+
+
+30 May 2019 at 3:45 pm
+ 
+
+
+
+
+
+
+Hi,
+
+
+We are in the process of setting up a new website for our EPoS company which will just highlight what we sell and services provided. It will have a contact us section where they can leave their contact details if they wanted or they can just email us/phone, there will also be brouchures to download on there in PDF format as well. I was not sure what T&C’s would be needed? we are thinking of adding an online shop in the future but not straight away. Great website BTW – just making my head spin with all the legal requirements lol!
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+Alasdair Taylor
+ 
+says:
+ 
+
+
+
+
+31 May 2019 at 9:29 am
+ 
+
+
+
+
+
+
+Hi Trevor,
+
+
+If I were preparing documents for the website you describe, and did not want to include the “Templates from SEQ Legal” credit that comes with the free documents, I would use the following templates (from our Docular website):
+
+
+
+
+https://docular.net/documents/template/17/business-website-terms-and-conditions
+
+
+https://docular.net/documents/template/1040/privacy-and-cookies-policy
+
+
+
+
+If you add an online shop, you could supplement with:
+
+
+
+
+https://docular.net/documents/template/42/terms-and-conditions-of-sale-via-website-b2b
+
+
+
+
+These documents are also available as static Word templates on 
+https://www.website-contracts.co.uk
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Bob Harle
+ 
+says:
+ 
+
+
+
+
+24 May 2019 at 12:52 am
+ 
+
+
+
+
+
+
+Hi
+
+
+Does it matter where the website is hosted? My target audience is in the UK, primarily.
+
+
+I am building a website that will cater for early learners, ages 2-6. It will be a subscription based website. It is not a downloadable course, however there will be downloadable printables. I don’t think that I will need to store CC data, as will be using 3rd party gateways to process.
+
+
+No external links, or advertising from within the secure area, there maybe advertising on the public areas.
+
+
+In light of this, what would be my best course of action to get T&C’s and a privacy policy? Or which of your downloadables would be suitable for edit?
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+Alasdair Taylor
+ 
+says:
+ 
+
+
+
+
+25 May 2019 at 6:28 am
+ 
+
+
+
+
+
+
+Thanks for your comments and questions.
+
+
+One key question here is: will you be collecting any personal data of the early learners, or will they be invisible to you?
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Bob
+ 
+says:
+ 
+
+
+
+
+11 January 2019 at 9:10 pm
+ 
+
+
+
+
+
+
+Hi,
+
+
+I have started a website that will include newsletters, blogging & talk about the stock market/macro economic trends. I will also be selling a course too (not subscription, just a one time purchase). Which documents do I need? 
+
+
+Regards
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+Alasdair Taylor
+ 
+says:
+ 
+
+
+
+
+13 January 2019 at 9:28 am
+ 
+
+
+
+
+
+
+What form will the course take? Will it be a downloadble course, based on streamed media and online services, or mixed?
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Elle
+ 
+says:
+ 
+
+
+
+
+13 November 2018 at 5:56 pm
+ 
+
+
+
+
+
+
+Hello! I am able to purchase your Website T&C for a site which sells goods, however the copy advises it is “insufficient” for use with a services website. I sell online training programs and one-on-one coaching services. Do you offer a T&C for such a purpose? Thank you!
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+Alasdair Taylor
+ 
+says:
+ 
+
+
+
+
+16 November 2018 at 8:42 am
+ 
+
+
+
+
+
+
+Do the online training programs take the form of subscriptions or downloadable courses?
+
+
+Also, regarding the one-to-one coaching, is this face-to-face or via the internet or both?
+
+
+In each case, what type of training/coaching is being provided?
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Manish Sapra
+ 
+says:
+ 
+
+
+
+
+11 October 2018 at 10:07 am
+ 
+
+
+
+
+
+
+Hello,
+
+
+I live in India and my website contains ancient scriptures which are mostly in public domain by India, UK and USA law and not copyrighted so I can use your T & C and Privacy Policy on my website just for safety by user agreement to use website services and data collection etc. 
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Ernesto
+ 
+says:
+ 
+
+
+
+
+11 September 2018 at 11:48 am
+ 
+
+
+
+
+
+
+Hi please, can I translate it into portuguese and put in my sites/ blogs? I will not remove the attribution. 
+
+
+Thanks
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+Alasdair Taylor
+ 
+says:
+ 
+
+
+
+
+12 September 2018 at 6:23 am
+ 
+
+
+
+
+
+
+Yes, that’s fine (subject to the other licensing T&Cs).
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+Ernesto
+ 
+says:
+ 
+
+
+
+
+12 September 2018 at 4:25 pm
+ 
+
+
+
+
+
+
+Sorry I can’t understand what you mean by: “(subject to the other licensing T&Cs).”
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Phuong
+ 
+says:
+ 
+
+
+
+
+12 August 2018 at 11:02 pm
+ 
+
+
+
+
+
+
+Hi, I am planning to open an affiliate ecommerce store. Do you have package of template of terms and conditions, privacy policy and affiliate disclaimer/disclosure for this kind of store?
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+Alasdair Taylor
+ 
+says:
+ 
+
+
+
+
+16 August 2018 at 7:19 am
+ 
+
+
+
+
+
+
+Assuming you will be providing affiliate links to other stores, and that no transactions will take place on your website, see:
+
+
+https://www.website-contracts.co.uk/affiliate-website-terms-and-conditions.html
+
+
+https://www.website-contracts.co.uk/privacy-and-cookies-policy.html
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Louise Everson
+ 
+says:
+ 
+
+
+
+
+4 May 2018 at 9:40 am
+ 
+
+
+
+
+
+
+Hi 
+
+
+What Terms & Conditions policy do I need for my websites that are listings of properties and businesses for sale? I’m not an estate agent just an advertising platform for private clients and agents to promote their properties. 
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+J Thomas
+ 
+says:
+ 
+
+
+
+
+28 November 2017 at 2:50 am
+ 
+
+
+
+
+
+
+Wow! I’m thrilled to have come across your resourceful and helpful website.  My question to you is: I’m currently having my blog/vlog website built having hired a freelancer from Freelancer.com and I am new to the legalities that involve the building, operating/running and managing of a website and would therefore like to know, whether I could use your terms & conditions as a support to my learning and development. Or, would you advise me to speak directly with you in regards to this please?
+
+
+There is so much to read and learn and I’m finding it exciting but nerve racking at the same time, as I wish not to get caught up in any civil or criminal disputes, an exaggerated thought, but it’s important to bear in mind for future reference and shouldn’t be ignored.
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+Alasdair Taylor
+ 
+says:
+ 
+
+
+
+
+30 November 2017 at 5:51 pm
+ 
+
+
+
+
+
+
+You are welcome to use the T&Cs for educational purposes, although of course they cannot provide you with specific guidance/advice.
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Ellen
+ 
+says:
+ 
+
+
+
+
+20 April 2017 at 1:52 pm
+ 
+
+
+
+
+
+
+Hi there  I am about to finish my website for a small homestay hotel – which of your very useful documents would you recommend?  Thanks so much
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+Alasdair Taylor
+ 
+says:
+ 
+
+
+
+
+22 April 2017 at 7:02 am
+ 
+
+
+
+
+
+
+Where is the hotel? Is the website a simple brochure, or can booking be made through the website? What other actions can users take on the website?
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+S austin
+ 
+says:
+ 
+
+
+
+
+11 January 2017 at 2:15 pm
+ 
+
+
+
+
+
+
+Hello,
+
+
+I’m building a non-profit and a salon website, both based in the US. Am I OK to use T&Cs from your UK site? Can you refer me to a US site?
+
+
+Thanks.
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+Alasdair Taylor
+ 
+says:
+ 
+
+
+
+
+11 January 2017 at 2:44 pm
+ 
+
+
+
+
+
+
+You should not use this document for a US website – at least without expert adaptation.
+
+
+I’m not in a position to recommend a particular US website I’m afraid.
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Yaser Ismail
+ 
+says:
+ 
+
+
+
+
+5 October 2016 at 6:10 pm
+ 
+
+
+
+
+
+
+This is a great support from your website to new website owners. I will reference your website in my new website. Peace.
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Izzie
+ 
+says:
+ 
+
+
+
+
+20 September 2016 at 2:36 am
+ 
+
+
+
+
+
+
+Just what I needed to finish my website.
+
+
+Thanks.
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Tunji
+ 
+says:
+ 
+
+
+
+
+11 September 2016 at 9:01 am
+ 
+
+
+
+
+
+
+This was just what I needed. Adapted to fit my desktop application. Reference absolutely deserved and duly included. Thanks!
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Levit
+ 
+says:
+ 
+
+
+
+
+14 August 2016 at 2:52 pm
+ 
+
+
+
+
+
+
+I will credit it on my website.
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Phil Ainley
+ 
+says:
+ 
+
+
+
+
+18 July 2016 at 8:41 am
+ 
+
+
+
+
+
+
+Fantastic resource, thank you.
+
+
+I’ll be able to utilise your services in detail in the near future for my client work.
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+bhavesh 
+ 
+says:
+ 
+
+
+
+
+14 July 2016 at 3:26 pm
+ 
+
+
+
+
+
+
+I am dealing in the online gift shop business I am wondering how I can get legal help to draft my terms and conditions and also advise me on legal issues affecting my website.
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+Alasdair Taylor
+ 
+says:
+ 
+
+
+
+
+15 July 2016 at 11:46 am
+ 
+
+
+
+
+
+
+The main options are: employ a freelance lawyer; get an online legal consultancy or practice to help; engage a traditional law firm to draft the documents and provide advice. Costs vary dramatically between lawyers and between firms. If you’d like a quote from SEQ, please get in touch using our contact form, providing more details of exactly what it is you think you need.
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Web designing solutions in madhapur
+ 
+says:
+ 
+
+
+
+
+4 June 2016 at 7:21 am
+ 
+
+
+
+
+
+
+Thank you so much for sharing excellent information.
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+julia
+ 
+says:
+ 
+
+
+
+
+31 May 2015 at 9:22 am
+ 
+
+
+
+
+
+
+That is a wonderful document for us to use. I am a newbie to websites and these “terms and conditions” have proven very useful to me. I have a website on 
+http://www.royalkazaar.com
+. I will bookmark this page and refer it to other start ups. Thanks for sharing.
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Renee
+ 
+says:
+ 
+
+
+
+
+11 May 2013 at 11:20 am
+ 
+
+
+
+
+
+
+Thanks, what a great tool for small business to use, will be using on my websites including 
+http://www.zestee.com
+ and recommending to other!
+
+
+
+
+Reply
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Add a new comment 
+Cancel reply
+Your email address will not be published.
+ 
+Required fields are marked 
+*
+Comment
+ 
+Name
+ 
+
+
+Email
+ 
+
+
+ 
+Set a cookie to save my name and email to use for future comments.
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Useful Links
+Testimonials
+
+
+Blog
+
+
+Request a quote
+
+
+Contact us
+
+
+Our privacy policy
+
+
+Terms and conditions
+
+
+ 
+
+
+
+
+Our services
+Free legal documents
+
+
+Legal Q&A
+
+
+Legal services
+
+
+ 
+
+
+
+
+English law
+ 
+Unless otherwise stated, the information and resources on this website relate to English law.
+
+
+
+
+Web cookies
+ 
+By using our website, you agree to our use of web cookies. See our
+ privacy policy 
+for details.
+
+
+
+
+ 
+
+
+
+
+Docular Limited
+
+Howbery Park,
+
+Wallingford
+
+Oxfordshire
+ 
+OX10 8BA, UK
+
+
+
+Our other websites
+Website Contracts
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Copyright © 2025 Docular Limited | All rights reserved
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

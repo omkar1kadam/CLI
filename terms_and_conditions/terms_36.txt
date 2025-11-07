@@ -1,0 +1,234 @@
+Creating a Terms and Conditions Policy | Help Center | Wix.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Topics
+Resources
+Pricing
+Log In
+Get Started
+Getting started
+Learn how to use Wix to build your site and business.
+Creating your site
+Design and manage your site using intuitive Wix features.
+Account & billing
+Manage subscriptions, plans and invoices.
+Using the Wix mobile apps
+Run your business and connect with members.
+Connecting a domain
+Learn to purchase, connect or transfer a domain to your site.
+Managing your business
+Get tools to grow your business and web presence.
+Promoting your site
+Boost your visibility with SEO and marketing tools.
+Studio, Partners & Enterprise
+Get advanced features to help you work more efficiently.
+Need more help?
+Find solutions, learn about known issues or contact us.
+Wix Learn
+Improve your skills with our courses and tutorials.
+Wix Blog
+Get tips for web design, marketing and more.
+SEO Learning Hub
+Learn to increase organic site traffic from search engines.
+Website development
+Build a custom site using our full-stack platform.
+Hire a Professional
+Get matched with a specialist to help you reach your goals.
+Home
+Creating your site
+Privacy & GDPR
+Creating a Terms and Conditions Policy
+Creating a Terms and Conditions Policy
+10 min
+In this article
+Website owner, the offering, and binding of Terms
+Who can use your website; what are the requirements to create an account
+Key commercial Terms offered to customers
+Return and refund policy
+Retention of right to change offering
+Warranties & responsibility for services and products
+Ownership of intellectual property, copyrights and logos
+Right to suspend or cancel user account
+Indemnification
+Limitation of liability
+Right to change and modify Terms
+Promotional emails and content
+Preference of law and dispute resolution
+Customer support details & contact info
+Provisions recommended for websites with user communities
+Terms and conditions (“Terms”) are a set of legal terms defined by the owner of a website. They set forth the terms and conditions governing the activities of the website visitors on the said website and the relationship between the site visitors and the website owner. 
+Terms must be defined according to the specific needs and nature of each website. For example, a website offering products to customers in e-commerce transactions requires Terms that are different than the Terms of a website only providing information.     
+The Terms are an agreement between the website owner and the users of the website; they detail the policies and procedures conducted by the website. In many ways, the Terms provide the website owner the ability to protect themselves from potential legal exposure.
+In addition, there are legal obligations to notify the website users of such activities, and in many cases the Terms are the place to do so.
+It is therefore very important and highly recommended for websites to have clear and comprehensive Terms that are adjusted and tailored to the specific website and its activities. 
+Important:
+The explanations and information provided herein are only general and high-level explanations, information and samples. You should not rely on this article as legal advice or as recommendations regarding what you should actually do. We recommend that you seek legal advice to help you understand and to assist you in the creation of your Terms. 
+What should you cover in your Terms?
+The following is a list of issues that are typically dealt with in Terms for websites. Of course, some of the issues may not be relevant to your website (e.g. refund policies are not relevant for a website that does not sell anything) and there may be terms required for your website that are not mentioned below. The following is only a limited, high-level outline and illustration of main issues typically dealt with in Terms for websites.  
+Website owner, the offering, and binding of Terms
+As in every agreement, the Terms need to clearly state the owner of the website, what the website offers and the Terms being a binding agreement upon the users of the website. If the website is operated by a legal entity, it is important to state the full and precise name of such entity (and not the commercial name used for business activity). It is also important to define what is offered on the website and to state that the Terms are a legal agreement controlling the use of the website by visitors and users of the services.
+Sample:
+This website is owned and operated by [name of your website operator]. These Terms set forth the terms and conditions under which you may use our website and services as offered by us. This website offers visitors [description of what is offered on your website]. By accessing or using the website of our service, you approve that you have read, understood, and agree to be bound by these Terms.
+Who can use your website; what are the requirements to create an account
+You must define who is entitled and who is permitted to use the website and the services, and when relevant, what the requirements are for opening an account. 
+Sample:
+In order to use our website and/or receive our services, you must be at least [add number] years of age, or of the legal age of majority in your jurisdiction, and possess the legal authority, right and freedom to enter into these Terms as a binding agreement. You are not allowed to use this website and/or receive services if doing so is prohibited in your country or under any law or regulation applicable to you.
+Key commercial Terms offered to customers
+If the website includes sale of products and/or services, the Terms must include the main commercial terms for purchasing or licensing of such services. For example, if the website offers subscriptions to a product or service, the Terms need to define the terms of such licensing, the payable fees, and terms of subscription renewal. If the website offers physical products or goods, the Terms should define general supply terms (such as shipment, returns and product warranties).
+Sample:
+When buying an item, you agree that: (i) you are responsible for reading the full item listing before making a commitment to buy it: (ii) you enter into a legally binding contract to purchase an item when you commit to buy an item and you complete the check-out payment process.
+The prices we charge for using our services / for our products are listed on the website. We reserve the right to change our prices for products displayed at any time, and to correct pricing errors that may inadvertently occur. Additional information about pricing and sales tax is available on the payments page.
+“The fee for the services and any other charges you may incur in connection with your use of the service, such as taxes and possible transaction fees, will be charged on a monthly basis to your payment method.
+
+Return and refund policy
+Online businesses selling products are required to present their product return policy and refund policy. This is important in order to comply with consumer protection regulations. It avoids claims by customers that are not satisfied with products they purchase. Please note that many websites dealing with sale of physical goods establish a refund policy as a separate document. This normally includes more instructions and information on the procedures for returns and refunding.
+Sample:
+For any undamaged product, simply return it with its included accessories and packaging along with the original receipt (or gift receipt) within 14 days of the date you receive the product, and we will exchange it or offer a refund based upon the original payment method. In addition, please note the following: (i) Products can be returned only in the country in which they were originally purchased; and (ii) the following products are not eligible for return: [list of items]. 
+Retention of right to change offering
+It is important to be able to change the offering on and/or through the website without being exposed to claims by the users of the website. Accordingly, Terms should include wording allowing the owner of the website to freely change the services and products offered on the website.   
+Sample:
+We may, without prior notice, change the services; stop providing the services or any features of the services we offer; or create limits for the services. We may permanently or temporarily terminate or suspend access to the services without notice and liability for any reason, or for no reason.
+Warranties & responsibility for services and products
+Websites offering services or selling products usually define their responsibility in relation to the services or products they are offering. Such responsibilities typically include warranties granted by the website operator and should be in compliance with local consumer protection laws. We recommended verifying such obligations with a professional.
+Sample:
+When we receive a valid warranty claim for a product purchased from us, we will either repair the relevant defect or replace the product. If we are unable to repair or replace the product within a reasonable time, the customer will be entitled to a full refund upon the prompt return of the product to us. We will pay for shipment of repaired or replaced products to customer and customer will be responsible for return shipment of the product to us.
+Ownership of intellectual property, copyrights and logos
+In order to protect the rights of the website owner in its content, materials and products, it is important to include wording retaining all rights and emphasizing that the visitors and the customers of the website are not granted any such rights.
+Sample: 
+The Service and all materials therein or transferred thereby, including, without limitation, software, images, text, graphics, logos, patents, trademarks, service marks, copyrights, photographs, audio, videos, music and all Intellectual Property Rights related thereto, are the exclusive property of [>>Name of website owner<<]. Except as explicitly provided herein, nothing in these Terms shall be deemed to create a license in or under any such Intellectual Property Rights, and you agree not to sell, license, rent, modify, distribute, copy, reproduce, transmit, publicly display, publicly perform, publish, adapt, edit or create derivative works thereof.
+If you want to offer to your users the ability to upload content (images, audio, text ...) for disclosure on your site, it is important that the issuer of such content certifies that he has all the legal rights and/or necessary licenses over the content and that such content might be public available.
+Sample:
+You recognize and agree that by uploading any content (including, but not limited to designs, images, animations, videos, audio files, fonts, logos, illustrations, compositions, artworks, interfaces, text and literary works) through any means to the website, you confirm that you own all the relevant rights or received the appropriate license to upload/transfer/send the content. You agree and consent that the uploaded/transferred content may be publicly displayed at the website.
+Right to suspend or cancel user account
+Websites need to be able to avoid misuse of the website by users and/or avoid exposure as a result of illegal activity conducted on the website (or by using a service or product offered by the website). Accordingly, websites offering subscription services or online services (such as SAAS) usually retain the ability to suspend or cancel the ability of a user or customer to use the website or the services. 
+Sample:
+We may permanently or temporarily terminate or suspend your access to the service without notice and liability for any reason, including if in our sole determination you violate any provision of these Terms or any applicable law or regulations. You may discontinue use and request to cancel your account and/or any services at any time. Notwithstanding anything to the contrary in the foregoing, with respect to automatically-renewed subscriptions to paid services, such subscriptions will be discontinued only upon the expiration of the respective period for which you have already made payment
+Indemnification
+Websites must have the ability to seek indemnification from users and customers that cause damages to the website or its owners. The indemnity obligation is usually addressed in the Terms.   The indemnification obligations need to be adjusted and be made fit to the potential exposure of each website according to its specific activities.  
+Sample:
+You agree to indemnify and hold [website owner] harmless from any demands, loss, liability, claims or expenses (including attorneys’ fees), made against them by any third party due to, or arising out of, or in connection with your use of the website or any of the services offered on the website.
+Limitation of liability
+It is important to limit and fence the potential liability that the website owner may face as result of its business activities. Such limitations must be in compliance with local applicable laws (which may limit the ability to reduce liability).
+ 
+Sample: 
+To the maximum extent permitted by applicable law, in no event shall [website owner], be liable for any indirect, punitive, incidental, special, consequential or exemplary damages, including without limitation, damages for loss of profits, goodwill, use, data or other intangible losses, arising out of or relating to the use of, or inability to use, the service. 
+
+To the maximum extent permitted by applicable law, [website owner] assumes no liability or responsibility for any (i) errors, mistakes, or inaccuracies of content; (ii) personal injury or property damage, of any nature whatsoever, resulting from your access to or use of our service; and (iii) any unauthorized access to or use of our secure servers and/or any and all personal information stored therein.
+
+Right to change and modify Terms
+In order to be able to change your Terms without requirement to receive the consent and approval of the Users, we recommend retaining the ability to change or modify the Terms at the website Owner’s will.
+Sample:
+We reserve the right to modify these terms from time to time at our sole discretion. Therefore, you should review these page periodically. When we change the Terms in a material manner, we will notify you that material changes have been made to the Terms. Your continued use of the Website or our service after any such change constitutes your acceptance of the new Terms. If you do not agree to any of these terms or any future version of the Terms, do not use or access (or continue to access) the website or the service.
+Promotional emails and content
+Many countries require that you receive the consent of your users before sending them promotional messages. The form of such consent and the legal requirements vary from country to country and therefore we recommend that you seek legal assistance on this subject.
+Sample:
+You agree to receive from time to time promotional messages and materials from us, by mail, email or any other contact form you may provide us with (including your phone number for calls or text messages). If you don't want to receive such promotional materials or notices – please just notify us at any time. 
+Preference of law and dispute resolution
+It is important to define the laws and regulations under which the website and the business activities are acting. It is common to define the location of the courts that have jurisdiction over disputes between the website owner and any customer or user. Some Terms include provisions enforcing arbitration procedures as the sole dispute resolution mechanism. It is also possible to waive certain legal proceedings (such as a jury trial or class actions).
+Sample:
+These Terms, the rights and remedies provided hereunder, and any and all claims and disputes related hereto and/or to the services, shall be governed by, construed under and enforced in all respects solely and exclusively in accordance with the internal substantive laws of [Name of Country / State], without respect to its conflict of laws principles. Any and all such claims and disputes shall be brought in, and you hereby consent to them being decided exclusively by a court of competent jurisdiction located in [Name of the city of the courts]. The application of the United Nations Convention of Contracts for the International Sale of Goods is hereby expressly excluded.
+Customer support details & contact info
+Terms are expected to have contact information enabling users and customers to receive customer support services and to correspond with the website and its operators.
+Provisions recommended for websites with user communities
+Wix offers its users the ability to create communities for the users of their websites, in order to interact with such users in a better way.  
+
+If your website includes a user community, we recommend that the website Terms clarify that all users that join a community have a public profile that is publicly visible to site visitors, and that their public activity (such as their posts or comments) will be visible to other visitors of the website.
+It is important to explain, that a user of the website can always opt-out and exit the community, and upon doing so, such user’s profile will not be publicly visible. Naturally, in such event the user will not be able to use the community features (e.g. liking, commenting or writing posts).
+Note:
+We recommend that you state the effective date of the Terms and update it every time there is a material change. 
+Did this help?
+Yes
+|
+No
+Didn’t find what you’re looking for? Try one of these articles.
+Preparing Your Wix Site for GDPR
+Creating a Privacy Policy
+Didn’t find what you’re looking for? Try one of these articles.
+Preparing Your Wix Site for GDPR
+Creating a Privacy Policy
+Hire a Professional
+Get matched with a Wix Partner who can help you reach your site goals.
+Start Now
+In this article
+Website owner, the offering, and binding of Terms
+Who can use your website; what are the requirements to create an account
+Key commercial Terms offered to customers
+Return and refund policy
+Retention of right to change offering
+Warranties & responsibility for services and products
+Ownership of intellectual property, copyrights and logos
+Right to suspend or cancel user account
+Indemnification
+Limitation of liability
+Right to change and modify Terms
+Promotional emails and content
+Preference of law and dispute resolution
+Customer support details & contact info
+Provisions recommended for websites with user communities
+Did this help?
+Yes
+|
+No
+The Wix website builder offers a complete solution from enterprise-grade infrastructure and business features to advanced SEO and marketing tools–enabling anyone to create and grow online.
+About
+Contact Us
+Product
+Website Templates
+Website Builder
+Website Design
+Wix Features
+App Market
+Web Hosting
+Domain Names
+Website Accessibility
+Mobile App Builder
+Solutions
+Online Store
+Online Booking
+Restaurant Website
+Blog Website
+Portfolio Website
+eCommerce Website
+Wix Studio
+Enterprise Solutions
+Student Website
+Professional Tools
+Logo Maker
+Learn
+Wix Blog
+Privacy and Security Hub
+SEO Learning Hub
+Wix Encyclopedia
+Support
+Help Center
+Hire a Professional
+Report Abuse
+System Status
+Company
+Channel Partnerships
+Press & Media
+Investor Relations
+Wix Capital
+Accessibility Statement
+Patent Notice
+Sitemap
+Careers
+Terms of Use
+Privacy Policy
+© 2006-2025 Wix.com, Inc

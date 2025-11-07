@@ -1,0 +1,671 @@
+
+
+
+
+
+
+
+
+
+
+How To Make Website Terms Enforceable 101!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Skip to primary navigation
+ Skip to main content
+ Skip to primary sidebar
+ Skip to footer
+Phil Nicolosi Law
+Protecting Your Business From The Ground Up
+Home
+
+
+About
+
+
+
+
+Attorney Bio
+
+
+
+
+
+
+DMCA Agent Service
+
+
+Business Law
+
+
+
+
+Corporate/Transactions Law
+
+
+Organization & Startup Law
+
+
+
+
+
+
+IP Law
+
+
+
+
+Copyright Law
+
+
+Trademark Registration
+
+
+
+
+
+
+Internet Law
+
+
+
+
+Data Privacy Law Compliance
+
+
+Domain Name Disputes
+
+
+FDA Compliance
+
+
+FTC Compliance
+
+
+SMS/FCC Compliance
+
+
+Social Media Marketing
+
+
+Website & App Terms
+
+
+
+
+
+
+Resources
+
+
+
+
+S-Corp Vs. LLC
+
+
+Social Media Legal Survival Guide
+
+
+ROKU Law Channel
+
+
+
+
+
+
+Contact
+
+
+How To Make Website Terms Enforceable 101!
+
+
+By 
+Phil Nicolosi, J.D.
+ 
+Website user agreements and terms and conditions relating to subscriptions/memberships or to product or service purchases are the most common agreements online. These agreements take form as either a 
+“click-wrap”
+ or 
+“browse-wrap”
+ agreement. “Click-wrap” agreements are agreements where the user or purchaser agrees to the terms of an agreement by pointing and clicking a mouse. The most common type of click-wrap agreement is where website visitors are required to click on an “I Accept” or “I Agree” button to accept the terms and conditions before viewing or accessing portions of a website. You can also include certain terms and conditions where users do not have to click or perform some action to show acceptance of the terms, or a “browse-wrap” agreement.
+
+
+But, how do you ensure your website terms and conditions are actually enforceable? Both types of agreements have been held by the courts to be enforceable.
+ However, the courts take much more of an issue with enforcing browse-wrap agreements. This is because there is no cut and dry indication that the user understands that certain terms exist relating to his or her website use. When that user clicks on a button to accept terms, there is no doubt notice of the terms was provided and acceptance of those terms has been made. 
+In each instance a court has upheld the enforceability of a browse-wrap agreement, the user: 1) had actual or constructive knowledge of the terms, 2) had an actual opportunity to review them before proceeding, and 3) understood that he or she was accepting them by using the website or doing some action.
+
+
+There are other situations that do not relate to the sale of goods in which the issue about contract formation arises. This often has to do with the binding nature of terms of service or membership and/or subscription agreements. Although the UCC may not be directly applicable to all cases, the UCC represents long established principles of the common law regarding contract formation. So, whether governed by the common law or by 
+Article 2 (Sales) of the UCC
+, in order to be a contract 
+some manifestation of agreement between the parties is required.
+
+
+Here are some basic guidelines you or your business should follow to help ensure enforceable website terms:
+
+
+1. Provide Proper Notice!
+
+
+The issue of enforceability is largely about providing legal notice under contract law principles. Website visitors must have actual or constructive notice of any terms and conditions relating to website use or applicable to any of sale. Constructive notice basically means you are assumed to have knowledge of the terms because they are published on the site. Notice is the critical aspect to ensuring enforceability of any type of website agreement.
+
+
+Providing this notice without using a click-wrap type of agreement has been upheld in many instances by the courts, but you should be much more cautious. For example, in the case 
+Ticketmaster Corp., et al. v. Tickets.Com, Inc. (2003)
+, the court determined whether or not the terms and conditions on the Ticketmaster site were binding on site visitors. The Court found that 
+because the site did not mandate that a visitor affirmatively click on the “I Agree” button before accessing the site, the terms and conditions were not binding, without showing some other form of “assent” on the part of the visitor.
+
+
+The court in Ticketmaster stated:
+
+
+
+
+“Many web sites make you click on “agree” to the terms and conditions before going on, but Ticketmaster does not. Further the terms and conditions are set forth so that the customer needs to scroll down the home page to find and read them. Many customers instead are likely to proceed to the event page of interest rather than reading the “small print”. It cannot be said that merely putting the terms and conditions in this fashion necessarily creates a contract with anyone using the web site.”
+
+
+
+
+If you are not going to use a click-wrap agreement then, the average user has to be notified that the terms exist and that his or her use binds them to these terms.
+
+
+Lesson:
+ Placing an innocuous link at the bottom of your home page where the visitor has to scroll down to find it (and may not notice the link) won’t provide proper notice. 
+(Specht v. Netscape Communications. Corp. (2002).
+ Notice needs to be prominent and stand out so the average website user can’t miss it. Your visitors shouldn’t have to “stumble upon” a link to any of your website agreements.
+
+
+A few different courts have determined that your customers can be made aware that by purchasing your products, they are agreeing to terms and conditions contained on a separate page accessible through a separate link. Even though they are not clicking on an ‘I Accept’ button, they still would be bound so long as it is made clear during the ordering process that they are agreeing to these terms by their purchase. 
+(Dewayne Hubbert v. Dell Corp. (2005))
+. This notice can’t come after they have ordered since the customer needs a meaningful opportunity to review the terms of sale before finalizing any purchase.
+
+
+Many courts have upheld instances where websites have prominently included language on the home page (and each separate web page) clearly stating that use of the website constitutes acceptance of the website terms and conditions. 
+(Cairo, Inc. v. CrossMedia Services (2005). 
+The courts that have upheld this method have only done so when the notice language is placed on an immediately visible portion of the website. In other words, the visitors should not have to scroll down to find the notice. Also, the notice should be prominent and meant to stand out from the rest of the text. Again, a hidden link that your visitors won’t see unless they stumble upon it will not do the trick. Each separate web page should contain the notice since your visitors may not access the home page first.
+
+
+You shouldn’t use a click wrap agreement under this scenario for the website user agreement since you want your users to be able to browse freely without having to accept the terms to enter or use the site.
+
+
+Successful Methods:
+
+
+There are really a few basic ways you can go about providing proper notice of any website terms or website agreement:
+
+
+
+
+Many websites choose to place notice language along with a link to the terms somewhere prominently on each web page plainly visible to all visitors;
+
+
+Some websites use a separate “splash page” before entering or use a pop up window on the home page containing the actual terms and conditions and then block access go forward until the user affirmatively accepts;
+
+
+Other websites ask the visitor to register (or subscribe) and provide notice during this process and accept the terms before he or she can use/access any meaningful portion of the site. Blocking access to the site until there is an affirmative action from the visitor is what the courts seem to favor the most in determining if there has been an “acceptance” of any website contract;
+
+
+Finally, many websites provide notice that certain terms of sale apply to the purchase at some point during the order process (but before the actual order is placed). These websites usually state that purchase of a product from the website constitutes acceptance of the website terms of sale and terms of use also.
+
+
+
+
+2. Obtain Proper Acceptance!
+
+
+Use of the website itself or completing the purchase process can signify acceptance so long as the user is aware they are agreeing to the terms and conditions.
+ Use of a cruise ship ticket with a venue provision printed on the back commits one to the venue provided. 
+(Carnival Cruise Lines v. Shute (1991)).
+ “Shrinkwrap” cases find the printed conditions plainly wrapped around the cassette or CD enforceable. The principle has long been established that no particular form of words is necessary to indicate assent to the offer or may specify that a certain action in connection with his offer is deemed acceptance, and ripens into a contract when the action is taken. 
+(Binder v. Aetna Life Ins. Co. (1999); Penn Sec. Life Ins. Co. v. Rising).
+
+
+However, I suggest that you always use a click-wrap type agreement anyways.
+ I have always recommended making your website users do 
+some affirmative action to signify they accept the terms
+ of the agreement. In all of the court cases I have reviewed, enforceability has always come to down to notice and consent. How a given court interprets the facts of how you attempt to establish notice may not be consistent. So, why take a chance that a court of law will find that your website users did not have proper notice or did not consent to your website terms and conditions?
+
+
+If you use a click-wrap agreement, the visitor undoubtedly has notice and accepts the terms when they click on the mouse. Of course, your visitors may not click on the ‘I Accept’ button and will browse your site anyways. So, if you are going to use a click wrap type of agreement for your terms of use or terms of sale, you should not allow your visitors to proceed to access the website (or the meaningful portions) or complete the order without accepting the terms first.
+
+
+If you chose to use a browse-wrap user agreement, you should make sure your customers are aware that the terms of sale apply to their purchase. As stated, many courts have allowed a link to a separate page containing the terms before the customer finalized the transaction. If you elect to use a link to the terms on a separate page, the link should be before or next to the ‘I Accept’ button. At this point, the purchase is in motion and conversion rates are a probably a non-issue.
+
+
+3. Follow The American Bar Association Guidelines
+
+
+Many Internet lawyers feel you should follow the steps set forth by the American Bar Association’s Committee on Cyberspace Law. This cyberspace law committee was formed by the ABA to evaluate the issue of electronic contracts enforceability. They have provided suggestions for the basic principles of enforceability of website contracts. This summary is based upon established contract law principles and case decisions. You should follow these guidelines. After all, judges who decided the law are lawyers and the ABA is the main organization for attorneys. The recommendations are straight from the horse’s mouth.
+
+
+According to the ABA, websites should follow four basic steps to ensure they have legally enforceable agreements:
+
+
+
+
+The user must have adequate notice that the proposed terms exist;
+
+
+The user must have a meaningful opportunity to review the terms;
+
+
+The user must have adequate notice that taking a specified, optional action manifests assent to the terms; and
+
+
+The user must, in fact, take that action.
+
+
+
+
+As I have already pointed out, providing proper notice of the existence of the proposed terms is really the key. The standard you should use is to determine whether a reasonable user entering into the agreement would understand that terms and conditions exist and what those terms are. The ABA Committee suggested that this generally means making the terms immediately visible before acceptance is given. You should never present certain terms after the transaction has been completed on a screen or in some email sent or visible after acceptance.
+
+
+You must also provide each user with a 
+“meaningful opportunity”
+ to read the terms of the contract. Basically, they must be given the opportunity to read the terms before viewing the website, purchasing the product, etc. Whether they read the terms or conditions is up to that user so long as you provide them with the opportunity. It is important to point out that the Committee warned against using separate pop-up windows to provide the opportunity to read terms and conditions. This is because anyone who uses a pop-up blocker on his or her browser may block these separate windows.
+
+
+The Committee stated that 
+acceptance of the terms must be through some action that the user would not otherwise take automatically
+ (such as using the buttons on their browser to navigate to the “next” page of your web site). Again, this means requiring your users to click an “I Agree” or “I Accept” type button.
+
+
+TIP!
+ Be sure to save a record of each version of your website terms and conditions (or the terms and conditions of any other website agreement). You may be required at some point to prove acceptance of any electronic contract your business has entered into. Remember, you will likely amend the terms and conditions of your website at some point. This is why you should save each different version of the terms and conditions that you use. You may have to prove the existence of old terms and conditions agreed to by a customer or visitor.
+
+
+ 4. Provide Notice of Any Changes!
+
+
+Many websites reserve the right to change the terms and conditions unilaterally. They inform the website visitor it is their responsibility to check back from time to time and that they will be bound by any changes regardless. However, under general contract principles, 
+you can’t change the terms and conditions without providing notice of the changes and obtaining consent from the other party.
+
+
+In a case that addressed this issue in the e-commerce setting, the federal 9th Circuit Court of Appeals decided that a subscriber to Talk America’s long distance service was not bound by changes to the subscriber agreement made by Talk America. This was due to the fact that the changes were made on its website without plaintiff’s consent or providing notice 
+(Douglas v. Talk America Inc., et al)
+. Talk America posted a revised standard contract on its website but did not provide separate notice to Douglas of changes in his subscriber agreement. The Court stated that “parties to a contract have no obligation to check the terms on a periodic basis to learn whether they have been changed by the other side. Indeed, a party can’t unilaterally change the terms of a contract; it must obtain the other party’s consent before doing so.”
+
+
+As the court pointed out,a revised contract is merely an offer and does not bind the parties until it is accepted. Generally, an offer may not be accepted until the other party has notice of the offer.”The court in Douglas also noted that“a party would not know when to check the website for possible changes to the contract terms without being notified that the contract has been changed and how.” This doesn’t mean you can’t always modify your website contracts as a hard rule. But, there must be an offer, acceptance and consideration for modifications to be binding. Notice of any changes should be given and acceptance of those changes needs to be obtained.
+
+
+Can you agree in advance to unilaterally change the terms of a website agreement?
+
+
+One common law legal doctrine that presents another obstacle to unilateral changes is the 
+pre-existing duty rule.
+ This rule recognizes that an agreement to perform a pre-existing duty, such as an obligation under an existing contract, is inadequate consideration. Basically, the party must receive some new benefit if it is to be bound to any new changes. Pre-existing duties are not new benefits. This doctrine does not apply under the UCC for contracts it covers since an agreement modifying a contract under Article 2-209(1) needs no consideration to be binding. But, it still applies under the common law applicable to other kinds of contracts in many states.
+
+
+Lesson:
+ You should talk to you Internet attorney to figure out how to create notice and necessary consideration to support any modification to any of your website agreements. A typical way to provide consideration is to allow the other party the right to terminate the contract if that party does not agree to the changes. As far as notice, I have recommended requiring acceptance of these new terms the next time a visitor logs in to membership/subscription websites after the changes have become effective.
+
+
+5. Play It Safe
+
+
+You should understand that enough cases have decided the enforceability of website agreements that we now have a good idea of the parameters. There is no guarantee that any type of website agreement will be enforceable. State court decisions can vary and websites may come up with ways of providing notice not yet litigated. All cases are truly evaluated on their own merits, which are defined by the facts presented in each case. But, you should do what you can do to stack the deck in your favor. This means playing it safe and following the guidelines presented in this post.
+
+
+
+
+NOW Streaming on ROKU….. Search “Internet Legal Armor”
+
+
+
+
+https://vimeo.com/249978050?loop=0
+
+
+ 
+Click Here
+ to add to your ROKU account.
+
+
+
+
+
+
+Primary Sidebar
+Contact Information
+
+
+Phil Nicolosi Law, P.C.
+
+
+7210 E. State Street, Suite 208
+
+Rockford, IL 61108
+
+
+P: (815) 314-0022
+
+F: (815) 516-0395
+
+
+[email protected]
+
+
+
+
+
+
+About Phil Nicolosi, J.D.
+
+
+Proudly Carrying On A Tradition Started In 1948!
+Philip A. Nicolosi III provides guidance to startups, small and closely held businesses, medium sized businesses, non-profit organizations and individual business owners with a variety of matters. Mr. Nicolosi provides … 
+[Read More...] 
+about About
+
+
+Search for Topics Regarding Internet and Business Law
+
+
+Search this website
+
+
+
+
+Recent Articles
+
+
+
+
+
+
+AI’s Big Impact On Copyrights and Trademarks
+
+
+
+
+
+
+Raging Bull FTC Complaint A Warning To Trading Services
+
+
+
+
+
+
+
+
+Footer
+Internet Law
+
+
+Data Privacy & Security Compliance
+
+
+DMCA Agent Service
+
+
+Domain Disputes
+
+
+FTC Compliance
+
+
+FCC Compliance
+
+
+Social Media Marketing
+
+
+
+
+Business Law
+
+
+Corporate Law
+
+
+Startup Law
+
+
+Trademark Registration
+
+
+
+
+Free Resources
+
+
+S-Corp Vs. LLC
+
+
+Social Media Survival
+
+
+Website Compliance
+
+
+ROKU Channel
+
+
+
+
+Legal
+
+
+Terms of Use
+
+
+Privacy Policy
+
+
+Website Accessibility  Statement
+
+
+
+
+Follow Us
+
+
+
+
+Contact Info
+
+
+Phil Nicolosi Law, P.C.
+
+7210 E. State Street Suite 208
+
+Rockford, IL 61108
+
+
+
+P: (815) 314-0022
+
+F: (815) 516-0395
+
+
+
+
+
+
+Copyright © 2025 All Rights Reserved-Phil Nicolosi Law, P.C.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

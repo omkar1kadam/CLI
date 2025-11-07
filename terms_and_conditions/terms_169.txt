@@ -1,0 +1,1826 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Pay Terms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Addendum To Google Pay Terms: Google Pay Terms Of Service For India Non-Residents
+
+
+GOOGLE PAY TERMS OF SERVICE FOR INDIA RESIDENTS
+
+
+Last Updated: August 28, 2025
+
+
+1. Introduction
+
+
+Applicable Terms
+. Thank you for using Google Pay. For purposes of the Combined Google Pay Terms (defined below), "
+Google Pay
+" is a service that is provided to users resident in India by Google India Digital Services Private Limited with registered office at 5th floor, DLF Centre, Block 124, Narindra Place, Sansad Marg, New Delhi - 110001 ("
+Google
+"), and was previously named Tez. By accessing, downloading or using Google Pay, you agree to comply with and be bound by the following:
+
+
+
+
+the Google Terms of Service
+ (the "Universal Terms");
+
+
+this Google Pay Terms of Service for India Residents (the "Google Pay Terms");
+
+
+the Google Privacy Policy
+ (the "Privacy Policy");
+
+
+the Google Pay Policies
+ (the "Google Pay Policies");
+
+
+Google Pay Offer Terms of Services
+ ("General Google Pay Offers Terms"); and
+
+
+the Google Pay Complaints Handling Policy
+ ("Complaints Handling Policy").
+
+
+
+
+These six documents are collectively referred to herein as the "
+Combined Google Pay Terms
+."
+
+
+Please read each of these Combined Google Pay Terms carefully, starting with the Universal Terms as they contain important information about your legal rights, remedies and obligations. These Combined Google Pay Terms constitute a legally binding agreement between you and Google governing your access to and use of the Google Pay Services (as herein defined). If you do not understand these documents or do not accept any part of them, then you should not use the Google Pay Services. You understand that services may be offered incrementally on Google Pay, and that these Combined Google Pay Terms may be applicable accordingly.
+
+
+Use of Google Group Companies
+. You also understand and hereby agree that Google reserves the right to use the services of its Group Companies (as herein defined) to provide any of the Google Pay Services to you, on behalf of Google.
+
+
+You further understand and agree that Google reserves the right to update any of these Combined Google Pay Terms from time to time. You must ensure that you keep yourself up-to-date and read the Combined Google Pay Terms at close intervals. If there is any conflict between these Google Pay Terms and the Universal Terms, these Google Pay Terms will prevail.
+
+
+By accepting the Combined Google Pay Terms, you represent and warrant the following:
+
+
+
+
+You are 18 years of age or older;
+
+
+You are capable of entering into a legally binding agreement; and
+
+
+You are not barred or otherwise legally prohibited from accessing or using Google Pay under the laws of India.
+
+
+
+
+Permission by parent or legal guardian.
+ If you are under 18 years of age (
+“Teen(s)”
+), you represent that you have your parent or legal guardian’s permission to use Google Pay. Please have them read and accept the Combined Google Pay Terms with you.
+
+
+If you are a parent or legal guardian of a Teen, by allowing the Teen to use Google Pay, you are subject to the terms of the Combined Google Pay Terms and responsible for your Teen’s activity on Google Pay. Teens, therefore, cannot use Google Pay unless their parent or legal guardian agrees to the Combined Google Pay Terms on the Teen’s behalf.
+
+
+Third Party Terms and Conditions
+. Google may facilitate provision of third party products or services to you within Google Pay. In order to use these third party products or services, you may need to accept additional terms and conditions and meet additional requirements.
+
+
+2. Definitions
+
+
+Definitions appearing in this Google Pay Terms:
+
+
+"
+Applicable Law
+" means all applicable laws, rules, regulations, guidelines, statutory or government notifications including Reserve Bank of India regulations and Payment Participant Rules.
+
+
+"
+Autopay
+" means a feature supported by NPCI within the UPI system that allows Users to set up recurring payments for certain bill payment categories as specified from time to time.
+
+
+"
+BC
+" means Bharat Connect, formerly known as Bharat Bill Payment System (“BBPS”), is an integrated bill payment system under NPCI, offering interoperable bill payment service.
+
+
+"
+BCOU
+" means Bharat Connect Operating Unit operating under the applicable Bharat Connect regulatory framework.
+
+
+"
+Biller
+" means any establishment and/or entity who is providing You utility services and/or payment services and is supported by Google Pay for Bill Payment Services to make payments for online or offline purchase of these utilities, through a reseller/distributor, biller or an aggregator or BCOU to whom a User can initiate bill payment or a recharge.
+
+
+"
+Bill Payment Services
+" means the facility provided to Users on Google Pay to view and pay bills or pre-paid plans, recharge pre-paid accounts, purchase gift cards or subscriptions or utilities and contribute towards various contribution schemes and receive other ancillary services.
+
+
+"
+Bill Payment Service Participants
+" means entities involved in facilitating Bill Payment Services such as utility service providers, or resellers or distributors of utility services like recharges, a Biller aggregator, or a BCOU.
+
+
+“
+Credit Card
+” means any credit card offered by a Credit Institution to You as per Your agreement with the Credit Institution.
+
+
+“
+Credit Card Services
+” means the Google Pay Services for application and management of Credit Cards, and related offers and services offered by Credit Institutions to You.
+
+
+“
+Credit Information
+” is any credit specific information of You like Your Credit Score and Your  Credit Information Report.
+
+
+“Credit Information Report”
+  is the report  generated by TUCIBIL that is viewed by You on GPay.
+
+
+"
+Credit Institutions
+" means banks, non-banking financial institutions and other credit providers that have the requisite permissions from the applicable regulatory authorities to provide advances and loans to users.
+
+
+"
+Credit Score
+"  is the score that is in Your Credit Information Report provided by TUCIBIL on Google Pay.
+
+
+"
+Credit Score Simulator
+" is  a tool provided by TUCIBIL on Google Pay to educate You on how Your interaction with financial services products that You use impacts Your existing CIBIL Score, For example, the impact of non-payment of credit.
+
+
+"
+Customer’s Bank
+" means the bank where the User maintains his/her Funding Account and has linked that Funding Account for the purpose of debiting/crediting the Payment Transactions through UPI.
+
+
+"
+End User Permitted Purpose
+" means use of the Credit Information for the sole purpose of providing You access to Your Credit Information as and when requested by You on Google Pay subject to the terms below.
+
+
+"
+Funding Account
+" means a credit card, bank account (through debit card or netbanking), BHIM UPI account or pre-paid payment instrument (such as cash card or e-wallet) that is registered or used by the User to fund Payment Transactions.
+
+
+"
+GAP
+" shall mean the Gold Accumulation Plan provided by MMTC.
+
+
+"
+Gold Account
+" means an account on Google Pay which has been linked to the GAP.
+
+
+"
+Gold
+" means the gold in your GAP account.
+
+
+"
+Google Account
+" means the account you create with Google or Group Companies for the use of Google Pay Services and other Google services, as defined in the Universal Terms.
+
+
+"
+Google Group Companies
+" or "
+Group Companies
+" means Google’s parent, its subsidiaries and associate companies, and the parent’s ultimate holding company and its direct or indirect subsidiaries, including their associate companies.
+
+
+"
+Google Pay Service(s)
+" or "
+Service(s)
+" means the Payment Transaction facilitation services, mobile recharges, Bill Payment Services and other services provided by Google through Google Pay App or other platforms.
+
+
+"
+Loan Facility
+" means the loans and advances offered by a Lending Third Party to You as per Your agreement with the Lending Third Party.
+
+
+"
+Loan Facility Services
+" means the Google Pay Services for facilitation of Loan Facility from Lending third parties to You.
+
+
+"
+Merchant
+" means a person or entity who/which (i) avails the Google Pay for Business Program; or (ii) provides Google Pay as a payment option to its customers through a Payment Participant; or (iii) uses Google Pay to collect payments from its customers for goods and services purchased from a merchant either offline or through any online platforms.
+
+
+"
+MMTC
+" shall mean MMTC-PAMP, a company providing GAP through Google Pay.
+
+
+"
+NPCI
+" means the National Payments Corporation of India, that is an authorized payments system operator by the Reserve Bank of India, which owns and operates UPI.
+
+
+"
+P2P Service
+" means the Google Pay Services for facilitating P2P payment transactions.
+
+
+"
+P2P Payment
+" or "
+Peer to Peer Payment
+" means a payment initiated by a User using the P2P Service that debits (or charges) a Funding Account of the User (i.e. Sender) and makes the funds available in the Payment Instrument designated by the Recipient.
+
+
+"
+Payment Instrument
+" means, including but not limited to, a credit card, debit card, bank account, or prepaid payment instrument, including e-wallets and gift cards issued under Applicable Law, that is eligible for use by a User to fund Payment Transactions or a Recipient to receive payments.
+
+
+"
+Payments System
+" shall have the meaning ascribed to it under the provisions of Applicable Law.
+
+
+"
+Payment Participants
+" shall mean all the parties involved in the payment system including but not limited to payment/bill aggregators, Payments System Providers, acquiring banks, partner banks, the issuer of the Sender’s Funding Account, the issuer bank of the Recipient bank account, the issuer of the Payment Instruments, card associations, NPCI, Reserve Bank of India, etc.
+
+
+“
+Payment Service Provider
+” or “
+PSP
+” is a banking company that is a payment participant, authorized to act as a “Payment Service Provider” under the UPI framework, and engages the TPAP to provide UPI services to the users.
+
+
+"
+Payments System Providers
+" means banks, financial institutions, card associations, and other payment system providers (as defined under the Payment and Settlement Systems Act, 2007), with whom Google has entered into an arrangement to facilitate Payment Transactions (as defined below) using Payments System Provider Services.
+
+
+"
+Payments System Provider Services
+" means payment gateway system/interface/services provided to route payment instructions to Payments Participants for (i) Card Transactions, (ii) BHIM UPI based Transactions; (iii) net banking, (iv) prepaid payment instrument; and provide authentication and authorization from issuers, card associations, NPCI and/or other third party clearinghouses; and/or (v) provide settlement facilities in respect of payment instructions initiated by the User.
+
+
+"
+Recipient
+" means a User, Merchant, Biller or third party who receives a payment from the Sender.
+
+
+"
+Sender
+" means a User who uses the Google Pay Services to send a payment to a Recipient.
+
+
+“
+TPAPs
+” means Us, a Third Party Application Provider (TPAP) who provides Google Pay, a UPI compliant application to Users to facilitate UPI based payment transactions.
+
+
+"
+Transaction
+" or "
+Payment Transaction
+" means (i) the payment request made by the User for sending or receiving payments; and (ii) the payment instructions provided by the Sender for debit of his/her Funding Account.
+
+
+"
+UPI
+" means the Unified Payment Interface.
+
+
+"
+UPI Transaction Data
+" means the individual UPI transaction data i.e. data in clear text format.
+
+
+"
+User
+" means a person who registers for Google Pay Service(s) including UPI payment facility to send or receive payments and where such person is a Teen, also includes the parent or legal guardian of such a Teen.
+
+
+"
+We
+", "
+we
+" or "
+us
+" means Google.
+
+
+"
+You
+", "
+you
+", or "
+your
+" means a User.
+
+
+3. Scope of Google Pay Services
+
+
+Google Pay ("
+Google Pay
+" or "
+Google Pay App
+") is a payment solution application which facilitates Google Pay Service. Through Google Pay, you may send payments to service providers, Users, Merchants, Billers or third parties using any Payment Instruments accepted through Google Pay. You may also receive payments from other Users or third parties in the Payment Instrument you designated in Google Pay to receive funds. In addition, Google Pay allows you to communicate with or receive communications, offers and services from other Users, service providers, Banks, Merchants and Billers. In relation to UPI Payment Transactions, Google Pay is a TPAP authorised by NPCI to facilitate Payment Transactions through HDFC Bank, Axis Bank, ICICI Bank and State Bank of India. We are a service provider and participate in UPI through PSP Banks. We are bound by tripartite agreements entered with NPCI and each of our the sponsor PSP’s - HDFC Bank, ICICI Bank, Axis Bank and State Bank of India. For the exact roles and responsibilities of Google Pay, PSP and NPCI in a UPI Payment Transaction, please refer 
+here
+. For the avoidance of doubt, in relation to UPI Transactions, you are subject to that PSP's terms and conditions. Further, the use and processing by a PSP Bank of your personal data available to the PSP Bank during or pursuant to UPI Transactions is subject to the privacy policy available on the PSP Bank's website.
+
+
+Google Pay may facilitate provision of third party products or services to you within Google Pay. These third party products or services are offered by parties other than Google, and are subject to third party terms. You may need to accept additional terms and conditions and meet additional requirements to use these third party services. You should only transact with a third party product or service that you trust. Google will not be responsible or liable to you for any loss incurred by you as a result of your interaction with a third party product or service on Google Pay.
+
+
+Mechanics of Payment Transaction
+. The Payment Transactions or any communication/offers carried out through Google Pay are solely between the Sender and Recipient of the payment. Google Pay creates a link between the Sender, the Recipient and the respective Payments System Providers to facilitate sending and/or receiving payments using Payments System Provider Services. Once a Payment Transaction has been authenticated, authorised and processed through the Payments System Provider Services:
+
+
+(i) the payment may be settled directly with the Recipient by the respective Payments Participants; or
+
+
+(ii) in certain scenarios, we may act as an intermediary and receive funds pertaining to the Payment Transaction on behalf of the Recipient. In such scenarios, Google would operate purely as the Recipient’s payment collection agent for the limited purpose of accepting funds from Users.
+
+
+Google’s Role in Payment Transactions
+. You understand and agree to the following:
+
+
+
+
+Google is only a facilitator of Payment Transactions.
+
+
+Google is not a party to these Payment Transactions.
+
+
+Google is not a Payments System Provider.
+
+
+Google may, in certain scenarios, act as an intermediary and operate as a payment collection agent for the limited purpose of receiving funds on behalf of the Recipient.
+
+
+Google is not and will not be responsible for any aspect of the products or services you purchase.
+
+
+Google is not and will not be responsible for any communications made by you or any communication or offers made to you through Google Pay.
+
+
+Google is not a party to and will not be responsible for any disputes, chargebacks or reversals arising pursuant to Payment Transactions.
+
+
+Google is not responsible for any act of Users, including, non-completion of a Transaction.
+
+
+The facilitation of a Transaction does not guarantee that the Sender has sufficient funds available in the Funding Account he or she used, that the Transaction will be authorized or processed, or that the Transaction will not later result in a chargeback or other reversal.
+
+
+Google is neither acting as a trustee nor acting in a fiduciary capacity with respect to any Payment Transaction.
+
+
+Google does not determine, advise or in any manner control the commercial terms of the Payment Transaction, including the price of products and services offered for sale.
+
+
+
+
+Disclaimer of Google’s Liability
+. Google is not responsible for any aspect of the products or services you purchase or for any communications or offers made to you. Google’s role as a payment collection agent for the Recipient will not make Google liable or responsible for breach of representations and warranties, non-provision of after-sales or warranty services or fraud vis-a-vis the products and/or services sold by a Merchant.
+
+
+Bill Payment Services
+. Google Pay facilitates bill payment services that allow You to view Your bills or eligible pre-paid plans and make payments to Billers through the Google Pay App. You understand that the Bill Payment Services provided through Google Pay are either provided (i) by a Bharat Connect Operating Unit ("BCOU") under the Bharat Connect ("BC") infrastructure, where the Biller is registered with NPCI to participate within BC; or (ii) by a Biller aggregator with whom Google has entered into a contractual arrangement. You further understand that Google Pay only facilitates bill presentment and bill payment and is either (i) an agent of the BCOU in accordance with Applicable Law, where the Biller is registered with NPCI for BC; or (ii) a bill payment facilitator through integrations with third parties providing these services, eg; prepaid recharges through resellers/distributors of these recharges and/or through direct integration with telecom service providers.
+
+
+Credit Card Services
+. Google Pay provides a technology platform for display of Credit Card offers from Credit Institutions to You. You understand and agree that the terms of any such Credit Card shall be governed by the terms of the agreements executed between You and the Credit Institution for such Credit Card. Google is not a party to such agreements and has no role and does not make any representations, warranties or guarantees of approval or decline of the Card Application, which shall be at the sole discretion of the Credit Institution issuing the Credit Card. Google’s role vis-a-vis such Credit Cards shall be limited to providing technology services related to Credit Cards offered by Credit Institutions and collaborating with Credit Institutions to provide services and offers related to Credit Cards that may be uniquely available to Google Pay users (e.g., Axis Bank ACE Card, which is issued by Axis Bank and marketed in collaboration with Google).
+
+
+Loan Facility Services
+. Google Pay provides a technology platform for display of Loan Facility offers from Lending third parties to You. You understand and agree that the terms of such Loan Facility shall be governed by the loan agreements executed between You and the Lending third party. Google is not a party to such loan agreements and Google’s role in such transactions shall be limited to that of an intermediary technology platform.
+
+
+Google Pay Gold Services
+. Google Pay provides a technology platform to MMTC - PAMP ("
+MMTC
+") to offer Gold for sale, delivery and repurchase and other related services by MMTC to the Customers. You agree and acknowledge that the terms and conditions available at 
+MMTC Terms
+ govern your GAP. Google will have no liability to You in relation to Your GAP.
+
+
+Business Pages.
+ Google Pay lets you publish and operate your Business Page on Google Pay. The Business Page could feature a catalog of the available items or services to provide information about your business and list some of your products and services. You can share a URL to this page with anyone in your network. By sharing your Business Page, you understand and agree that your profile picture and name will be shared and available publicly. Using Business Pages, you will be able to sell goods and services for up to INR 50,000 per month, using P2P Payments, unless otherwise permitted by Google and in compliance with Applicable Law. Google will not be a party to your transactions with a buyer of your goods or services and does not take any responsibility for the goods or services sold. Google does not exercise any control or oversight over catalogue, inventory, pricing, logistics, warehouse management, delivery or fulfillment. You will be solely responsible for managing your Business Page, its content and transactions. Google’s role would merely be that of a technology service provider to you, assisting you with setting up your Business Page. Any real-time communication regarding the product or service under Business Pages would be between you and the buyer, with no Google interference. Google does not provide any customer support for Business Pages or assist in tracking status of a transaction. Google makes no warranty and shall bear no obligation on the quality of the products, services or information obtained by a user on Business Pages, or that such products or services will meet the user's expectations. You will be responsible towards your customers for any complaints or disputes that they have, and Google shall not be responsible for any customer grievance on Business Pages. In case you are unwilling or unable to meet the terms of service for this feature, you must delete your Business Page at any point using the management options provided in the app.
+
+
+4. Your Use of Google Pay
+
+
+Age Restrictions
+. You must be 13 years of age or older, in order to use Google Pay. If you allow anyone to use your Google Account on Google Pay you will be responsible for ensuring that such individuals comply with the Combined Google Pay Terms. You will be responsible for all actions these individuals take in and/or through your Google Account on Google Pay.
+
+
+Territorial Restrictions
+. To use Google Pay, you will need to be physically located in India when registering or linking your Google Account on Google Pay, have an Indian bank account and an Indian mobile number. The Google Pay App should not be used outside of India.
+
+
+Basic Use Requirements
+. You will need a mobile, internet or any other supported device ("
+Device
+") that meets certain system and compatibility requirements, which may change from time to time to use Google Pay. Your ability to use Google Pay and the performance of Google Pay App may be affected by these factors. You agree that you are responsible for such requirements, including any applicable changes, updates, fees and all other terms provided under your agreement with your mobile device and telecommunications provider. Google will not be responsible for any lapse of security or failed Transactions due to your internet or Device service provider.
+
+
+Updates
+. You may need to install updates to your Google Pay App or related Google software that Google introduces from time to time to access, use, or continue to use Google Pay Services. Your Google Pay App may communicate with Google servers from time to time to check for available updates to Google Pay, such as bug fixes, patches, enhanced functions, missing plug-ins and new versions (collectively, "
+Updates
+"). Your use of Google Pay requires that you have agreed to receive such automatically requested Updates. If you do not agree to such automatically requested and received Updates, then please do not use the Google Pay App. Notwithstanding the foregoing, Google may update the Google Pay App to a new version of such app, irrespective of any update settings that you may have selected within the Google Pay App or your device, if Google determines that the update will fix a critical security vulnerability related to the Google Pay App.
+
+
+5. Setting Up Google Pay Services
+
+
+You must have a Google Account to use Google Pay. If you do not already have a Google Account, you can register for one on Google Pay. When you login to your Google Account on Google Pay, your Google Pay Services will be activated, subject to you accepting these Combined Google Pay Terms. If you disable your Google account, all related accounts, including your Google Pay account will be suspended. You can seek restoration of the Google Account, which will also restore your access to your Google Pay Account. It is possible that as a result of disabling the Google Account by you, some account specific data may be lost or purged and may not be retrievable. You agree and accept that Google is not responsible for the loss of data or any other damage suffered by you as a result of the closure of the Google account by you and its subsequent restoration.
+
+
+During the login/registration process or anytime thereafter, you may be asked to provide information such as your name, phone number, Payment Instrument information (including, but not limited to, your bank name and bank account number, credit card/debit card details, if applicable), date of birth, and/or other registration information. We may verify your registration information with a Payment Participant, service provider, and/or Third Party Provider, as defined below. In some cases, we may ask you to send us additional information/documentation or to answer additional questions (before or after your Google Account on Google Pay has been activated) to help us verify your identity or the accuracy of the information you provided. The provision and use of such data is subject to the Google Privacy Policy, as described more fully in Section 21 below. We may deny your use of the Google Pay Services, if we are unable to verify that the accuracy or completeness of the information and documentation you provided or we determine that you are not eligible to use Google Pay, pursuant to the Combined Google Pay Terms or the Payment Participant Rules.
+
+
+Setting up BHIM UPI Services
+. If you desire to use BHIM UPI to send or receive payments, you may use Google Pay to register with a BHIM UPI Payments System Provider partnered with Google and create your BHIM UPI user credentials, such as your BHIM UPI ID (virtual payment address) and/or BHIM UPI PIN (MPIN) linked. Once you have registered for BHIM UPI services, you can send payments from your bank account or receive payments into your bank account using BHIM UPI through Google Pay.
+
+
+UPI Number and Onboarding to Centralised UPI Mapper.
+ You understand and agree that Google will assign a UPI Number to your Google Account on Google Pay to enable you to use Google Pay Services in relation to UPI using your UPI Number. You further agree and specifically consent to Google onboarding you on the centralised mapper operated by the NPCI (i.e., the Numeric UPI ID Mapper) and any other databases as the NPCI may require and notify from time to time. The ‘UPI Number’ will be your [registered mobile number] by default, and by agreeing to allow the onboarding of your UPI Number to the centralised mapper(s) of the NPCI, you will be able to send and / or receive funds on the Google Pay App using your ‘UPI Number’. The onboarding process will be in accordance with the NPCI’s guidelines and directions. You understand and agree that Google is entitled to act as per the instructions of the NPCI, which includes (without limitation) sharing your UPI details with the NPCI and linking your primary bank account or your UPI ID (virtual payment address) to your ‘UPI Number’. Once onboarded in the centralised mapper(s), you will be able to use your UPI Number to send and / or receive funds. You may choose to delink the default mapping of your UPI Number at any time by [updating the settings] on the Google Pay App.
+
+
+Setting up a Virtual Account Number
+. You may also use Google Pay to make Payment Transactions using a bank-issued virtual account number representing a credit or debit card you register with Google Pay, transit passes, and digital wallets or accounts that you have with companies other than Google (each a "
+Virtual Account Number
+"). Virtual Account Numbers may be used: (i) at participating merchant locations, using a QR code through your Google Pay App that resides on your mobile device, or (ii) online through certain merchant apps, or (iii) on your Google Pay app for processing bill payments or other merchant Payment Transactions. Google Pay does not store the actual number of the underlying debit card or credit card and only saves the Virtual Account Number.
+
+
+After you have begun to add a Virtual Account Number to Google Pay, Google Pay will check whether the payment method is eligible. If your payment method’s issuer supports Google Pay and your payment method is eligible, when adding it you may see a screen asking you to accept the issuer’s terms and conditions. Once you have done so and successfully added the payment method, Google Pay will store a Virtual Account Number representing your payment method’s actual card number or other identifier with your Google Account for use with Google Pay.
+
+
+Except where Google or its affiliate is the issuer, neither Google nor its affiliates are a party to your payment methods’ user agreement, privacy policy, or other terms of use. Nothing in these Combined Google Pay Terms modifies any such issuer terms. In the event of any inconsistency between these Combined Google Pay Terms and your issuer’s terms or privacy policy, these Combined Google Pay Terms will govern the relationship between you and Google with respect to Google Pay, and your issuer’s terms will govern the relationship between you and the issuer. Google does not make any representation or verify that any of your payment methods is in good standing or that the issuer of your payment method will authorize or approve any transaction with a merchant or transit provider when you use Google Pay for that transaction.
+
+
+Except where Google or its affiliate is the issuer, neither Google nor its affiliates are involved in issuing credit or determining eligibility for credit, nor do they exercise control over: the availability or accuracy of payment methods or funds; the provisioning (or addition) of payment methods to Google Pay, or addition of funds to payment method balances. Your Issuer provides services to register or deregister your Virtual Account Number for specific uses and to set and modify Payment Transaction limits. For any concerns relating to the foregoing, please contact your payment method’s issuer.
+
+
+Setting up Bill Payment Services
+. To use the Bill Payment Services, You may be required to provide us with your bill account information for Billers with whom You would like to make payments (such as your customer account number, registered phone number or customer ID) and any other information necessary for us to access Your account and bill/plan details with such Billers ("
+Bill Payment Account Information
+"). By using the Bill Payment Services, You expressly authorize Google Pay to access, use and store Your Bill Payment Account Information and bill details on an ongoing basis, on Your behalf for the purpose of providing Bill Payment Services to You. You further expressly authorize Google Pay to share Your Bill Payment Account information and bill/plan details with relevant Bill Payment Service Participants, including but not limited to telecom service providers, to validate Your account, access Your bill/plan details, and complete Your transaction.
+
+
+If you use the Bill Payment Services to provide Bill Payment Account Information, to fetch bill details, or make payments on behalf of a third party, including for mobile recharges/top ups, it is your responsibility to ensure that you have the consent of such third party. You agree that you have all necessary rights and permissions to allow Google Pay to use third party Bill Payment Account Information on an ongoing basis and access the bill details from the respective Biller, on behalf of the third party for the purpose of Google Pay providing Bill Payment Services. You agree that as between Google Pay and you, any claim raised by the third party will solely lie against you.
+
+
+Accuracy of Information
+. You understand and agree that you are responsible for the accuracy of the information you provide for fetching a bill and/or making a payment request, including the Bill Payment Account Information and the amount of the Transaction.
+
+
+Setting up of Gold Account
+. To set up your Gold Account, You must complete (i) 2 factor authentication as may be required by Google; and (ii) comply with the registration process prompted by Google on Google Pay; and (iii) comply with the KYC requirements as may be mandated by Applicable Law.
+
+
+By using Google Pay, You confirm that Your Gold Account is being set-up in Your own name and You do not have more than one Gold Account in Your name.
+
+
+For cumulative lifetime purchases of Rs. 50,000 (Indian Rupee Fifty Thousand) or above or in case of initiating any transfers for Rs. 50,000 (Indian Rupee Fifty Thousand) or above, You will be required to provide a copy of Your PAN Card. In such case, You confirm and acknowledge that You have provided a true copy of Your PAN Card and it has not been forged or tampered. You acknowledge that any obligation to pay taxes on cashback amounts is fully your responsibility.
+
+
+You authorize Google to make such enquiries as they may feel necessary to satisfy itself about the validity of Your identity. You undertake to update Google in case of change of Your existing information or verification documents provided by You.
+
+
+Google will ask You for details of a nominee at the time of setting up Your Gold Account. In case of Your demise, the nominee, subject to providing valid documentation, will be allowed to claim the Gold in Your Gold Account.
+
+
+6. Payment Participants and Third Party Providers
+
+
+Communications with Payment Participants
+. By electing to use Google Pay, you authorize Google to communicate with Payment Participants or any Third Party Provider or service provider to provide or obtain any information, including your personal information, for the purpose of processing Transaction or providing Google Pay Services or for risk management and fraud assessment purposes. You understand that Google may also share any message that you send other Users, Merchants, Billers, at the time of requesting or making a Payment Transaction with the Payment Participants as may be required by and in accordance with Applicable Laws.
+
+
+Compliance with Payment Participants’ Rules
+. As you will be using Payment Participants’ services to process your payment instructions, you consent and agree to comply with the rules, guidelines, directions, instructions, requests, etc. issued by the respective Payment Participants from time to time ("
+Payment Participant Rules
+"). You acknowledge and agree that You are responsible for keeping yourself up-to-date and complying with all such Payment Participant Rules. If You fail to comply with the obligations imposed on You by Google or the Payment Participants, we may suspend or terminate your Google Account on Google Pay. For the avoidance of doubt, the Payment Participant Rules are between you and the respective Payment Participant. Google is not liable for any actions or inactions of such Payment Participants.
+
+
+Google’s Use of Third Party Providers
+. In addition, Google may have arranged for third party providers to provide products or services to you through Google Pay ("Third Party Providers"). In order to use these products or services, you may be required to agree to additional terms and conditions from such Third Party Providers, and may be subject to additional requirements of the Third Party Provider. By agreeing to these Combined Google Pay Terms or continuing to use Google Pay Services, you hereby agree to any Third Party Provider terms that apply to your use of such products and services through Google Pay, which may be updated from time to time. For the avoidance of doubt, the Third Party Provider terms are between you and the applicable Third Party Provider, not Google. Google is not liable for any actions or inactions of such Third Party Providers.
+
+
+7. Fees
+
+
+Payment Participants or Third-Party Fees
+. You may incur access or data fees from the Payment Participants or Third Party Providers in connection with your use of Google Pay. You are responsible for all such fees.
+
+
+Google Fees
+. Fees may be applied to certain Transactions or use of Google Pay Services which include but are not limited to payment for Bill Payment Services. Prior to completing each Transaction, you will be notified of any fees, if applicable, that may apply. Fees may be determined by Google in its sole discretion and any fees charged will be inclusive of all applicable taxes.
+
+
+8. Transactions using Google Pay Services
+
+
+Limitations on the Use of the Google Pay Service
+. We or Payment Participants may establish general practices and limits concerning the use of Google Pay. We reserve the right to change, suspend or discontinue any aspect of Google Pay at any time, including hours of operation or availability of Google Pay Services or any Google Pay Service feature, without notice and without liability. We also reserve the right to impose limits on certain features or restrict access to parts or all of the service without notice and without liability. We may decline to process any Payment Transaction without prior notice to Sender or Recipient. We also reserve the right to automatically block any communication received by a User from a non-Google Pay account, including any payment requests, that we deem to be spam or a fraudulent communication.
+
+
+We do not warrant that the functions contained in Google Pay will be uninterrupted or error free, and we shall not be responsible for any Service interruptions (including, but not limited to, power outages, system failures or other interruptions that may affect the receipt, processing, acceptance, completion or settlement of Payment Transactions).
+
+
+Transaction Limits
+. Each Transaction is subject to minimum and maximum Transaction limits that may be set by Google, a User, the Payment Participants or as may be prescribed under the provisions of Applicable Law. In addition, Google and the Payment Participants may also reject/suspend Transactions (in whole or in part) on your Google Account on Google Pay based on their respective policies and assessment.
+
+
+Transaction Records
+. Records of your Transactions will be reflected in your conversation history and Transaction history in your Google Pay App. You are responsible for reviewing your Transaction activity to determine if there are any errors or unauthorised Transactions, and for alerting Google of such event, in accordance with the Combined Google Pay Terms.
+
+
+Transacting with Virtual Account Numbers.
+ When you initiate a Virtual Account Number payment or transit transaction using Google Pay, Google may pass details of your Virtual Account Number and related information to the transacting party so that it can charge your payment method. A Virtual Account Number transaction may be initiated when you: use tap-and-pay in stores or on transit services using NFC, scan barcodes, or QR codes, or other contactless technology; select “Google Pay” or “Buy with Google Pay” as a payment option in an online transaction on the third party’s website or app; or transact with the Third Party through some other online interface, such as via the Google Assistant. When you initiate an online transaction, Google Pay may also share other information, such as a billing, shipping, or email address saved in your Google Account, where relevant to completing the transaction.
+
+
+After passing the payment method and other details to the third party, Google will have no further involvement in the transaction as between you and the third party, and you acknowledge and agree that such transaction is solely between you and the third party and not with Google or any of its affiliates. You should contact the third party or your payment method provider (for example, the issuer of your Payment Instrument) directly regarding any issues with Virtual Account Number transactions, including refunds and disputes.
+
+
+You acknowledge that Google Pay may receive transaction information, including transaction location information, from your payment method’s issuer to display richly formatted transaction details and your recent transaction history in Google Pay.
+
+
+Permissible Transactions
+. You may only use Google Pay Services to process a Transaction to make payment for legitimate and bona fide purposes including purchase of goods and services. You may not use Google Pay Service to process Payment Transactions in connection with the sale or exchange of any illegal goods or services or any other underlying illegal Transaction.
+
+
+You agree that you will not use the Google Pay Service to process Transactions that violate the Combined Google Pay Terms, Payment Participant Rules, Applicable Law or other policies or rules applicable to Google Pay Services. You should review the 
+Google Pay Policies
+ to understand the rights and obligations that you may have with respect to your Google Pay Transactions. The 
+Google Pay Policies
+ establish the purposes for which Google Pay Services may not be used to make or receive payments. Failure to comply with the 
+Google Pay Policies
+ and the restrictions thereunder may result in rejection of your Transaction or suspension or termination of your use of Google Pay Service.
+
+
+If you host Business Pages as part of Google Pay Services, you will not use the Business Pages (a) for illegal purposes, or in support of illegal activities; (b) to promote or facilitate an unlawful transaction or the sale or exchange of any unlawful or prohibited products or services; (c) in connection with content or activities that are deceptive or that are prohibited under the 
+Google Pay Policies
+ , 
+Google Pay Policies for Businesses
+ or the 
+Play Policy
+; (d) in any way that suggests that your activity is endorsed by Google; (e) in any way that may damage Google’s reputation or goodwill; or (f) on in any way that is not compliant with the Applicable Law.
+
+
+Google may, at any time, require you to certify the compliance with the above, in writing, and you will provide such written certification together with such supporting documents as may be required by Google from time to time.
+
+
+9. Bill Payment on Google Pay
+
+
+Bill Presentment
+. Once you register a Biller on your Google Pay App, You may be able to view your current and future bill details or eligible recharge/subscription plans from that Biller as and when they are available. We auto-fetch billers for all the biller details saved by You if the biller permits us to auto-fetch a bill as and when it is available. If You wish to stop auto-fetching bills for a particular biller, please delete information for that specific biller from Your account. Please ensure that you check your bill details carefully prior to making any payments. In case of any discrepancies, please contact Your Biller.
+
+
+Scheduling your Bill Payments
+. Payment realisation time will vary depending upon the Biller you select. When Google Pay receives a payment instruction from you, you authorize us to send instructions to Payments System Providers to debit your Funding Account and remit payment to the said Biller on your behalf. Payments are subject to the policies and procedures of such Billers and Payment Participants. We are not liable for (i) delays in payment realisation by the Biller; (ii) delay, failure or reversal of Transactions; or (iii) your failure to schedule payment dates in a timely manner. You are responsible for any consequences resulting from late payment including the levy of a late fee charge or any other penalty by such Biller.
+
+
+Bill Reminders and Suggestions
+. In addition to your own records of bill payment requirements, Google Pay may also send you reminders and suggestions related to our bill, prepaid services or purchases. This will help you plan your bill payments in time.
+
+
+Payment History
+. You may access information about your bill payment requests through the Google Pay App. You should always verify and confirm Your bill payment requests against any statements or payment records provided by the Biller.
+
+
+Prepaid Recharges
+. Google Pay facilitates the recharge of Your prepaid mobile, data or other accounts. The actual mobile, data or any other service service is provided by the prepaid service providers like telecommunications service provider whose account You hold ("
+Prepaid Service Providers
+"), or by their distributors and aggregators and not by Google Pay. You hereby agree that You will be solely responsible for selecting an appropriate plan as may be offered by the Prepaid Service Providers, and for compliance with its terms. You understand that the plans provided on Google Pay are for reference purposes only. The plans may not be up-to-date and may have changed. You must check with your Prepaid Service Provider for the latest plans and details prior to making a transaction. As an added facility, in order to process your mobile prepaid recharge with accuracy, once You input Your mobile number, Google Pay shares Your mobile number with various telecommunications service providers either directly or via their resellers/distributors to verify the telecommunications service provider You use. Based on this information, we show You the recharge plans and other services that may be applicable to Your mobile number. By providing us Your mobile number to initiate a pre-paid mobile recharge transaction, You expressly authorize us to share your phone number with telecommunication companies to identify Your provider, access available plans, and complete Your transaction.
+
+
+Autopay on Bill Payments
+. You may choose to set up recurring payments of Your bill payment account or recharge of prepaid service using Autopay. Successful execution of Autopay is subject to policies and procedures of such Billers and Payment Participants. You further agree that Google Pay will not be liable for any failure on the part of any Biller or Payment Participant in effecting a recharge or other bill payment or for any issue related to the quality of service provided by the Biller, and any dispute relating to the same shall be resolved directly between You and the Biller. You can also pause or cancel an active Autopay at any time through the Autopay settings available on the Google Pay App.
+
+
+Ad-hoc Bill Payments
+. You may also choose to enter an ad-hoc amount for bill payment or recharging, however acceptance of it will be solely at the discretion of the Biller. You are responsible for the accuracy of the details entered by You to make a payment or recharge your account. You further agree that Google Pay will not be liable for any failure on the part of any Biller in effecting a recharge or other bill payment or for any issue related to the quality of service provided by the Biller, and any dispute relating to the same shall be resolved directly between you and the Biller.
+
+
+Refunds
+. Refund of payment amount for bill payment including mobile recharge or for any payment debited from your account for which the bill payment or recharge is not delivered, will be solely as per the terms or policies of the Biller, and you agree that Google Pay will not be responsible for the same.
+
+
+10. Loan Facility Services on Google Pay
+
+
+Loan Facility Offers
+. You agree that Lending third parties may send You offers pertaining to Loan Facilities for which you are eligible. You acknowledge that Your eligibility for the Loan Facility including the terms and quantum of the Loan Facility shall be at the sole discretion of the Lending third party. Google is not responsible for the content of such offer or for the Loan Facility. The Lending third parties that Google works with and their terms of service can be found here:
+
+
+- 
+DMI finance
+
+
+- 
+Aditya Birla Finance Limited
+
+
+- 
+Bajaj Finance
+
+
+- 
+Axis Bank
+
+
+- 
+L&T Finance Limited
+
+
+- 
+SMFG India Credit
+
+
+- 
+IDFC FIRST Bank
+
+
+Applying for Loan Facility Services
+. To apply for a Loan Facility offered to you by the Lending third parties, You are required to accept the offer and fill in a loan application provided by the Lending third party on Google Pay. Depending upon the respective Lending third party, You may be able to select your preferred Loan Facility Amount and Equated Monthly Instalments ("
+EMI
+") plan including its tenure. Further, you may be required to provide certain personal information including but not limited to your name, address, phone number, IP address, the loan amount, tenure and EMI plan selected by You, the purpose of the loan, and such other information that may be required by the Lending third party.
+
+
+You are responsible to ensure that your KYC details with the Lending third parties are current and accurate at the time of applying for the Loan Services Facility on the Google Pay App.
+
+
+You understand that You are availing the Loan Facility Services from your Lending third party and will be entering into a loan agreement with the Lending third party for this purpose. Google is in no manner involved in or liable for offering or providing you with the Loan Facility, or with the performance of the loan agreement.
+
+
+Fees and Charges
+. You understand that the Lending third party may charge you a service fee for instant processing of the Loan Facility and stamp duty charges, which will be specified to you in the loan application, and deducted from the Loan Facility amount.
+
+
+Carefully Review your Loan Application
+. You are responsible to ensure that you understand all the terms in the loan agreement and carefully review the same including interest rate, EMI plan and other charges of the Loan Facility prior to completing and submitting the application. Please ensure that you review and confirm all Loan Facility Information provided either by You or by the Lending third party in the course of applying for the Loan Facility. Please note that the final amounts of EMI, service fees and stamp duty as may be applicable, are determined by the Lending third party. Google will not be responsible for any error or discrepancy that may have been confirmed by you during the application process or for the performance of the loan agreement. For any rectification of any discrepancy, you will be required to engage directly with the Lending third party.
+
+
+Loan Facility Presentment
+. Once Your application is successfully approved by the Lending third party, you can view the receipt for the Loan Facility ("
+Loan Facility Receipt
+") on your Google Pay App. The Loan Facility Receipt may consist of information such as name, address, the application date, Loan Facility amount, the interest rate, tenure, the number of EMIs, fees and charges and such other information as provided or confirmed by You during the loan application process. Any discrepancy in the Loan Facility Receipt will have to be addressed with the Lending third party.
+
+
+Disbursement of Loan Facility Amount
+. The Loan Facility amount will be directly credited into Your account held with the Lending third party.
+
+
+EMI Payment Reminders
+. You agree that Your Lending third party may send you communications regarding the Loan Facility including reminders to pay Your EMI through the Google Pay App.
+
+
+Repayment of Loan Facility Amount
+. Upon EMI due date, the EMI payment amount will be directly debited by Your Lending third party from your account held with them. You are responsible for maintaining sufficient funds in your account, and for any penal consequences that result from the performance of the loan agreement or insufficiency of funds to meet the EMI requirements including the levy of interest as per the terms of the loan agreement executed by You with the Lending third party.
+
+
+By availing of the Loan Facility Services on Google Pay, You expressly authorize Google Pay to access, use and store Loan Facility transaction information on an ongoing basis, on Your behalf for the purpose of providing you with services on Google Pay.
+
+
+11. Credit Card Services on Google Pay
+
+
+You agree that Google or the Credit Institutions may send You offers pertaining to Credit Cards and related offers or services for which you are eligible. You acknowledge that Your eligibility for a Credit Card shall be at the sole discretion of the Credit Institution and based on its customary procedures and credit underwriting criteria developed by the Bank and will be subject to approval or rejection solely at the discretion of the Credit Institution.
+
+
+Applying for Credit Cards
+. To apply for a Credit Card offered to you by a Credit Institution, You are required to submit the application provided by the Credit Institution on Google Pay. You may be required to provide certain personal information including but not limited to your name, address, phone number, income range, employment information, and such other information that may be required by the Credit Institution. You are responsible to ensure that your KYC details with the Credit Institutions are current and accurate at the time of applying for a Credit Card on the Google Pay App.
+
+
+You understand that You are availing the Credit Card from your Credit Institution and will be entering into an agreement with the Credit Institution for this purpose. Google is in no manner involved in or liable for offering or providing you with the Credit Card.
+
+
+Carefully Review your Credit Card Application. You are responsible to ensure that you understand all the terms governing your Credit Card under the Credit Card agreement between You and your Credit Institution prior to completing and submitting the application. Google will not be responsible for any error or discrepancy that may have been confirmed by you during the application process and will not be responsible for the provision of the Credit Card or the accuracy of any information related to the Credit Card that is provided by a Credit Institution. For any rectification of any discrepancy related to your Credit Card, or to close or terminate your Credit Card, you will be required to engage directly with the Credit Institution per the terms of Your Credit Card agreement with the Credit Institution.
+
+
+By availing of the Credit Card Services on Google Pay, You expressly authorize Google Pay to access, use and store your Credit Card application information, for the purpose of providing you with services on Google Pay, including sending you offers pertaining to your Credit Card and related offers or services for which you are eligible, and to assist with fraud analytics and fraud mitigation efforts.
+
+
+12. Credit Report
+
+
+Authorisation:
+ You agree that by providing your details and clicking on continue on Google Pay you
+
+
+
+
+Have requested for your Credit Information;
+
+
+Have provided your consent to appoint Google as your authorised representative for verifying your identity and sharing the details provided by you on Google Pay with TransUnion CIBIL Limited (“TUCIBIL”, a credit bureau), as requested from time to time, and obtain your Credit Information for End User Permitted Purpose;
+
+
+Have authorised Google to retain and store your Credit Information till a) your account is deactivated on Google Pay, b) such time your Credit Information is required for End User Permitted Purpose, c) a limited period of 6 months, d) you withdraw your consent to store/use your Credit Information on Google Pay, whichever is earlier; and
+
+
+Have authorised Google to rearrange and bucket the Credit Information solely to make it more presentable and user friendly on Google Pay app without making any alterations to the Credit Information.
+
+
+
+
+Credit Score Simulator:
+ The Credit Score Simulator is to be used as merely an indicator of a hypothetical score based on the scenarios chosen by the Users. You understand that the Credit Score Simulator is a TUCIBIL product and Google does not play any role in the functioning of the Credit Score Simulator or the simulated Credit Score deriving out of it.
+
+
+Disclaimer:
+
+
+(i) Google Pay provides a technology platform for the display of your Credit Information, and the Credit Score Simulator provided by TUCIBIL and does not control your Credit information or simulated score. The simulated score shall not be relied on to make credit decisions and be referred to only for educational purposes.
+
+
+(ii) if any information in your Credit Report is inaccurate and is affecting your Credit Score, you have the right to dispute it directly with TUCIBIL through its official website.
+
+
+13. UPI Lite Services on Google Pay
+
+
+UPI Lite
+ is a service facilitated by NPCI and enabled on Google Pay app through which You can make low value payment transactions, without entering UPI PIN, upto the limit prescribed in ‘usage and settlement’ section below using your UPI Lite account (“
+UPI Lite
+”). UPI Lite is solely offered as a service and not a new account or wallet on Google Pay app. You understand that If you change your mobile device, you will be able to continue to access your UPI Lite account balance from the new device provided you are using the same phone number, and bank account.
+
+
+Registration and loading
+: You can register for UPI Lite by clicking on your profile icon and setting up UPI Lite in the payment methods page. As a part of the registration, You will be prompted to add up to INR 2000 to your UPI Lite account via your linked bank account that supports UPI Lite (“
+Bank Account
+”). The registration for UPI Lite will be deemed complete when You successfully enter and validate your UPI PIN and the money is added to your UPI Lite account. You understand that only one single Bank Account, that supports UPI Lite, can be used to link to UPI Lite on Google Pay app.
+
+
+Usage and settlement
+: You can make a payment transaction to a peer or merchant for a maximum of Rs. 500 using your UPI Lite account. The total daily usage limit of UPI Lite account shall be restricted to Rs. 4000 enabling a maximum of Rs 2000 that can be added twice a day. You understand that:
+
+
+
+
+NPCI may revise the aforesaid usage limits in its sole discretion from time to time without any prior intimation to You.
+
+
+UPI Lite account is only a virtual ‘on device’ balance and a reflection of UPI Lite balance allocated by You. No interest will be paid to You on UPI Lite account balance.
+
+
+Actual money or funds with respect to your UPI Lite account are held and maintained solely by your issuing bank;
+
+
+UPI Lite account can solely be used for debit transactions and all credit transactions (including refunds, etc.) will be processed in your Bank Account.
+
+
+UPI Lite account can not be used for peer to peer collect requests, auto pay and international payment transactions.
+
+
+For any payment transaction up to Rs 500 (subject to the total daily usage limit of Rs 4000), your UPI Lite account will be default used provided your UPI Lite account is available with sufficient funds.
+
+
+
+
+De-registration
+: You can disable UPI Lite services at any time from Google Pay app. Once disabled, the unutilised UPI Lite balance will be credited to your Bank Account by your Issuing Bank. You understand that:
+
+
+
+
+If You have a pre-existing balance in UPI Lite account and your Bank Account gets closed, You will be able to spend the pre-existing balance in your UPI Lite account.
+
+
+If You change your mobile device or your mobile device gets lost, the available balance of the UPI Lite account will not be eligible to be reclaimed in your new device as a new UPI Lite account will be created for the new device. If you are changing your mobile device, You should ensure you disable your UPI Lite account from our old device and move the UPI Lite balance back to your bank account. If you fail to disable UPI LITE from your old phone/device then your Issuing Bank will not be able to move the available UPI LITE balance back to your Account. However, if you inform the issuing bank for the same, your issuing bank will try on a best efforts basis to refund any available UPI LITE balance to your account. You understand that Google, NPCI or your issuing bank will not be liable for any loss of money in your UPI Lite account due to occurrence of any of the said scenarios.
+
+
+
+
+Chargeback
+: Any refund or chargeback requests under a UPI Lite transaction shall follow the same process as prescribed for under Refunds and Chargeback section in these Google Pay Terms.
+
+
+Security of the UPI Lite Account
+:
+
+
+
+
+You are responsible for maintaining the confidentiality of your Google Pay app and other details associated with UPI Lite transactions and You are solely responsible for all activities that occur under your mobile phone(s) on which UPI Lite is enabled.
+
+
+You shall not hold NPCI/Google responsible for any unauthorized transactions made from your Google Pay account using UPI Lite.
+
+
+NPCI/Google shall not be liable to You or any other person for any loss or damage which may arise due to any failure by You to protect your UPI Lite account on Google Pay app or otherwise not complying with the UPI Lite terms.
+
+
+
+
+Notwithstanding anything to the contrary contained in the UPI Lite terms herein, NPCI/Google reserves the right to deny the enablement of UPI Lite to You, suspend access to or terminate your User account on Google Pay app, at any time in its sole discretion and without any prior notice or liability to You or any other person.
+
+
+14. RuPay Credit Card via UPI
+
+
+You can link your RuPay credit card on Google Pay as an alternate method to make payments to merchants in a similar manner as you link your savings bank account on Google Pay. In order to link your RuPay credit card, when you choose RuPay credit card on the payment methods page and the concerned bank with whom you have an existing credit account, you will be required to verify with the issuing bank, the last 6 digits of your RuPay credit card with the validity details (in MMYY format) in order to create a UPI Pin (MPIN). The MPIN will be used to authenticate transactions everytime you choose your credit account as a form of payment on Google Pay app to pay merchants. Once you have linked your RuPay credit card on Google Pay, you can choose the said credit card to make payments to merchants by scanning the UPI QR codes and authenticating the transactions using your MPIN. To clarify, this functionality is only limited to payments to merchants who accept payments via RuPay credit card on UPI. Transactions related to cash withdrawal at merchant, Peer to Peer Payments, P2PM, card to card payments will not be permitted through this functionality.
+
+
+Transaction limit
+. Transaction through this process will follow UPI standard transaction limits which may change from time to time as per the Applicable Law.
+
+
+Disputes
+. All requests arising out of the payment transactions using RuPay credit account shall follow the same process as prescribed under the Dispute section in these terms below.
+
+
+15. UPI Circle
+
+
+You can use UPI Circle (Defined Below) feature on Google Pay. Please read UPI Circle Terms carefully before accessing or using UPI Circle.
+The following words shall have the meanings as set below unless the context indicates otherwise.
+
+
+"
+UPI Circle
+" means the feature that enables a Primary User to authorize a Secondary User to link his/her UPI ID with the UPI ID of such Primary User and to make UPI payments/transactions, on a Full Delegation or Partial Delegation basis. In case of Full Delegation, Primary User can assign the maximum limit to Secondary User for making such payments/transactions (i.e. the maximum amount of funds that can be utilized from the bank account held in the name of Primary User for making the aforesaid UPI payments/transactions).
+
+
+"
+Full Delegation
+" means the method/mode using which a Primary User can authorize a Secondary User to initiate and complete UPI Circle transactions as per defined maximum spends limits.
+
+
+"
+Partial Delegation
+" means the method/mode using which a Primary User can authorize a Secondary user to initiate and complete a UPI Circle based transaction subject to Primary User authorizing the said transaction by entering his/her UPI PIN.
+
+
+"
+Primary User
+" means an individual using the Google Pay App for availing UPI based services/facilities and is delegating payments to a Secondary User using UPI Circle feature of UPI available in the Google Pay App.
+
+
+"
+Secondary User
+" means a user of UPI who is authorized by Primary User to make UPI Circle transactions from the bank account of Primary User linked to UPI.
+
+
+You understand, agree, confirm and undertake that:
+
+
+
+
+For Primary User:
+
+
+
+
+You shall be solely responsible to verify and validate the UPI ID and mobile number of the Secondary User before linking his/ her UPI ID with your UPI ID and authorize him / her to make UPI transactions under UPI Circle, to ensure that the correct person is authorized as Secondary User.
+
+
+You can modify or revoke the authorization granted to Secondary User for UPI Circle.
+
+
+You will have access to and visibility of all the transactions made by Secondary User under the UPI Circle.
+
+
+You represent that you are aware of the identity of the Secondary User and shall, in the course of using UPI Circle, comply with the laws of India as applicable.
+
+
+You shall be solely responsible for all transactions and actions performed by Secondary User added/ authorized by you under UPI Circle. You shall not hold NPCI or Google Pay responsible for any unauthorized transactions made by your Secondary User using UPI Circle. NPCI or Google Pay shall not be held liable by you or any other person for any losses, damages and liabilities which may arise as a result of any act or omission by you or by the Secondary User in complying with any terms and conditions applicable to UPI Circle.
+
+
+In the event no transactions are carried through Google Pay App using UPI Circle for such period as may be prescribed from time to time, the relevant Secondary User's authorization to conduct UPI Circle transactions may be suspended or terminated.
+
+
+
+
+
+
+For Secondary User:
+
+
+
+
+By accepting the request to link your UPI ID to the UPI ID of the Primary User under UPI Circle, you hereby agree to share your name, phone number, UPI ID and transaction details with the Primary User and other third parties involved in the processing of UPI Circle transactions.
+
+
+You can de-link your UPI ID with the Primary User at any time.
+
+
+
+
+
+
+Other Terms:
+
+
+
+
+At any point in time a maximum limit of â¹15000 per month is allowed for making transactions through UPI Circle in Full Delegation.
+
+
+At any point of time maximum limit of â¹5000 is allowed per transaction for making transactions through UPI Circle in Full Delegation.
+
+
+Under Full Delegation a Secondary User's UPI ID can be linked with the Primary User's UPI ID for a maximum term of 5 years and a minimum term of 1 month.
+
+
+After successful authorization and linking of the UPI ID of the Secondary User with the Primary User, there will be a cooling period of 30 minutes during which no transaction shall be allowed to be initiated.
+
+
+Notwithstanding anything to the contrary contained in the UPI Circle Terms, Google Pay reserves the right to suspend or terminate your access to UPI Circle services, or require you to change your App password or UPI PIN, at any time in its sole discretion and without any prior notice to you.
+
+
+
+
+
+
+
+
+16. Google Pay Profile
+
+
+Google Pay Profile is a service provided by Google Pay to store your personal data, including your name, date of birth, addresses, employment data, and other financial information.
+
+
+Saved details within your Google Pay Profile will be used to personalize your experience and provide relevant services and offers, including loans, credit card offers, financial services, and to prefill product applications on Google Pay.
+
+
+The 
+Privacy Policies
+ describes how your data is stored and handled. You can edit or delete your data at any time.
+
+
+17. Gold Account
+
+
+Limits on holding or Purchase of Gold
+. Google may impose limits on the amount of Gold that is held in your GAP account or the amount you could transact on GPay to accumulate Gold in your GAP account.
+
+
+Suspension and Termination of GAP Accounts
+. Google reserves the right, in our sole and absolute discretion, to (a) suspend access to Your Gold Account; or (b) request MMTC to terminate your GAP Account, without notice and without liability to you or any third party, for any reason, including submission of incorrect KYC details, fraud, violation of these Combined Google Pay Terms or other policies we may establish from time to time. In such event, Google may take any action it deems necessary including crediting Your bank account and having MMTC repurchase Your Gold.
+
+
+Hosting Information
+. Google will display such information on Google Pay, from time to time, as may be provided and updated by MMTC in relation to the Gold for general information purposes. Google shall neither be liable nor be responsible for the accuracy of such information which is provided by MMTC.
+
+
+Payment Transaction
+. All Payment Transactions initiated on the Gold Account shall be subject to the Combined Google Pay Terms. For avoidance of doubt, Google will provide the technology integration of the GAP with Your Google Account on Google Pay. However, all Gold Transactions are conducted between You and MMTC only. Google shall neither be responsible nor liable for any losses arising out of or in relation to any Gold Transaction.
+
+
+Storage of Information
+. By opening a Gold Account on Google Pay, You expressly authorize Google Pay to access, use and store Gold transaction information and other information related to Your Gold Account on an ongoing basis for the purpose of providing you with services on Google Pay.
+
+
+18. Communication services
+
+
+You are able to send messages via Google Pay. You are responsible for any communication made by you with other service providers, Users, Merchants, or Billers through Google Pay. Google merely provides the platform to enable you and other service providers, Users, Merchants or Billers to communicate with each other (
+Communication Platform
+) and is not responsible for any conversation between the parties. You must ensure that no illegal, unlawful or unauthorised communication is delivered through Google Pay. The content of the communication must comply with these Combined Google Pay Terms and in particular, the 
+Google Pay Policies
+. You agree not to make any offers, promotions or advertisements to other Users directly through the Communication Platform. Google reserves the right to suspend or terminate your use of Google Pay Services, in whole or in part, in the event of any communication that is not in compliance with the Google Pay Policies or these Combined Google Pay Terms. Google reserves the right through automated means, to collect, store, use, access your Google Pay communications for the purposes outlined in 
+Section 21
+.
+
+
+19. Offers
+
+
+Google Pay Offers
+. Your participation in Google Pay offers is subject to the 
+General Google Pay Offers Terms
+. For referral offers or bonus quests therein run on Google Pay, both referrer and referee will be eligible for rewards as communicated by Google. Referrers will earn rewards as communicated by Google based on their referees completing eligible transactions. You understand that if you have been referred by an existing Google Pay user/referrer and you choose to participate in referral offer/bonus quests by using Google Pay, the completion and progress status of the eligible transactions of the referral offer/bonus quest will be shared with the referrer ensuring the progress towards earning the reward can be shared with the referrer to ensure transparency. You further understand that referral offers are only valid for users with Indian mobile numbers that start with +91 country code.
+
+
+Merchant/Biller Offers
+. Offers provided to you by Merchants or Billers on Google Pay are between you and the Merchant or Biller, Google is not responsible for the content of such Offers or for the fulfilment of such offers.
+
+
+20. Refunds, Chargebacks, and Disputes
+
+
+Refunds and Chargebacks
+. Except as set forth in these Combined Google Pay Terms, all Transactions processed through the Google Pay Services are non-refundable to the Sender by Google Pay and are non-reversible by the Sender through the Google Pay Services. You may have additional refund or chargeback rights under your Payment Instrument issuer agreement or under applicable regulations. You should review the statements you receive from the issuer of your Payment Instrument which should reflect all Transactions through the Google Pay Services.
+
+
+In the event that the Sender’s Payment Instrument issuer requests a chargeback for a Transaction, Google reserves the right to reverse the Transaction amount. Google further retains the rights to set-off any chargeback amount from subsequent payments to be transferred to the Recipient.
+
+
+Disputes
+. You understand that a payment Transaction is solely between the Sender and the Recipient and Google does not provide any guarantees or warranties with respect to any User, Biller, Merchant, third party or any service, good or delivery level commitment provided by such User, Biller, Merchant or third party. Use of Google Pay Services in no way represents any endorsement by Google of any User, Biller, Merchant or third party. You should ensure that you have undertaken adequate due diligence prior to transferring payments to anyone using Google Pay Services. Any dispute is between the Sender and Recipient without making Google and/or the Payments System Providers, a party to such disputes. However, in relation to UPI Payment Transactions, we are responsible for facilitating grievances / complaints resolution for Users. We shall be the first point of contact for all UPI Payment Transaction related grievances/complaints for Users. In case the complaint or grievance remains unresolved, the next level for escalation will be the PSP, followed by the Customer’s Bank and lastly NPCI. After exercising these options you can approach the Banking Ombudsman and or the Ombudsman for Digital Complaints, as the case may be.
+
+
+In addition, if you choose to use your BHIM UPI or Credit Card credentials created through Google Pay to send payments to a merchant or third party who is not using Google Pay Services for the purpose of processing and/or settlement of funds, Google’s role will be limited to providing the payment instructions to the Payments System Provider. Google will neither be responsible for the processing or settlement of the Transaction nor for any delivery or service fulfilment, provided Google may, in certain circumstances, act as a payment collection agent for the Recipient for the limited purpose of receiving funds on the Recipient’s behalf. It is your responsibility to ensure that the correct information has been provided by you or that you have selected the correct Recipient.
+
+
+Google is not obligated to mediate disputes between Senders and Recipients or between the Sender/Recipient and the Payment Participants. However, Google will assist Users in communicating with each other regarding a dispute or in sending the User’s complaint to the respective Payment Participant, if required under Applicable Laws or Payment Participant Rules. In the event of any complaints regarding Google Pay Services, please contact Google and we will work with you to resolve it, where possible.
+
+
+Waiver and Release
+. You agree to release Google and Group Companies, and their agents, contractors, officers and employees, from all claims, demands and damages (actual and consequential) arising out of or in any way connected with a dispute. You agree that you will not involve Google in any litigation or other dispute arising out of or related to any transaction, agreement, or arrangement with any Recipient, Sender, advertiser or other third party in connection with the Google Pay Service. If you attempt to do so, (i) you shall pay all costs and attorneys' fees of Google, and Group Companies and shall provide indemnification as set forth below, and (ii) the jurisdiction for any such litigation or dispute shall be limited as set forth below. However, nothing in these Combined Google Pay Terms shall constitute a waiver of any rights, claims or defenses that you may have with respect to a Payment Transaction under the respective Payment Participants Rules or Applicable Laws.
+
+
+21. Fraud or Unauthorized Use
+
+
+All Transactions made or instructions provided through Your Google Account on Google Pay shall be deemed to be provided by You. You will be solely responsible for any unauthorised access or use of Your personal or financial information through Your Google Account on Google Pay. To help prevent unauthorised use of your Google Account on Google Pay, You should comply with the security measures recommended by Google. If you believe your Google Account on Google Pay has been accessed or used in an unauthorised manner, please contact Customer Service immediately.
+
+
+22. Risk Monitoring: Unusual or Suspicious Transactions
+
+
+We may monitor your Transactions for high-risk practices or for fraudulent transactions. We may also engage Third Party Providers or other service providers to assist in these efforts and other elements of Google Pay Services. If we have reason to believe that there is suspicious or unusual activity being carried out through your Google Account on Google Pay, we may temporarily or permanently suspend your access to Google Pay Services.
+
+
+We and/or the Payment Participants may reject a Transaction and/or settlement of payments for various reasons, including but not limited to risk management, suspicion of fraudulent, illegal or doubtful Transactions, selling of prohibited items, use of compromised or blacklisted cards or BHIM UPI accounts, Google Accounts on Google Pay, chargebacks/complaints or for other reasons as prescribed in the Payment Participant Rules. In the event that a Transaction is rejected or is unable to be completed, we will either transfer the funds back to the Sender’s Funding Account or will handle the funds in accordance with Applicable Laws or Payment Participants Rules.
+
+
+In addition, we may take any such action on a Google Account on Google Pay as may be required by a statutory or governmental authority or as may be mandated by the respective Payment Participant.
+
+
+23. Privacy and Communications
+
+
+Privacy
+. In addition to other clauses in the Combined Google Pay Terms, you agree and specifically consent that we may collect, store, and use your personal data and any communications made through Google Pay, in accordance with Applicable Laws, and 
+our Privacy Policy
+, which explains how we treat your personal data and protect your privacy when using Google Pay. In addition to our Privacy Policy, the paragraph below details the use of UPI Transaction Data and Loan Application Data.
+
+
+UPI Transaction Data:
+
+
+Google may share your payments related information, including UPI Transaction Data, with Merchants, Banks, Third Party Providers and service providers as required for the purpose of operations, settlement payment processing, and promoting Google Pay Services.
+
+
+Your UPI Transaction Data will not be used for any monetisation purpose (eg. for advertisements) by any entity other than Google (in other words, Google India Digital Services Private Limited).
+
+
+If you are a Recipient, you agree and specifically consent that Google may store your information including bank account number on Google Pay for the purpose of sending you payments.
+
+
+You agree and specifically consent that Google may, through automated means, access your Google Pay navigational, log, and correspondence information/data. This information/data will help us analyze the merchants, markets, technology, operating systems, browsers, devices, locations from/for which our Google Pay Services are used. For example, such information and its analysis will help us to better understand your needs and provide you with a wider range of services, or developing updates for particular operating systems and mobile application versions, etc. The information collected also helps us offer you other products, programs, or services including Offers as provided by Merchants or Billers that we believe may be of interest to you or alert you in case of software compatibility issues.
+
+
+You agree and specifically consent that Google may, through automated means, access your messages on your mobile device/mobile number and retrieve/use information from your messages to provide you with enhanced services by Google or Group Companies. For example: OTP is a one-time password which is provided by your issuing bank in order to carry out the second factor authentication. If you allow us to access your messages, you understand that we may retrieve your OTP from the message received on your mobile device/number and populate and submit the OTP for second factor authentication.
+
+
+You represent that you have obtained all requisite prior consents and waivers necessary from any third party or Recipients and have provided such third party or Recipient with notice to permit Google, Group Companies and Payment Participants to carry out actions described in this paragraph. You further warrant that you will provide such notices and secure such necessary consents and waivers in advance of providing similar information to Google in the future.
+
+
+If you choose to delete or wipe-out any information or data from Google Pay or your Google Account or you or Google choose to terminate the use of your Google Account or Google Pay Services, you understand that we may still retain, use and/or disclose such information/data for legal reasons detailed in the 
+Google Privacy Policy
+.
+
+
+The 
+Google Privacy Policy
+ explains how we treat your personal data and protect your privacy when using Google Pay.
+
+
+Communications from or with Google
+. You agree and specifically consent to the collection, storage and use of your information for communications from or with Google. You agree and specifically consent that we may, on our own or through third parties, send you emails, SMS, or communicate with you through other means, for:
+
+
+(i) providing you with Google Pay Services and transactional or account related information;
+
+
+(ii) sending you payment related reminders/updates;
+
+
+(iii) promoting Google Pay Services or other Google services;
+
+
+(iv) promoting Group Companies’ services or our Third Party Providers’ services, including any offers or schemes or prizes that may be provided by these entities. These promotions will not use your UPI Transactions Data;
+
+
+(v) promoting new products and activities;
+
+
+(vi) investigating or resolving any product or Google Pay Service related concerns including complaints; or
+
+
+(vii) obtaining your invaluable feedback.
+
+
+In order to serve you better, we may also send you surveys to understand: (i) your experience with our Services, and/or (ii) your needs and requirements.
+
+
+You may choose to, or we may invite you to, submit comments or ideas about Google Pay Services, including without limitation about how to improve the Service or our products. By submitting any idea, you agree that your disclosure is gratuitous, unsolicited and without restriction and will not place us under any fiduciary or other obligation, and that we are free to use the idea without any additional compensation to you, and/or to disclose the idea on a non- confidential basis or otherwise to anyone.
+
+
+Loan Application Data:
+
+
+When you apply for loans on Google Pay, Google Pay may collect the following Personal Information
+
+
+
+
+
+
+Personal Details: Full name, date of birth, gender, email, mobile, PAN, marital status, father's & mother's name, current and permanent address, bank account number, bank IFSC number.
+
+
+
+
+
+
+Employment & Income details: Employment/ profession type, employer/ company name, industry, registration type, individual & household income, office address.
+
+
+
+
+
+
+Google Pay may also take one-time access to certain features of your mobile phone like camera, microphone, location or any other facility, necessary for the purposes of on-boarding/ KYC performed by Lending third parties. Google Pay does not collect or store any biometric data.
+
+
+Google Pay uses your personal data collected as part of the personal loan application for the following purposes: a)  to help facilitate your application for Loan Facility Service by sending the information to your Credit Information, b) for the purposes of Loan Facility Service analytics, c) to take up or investigate any complaints/ claims/ disputes d) to monitor and review products and services from time to time, e) to undertake financial/ regulatory/ management reporting and create and maintain various risk management models and f) to conduct audits and for record keeping purposes.
+
+
+How Loan Application Data is Shared?
+
+
+Google Pay shares your personal data with Lending third parties after obtaining your explicit consent, for the processing of your loan application. Once shared, this data held by the lender, will also be processed in accordance with the privacy policy of the lender to whom the loan application has been made. Google Pay does not share your personal data with any lending partner on a continuous basis. All data being shared is one-time in nature.
+
+
+Data & Consent Deletion / Destruction/ Wipe-out / Retention
+
+
+You can delete your UPI Transaction Data and Loan Application Data, in effect revoking your consent for the use of such data, any time by visiting 
+Your Google Accounts Setting
+.  However, Google Pay doesn’t take any responsibility for deletion of such data by its Partners. Further, deletion of data will be done only as per what’s allowed by the local laws and regulations or for legal reasons.  Please read more about Google’s deletion, wipe-out and retention policies at 
+Google Privacy Policy
+.
+
+
+Security
+
+
+Google secures personal data(as per 
+policy
+) in compliance with applicable laws.
+
+
+24. USE AND PROTECTION OF INTELLECTUAL PROPERTY RIGHTS
+
+
+Google Pay Services are protected by copyright, trademarks, patents, trade secret and/or other intellectual property laws. Google LLC owns the title, copyright and other worldwide intellectual property rights in the Google Pay Services. These Combined Google Pay Terms do not grant you any rights to the intellectual property rights in the Google Pay Services. Nothing contained herein shall authorize the Users to use, apply, invade or in any manner exploit or infringe the intellectual property rights of Google or its Group Companies without prior written consent. You are hereby given a limited license to use the Google Pay Service, subject to your agreement of these Terms. If you are a Merchant wanting to use Google Pay to accept payments from your end users through the BHIM UPI Infrastructure, your limited right to use the Google Pay Trademarks and Google Pay Logos will be as per these 
+Google Pay Brand Guidelines
+.
+
+
+When You upload, submit, store, send or receive content that may include feedback to or through Google Pay App, you give Google a worldwide, perpetual license to use, host, store, reproduce, modify, create derivative works (such as those resulting from translations, adaptations or other changes we make so that your content works better with Google Pay Services), communicate, publish, publicly perform, publicly display and distribute such content. This license shall not revert back to you even if it is not used by Google. The rights you grant in this license are for the limited purpose of operating, promoting, and improving Google Pay Services, and to develop new ones. This license continues even if you stop using Google Pay Services.
+
+
+25. Responsibility for Taxes
+
+
+The reporting and payment of any applicable taxes arising from the use of Google Pay Services is your responsibility. You hereby agree to comply with any and all applicable tax laws in connection with your use of Google Pay Services, including without limitation, the reporting and payment of any taxes arising in connection with Payments made through Google Pay Services, or funds/income received through Google Pay Services
+
+
+26. Indemnification
+
+
+You agree to indemnify, defend and hold harmless Google, Group Companies, the Payment Participants, and its and their directors, officers, owners, agents, co-branders or other partners, employees, information providers, licensors, licensees, consultants, contractors and other applicable third parties (collectively "
+Indemnified Parties
+") from and against any and all claims, demands, causes of action, debt or liability, including reasonable attorney fees, including without limitation attorneys fees and costs incurred by the Indemnified Parties arising out of, relating to, or which may arise from:
+
+
+(a) your use of the Services;
+
+
+(b) any breach or non-compliance by you of any term of these Google Pay Terms or any Google Pay policies;
+
+
+(c) any dispute or litigation caused by your actions or omissions; or
+
+
+(d) your negligence or violation or alleged violation of any applicable law or rights of a third party.
+
+
+27. Disclaimer
+
+
+THE SERVICES, INCLUDING ALL CONTENT, SOFTWARE, FUNCTIONS, MATERIALS, AND INFORMATION MADE AVAILABLE ON, PROVIDED IN CONNECTION WITH OR ACCESSIBLE THROUGH THE SERVICES, ARE PROVIDED "AS IS." TO THE FULLEST EXTENT PERMISSIBLE BY LAW, GOOGLE, AND GROUP COMPANIES, AND THEIR AGENTS, CO-BRANDERS OR OTHER PARTNERS, INCLUDING BUT NOT LIMITED TO, DEVICE MANUFACTURERS (COLLECTIVELY, "GOOGLE PARTIES"), MAKE NO REPRESENTATION OR WARRANTY OF ANY KIND WHATSOEVER FOR THE SERVICES OR THE CONTENT, MATERIALS, INFORMATION AND FUNCTIONS MADE ACCESSIBLE BY THE SOFTWARE USED ON OR ACCESSED THROUGH THE SERVICES, OR FOR ANY BREACH OF SECURITY ASSOCIATED WITH THE TRANSMISSION OF SENSITIVE INFORMATION THROUGH THE SERVICES. EACH GOOGLE PARTY DISCLAIMS WITHOUT LIMITATION, ANY WARRANTY OF ANY KIND WITH RESPECT TO THE SERVICES, NONINFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE. GOOGLE DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE SERVICES WILL BE UNINTERRUPTED OR ERROR FREE. GOOGLE SHALL NOT BE RESPONSIBLE FOR ANY SERVICE INTERRUPTIONS, INCLUDING BUT NOT LIMITED TO SYSTEM FAILURES OR OTHER INTERRUPTIONS THAT MAY AFFECT THE RECEIPT, PROCESSING, ACCEPTANCE, COMPLETION OR SETTLEMENT OF PAYMENT TRANSACTIONS, P2P PAYMENTS OR THE SERVICES.
+
+
+THE GOOGLE PARTIES ARE NOT RESPONSIBLE FOR THE ACCURACY OF ANY PAYMENT INSTRUMENT, INCLUDING WITHOUT LIMITATION WHETHER SUCH INFORMATION IS CURRENT AND UP-TO-DATE. WITHOUT LIMITING THE GENERALITY OF THE PRECEDING SENTENCE, YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT SUCH INFORMATION IS REPORTED BY THE ISSUER AS OF A PARTICULAR TIME ESTABLISHED BY THE ISSUER AND MAY NOT ACCURATELY REFLECT YOUR CURRENT TRANSACTIONS, AVAILABLE BALANCE, OR OTHER ACCOUNT OR PROGRAM DETAILS AT THE TIME THEY ARE DISPLAYED TO YOU THROUGH THE SERVICES OR AT THE TIME YOU MAKE A PURCHASE OR REDEMPTION. YOU MAY INCUR FEES, SUCH AS OVERDRAFT FEES OR OTHER CHARGES AS A RESULT OF SUCH TRANSACTIONS, PER YOUR AGREEMENT WITH YOUR ISSUER, OR YOUR ATTEMPT TO MAKE A PURCHASE OR REDEMPTION MAY NOT BE SUCCESSFUL.
+
+
+28. Limitations of Liability; Force Majeure
+
+
+IN NO EVENT SHALL GOOGLE OR ITS GROUP COMPANIES BE RESPONSIBLE OR LIABLE TO YOU OR ANY THIRD PARTY UNDER ANY CIRCUMSTANCES FOR ANY INDIRECT, CONSEQUENTIAL, SPECIAL, PUNITIVE OR EXEMPLARY, DAMAGES OR LOSSES, INCLUDING BUT NOT LIMITED TO DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, OR OTHER INTANGIBLE LOSSES WHICH MAY BE INCURRED IN CONNECTION WITH ANY GOOGLE PARTY OR THE SERVICES, OR ANY GOODS, SERVICES, OR INFORMATION PURCHASED, RECEIVED, SOLD, OR PAID FOR BY WAY OF THE SERVICES, REGARDLESS OF THE TYPE OF CLAIM OR THE NATURE OF THE CAUSE OF ACTION, EVEN IF THE GOOGLE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE OR LOSS. IN NO EVENT SHALL THE GOOGLE PARTIES' TOTAL CUMULATIVE LIABILITY ARISING FROM OR RELATING TO THESE COMBINED GOOGLE PAY TERMS EXCEED THE NET FEES GOOGLE HAS ACTUALLY RECEIVED AND RETAINED FROM YOUR VALID TRANSACTIONS DURING THE THREE MONTH PERIOD IMMEDIATELY PRECEDING THE DATE OF THE CLAIM.
+
+
+Nothing in these Google Pay Terms is intended to exclude or limit the liability of any party for (i) death or personal injury; (ii) fraud; (iii) fraudulent misrepresentation; or (iv) any liability that cannot be excluded or limited by law.
+
+
+You and Google acknowledge that each party has entered into these Combined Google Pay Terms relying on the limitations of liability stated herein and that those limitations are an essential basis of the bargain between the parties. In addition to and without limiting any of the foregoing, no Google Party shall have any liability for any failure or delay resulting from any condition beyond the reasonable control of such party, including but not limited to governmental action or acts of terrorism, earthquake, fire, flood or other acts of God, labor conditions, power failures and Internet disturbances.
+
+
+29. Termination and Suspension
+
+
+We reserve the right, in our sole and absolute discretion, to suspend or terminate your use of one or more Google Pay Services, without notice and without liability to you or any third party, for any reason, including without limitation inactivity or violation of these Combined Google Pay Terms or other policies we may establish from time to time.
+
+
+30. Advertising
+
+
+Some of the Google Pay features may be supported by advertising revenue and may display advertisements and promotions. In consideration for Google granting you access to and use of the Services, you agree that Google may place such advertising and promotions.
+
+
+31. Governing Law; Jurisdiction
+
+
+The Google Pay Terms and Google Pay Policies will be governed by and construed in accordance with the laws of India. You agree that any legal action or proceedings arising out of the aforementioned documents may be brought exclusively in the competent courts/tribunals having jurisdiction in New Delhi, India and irrevocably submit themselves to the jurisdiction of such courts/tribunals. You understand that We may need to share information that you provided on Google Pay in order to satisfy applicable law, regulation, legal process or an enforceable governmental request.
+
+
+32. Modification of Terms of Service
+
+
+We have the right, in our sole and absolute discretion, to change, modify, or amend any portion of the Combined Google Pay Terms at any time. The changes will become effective, and shall be deemed accepted by you, after the initial posting and shall apply on a going-forward basis with respect to transactions initiated after the posting date. In the event that you do not agree with any such modification, your sole and exclusive remedy is to terminate your use of the Services.
+
+
+In addition, we reserve the right at any time to modify or discontinue, temporarily or permanently, the Google Pay App or Services (in whole or in part) with or without notice. We may also change the Services, including applicable fees, in our sole discretion. If you do not agree to the changes, you may stop using the Services. Your use of the Services, after implementation of the change(s) will constitute your agreement to such change(s). You agree that we shall not be liable to you or to any third party for any modification, suspensions, or discontinuance of the Services.
+
+
+33. English Language Controls
+
+
+Any translation of these Combined Google Pay Terms is provided for your convenience. The meanings of terms, conditions and representations herein are subject to the definitions and interpretations in the English language. Any translation provided may not accurately represent the information in the original English.
+
+
+34. Assignment
+
+
+These Combined Google Pay Terms and any rights and licenses granted hereunder, may not be transferred or assigned by you. We may assign, in whole or in part, the benefits or obligations of this Agreement. We will provide an intimation of such assignment to you, which will be binding on the parties to these Terms and Conditions.
+
+
+35. Waiver
+
+
+Unless otherwise expressly stated in this Agreement, the failure to exercise or delay in exercising a right or remedy under the Combined Google Pay Terms will not constitute a waiver of the right or remedy or a waiver of any other rights or remedies, and no single or partial exercise of any right or remedy under the Combined Google Pay Terms will prevent any further exercise of the right or remedy or the exercise of any other right or remedy.
+
+
+36. Survival of Provisions
+
+
+The terms and provisions of the Combined Google Pay Terms, which by their nature and content are intended to survive the performance hereof by any or all parties hereto will so survive the completion and termination of this Agreement.
+
+
+37. Severability
+
+
+If any provision of the Combined Google Pay Terms is or becomes, in whole or in part, invalid or unenforceable but would be valid or enforceable if some part of that provision was deleted, that provision will apply with such deletions as may be necessary to make it valid. If any court/tribunal of competent jurisdiction holds any of the provisions of the Combined Google Pay Terms unlawful or otherwise ineffective, the remainder of the Combined Google Pay Terms will remain in full force and the unlawful or otherwise ineffective provision will be substituted by a new provision reflecting the intent of the provision so substituted.
+
+
+ADDENDUM TO GOOGLE PAY TERMS: GOOGLE PAY TERMS OF SERVICE FOR INDIA NON-RESIDENTS
+
+
+1. Introduction
+
+
+Applicable Terms
+. These Google Pay Terms of Service for India Non-Residents (the “
+Google Pay Non-Resident Terms
+”) form part of and will supplement the 
+Google Pay Terms
+, and are applicable to Eligible Non-Resident Users (as defined below) who opt to use UPI on Google Pay (the “
+NRE/NRO accounts on UPI
+”). If there is any conflict between these Google Pay Non-Resident Terms and the remaining Google Pay Terms, these Google Pay Non-Resident Terms will prevail in relation to NRE/NRO accounts on UPI.
+
+
+Eligible Non-Resident Users
+. NRE/NRO accounts on UPI is available to users who are Non-Resident Indians (“
+NRIs
+”) holding non-resident (external) rupee accounts (“
+NRE Accounts
+”) or non-resident ordinary rupee accounts (“
+NRO Accounts
+”) in compliance with the Foreign Exchange Management Act, 1999 (“
+FEMA
+”) and have mobile numbers with any of the following country codes (“
+Eligible Non-Resident Users
+”):
+
+
+
+
+
+
+Singapore country code (+65).
+
+
+
+
+
+
+Google may extend NRE/NRO accounts on UPI and these Google Pay Non-Resident Terms to NRI users having mobile numbers with other country codes from time to time, subject to applicable law.
+
+
+Eligible Non-Resident Users who opt to use NRE/NRO accounts on UPI shall be bound by the Combined Google Pay Terms including the Google Pay Terms (as if they were residents of India), supplemented by these Google Pay Terms of Service for India Non-Residents.
+
+
+You understand and agree that Google reserves the right to update any of these Google Pay Non-Resident Terms from time to time. You must ensure that you keep yourself up-to-date and read these Google Pay Non-Resident Terms and the Combined Google Pay Terms at close intervals.
+
+
+2. Transactions using NRE/NRO accounts on UPI
+
+
+Transaction Limits
+. Each Transaction using the NRE/NRO accounts on UPI is subject to minimum and maximum Transaction limits prescribed from time to time (i) under FEMA; and/or (ii) by NPCI with respect to UPI; and/or (iii) by the bank where your NRE Account or NRO Account (as the case may be) is maintained.
+
+
+Permissible Transactions
+. You may only use the NRE/NRO accounts on UPI for Transactions permitted for NRE Accounts or NRO Accounts (as the case may be) subject to applicable laws including FEMA.
+
+
+3. Disabled Features
+
+
+You understand and agree that Google reserves the right to withdraw features and/or functionality from Google Pay and/or NRE/NRO accounts on UPI at any time, in its sole discretion without prior notice. Consequently, corresponding provisions in the Google Pay Terms with respect to such features/functionality shall not apply to Eligible Non-Resident Users who opt to use NRE/NRO accounts on UPI.
+
+
+For example, the following Google Pay features have been disabled with respect to Eligible Non-Resident Users who opt to use NRE/NRO accounts on UPI:
+
+
+(a) Phonebook access will not be prompted to Eligible Non-Resident Users and such Eligible Non-Resident Users will not see any phonebook contact information in the Google Pay App.
+
+
+(b) Eligible Non-Resident Users will not be permitted to avail the Loan Facility Services or other finserv products on Google Pay.
+
+
+(c) Eligible Non-Resident Users will not be permitted to add forms of payment for international payments.
+
+
+(d) Eligible Non-Resident Users will not be permitted to tokenise credit or debit cards with Google Pay by creating a Virtual Account Number.
+
+
+(e) Eligible Non-Resident Users will not be permitted to transfer funds between NRE Accounts and other permissible accounts for persons resident outside India as per FEMA.
+
+
+(f) No user will be eligible for cash-back rewards or scratch cards for referring an Eligible Non-Resident Users using NRE Accounts or the NRO Accounts, as a Google Pay customer. Similarly, Eligible Non-Resident Users using NRE Accounts or the NRO Accounts will also not be eligible to receive referral cash-back rewards or scratch cards.
+
+
+(g) Eligible Non-Resident Users using NRE Accounts or the NRO Accounts will not be permitted to trigger collect requests to receive or collect payments from other GPay Users.
+
+
+(h) Eligible Non-Resident Users will not be permitted to link RuPay credit cards on Google Pay.
+
+
+(i) Eligible Non-Resident Users will not be permitted to link their UPI IDs to their phone numbers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help Centre
+
+
+
+
+
+
+Grievances
+
+
+
+
+
+
+About
+
+
+
+
+
+
+Privacy
+
+
+
+
+
+
+Terms
+
+
+
+
+
+
+For business
+
+
+
+
+
+
+Blog
+
+
+
+
+
+
+Contact us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Help 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Your account 
+
+
+
+
+
+
+
+
+
+
+
+
+ à¦¬à¦¾à¦à¦²à¦¾ (à¦­à¦¾à¦°à¦¤) 
+
+
+ English (India) 
+
+
+ àªà«àªàª°àª¾àª¤à« (àª­àª¾àª°àª¤) 
+
+
+ à¤¹à¤¿à¤¨à¥à¤¦à¥ (à¤­à¤¾à¤°à¤¤) 
+
+
+ Hinglish (India) 
+
+
+ à²à²¨à³à²¨à²¡ (à²­à²¾à²°à²¤) 
+
+
+ à´®à´²à´¯à´¾à´³à´ (à´à´¨àµà´¤àµà´¯) 
+
+
+ à¤®à¤°à¤¾à¤ à¥ (à¤­à¤¾à¤°à¤¤) 
+
+
+ à®¤à®®à®¿à®´à¯ (à®à®¨à¯à®¤à®¿à®¯à®¾) 
+
+
+ à°¤à±à°²à±à°à± (à°­à°¾à°°à°¤à°¦à±à°¶à°) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Some features and devices may not be available in all areas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

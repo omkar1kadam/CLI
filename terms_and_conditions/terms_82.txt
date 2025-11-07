@@ -1,0 +1,563 @@
+Google Ads Terms & Conditions - Advertising Policies Help
+ 
+ 
+ 
+Skip to main content
+ 
+ 
+ 
+Advertising Policies Help
+Sign in
+Google Help
+Help Center
+List of ad policies
+Review process
+Verification and transparency
+Change log
+Advertising Policies
+Privacy Policy
+Terms of Service
+Submit feedback
+ 
+Send feedback on...
+This help content & information
+General Help Center experience
+Next
+Advertising Policies
+List of ad policies
+Advertising policies
+Third-party policies
+Related policies & terms
+Review process
+Approval process
+Disapprovals and suspensions
+Verification and transparency
+Verification and transparency
+Change log
+Upcoming and recent changes
+Past changes
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Google Ads Terms & Conditions
+
+
+
+
+Google provides translated versions of the Advertising Policies Help Center, though they're not meant to change the content of the policies. The English version is the official language used to enforce Google Ads policies. To view this article in a different language, use the language dropdown at the bottom of the page.
+
+
+
+
+
+
+
+
+Terms and Conditions can vary based on location. Google advertisers can find the Terms and Conditions for their country with our 
+Google Ads Terms and Conditions finder
+.
+
+
+For advertisers in India:
+
+
+As per the requirements of Rule 5 of the Indian Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 (Intermediary and Digital Media Rules, 2021), Google is required to inform you that, in addition to the applicable Terms of Service, publishers of news and current affairs content may be required by Rule 18 of the Intermediary and Digital Media Rules to furnish the details of their accounts on Google Ads to the Ministry of Information and Broadcasting, Government of India.
+
+
+
+
+For advertisers in Australia:
+
+
+On November 9, 2023, the Google Advertising Program Terms applicable to Australia-based customers were changed. A copy of the updated terms is available below:
+
+
+
+
+
+
+
+
+Advertising Program Terms
+
+
+These Advertising Program Terms (“Terms”) are entered into by Google Australia Pty Ltd (“Google”) and the entity executing these Terms or that accepts these Terms electronically (“Customer”). These Terms govern Customer’s participation in Google’s advertising programs and services (i) that are accessible through the account(s) given to Customer in connection with these Terms or (ii) that incorporate by reference these Terms (collectively, “Programs”). Please read these Terms carefully.
+
+
+
+
+
+
+
+
+
+
+
+
+1 Programs. Customer authorizes Google and its affiliates to place Customer’s advertising materials, feed data, and technology (collectively, “Ads” or “Creative”) on any content or property (each a “Property”) provided by Google or its affiliates on behalf of Google or, as applicable, a third party (“Partner”). Customer is solely responsible for all: (i) Ads, (ii) Ads trafficking or targeting decisions (e.g., keywords) (“Targets”), (iii) destinations to which Ads direct viewers (e.g., landing pages, mobile applications) along with the related URLs, waypoints, and redirects (“Destinations”), and (iv) services and products advertised on Destinations (collectively, “Services”). The Program is an advertising platform on which Customer authorizes Google and its affiliates to use automated tools to format Ads. Google and its affiliates may also make available to Customer certain optional Program features to assist Customer with the selection or generation of Targets, Ads, or Destinations. Customer is not required to authorize use of these optional features and, as applicable, may opt-in to or opt-out of usage of these features. However, if Customer uses these features, then Customer will be solely responsible for the Targets, Ads, and Destinations. Google and its affiliates may, acting reasonably, reject or remove a Target, Ad, or Destination at any time:(i) if the relevant Ad, Target or Destination violates, or Google reasonably believes it violates, the Policies or these Terms, (ii) in connection with compliance with applicable law, (iii) where required or requested by a Partner, (iv) where Google reasonably believes that the relevant Ad, Target or Destination may cause harm to a user, third party, or Google, or (v) to protect Google’s legitimate interests. Google and its affiliates are constantly developing and creating new technologies, features and services, and may modify or cancel Programs at any time. If Customer does not agree to any modifications, it may terminate these Terms as set out in Section 12. Customer acknowledges that Google or its affiliates may participate in Program auctions in support of its own services and products. Some Program features are identified as “Beta” or as otherwise unsupported or confidential (collectively, “Beta Features”). Customer may not disclose any information from Beta Features or the terms or existence of any non-public Beta Features.
+
+
+
+
+
+
+
+
+
+
+
+
+2 Policies. Customer is solely responsible for its use of the Programs (e.g., access to and use of Program accounts and safeguarding usernames and passwords) (“Use”). Program Use is subject to applicable Google policies available at 
+google.com/ads/policies
+, and all other policies made available by Google to Customer, including Partner policies, and to the extent applicable, the Google EU User Consent Policy at 
+privacy.google.com/businesses/userconsentpolicy
+ (in each case, as modified from time to time, “Policies”). Customer also authorizes Google to modify Ads as described in Policies for the purpose of providing the Programs, for example, formatting Ads. In connection with the Program, Google will comply with the Google Privacy Policy available at 
+google.com/policies/privacy
+ (as modified from time to time). To the extent Program Use is within scope, Google and Customer agree, as applicable, to the (i) Google Ads Controller-Controller Data Protection Terms at 
+privacy.google.com/businesses/controllerterms
+; or (ii) Google Ads Data Processing Terms at 
+privacy.google.com/businesses/processorterms
+ (collectively the “EU Data Terms”). Google will not modify the EU Data Terms, except as expressly permitted under the EU Data Terms. Customer will not, and will not authorize any third party to, (i) generate automated, fraudulent or otherwise invalid impressions, inquiries, clicks or conversions, (ii) conceal conversions for Programs where they are required to be disclosed, (iii) use any automated means or form of scraping or data extraction to access, query or otherwise collect Google advertising-related information from any Property except as expressly permitted by Google, or (iv) attempt to interfere with the functioning of the Programs. Customer will direct communications regarding Ads on Partner Properties under these Terms only to Google.
+
+
+
+
+
+
+
+
+
+
+
+
+3 Ad Serving.  (a) Customer will not provide Ads that contain or connect to malware, spyware, unwanted software or any other malicious code or knowingly breach or circumvent any Program security measure. (b) Customer may utilize an Ad server solely for serving or tracking Ads under Programs that permit third-party Ad serving and only if the Ad server has been authorized by Google to participate in the Program. Google will implement Customer’s Ad server tags so that they are functional. (c) For online display Ad impressions billed on a CPM or vCPM basis (“Display Ads”), if Google’s applicable impression count (“IC”) for a Program is higher than Customer’s third-party Ad server (“3PAS”) IC by more than 10% over the invoice period, Customer will facilitate reconciliation efforts between Google and 3PAS. If this discrepancy is not resolved, Customer must make a claim within 60 days after the invoice date (“Claim Period”). If Google determines, acting reasonably, that the claim is valid, then subject to Section 9(b), Google will issue to Customer advertising credits equal to (90% of Google’s IC minus 3PAS’s IC), multiplied by Google’s reported campaign average CPM or vCPM, as applicable, over the invoice period. Any advertising credits issued must be used by Customer within 60 days of issuance (“Use-By Date”) and Google may suspend Customer’s permission to utilize that 3PAS provider and may suspend the effectiveness of the discrepancy-resolution provisions of this Section for that 3PAS provider. Metrics from 3PAS whose Ad server tags are provided to Google will be used in the above discrepancy-resolution calculations. Google may require that discrepancy records be provided directly by 3PAS to Google. Customer will not be credited for discrepancies caused by 3PAS’s inability to serve Ads.
+
+
+
+
+
+
+
+
+
+
+
+
+4 Testing. Customer authorizes Google and its affiliates to periodically conduct tests that may affect Customer’s Use of Programs, including Ad formatting, Targets, Destinations, quality, ranking, performance, pricing, and auction-time bid adjustments. To ensure the timeliness and validity of test results and subject to Section 9(b), Customer authorizes Google to conduct such tests without notice or compensation to Customer.
+
+
+
+
+
+
+
+
+
+
+
+
+5 Ad Cancellation.  Unless a Policy, the Program user interface, or an agreement referencing these Terms (an “IO”) provides otherwise, either party may cancel any Ad at any time before the earlier of Ad auction or placement, but if Customer cancels an Ad after a commitment date provided by Google (e.g., a reservation-based campaign), then Customer is responsible for any cancellation fees communicated by Google to Customer in advance of the commitment date (except where Customer has cancelled the Ad and terminated these Terms in good faith due to a material change in the applicable Program or these Terms), and the Ad may still be published. Google or its affiliates may, acting reasonably, cancel an Ad pursuant to this Section 5: (i) if the relevant Ad violates, or Google reasonably believes it violates, the Policies or these Terms, (ii) in connection with compliance with applicable law, (iii) where required or requested by a Partner, (iv) where Google reasonable believes that the relevant Ad may cause harm to a user, third party, or Google, or (v) to protect Google’s legitimate interests. Cancelled Ads will generally cease serving within 8 business hours or as described in a Policy or IO, and Customer remains obligated to pay all charges resulting from served Ads (e.g., fees based on conversion). Customer must effect cancellation of Ads (i) online through Customer’s account, if the functionality is available, (ii) if this functionality is not available, with notice to Google via email to Customer’s account representative or (iii) if this functionality is not available and Customer does not have an account representative, with notice to Google via email to ads-support@google.com (collectively, the “Ad Cancellation Process”). Customer will not be relieved of any payment obligations for Ads not submitted or submitted by Customer after the due date provided by Google. Google will not be bound by a Customer-provided IO.
+
+
+
+
+
+
+
+
+
+
+
+
+6 Warranty, Rights, and Obligations.  Customer warrants that (a) Customer holds, and hereby grants Google, its affiliates and Partners, the rights in Ads, Destinations, and Targets for Google, its affiliates and Partners to operate the Google Programs (including, in the case of feed data, after Customer ceases to use the Programs), and (b) all information and authorizations provided by Customer are complete, correct and current. Customer authorizes Google and its affiliates to automate retrieval and analysis of, and create test credentials to access, Destinations for the purposes of the Programs. By providing any mobile or other telephone number to Google in connection with the Programs, Customer authorizes Google, its affiliates and their agents to call and send text messages (for which standard message and data rates may apply) to the provided telephone numbers, including by an automatic telephone dialing system, for purposes of the Programs. However, Google will not rely on this permission to initiate autodialed calls or text messages for marketing purposes. Customer further authorizes Google, its affiliates and their agents to send electronic mail to Customer for purposes of the Programs. Customer warrants that it is authorized to act on behalf of, and has bound to these Terms, each third party, if any, for which Customer advertises in connection with these Terms (“Advertiser”) and any references to Customer in these Terms will also apply to Advertiser, as applicable. If for any reason Customer has not bound an Advertiser to these Terms, Customer will be liable for performing any obligation Advertiser would have had under these Terms had Advertiser been bound. If Customer is using a Program on its own behalf to advertise, for that use Customer will be deemed to be both Customer and Advertiser. Customer will provide Advertiser with reporting data no less than on a monthly basis, that discloses absolute dollars spent on Google and performance (at a minimum cost, clicks and impressions of users on the account of that Advertiser) in a reasonably prominent location. Google may, upon request of an Advertiser, share Advertiser-specific information with Advertiser.
+
+
+
+
+
+
+
+
+
+
+
+
+7 Make-Goods.  For reservation-based Display Ads, Google will deliver any agreed-on aggregate number of Display Ads by the end of the campaign. If Google fails to do so, then subject to Section 9(b), any Customer disputing payment made to Google for such Display Ads must make a claim during the Claim Period. If Google, acting reasonably, confirms the accuracy of the claim, then Google will not charge Customer for the undelivered Display Ads or, if Customer has already paid, at Google’s reasonable discretion and subject to Section 9(b), Google will provide for (i) advertising credits, which must be used by the Use-By Date, (ii) placement of the Display Ads in a comparable position within 60 days of Google’s confirmation of the accuracy of the claim or (iii) an extension of the term of the campaign. Where permitted under Google’s Policies, advertising credits can be refunded where Customer closes its account. Google cannot assure that any auction-based Ads will be delivered and therefore make-goods do not apply to auction-based Ads.
+
+
+
+
+
+
+
+
+
+
+
+
+8 Payment.  Customer will pay all charges incurred in connection with a Program, using a payment method approved by Google for that Customer (as modified from time to time), within a commercially reasonable time period specified by Google (e.g., in the Program user interface or IO). Late payments bear interest at the rate of 1.5% per month (or the highest rate permitted by law, if less). Charges are exclusive of taxes. Customer will pay (i) all taxes and other government charges and (ii) reasonable expenses and legal fees Google incurs in collecting late payments that are not disputed in good faith. Charges are based on the billing criteria under the applicable Program (e.g., based on clicks, impressions, or conversions). Any portion of a charge not disputed in good faith must be paid in full. No party may offset any payment due under these Terms against any other payment to be made under these Terms. Google may, acting reasonably, extend, revise or revoke credit at any time. Google is not obligated to deliver any Ads in excess of any credit limit. If Google does not deliver Ads to the selected Targets or Destinations, then subject to Section 9(b), Customer must make a claim for advertising credits within the Claim Period, after which Google will, acting reasonably, issue the credits following claim validation which must be used by the Use-By Date. Customer understands that third parties may generate impressions or clicks on Customer’s Ads for prohibited or improper purposes and if that happens, subject to Section 9(b), Customer must make a claim for advertising credits within the Claim Period, after which Google will, acting reasonably, issue the credits following claim validation, which must be used by the Use By Date. Where permitted under Google’s Policies, advertising credits can be refunded where Customer closes its account. TO THE FULLEST EXTENT PERMITTED BY LAW AND SUBJECT TO SECTION 9(B), CUSTOMER WAIVES ALL CLAIMS RELATING TO ANY PROGRAM CHARGES UNLESS A CLAIM IS MADE WITHIN THE CLAIM PERIOD.
+
+
+
+
+
+
+
+
+
+
+
+
+9 Disclaimers.  (a) TO THE FULLEST EXTENT PERMITTED BY LAW AND SUBJECT TO 9(b) BELOW, EACH PARTY ON BEHALF OF ITSELF AND ITS AFFILIATES EXCLUDES ALL IMPLIED WARRANTIES, INCLUDING WITHOUT LIMITATION FOR NON-INFRINGEMENT, SATISFACTORY QUALITY, MERCHANTABILITY AND FITNESS FOR ANY PURPOSE. TO THE FULLEST EXTENT PERMITTED BY LAW AND SUBJECT TO 9(b) BELOW, THE PROGRAMS AND GOOGLE, ITS AFFILIATES, AND PARTNER PROPERTIES ARE PROVIDED “AS IS” AND AT CUSTOMER’S AND ADVERTISER’S OPTION AND RISK AND NONE OF GOOGLE, ITS AFFILIATES OR GOOGLE’S PARTNERS MAKE ANY GUARANTEE OR REPRESENTATION IN CONNECTION WITH THE PROGRAMS OR PROGRAM RESULTS. (b) CERTAIN LAWS OF THE JURISDICTION IN WHICH CUSTOMER RESIDE, SUCH AS THE AUSTRALIAN CONSUMER LAW, MAY CONFER RIGHTS AND REMEDIES AND IMPLY TERMS INTO THESE TERMS THAT CANNOT BE EXCLUDED. THOSE RIGHTS, REMEDIES, AND IMPLIED TERMS ARE NOT EXCLUDED BY THESE TERMS. TO THE EXTENT THAT THE RELEVANT LAWS PERMIT GOOGLE TO LIMIT THEIR OPERATION, GOOGLE’S LIABILITY UNDER THOSE LAWS WILL BE LIMITED AT ITS OPTION, TO THE SUPPLY OF THE SERVICES AGAIN, OR PAYMENT OF THE COST OF HAVING THE SERVICES SUPPLIED AGAIN. IF THE CONTRACT FORMED BY THESE TERMS IS A “SMALL BUSINESS CONTRACT” PURSUANT TO THE AUSTRALIAN CONSUMER LAW, THE CUSTOMER MAY ELECT TO FOLLOW THE PROCESSES FOR MAKING A CLAIM FOR ADVERTISING CREDITS SET OUT IN SECTIONS 3, 7 OR 8; OR HAVE GOOGLE DETERMINE, AT GOOGLE’S OPTION, TO SUPPLY THE SERVICES THE SUBJECT OF THE CLAIM AGAIN, OR PAY THE CUSTOMER THE COST OF HAVING THE SERVICES THE SUBJECT OF THE CLAIM SUPPLIED AGAIN.
+
+
+
+
+
+
+
+
+
+
+
+
+10 Limitation of Liability.  NOTHING IN THE TERMS OR ANY IO WILL EXCLUDE OR LIMIT EITHER PARTY’S LIABILITY: (I) FOR DEATH OR PERSONAL INJURY RESULTING FROM THE NEGLIGENCE OF EITHER PARTY OR THEIR SERVANTS, AGENTS OR EMPLOYEES; (II) FOR FRAUD OR FRAUDULENT MISREPRESENTATION; (III) UNDER SECTION 11 (INDEMNIFICATION); (IV) FOR CUSTOMER’S BREACHES OF SECTIONS 3(A), 14(D) OR THE LAST SENTENCE OF SECTION 1; (V) FOR PAYMENT OF SUMS PROPERLY DUE AND OWING IN THE COURSE OF NORMAL PERFORMANCE OF THE TERMS; OR (VI) FOR ANYTHING WHICH CANNOT BE EXCLUDED OR LIMITED BY LAW. TO THE FULLEST EXTENT PERMITTED BY LAW BUT ALWAYS SUBJECT TO THE PRECEDING SENTENCE AND SECTION 9(b): (a) NO PARTY OR ITS AFFILIATES MAY BE HELD LIABLE UNDER OR IN CONNECTION WITH THESE TERMS (WHETHER IN CONTRACT, TORT, INCLUDING, WITHOUT LIMITATION, NEGLIGENCE OR OTHERWISE) FOR ANY: (I) LOSS OF PROFIT; (II) LOSS OF ANTICIPATED SAVINGS: (III) LOSS OF BUSINESS OPPORTUNITY; (IV) LOSS OF OR CORRUPTION OF DATA; (V) LOSS OR DAMAGE RESULTING FROM THIRD PARTY CLAIMS; OR (VI) INDIRECT, SPECIAL OR CONSEQUENTIAL LOSSES; SUFFERED OR INCURRED BY THE OTHER PARTY (WHETHER OR NOT SUCH LOSSES WERE IN CONTEMPLATION OF THE PARTIES AT THE DATE THESE TERMS WERE ACCEPTED BY CUSTOMER); AND (b) SUBJECT TO SECTION 10(a) EACH PARTY’S AGGREGATE LIABILITY TO THE OTHER FROM ANY GIVEN EVENT OR SERIES OF CONNECTED EVENTS UNDER OR IN CONNECTION WITH THESE TERMS, IS LIMITED TO THE GREATER OF: (I) THE AMOUNT PAYABLE TO GOOGLE BY CUSTOMER UNDER THE TERMS IN THE THREE MONTHS IMMEDIATELY PRECEDING THE MONTH IN WHICH THE EVENT (OR FIRST IN A SERIES OF CONNECTED EVENTS) OCCURRED; AND (II) AUD $25,000.
+
+
+
+
+
+
+
+
+
+
+
+
+11 Indemnification.  Customer will defend, and indemnify Google, its Partners, agents, affiliates, and licensors (each an “Indemnified Person”) against all liabilities, damages, losses, costs, fees (including legal fees), and expenses relating to any third-party allegation or legal proceeding to the extent arising out of or related to Ads, Targets, Destinations, Services, Use or any breach of these Terms by Customer, except in relation to each Indemnified Person, to the extent that the third party claim or liability arises as a direct result of: (a) that Indemnified Person’s negligence or misconduct; or (b) that Indemnified Person’s breach of the Terms. Partners are intended third-party beneficiaries of this Section.
+
+
+
+
+
+
+
+
+
+
+
+
+12 Changes to Terms.  Google may make non-material changes to these Terms at any time, but Google will provide reasonable advance notice of any material changes to these Terms. Any changes to the Terms will be posted at 
+google.com/ads/terms
+ and Google will provide further reasonable notice of any material changes. The changes to the Terms will not apply retroactively and will become effective no less than 30 days after notice. However, urgent changes made for legal reasons will be effective immediately upon notice. Either party may terminate these Terms at any time with notice to the other party, but (i) campaigns not cancelled under Section 5 and new campaigns may be run and reserved and (ii) continued Program Use is, in each case, subject to Google’s terms and conditions then in effect for the Programs (available at 
+google.com/ads/terms
+). Google may, acting reasonably, suspend Customer’s ability to participate in the Programs at any time in the event of payment issues, or suspected or actual violations of the Policies or these Terms, for legal reasons or where Google believes doing so may avoid harm or liability to a user, third party, or Google. In all cases, the running of any Customer campaigns after termination is in Google’s reasonable discretion.
+
+
+
+
+
+
+
+
+
+
+
+
+13 Dispute Resolution. In the event any dispute arises out of or in connection with these Terms (each, a “Dispute”), the parties will make good faith efforts to resolve the Dispute within 60 days of written notice of the Dispute from the other party. Nothing in these Terms will prevent either party from seeking individualized provisional or preliminary relief from any court of competent jurisdiction.
+
+
+
+
+
+
+
+
+
+
+
+
+14 Miscellaneous. (a) ALL CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS OR THE PROGRAMS WILL BE GOVERNED BY CALIFORNIA LAW, EXCLUDING CALIFORNIA’S CONFLICT OF LAWS RULES, EXCEPT TO THE EXTENT THAT CALIFORNIA LAW IS CONTRARY TO OR PREEMPTED BY FEDERAL UNITED STATES LAW. (b) EXCEPT AS PROVIDED IN SECTION 13, ALL CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS OR THE PROGRAMS WILL BE LITIGATED EXCLUSIVELY IN THE FEDERAL OR STATE COURTS OF SANTA CLARA COUNTY, CALIFORNIA; THE PARTIES CONSENT TO PERSONAL JURISDICTION IN THESE COURTS. TO THE EXTENT THAT APPLICABLE LOCAL LAW PREVENTS CERTAIN DISPUTES FROM BEING RESOLVED IN A CALIFORNIA COURT, THEN CUSTOMER CAN FILE THOSE DISPUTES IN CUSTOMER’S LOCAL COURTS. LIKEWISE, IF APPLICABLE LOCAL LAW PREVENTS CUSTOMER’S LOCAL COURT FROM APPLYING CALIFORNIA LAW TO RESOLVE THESE DISPUTES, THEN THESE DISPUTES WILL BE GOVERNED BY THE APPLICABLE LOCAL LAWS OF CUSTOMER’S COUNTRY, STATE, OR OTHER PLACE OF BUSINESS. (c) These Terms are the parties’ entire agreement relating to their subject matter and supersede any prior or contemporaneous agreements on those subjects. This does not affect liability for prior false, misleading or deceptive statements or misrepresentations. (d) Customer may not make any public statement regarding the relationship contemplated by these Terms (except as required or permitted by law). (e) All notices of termination or breach, or under Section 13, must be in writing and addressed to the other party’s Legal Department (or if it is not known if the other party has a Legal Department then to the other party's primary contact or other address on file). The email address for notices being sent to Google’s Legal Department is legal-notices@google.com. All other notices to Customer will be in writing and sent to an email address associated with Customer’s account. All other notices to Google will be in writing and addressed to Customer’s primary contact at Google or other method made available by Google. Notice will be treated as given on receipt, as confirmed by written or electronic means. These notice requirements do not apply to legal service of process, which is instead governed by applicable law. (f) Except for modifications to these Terms by Google under Section 12, any amendment must be agreed to by both parties and must expressly state that it is amending these Terms. Neither party will be treated as having waived any rights by not exercising (or by delaying the exercise of) any rights under these Terms. If any provision of these Terms is found unenforceable, that provision will be severed and the balance of the Terms will remain in full force and effect. (g) Neither party may assign any part of these Terms without the written consent of the other party except to an affiliate but only where (i) the assignee agrees in writing to be bound by these Terms, (ii) the assigning party remains liable for obligations under these Terms if the assignee defaults on them, and (iii) the assigning party has notified the other party of the assignment. Any other attempt to transfer or assign is void. (h) Except as expressly listed in Section 11, there are no third-party beneficiaries to these Terms. (i) These Terms do not create any agency, partnership or joint venture among the parties. (j) Sections 1 (last sentence only) and 8 through 14 will survive termination of these Terms. (k) No party or its affiliates are liable for failure or delay in performance to the extent caused by circumstances beyond its reasonable control.
+
+
+November 9, 2023
+
+
+
+
+
+
+For Advertisers in Taiwan:
+
+
+Pursuant to the requirements of Art 31 of Taiwan 
+Act for Prevention and Control of Hazards of Fraudulent Crimes
+, effective on August 2, 2024, and Art 2 III of 
+Information Disclosure and Operational Procedures for Online Advertising
+, effective on November 30, 2024, Google is required to inform you, in addition to the applicable Terms of Service, that you must clearly make (i) the disclosure of license numbers if your ads for products or services are subject to government license, and/or (ii) the disclosure of deepfake or AI-generated images if your ads are utilizing deepfake technology or AI to generate an individual’s image.
+
+
+For “Act for Prevention and Control of Hazards of Fraudulent Crimes” in Taiwan:
+
+
+On September 16, 2024, Google LLC, as the online advertising platform operator designated by Taiwan Ministry of Digital Affairs under Art 27 of Taiwan Act for Prevention and Control of Hazards of Fraudulent Crimes (“Taiwan Anti-Fraud Act”) is required to disclose the info of Google LLC and its local agent for the purpose of Taiwan Anti-Fraud Act pursuant to Art 28 of the Taiwan Anti-Fraud Act as follows:
+
+
+
+
+Corporate Name
+: Google LLC
+
+
+Business  Address
+: 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States 
+
+
+Local Agent under Taiwan Anti-Fraud Act
+
+
+Name
+: Baker Mckenzie Taipei 
+
+
+Address
+: 15F, 168 Dunhua North Road, Taipei 105405, Taiwan
+
+
+Tel
+: +886 2 2712 6151
+
+
+
+
+
+
+ 
+ 
+ 
+Was this helpful?
+How can we improve it?
+Submit
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+false
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ©2025 Google 
+ 
+ 
+Privacy Policy
+ 
+ 
+ 
+Terms of Service
+ 
+ 
+ 
+ 
+ 
+ 
+Send feedback on...
+ 
+This help content & information
+ 
+General Help Center experience
+ 
+ 
+ 
+ 
+ 
+ 
+Enable Dark Mode
+ 
+ 
+ 
+ Language 
+ 
+ 
+català‎
+dansk‎
+Deutsch‎
+eesti‎
+English (Australia)‎
+English (Ireland)‎
+English (United Kingdom)‎
+español‎
+español (Latinoamérica)‎
+Filipino‎
+français‎
+Gaeilge‎
+hrvatski‎
+Indonesia‎
+italiano‎
+latviešu‎
+lietuvių‎
+magyar‎
+Malti‎
+Melayu‎
+Nederlands‎
+norsk‎
+polski‎
+português‎
+português (Brasil)‎
+română‎
+slovenčina‎
+slovenščina‎
+suomi‎
+svenska‎
+Tiếng Việt‎
+Türkçe‎
+čeština‎
+Ελληνικά‎
+български‎
+русский‎
+српски‎
+українська‎
+‏
+עברית
+‏
+العربية
+हिन्दी‎
+ไทย‎
+中文（简体）‎
+中文（繁體）‎
+日本語‎
+한국어‎
+ 
+English‎
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Search
+Clear search
+Close search
+Google apps
+Main menu
+ 
+ 
+ 
+ 
+8523040893142172404
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Search Help Center
+ 
+ 
+true
+ 
+ 
+ 
+true
+ 
+ 
+ 
+true
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true
+ 
+true
+ 
+73067
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+false
+ 
+ 
+ 
+false
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+false
+ 

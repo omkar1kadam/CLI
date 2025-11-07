@@ -1,0 +1,763 @@
+
+
+
+
+
+
+General Terms and Conditions | LexisNexis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Supplemental Terms for Specific Materials
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AS OF THE EFFECTIVE DATE, THESE TERMS & CONDITIONS GOVERN YOUR USE OF ANY LEXISNEXIS PRODUCTS OR SERVICES LINKING TO THEM.  THE FOREGOING CONSTITUTES NOTICE UNDER SECTION 8.1 BELOW.
+
+
+General Terms and Conditions
+
+
+Effective Date: July 24, 2025
+
+
+ 
+
+
+These General Terms and Conditions (“GTC”) govern your use of the online services (the “Online Services”) and materials available therein (“Materials”) provided by the LexisNexis entity identified in your Agreement and its Affiliates (collectively “LN”).
+
+
+The terms “you”, “your”, “Customer”, or “Subscriber” shall mean the legal entity or government agency, accessing the Online Services. These GTC incorporate required flow-through terms in the Supplemental Terms (located at 
+https://www.lexisnexis.com/en-us/terms/supplemental.page
+) and, for unsubscribed Materials, the Pricing Schedule.
+
+
+“Agreement,” when used below, means the subscription agreement you have with LN for the provision of specific Online Services, which incorporates these GTC by reference.
+
+
+“Affiliate” as used herein means a corporation, partnership, or other legal entity that controls, is controlled by, or is under common control with that party, either directly or through another Affiliate, but only while that control relationship exists; “control” of an entity means the power to direct the management and policies of that entity through a controlling vote on the board of directors or similar governing body of that entity or the ownership of interests entitled to more than 50% of the votes of that entity.
+
+
+Unauthorized access or use of the Online Services or Materials is prohibited and our rights will be enforced in accordance with these GTC. Payment for unauthorized use will be immediately owed to LN.
+
+
+ 
+
+
+1.   GRANT OF RIGHTS; RESTRICTIONS ON USE
+
+
+1.1
+  Subject to Section 1.2, and in accordance with applicable law, you and your Authorized Users are granted a non-exclusive, non-transferable, limited right to access and use, in the ordinary course of your business, the Online Services and Materials as follows:
+
+
+
+
+(a)
+so long as performed via Online Services functionality
+
+
+
+
+(i)
+share Materials with other Authorized Users,
+
+
+(ii)
+make printouts of the Materials, and
+
+
+(iii)
+download Materials,
+
+
+
+
+(b)
+so long as downloaded or printed using the Online Services functionality, infrequently provide Materials (other than Materials containing Restricted Data) to persons who are not Authorized Users;
+
+
+(c)
+excerpt or quote insubstantial portions of the Materials; and
+
+
+(d)
+store Materials to the extent required for legal or regulatory compliance.
+
+
+
+
+1.2
+  The rights at Section 1.1 are limited as set out below. You may not:
+
+
+
+
+(a)
+Access or use the Online Services via mechanical, programmatic, robotic, scripted or any other automated means is strictly prohibited without our express prior written permission.
+
+
+(b)
+except under Section 1.1(d),
+
+
+
+(i)
+download and store Materials in a database; or
+
+
+(ii)
+store copyrighted Materials for more than ninety days;
+
+
+
+
+
+
+(c)
+offer any part of the Online Services or Materials to any third party for commercial resale or commercial redistribution;
+
+
+(d)
+use the trademarks, service marks or logos of LN, its affiliates or third-party licensors without express prior written consent;
+
+
+(e)
+remove or obscure copyright or other notices contained in Materials;
+
+
+(f)
+with regard to a consumer (as defined by applicable law), use information included in the Online Services or Materials
+
+
+
+(i)
+for any consumer debt use (as defined below), including the collection of a consumer debt; or
+
+
+(ii)
+to determine a consumer’s eligibility for:
+
+
+
+
+(A)
+credit or insurance for personal, family, or household purposes;
+
+
+(B)
+employment; or
+
+
+(C)
+a government license or benefit.
+
+
+
+
+
+
+
+
+
+
+(g)
+attempt to reverse engineer or otherwise derive any of the computer programs, source code or methodology related to the Online Services;
+
+
+(h)
+use any of the Materials to train (or facilitate the training of) large language models, machine learning models, generative AI, or other similar technologies (“AI Technologies” or “AI Technology”). The uploading or submission of Materials into third party applications, software or websites that utilize AI Technologies is prohibited unless approved in writing by LN;
+
+
+(i)
+use Restricted Data or Regulated Data for any marketing purposes; 
+(j)
+use the Online Services or Materials to compete with LN or its affiliates; or 
+(k)
+use the Online Services or Materials in violation of applicable law.
+
+
+
+
+1.3
+ As used herein “consumer debt” includes any obligation or alleged obligation of a consumer to pay money arising out of a transaction for personal, family or household purposes in which a creditor grants a right to a debtor to defer payment of debt or to incur debts and defer its payment or to purchase property or services and defer payment.
+
+
+1.4
+ Restricted Data. Some of the information contained in the LN Services may be (a) “nonpublic personal information,” as defined in the Gramm-Leach-Bliley Act, (15 U.S.C. § 6801, et seq.) and related state laws (collectively, the "GLBA") and is regulated by the GLBA (“GLBA Data”) or (b) “personal information,” as defined in the Drivers Privacy Protection Act, (18 U.S.C. § 2721 et seq.) and related state laws (collectively, the "DPPA"), and is regulated by the DPPA ("DPPA Data" and together with GLBA Data, the “Restricted Data”). Notwithstanding anything to the contrary, Customer shall not obtain and/or use Restricted Data through the LN Services in any manner that would violate the GLBA, the DPPA, or any similar state or local laws, regulations and rules. Customer may be required to certify its permissible use of Restricted Data.
+
+
+1.5
+ Health Data. Authorized Users are strictly prohibited from uploading content that is considered protected health information in violation of the Health Insurance Portability and Accountability Act of 1996 (HIPAA) or the Health Information Technology for Economic and Clinical Health Act of 2009 (HITECH) (collectively “Health Data”).
+
+
+1.6
+ You agree to indemnify, defend, and hold LN harmless for all third-party claims, damages, costs, fines and expenses that LN may incur as a result of any content uploaded by you to the Online Services, excluding LN Materials.
+
+
+1.7
+ All right, title, and interest in the Online Services and Materials belongs to LN or its third-party suppliers of Materials. LN grants no rights to you except those stated in this Section.
+
+
+ 
+
+
+2.  ACCESS TO SERVICES
+
+
+2.1
+ Only your employees (including temps), students, partners, members, owners, shareholders, and contractors (to the extent performing dedicated work exclusively for you) are eligible to access and use the Online Services and Materials under your Agreement.  You will identify to LN persons requesting an LN ID (upon issuance, each an “Authorized User”). External professional service providers are not eligible to be Authorized Users.
+
+
+2.2
+ An LN ID can only be used by its assigned Authorized User and must be deactivated if the individual is no longer an Authorized User.
+
+
+2.3
+ You are responsible for use of the Online Services with any LN ID issued to you, including associated charges. You will use reasonable commercial efforts to prevent unauthorized use of LN IDs assigned or issued to you and will promptly notify LN, in writing, if you suspect that an LN ID is lost, stolen, compromised, or misused.
+
+
+2.4
+ To comply with local privacy, data protection and other laws, each LN ID is country specific and may not be used outside the country for which it is issued, except for short periods not to exceed 30 continuous days. If LN suspects use of an LN ID outside the country of issue for a period in excess of 30 continuous days, LN may suspend the LN ID or require you to use and pay for an LN ID for the relevant country. On request, LN will issue a geographically compliant LN ID, subject to any applicable additional costs.
+
+
+ 
+
+
+3. SANCTIONS
+  Your use of the Online Services is further subject to the 
+Sanctions Clause
+ incorporated herein by reference.
+
+
+ 
+
+
+4.  PRODUCT FUNCTIONALITY
+
+
+4.1
+ The Online Services, Materials, and functionality within the Online Services may be enhanced, added to, reorganized, combined or (subject to Section 8 below) withdrawn or otherwise changed by LN without notice.
+
+
+4.2
+  Subject to Section 4.1, the Online Services enable Authorized Users to:
+
+
+
+
+(a)
+create work folders or workspaces (“Folders”) from within research sessions that are associated solely with their respective LN IDs. Folders allow Authorized Users to save copies of Materials, as well as comments, and annotations. Folders are exclusively controlled by your Authorized Users, and you are solely responsible for their content. LN will not access or review the content of Folders, except to the extent necessary to facilitate functions of the Online Services or to comply with legal obligations. LN has no obligation to provide the content of Folders to you or your Authorized Users after the termination of your Agreement; and
+
+
+(b)upload Subscriber Files into certain AI Services (as defined in 4.3) where such Subscriber Files are hosted and/or stored by LN. Subscriber will have secured all necessary rights from its clients or data-sources to utilize their information in Subscriber Files. LN disclaims any warranty or liability, of any kind, for the accuracy of data in reports generated using Subscriber Files and disclaims responsibility for any results obtained through Subscriber-designed and - generated reports using the AI Services.  Upon termination or expiration of this Agreement, LN will provide Subscriber with an opportunity to export or retrieve Subscriber Files stored in the Online Services.  After a reasonable period of not less than 60 days from the effective date of termination, LN reserves the right to permanently delete all Subscriber Files stored in the Online Services unless otherwise required by law to retain such data. Upon request by Subscriber made before or within sixty (60) days after the effective date of termination, LN will make available to Subscriber, in a mutually agreed upon format and medium, a file of Subscriber Files.
+
+
+
+
+4.3
+ AI Services
+
+
+
+
+(a) Some of the Online Services utilize AI and other technologies, including generative AI (the “AI Services”).  AI Services may contain various functionalities and features, which include features that collate and organize, create summaries, use voice transcription, provide analysis and otherwise manipulate content, as well as the ability to create content such as emails, contract clauses, summaries or other legal documents. AI systems may not be accurate or error-free, and Authorized Users are responsible for verifying any information provided in the Online Services. AI is not a substitute for independent professional advice.
+
+
+(b) LN represents and warrants that (x) Subscriber inputs and Subscriber Files (as defined in the Section 4.9) uploaded by Subscriber into the AI Services will not be used by LN to train any large language model(s) and (y) any Subscriber Files uploaded by Subscriber into the AI Services shall be treated with at least the same standard of care as required of confidential information under Section 12.1 of this Agreement.
+
+
+
+
+4.4
+  LN does not claim intellectual property rights in any content created by your use of the AI Services (“Output”) except to the extent that the Output includes Independent Content. “Independent Content” means any work of authorship in the data that is subject to a copyright (1) owned by LN or (2) owned by a third party and licensed to LN with the right to sublicense to customers of the Online Services.
+
+
+4.5
+  You acknowledge and agree that Output may include content subject to third party intellectual property rights, including rights that may limit your use of such Output, and LN offers no representation or warranty to the contrary, express or implied.
+
+
+4.6
+ If LN's third-party cloud services fail or significantly degrade resulting in a material impact to the AI Services, and an alternative is available under the specific circumstances, you authorize LN to failover from the primary AI Services hosting location to a secondary location provided by LN's existing AI cloud providers, which may not be in the same country. You can opt out of such failover process at any time during the term of your Agreement by giving 30 days' written notice to LN.
+
+
+4.7
+ If you opt out of failover process as described in Section 4.6, LN will not initiate failover for your affected AI services, and you waive all claims or remedies you may have against LN related to the loss, interruption, or degradation of AI services due to the failover event or related to your opting out of the failover process. This waiver includes claims for damages, service credits, refunds, or termination rights that may otherwise be available under the Agreement or applicable law.
+
+
+4.8
+  LN will make commercially reasonable efforts to maintain the same service levels and performance standards for AI Services hosted on the secondary location as those on the primary location. You accept that some performance or functionality degradation may occur during and immediately after a failover.
+
+
+4.9
+ “Subscriber Files” means files (including voice recordings for transcription) that you or your Authorized Users upload to the Online Services (inclusive of any of Subscriber’s client’s information). You represent and warrant that Subscriber Files do not violate applicable law or infringe the rights of any third party. Uploading Subscriber Files to the Online Services shall not give rise to any claim of ownership in the Subscriber Files by LN. Unless otherwise stated herein, Subscriber Files will be processed in a non-persistent state, secured in transit, and are purged automatically at the end of a user session or a period of inactivity, whichever occurs first.  Subscriber Files do not include Prompts (as defined below).
+
+
+4.10
+ Prompt Retention. Certain features of the Online Services, including those utilizing AI technology, permit an Authorized User to enter or create a prompt (a “Prompt”), including Prompts requesting the summarization or analysis of text entered into the Prompt by the Authorized User.  You represent and warrant that your Prompts (or any portions thereof) do not violate applicable law or infringe the rights of any third party. The retention of Prompt history and its deletion is within the control of the Authorized User.
+
+
+ 
+
+
+5. LIMITED WARRANTY
+
+
+5.1
+ LN represents and warrants it has the right and authority to make the Online Services and Materials available to you and your Authorized Users.
+
+
+5.2
+  EXCEPT AS OTHERWISE PROVIDED IN SECTION 5.1, THE ONLINE SERVICES AND MATERIALS ARE PROVIDED ON AN “AS IS”, “AS AVAILABLE” BASIS AND LN AND EACH THIRD-PARTY SUPPLIER OF MATERIALS EXPRESSLY DISCLAIMS ALL OTHER WARRANTIES WHATSOEVER.
+
+
+ 
+
+
+6. LIMITATION OF LIABILITY
+
+
+6.1
+  A Covered Party (as defined below) shall not be liable for any loss, injury, claim, liability, or damage of any kind resulting in any way from:
+
+
+
+
+(a)
+errors or omissions in the Online Services or Materials;
+
+
+(b)
+the unavailability of the Online Services or any Materials;
+
+
+(c)
+your use of the Online Services or Materials; or
+
+
+(d)
+the loss or corruption of any data or equipment in connection with the Online Services.
+
+
+
+
+6.2
+  “Covered Party” means LN, its affiliates, any third-party supplier of Materials, and any of their respective officers, directors, employees, subcontractors, agents, successors, or assigns. 
+
+
+6.3
+  TO THE FULLEST EXTENT PERMISSIBLE BY APPLICABLE LAW, UNDER NO CIRCUMSTANCES WILL THE AGGREGATE LIABILITY OF THE COVERED PARTIES IN CONNECTION WITH ANY CLAIM ARISING OUT OF OR RELATING TO THE ONLINE SERVICES OR MATERIALS OR THIS AGREEMENT EXCEED THE LESSER OF YOUR ACTUAL DIRECT DAMAGES OR THE AMOUNT YOU PAID FOR THE ONLINE SERVICES IN THE 12 MONTH PERIOD IMMEDIATELY PRECEDING THE DATE THE CLAIM AROSE. YOUR RIGHT TO MONETARY DAMAGES IN THAT AMOUNT SHALL BE IN LIEU OF ALL OTHER REMEDIES WHICH YOU MAY HAVE AGAINST ANY COVERED PARTY.
+
+
+6.4
+  TO THE FULLEST EXTENT PERMISSIBLE BY APPLICABLE LAW, NEITHER YOU NOR THE COVERED PARTIES WILL BE LIABLE FOR ANY SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER (INCLUDING, WITHOUT LIMITATION, LAWYERS’ FEES) IN ANY WAY DUE TO, RESULTING FROM, OR ARISING IN CONNECTION WITH THE ONLINE SERVICES, MATERIALS OR THIS AGREEMENT, OR THE FAILURE OF ANY COVERED PARTY TO PERFORM ITS OBLIGATIONS. THIS LIMITATION OF LIABILITY DOES NOT APPLY TO (a) A PARTY'S INDEMNITY OBLIGATIONS, (b) CLAIMS OR DAMAGES ARISING FROM YOUR (AND YOUR AUTHORIZED USERS') INFRINGEMENT OF INTELLECTUAL PROPERTY (c) MISAPPROPRIATION OF PROPRIETARY DATA IN THE ONLINE SERVICES OR (d) YOUR UNAUTHORIZED DISCLOSURE OF LN’S DATA SECURITY INFORMATION.
+
+
+ 
+
+
+7. INDEMNIFICATION
+
+
+7.1
+  LN at its option and expense, shall either defend or settle any action, and indemnify and hold you harmless against, proceedings or damages of any kind or description based on a third party's claim of patent, trademark, service mark, copyright or trade secret infringement related to use of the Online Services or Materials provided:
+
+
+
+
+(a)
+all use of the Online Services and Materials was in accordance with this Agreement;
+
+
+(b)
+the claim, cause of action or infringement was not caused by you modifying or combining the Online Services or Materials with or into other products or applications not approved in writing by LN;
+
+
+(c)
+LN receives prompt notice of any such claim; and
+
+
+(d)
+LN has the right to control and direct the investigation, defense and settlement of each such claim
+
+
+(e)
+You reasonably cooperate with LN with respect to the foregoing.
+
+
+(f)
+If the Online Services or Materials become, or in the opinion of LN are likely to become, the subject of a claim of infringement, LN may, at its option and expense, either:
+
+
+
+
+(i)
+procure for you the right to continue using the Online Services or Materials;
+
+
+(ii)
+replace or modify the Online Services or Materials so that they become non-infringing; or
+
+
+(iii)
+if options (i) or (ii) are not reasonably available, terminate your Agreement on notice to you and grant you a pro-rata refund or credit (as applicable) for any pre-paid fees or fixed charges.
+
+
+
+
+
+
+
+
+7.2
+  The provisions of this section shall constitute your sole and exclusive remedy for the respective specified matters.
+
+
+ 
+
+
+8. CHANGES AND MODIFICATIONS
+
+
+8.1
+ These GTC, including the Supplemental Terms, the Online Services, and the Materials may be changed by LN without notice to you upon posting on this site, provided that such changes will only be applied prospectively and not be specifically directed against you. Continued use of the Online Services following the effective date of any change constitutes acceptance, but does not waive your rights under Section 9.
+
+
+ 
+
+
+9. TERMINATION
+
+
+9.1
+ You may terminate your Agreement if any change under Section 8 causes a material degradation in your access to the Online Services regularly used by you in the ordinary course of business or materially adversely affects your rights under this Agreement. For termination to be effective, notice thereof must be received by LN within 90 days of the date of the change, referencing this section and specifying in reasonable detail the facts and circumstances you allege give rise to your right to terminate. Upon receipt, LN shall have 30 days to cure the condition or circumstances alleged to constitute such material degradation or material adverse effect. Changes to the GTC in accordance with regulatory or legal requirements, or for compliance purposes, shall not give rise to the termination right described in this Section 9.1.
+
+
+9.2
+  LN may terminate your Agreement for convenience with no less than 10 days written notice.
+
+
+9.3
+  If you breach these GTC, LN may, without notice, temporarily suspend or discontinue providing access to the Online Services, as reasonably necessary to protect LN’s rights and interests under these GTC.
+
+
+9.4
+  Upon termination, your rights to use or access the Online Services and Materials immediately cease.
+
+
+ 
+
+
+10. PRIVACY AND DATA SECURITY
+
+
+10.1
+  The ability of LN to provide Materials is regulated by a variety of privacy, data protection, and other laws in a variety of jurisdictions (“Data Laws”) and by the licenses under which it obtains Materials (“Licenses”). You acknowledge that LN will perform a due diligence review of your account upon registration and that the due diligence review will be heightened if you desire to access sensitive, non-public Materials about individuals. You also acknowledge that LN will perform periodic reviews of you and your Authorized Users' use of Materials subject to Data Laws or Licenses (“Regulated Data”) to comply with Data Laws and license restrictions, and that the review may include asking you or your Authorized Users to verify that use of Regulated Data was for a permissible purpose. You and your Authorized Users will cooperate with LN in any such due diligence or regulatory review and will promptly produce all relevant records and documentation and other assistance reasonably requested by LN to enable LN to fulfill its obligations under Data Laws and Licenses. All reviews will be at the expense of LN. If there is any failure to cooperate with LN, or if any review reveals the lack of a permissible purpose to access Regulated Data, LN may deny access to the Online Services or to Regulated Data. LN will be under no obligation to reduce the fees payable by you to the extent that it is unable to provide Regulated Data to you based solely on your non-cooperation. 
+
+
+10.2
+  If you, any of your Authorized Users, or any person you or your Authorized Users permits to use the Online Services or who gains access through an Authorized User's failure to properly secure his or her LN ID or computer (a “User”) should access or use Regulated Data in an unauthorized manner (a “Security Event”), then the following provisions will apply: (a) if required by applicable law, you will notify the individuals whose information has potentially been accessed or used that a Security Event has occurred; (b) you will notify any other parties (including but not limited to regulatory entities and credit reporting agencies) as may be required by law; (c) the notification will not reference LN or the product through which the Regulated Data was provided, nor will LN be otherwise identified or referenced in connection with the Security Event, without the express written consent of LN; (d) you will be solely liable for all claims that may arise from a Security Event caused by you, your Authorized Users or a User and you will indemnify LN for any third-party claims directed against LN that arise from the Security Event; and (e) all notifications and indemnity claims related to the Security Event will be solely at your expense.
+
+
+10.3
+  You are responsible for the legality of the personal data that you or your Authorized Users provide to us. To the extent that you or your Authorized Users provide personal data to us for account registration or otherwise, the parties acknowledge and agree that we will process such information in accordance with the data protection laws, the LexisNexis Privacy Policy at 
+https://www.lexisnexis.com/global/privacy/privacy-policy.page
+ and the LexisNexis Data Processing Addendum at 
+https://www.lexisnexis.com/global/privacy/processing-terms.page
+ (“DPA”). Terms used but not defined in this section shall have the meanings ascribed to them in the DPA.
+
+
+ 
+
+
+11. NOTICES
+
+
+11.1 
+  Notices must be given:
+
+
+
+
+
+
+
+
+(a)
+ by certified next day delivery where you and LN are in the same country; or
+
+
+(b)
+ by certified airmail where you and LN are in different countries.
+
+
+
+
+
+
+
+
+Notices to LN must be sent to LexisNexis, Attn: Global Legal Operations, 9443 Springboro Pike, Miamisburg, OH 45342, or to 
+notices@lexisnexis.com
+ (provided that notices of LN’s breach, or your tendering of indemnification to LN must be marked as urgent in the subject line).
+
+
+Notices to you of breach, termination, or of the triggering of an indemnification obligation may be sent to you at any of your addresses listed in your Agreement.  LN may provide any other required notices to you via the Online Services.  
+
+
+ 
+
+
+12. MISCELLANEOUS
+
+
+12.1
+  Confidentiality
+
+
+
+
+
+
+
+
+(a)
+  The parties will maintain Confidential Information in trust and confidence and will not disclose Confidential Information (i) internally, except on a need to know basis, or (ii) to any third party, except to a party’s legal advisors, accountants, service providers and auditors who need access to the Confidential Information to provide professional services to the party. Disclosing Confidential Information to Advisors shall be governed by Section 12.1(c) below. Both LN and Subscriber understand that disclosure of Confidential Information could cause competitive harm to the other party. 
+
+
+(b)
+  Notwithstanding anything to the contrary herein, LN and Subscriber agree that Confidential Information shall not include information that (i) is already known to the receiving party (“Recipient”) at the time it is obtained from the disclosing party (“Discloser”), free from any obligation to keep such information confidential; (ii) is or becomes publicly known or available through no wrongful act of Recipient; (iii) is rightfully received from a third party without restriction and without breach of this Agreement; (iv) is contained in, or is capable of being discovered through examination of, publicly available records or products; (v) is required to be disclosed by law, regulation, or court order (provided that Recipient shall notify Discloser in advance in order to afford the Discloser an opportunity to seek a protective order to prevent or limit disclosure of the information to third parties); or (vi) is developed by Recipient without the use of any proprietary, non-public information provided by the Discloser.  Additionally, LN and its personnel shall be free to use and employ its and their general skills, know-how, and expertise, and to use, disclose, and employ any generalized ideas, concepts, know-how, methods, techniques, or skills gained or learned during the course of any assignment hereunder, so long as LN or its personnel acquire and apply such information without disclosure of any Confidential Information of Subscriber.
+
+
+(c)
+  Subscriber may share Confidential Information with an independent consultant or advisor (“Advisor”) provided Subscriber provides prior written notice to LN and the Advisor executes a nondisclosure agreement in a form and substance reasonably acceptable to LN that requires the Advisor to use Confidential Information solely for providing services to Subscriber and prohibits the Advisor from divulging, using or otherwise releasing the Confidential Information to other parties. The foregoing shall not apply to Subscriber’s accountants, auditors, or retained legal counsel. LN will provide Subscriber with a copy of such an agreement at Subscriber’s request
+
+
+(d)
+As used herein, “Confidential Information” means (A) for LN, any written subscription agreement between Subscriber and LN, the invoices and billing information issued under it, and related correspondence and documents that contain confidential pricing and business information of LN and any non-public information about pre-market release products and services; and (B) for Subscriber, client or customer names, financial information, work product and other non-public proprietary information.
+
+
+
+
+
+
+
+
+12.2
+  No party will be liable for any damage, delay, or failure of performance resulting directly or indirectly from a Force Majeure Event. If a Force Majeure Event occurs, the affected party will notify the other party and take commercially reasonable efforts to mitigate the adverse effects of the Force Majeure Event on its obligations under your Agreement. This section does not excuse your obligation to pay for Online Services actually received. As used herein, “Force Majeure Event” means: a cause which is beyond a party’s reasonable control, including without limitation, fire, riot, civil disturbance, strike (other than a strike by that party’s employees), embargo, explosion, natural disaster, epidemic, pandemic, act of military authority, act of terrorism, act of God, government requirement or delay, change in law or regulation, disruption or outage of communications, power or Internet infrastructure.
+
+
+12.3
+  EACH PARTY HEREBY UNCONDITIONALLY, KNOWINGLY, EXPRESSLY, VOLUNTARILY, IRREVOCABLY AND INTENTIONALLY WAIVES ITS RIGHT TO A JURY TRIAL TO THE FULLEST EXTENT PERMITTED BY LAW IN ANY SUIT, ACTION, DISPUTE OR PROCEEDING, WHETHER BY CLAIM OR COUNTERCLAIM, BROUGHT OR INSTITUTED BY OR AGAINST SUCH PARTY OR IN A REPRESENTATIVE CAPACITY, ARISING OUT OF, CONCERNING OR IN ANY WAY RELATING TO THE USE OF THE ONLINE SERVICES OR THE AGREEMENT.
+
+
+12.4
+ Certain aspects of the Online Services may link to websites or services operated by third parties unaffiliated with LN. Such links are provided for your convenience only. LN does not control, endorse or warrant the materials contained in such third-party websites and is not responsible for their content. Use of such third-party websites is at your own risk and you agree that LN is not responsible for such third-party websites and services or their content, and you agree to indemnify and hold LN harmless from all claims or liability arising from your use of such third-party websites or services.
+
+
+12.5
+ LN is continuously developing and improving its products and services. LN may ask you or certain of your Authorized Users to provide feedback including, but not limited to, proposed names, survey responses, research study participation, or user experience insights (“Feedback”) about, among other things, its pre-commercial concepts, branding, and/or pre-release versions of new or existing products and services (collectively, “Beta Products”). LN is free to incorporate and implement any Feedback into LN products or services without payment of current or future royalties or compensation. In consideration of your participation in and access to Beta Product development, you hereby assign to LN all rights, title, and interest to Feedback, and, to the extent such assignment is not lawful, you hereby grant LN a perpetual, irrevocable, royalty-free, exclusive, transferrable, worldwide license to use Feedback for all purposes and with all products now known or later created. You acknowledge that any (a) Feedback not already publicly known when disclosed to LN or (b) information disclosed to you about the features or functionalities of the Beta Product are the Confidential Information of LN. You consent to LN recording your Feedback. You relinquish any rights to the recording and understand the recording may be copied and used by LN without your further permission. LN will not use your name in endorsing LN products or services without your prior written consent.
+
+
+12.6
+  The failure of you, LN, or any third-party supplier of Materials to enforce any provision or exercise any right under these GTC shall not constitute or be construed as a waiver of such provision or of the right to enforce it later.
+
+
+12.7
+  You are liable for all costs of collection incurred by LN in connection with failure to pay for the Online Services, including, without limitation, collection agency fees, reasonable attorney's fees, and court costs.
+
+
+12.8
+  You may not assign your rights or delegate your duties under the Agreement without the written consent of LN, which shall not be unreasonably conditioned, delayed or withheld. The Agreement and any amendment thereto shall be binding on and will inure to the benefit of the parties and their respective successors and permitted assigns.
+
+
+12.9
+ Except as agreed otherwise in writing, the Agreement shall be governed by and construed in accordance with the laws of the State of New York, regardless of the law that might otherwise apply under applicable principles of conflicts of law.
+
+
+12.10
+  This Agreement will be enforced to the fullest extent permitted by applicable law. If any provision of this Agreement is held to be invalid or unenforceable to any extent, then (a) such provision will be interpreted, construed, and reformed to the extent reasonably required to render it valid, enforceable and consistent with its original intent and (b) such invalidity or unenforceability will not affect any other provision of this Agreement.
+
+
+12.11
+  The Online Services are not, nor are they intended to be, legal, accounting, financial or other professional advice or a substitute for advice of an attorney, accountant or any other professional. The Materials are intended only as general information and are not intended to be and should not be relied upon as legal advice. LN shall not be liable, and shall be held harmless, for any errors or omissions in the Online Services, and You assume all risks and liabilities in relying on the Online Services, contributing to a third party’s reliance on the Online Services, or inducing a third party to rely upon the Online Services. If you are a legal professional, you further agree that your use of the Online Services shall comply with all court rules, disclosure rules and all rules of professional and ethical conduct applicable to the legal profession in the location where you practice.
+
+
+12.12
+  The Agreement is a commercial agreement between the parties and shall not be deemed a consumer transaction except and solely to the extent expressly required by law.
+
+
+12.13
+  Where applicable, each affiliated company of LN and each third-party supplier of Materials has the right to assert and enforce the provisions of the Agreement directly on its own behalf as a third-party beneficiary.
+
+
+12.14
+ The Agreement constitutes the entire agreement of the parties with respect to its subject matter and replaces and supersedes any prior written or verbal communications, representations, proposals, or quotations on that subject matter. Unless otherwise agreed expressly in writing, the terms contained in any purchase order (or similar document) or procurement (or similar) website/portal of Subscriber relating to payment hereunder shall be for Subscriber’s internal purposes only (i.e., administrative convenience) and shall not modify or affect any of the terms or conditions of this agreement.
+
+
+Supplemental Terms:
+Supplemental Terms for Specific Materials
+
+
+Prior Versions of General Terms
+
+
+February 1, 2025
+
+
+November 11, 2023
+
+
+August 1, 2023
+
+
+December 20, 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

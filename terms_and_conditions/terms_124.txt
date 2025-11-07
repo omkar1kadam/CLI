@@ -1,0 +1,1404 @@
+ATTACHMENT B
+CONTRACT TERMS, CONDITIONS AND AFFIRMATIONS
+1. Defined Terms: As used in this Attachment B, the following capitalized terms have the meanings specified below.
+(a) Anonymized, Anonymizing and Anonymization shall have the meanings assigned by the National Institute of Standards and
+Technology (NIST) in NIST SP 800-122, and Anonymized data refers to previously identifiable information that has been de-
+identified and for which a code, audit log, link or other association for re-identification no longer exists. Anonymization includes,
+without limitation, masking for small numbers and multiple layers of anonymization techniques. The process of creating
+Anonymized data is the irreversible process of removing identifiable information from datasets.
+(b) Authorized User shall mean (i) TEA, (ii) any Texas Local Education Agency (“LEA”), school district staff member, open-
+enrollment charter school, open-enrollment charter school staff member, private school, private school staff member, teacher,
+tutor, parent, student and/or resident (whether currently in-state or temporarily outside the State), and (iii) any other third party
+and its or their staff or personnel serving or acting on behalf of any of the Authorized Users named in (i) or (ii) above.
+(c) Cloud Computing means, in accordance with Section 2054.0593 of the Texas Government Code, a model for enabling
+ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks,
+servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or
+service provider interaction.
+(d) Commercial shall mean selling or reselling (whether directly or indirectly, via outright sale, license or otherwise) for financial
+consideration, access to the Contractor Materials or the Technology Platform.
+(e) Comptroller means the Texas Comptroller of Public Accounts.
+(f) Contract means the document entered into between TEA and Contractor, including all attachments (for the avoidance of doubt,
+including, but not limited to, the Standard TEA Terms and Conditions and any Special Terms and Conditions), annexes,
+exhibits, schedules, amendments, renewals and extensions of or to the Contract.
+(g) Contract Manager means the respective person(s) representing TEA or Contractor, as indicated by the Contract, for the
+purposes of administering the Contract Project.
+(h) Contract Project means the purpose intended to be achieved through the Contract.
+(i) Contractor means the party to this Contract who is providing the contracted goods or services to TEA, provided that, prior to
+Contract award, Contractor means the person or entity who provides a Response (i.e., a “Respondent”).
+(j) Contractor Materials means, collectively: (i) the pre-existing, complete, standalone materials or products of Contractor marketed
+and offered by Contractor to third parties prior to provision to TEA that Contractor can document as such, (ii) all Intellectual
+Property Rights embodied therein, and (iii) any derivatives thereof (other than those created by TEA during the Term) and all
+Intellectual Property Rights embodied in those derivatives. Contractor Materials includes any Third-Party Materials. Contractor
+Materials includes the Technology Platform.
+(k) FERPA means the Family Educational Rights and Privacy Act (20 U.S.C. § 1232g; 34 CFR Part 99), the regulations issued
+pursuant thereto, and any amendments thereto.
+(l) Generative AI means an artificial intelligence capable of producing new or original outputs that resemble human-created
+content. Outputs created by a Generative AI can include text, images, audio, video, or computer code. Producing new and
+original content can include modifications to, or derivations of, existing content used as an input or prompt for the Generative
+AI. Generative AI does not include narrow AI if the narrow AI is incapable of producing new or original outputs.
+(m) HSP means a HUB subcontracting plan.
+(n) HUB means an entity certified by the Comptroller as a Historically Underutilized Business as defined in Section 2161.001 of
+the Texas Government Code.
+(o) Intellectual Property Rights means the legal rights or interests evidenced by or embodied in: (i) any idea, design, concept,
+method, process, technique, apparatus, invention, discovery, or improvement, including any patents, trade secrets, and know-
+how; (ii) any work of authorship, including any copyrights, moral rights or neighboring rights; (iii) any trademark, service mark,
+trade dress, trade name, or other indicia of source or origin; (iv) domain name registrations, social media pages and associated
+handles and hashtags; and (v) any other similar rights. The Intellectual Property Rights of a party include all legal rights or
+interests that the party may have acquired by assignment or license with the right to grant sublicenses.
+Rev. 04.01.25
+(p) Non-Commercial means any activity other than Commercial activities.
+(q) Personally Identifiable Information means information that alone or in conjunction with other information identifies an individual,
+including, but not limited to, an individual’s: name; Social Security number; date of birth; driver’s license number; government-
+issued identification number; mother’s maiden name; unique biometric data (including, but not limited to, the individual’s
+fingerprint, voice print, retina or iris image, or a record of hand or face geometry); unique electronic identification number;
+address or routing code; telecommunication access device; account number or credit or debit card number in combination with
+any required security code, access code, or password that would permit access to an individual’s financial account; and/or
+identity and relates to the physical or mental health or condition of the individual, the provision of health care to the individual;
+or payment for the provision of health care to the individual.
+With regard to information relating to students, the term also includes:
+(i) The student’s name;
+(ii) The name of the student’s parents or other family members;
+(iii) The address of the student’s parent or other family members;
+(iv) A personal identifier, such as the student's Social Security number, student number, or biometric record (as defined in 34
+CFR 99.3);
+(v) Other indirect identifiers, such as the student's date of birth, place of birth, and mother's maiden name;
+(vi) Other information that, alone or in combination, is linked or linkable to a specific student that would allow a reasonable
+person in the school community, who does not have personal knowledge of the relevant circumstances, to identify the
+student with reasonable certainty; or
+(vii) Information requested by a person who the educational agency or institution reasonably believes knows the identity of the
+student to whom the education record relates.
+(r) Protected Data means the data, in electronic and physical form, that
+(i) is collected by and through any Technology Platform provided or operated by Contractor,
+(ii) may be input by Authorized Users, and/or
+(iii) is generated by Authorized Users or their devices by interacting with any Technology Platform provided by or through
+Contractor, including, without limitation, Personally Identifiable Information pertaining to students as well as to their parents
+or legal guardian and all grades, scorings, rankings, percentage comparisons, answers and responses to questions and
+assignments, and “educational records” as that term is defined by FERPA. Protected Data shall also include all versions
+and portions of any part of the Protected Data, all files and databases containing such Protected Data, as well as any
+information derived or generated therefrom through database hygiene, database management or otherwise.
+(s) Response is what a Contractor submits in response to the solicitation that underlies this Contract, if any.
+(t) Service Credit means any applicable credit, discount or refund for inadequate performance of the products or services under
+the Contract including, without limitation, of a Technology Platform, that could be construed as liquidated damages and has
+been incorporated into this Contract as a valid pre-estimate of damages TEA will sustain which will not be capable of precise
+determination; such credit is therefore considered to be an agreed-upon cost incurred as a result of Contractor’s failure to meet
+the contracted-for requirements and is not a penalty.
+(u) Special Terms and Conditions means the provisions contained in an Attachment C, if any.
+(v) Standard TEA Terms and Conditions or Standard Terms means the provisions contained in this Attachment B.
+(w) State means the State of Texas.
+(x) TEA means the Texas Education Agency.
+(y) TEA Confidential Information means information that is confidential under the provisions of FERPA, the Texas Public
+Information Act, or other applicable State or federal laws and (1) that is provided to Contractor by TEA, (2) that Contractor
+collects on behalf of TEA, or (3) that Contractor obtains in connection with the provision of goods and services hereunder. TEA
+Confidential Information also means information that is otherwise designated by TEA as non-public. TEA Confidential
+Information includes, without limitation, Protected Data. Examples of TEA Confidential Information include: (i) Personally
+Identifiable Information (ii) criminal background checks; (iii) an e-mail address of a member of the public, unless the individual
+waives his or her right to e-mail confidentiality by affirmatively consenting to disclose the e-mail address or the individual seeks
+to contract or has a contract with TEA; (iv) certain personnel information concerning a TEA employee including, but not limited
+to, home address, home telephone number, emergency contact information, and family member information (if the employee
+elects in writing to keep this information confidential), personal medical information, and information reflecting personal financial
+B - 2
+decisions such as the employee’s choice of insurance carrier or choice to contribute money to a 401(k); (v) information about
+security vulnerabilities in TEA systems; (vi) dataset extracted from confidential sources (e.g., SAS data sets); and (vii) student
+IDs (FERPA protected) and some government IDs. TEA Confidential Information also includes, without limitation, all cookies
+and metadata associated with TEA’s webpages and online content. TEA Confidential Information does not include information
+that is proven by written records: (i) to be publicly known at the time of disclosure, (ii) to subsequently become publicly known
+through no fault of the Contractor and that is not under any other restrictions, or (iii) to have been obtained by Contractor
+through legitimate means other than from TEA, TEA’s representatives, other contractors, or Authorized Users and that is not
+under any other restrictions.
+(z) TEA Trademarks License has the meaning assigned to such term in Clause 20 of this Attachment B.
+(aa) Technology Platform means the software and infrastructure (including but not limited to Contractor’s software application or
+applications and any third-party or other software, and all new versions, updates, revisions, improvements, and modifications)
+in a hosted environment provided by Contractor to which TEA and/or Any Authorized User is being granted access under this
+Contract via a web site, designated IP address(es), or APIs, as described more fully in Attachment G to the Contract.
+(bb) Term means the period of time between the execution of the Contract and the expiration of the Contract.
+(cc) Third-Party Materials means any licensed third-party materials, and derivatives thereof, provided by Contractor to TEA.
+(dd) WCAG means the Web Content Accessibility Guidelines, version 2.1 of June 5, 2018, level AA, from the World Wide Web
+Consortium, which are incorporated herein by reference.
+(ee) Working Day means any day, Monday-Friday, other than a national holiday or state holiday, each as defined by Section 662.003
+of the Texas Government Code, the Friday after Thanksgiving Day, December 24th, December 26th and any other day that
+TEA is closed. Use in these Standard Terms of the term “day” or “calendar day” rather than “working day” shall mean a calendar
+day.
+(ff) Works means all tangible or intangible material, products, ideas, documents or works of authorship prepared or created by
+Contractor for or on behalf of TEA at any time after the beginning date of the Contract. Works includes but is not limited to
+computer software, data, metadata, source code, concepts, systems, methodologies, information, images, illustrations,
+designs, graphics, drawings, educational materials, assessment forms, testing materials, logos, trademarks, patentable
+materials, input and output of a Generative AI and any revisions, edits, or derivatives thereof, etc. Works excludes any
+Contractor Materials, as defined above.
+2. Excess Obligations Prohibited: This Contract is subject to termination or cancellation, without penalty to TEA, either in whole or in
+part, subject to the availability of State funds. TEA is a State agency whose authority and appropriations are subject to actions of the
+Texas Legislature. If TEA becomes subject to a legislative change, revocation of statutory authority, or lack of appropriated funds
+that would render either TEA’s or Contractor’s delivery or performance under the Contract impossible or unnecessary, the Contract
+will be terminated or cancelled and be deemed null and void. In the event of a termination or cancellation under this provision, TEA
+will not be liable to Contractor for any damages that arise out of or are related to such termination or cancellation, and TEA will not
+be required to give prior notice of such termination or cancellation. Termination under this Clause shall not affect TEA's right to use
+previously paid licensed goods or services through the term of each such license, or any maintenance or support paid prior to such
+termination.
+3. Indemnification: For the avoidance of doubt, TEA shall not indemnify Contractor or any other entity under the Contract because
+TEA is prohibited by law from indemnifying third parties.
+General
+CONTRACTOR SHALL DEFEND, INDEMNIFY AND HOLD HARMLESS THE STATE AND TEA, AND/OR THEIR OFFICERS,
+AGENTS, EMPLOYEES, REPRESENTATIVES, CONTRACTORS, ASSIGNEES, DESIGNEES, AND/OR ANY AUTHORIZED
+USER THAT DIRECTLY OR INDIRECTLY RECEIVES GOODS OR SERVICES FROM CONTRACTOR PURSUANT TO THIS
+CONTRACT, FROM AND AGAINST ANY AND ALL LIABILITY, ACTIONS, CLAIMS, DEMANDS, OR SUITS, AND ALL RELATED
+COSTS, ATTORNEY FEES, AND EXPENSES ARISING OUT OF, OR RELATING TO ANY ACTS OR OMISSIONS OF
+CONTRACTOR OR ITS AGENTS, EMPLOYEES, SUBCONTRACTORS, ORDER FULFILLERS, OR SUPPLIERS OF
+SUBCONTRACTORS IN THE EXECUTION OR PERFORMANCE OF THE CONTRACT AND ANY PURCHASE ORDERS ISSUED
+UNDER THE CONTRACT. THE DEFENSE SHALL BE COORDINATED BY CONTRACTOR WITH THE OFFICE OF THE TEXAS
+ATTORNEY GENERAL WHEN TEXAS STATE AGENCIES ARE NAMED DEFENDANTS IN ANY LAWSUIT AND CONTRACTOR
+MAY NOT AGREE TO ANY SETTLEMENT WITHOUT FIRST OBTAINING THE CONCURRENCE FROM THE OFFICE OF THE
+TEXAS ATTORNEY GENERAL. CONTRACTOR AND TEA AGREE TO FURNISH TIMELY WRITTEN NOTICE TO EACH OTHER
+OF ANY SUCH CLAIM.
+Intellectual Property
+CONTRACTOR SHALL DEFEND, INDEMNIFY AND HOLD HARMLESS THE STATE AND TEA, AND/OR THEIR OFFICERS,
+AGENTS, EMPLOYEES, REPRESENTATIVES, CONTRACTORS, ASSIGNEES, DESIGNEES, AND/OR ANY AUTHORIZED
+B - 3
+USER THAT DIRECTLY OR INDIRECTLY RECEIVES GOODS OR SERVICES FROM CONTRACTOR PURSUANT TO THIS
+CONTRACT, FROM AND AGAINST ANY AND ALL LIABILITY, ACTIONS, CLAIMS, VIOLATIONS, MISAPPROPRIATIONS OR
+INFRINGEMENT OF ANY PATENT, TRADEMARK, COPYRIGHT, TRADE SECRET OR OTHER INTELLECTUAL PROPERTY
+RIGHTS AND/OR OTHER INTANGIBLE PROPERTY, PUBLICITY OR PRIVACY RIGHTS, ARISING OUT OF OR RELATING TO:
+(A) THE PERFORMANCE OR ACTIONS OF CONTRACTOR PURSUANT TO THIS CONTRACT; (B) ANY DELIVERABLE, WORKS,
+DERIVATIVES OF SUCH DELIVERABLES AND WORKS, CONFIGURED SERVICE OR OTHER SERVICE PROVIDED
+HEREUNDER; AND/OR (C) TEA’S AND/OR CONTRACTOR’S USE OF OR ACQUISITION OF ANY REQUESTED SERVICES OR
+OTHER ITEMS PROVIDED TO TEA BY CONTRACTOR OR OTHERWISE TO WHICH TEA HAS ACCESS AS A RESULT OF
+CONTRACTOR’S PERFORMANCE UNDER THE CONTRACT. CONTRACTOR AND TEA AGREE TO FURNISH TIMELY
+WRITTEN NOTICE TO EACH OTHER OF ANY SUCH CLAIM. CONTRACTOR SHALL BE LIABLE TO PAY ALL RELATED COSTS,
+ATTORNEYS’ FEES, AND EXPENSES. THE DEFENSE SHALL BE COORDINATED BY CONTRACTOR WITH THE OFFICE OF
+THE TEXAS ATTORNEY GENERAL WHEN TEXAS STATE AGENCIES ARE NAMED DEFENDANTS IN ANY LAWSUIT AND
+CONTRACTOR MAY NOT AGREE TO ANY SETTLEMENT WITHOUT FIRST OBTAINING THE CONCURRENCE FROM THE
+OFFICE OF THE TEXAS ATTORNEY GENERAL. IN ADDITION, CONTRACTOR WILL REIMBURSE TEA AND THE STATE FOR
+ANY CLAIMS, DAMAGES, COSTS, EXPENSES OR OTHER AMOUNTS, INCLUDING, BUT NOT LIMITED TO, ATTORNEYS’
+FEES AND COURT COSTS, ARISING FROM ANY SUCH CLAIM. IF TEA DETERMINES THAT A CONFLICT EXISTS BETWEEN
+ITS INTERESTS AND THOSE OF CONTRACTOR OR IF TEA IS REQUIRED BY APPLICABLE LAW TO SELECT SEPARATE
+COUNSEL, TEA WILL BE PERMITTED TO SELECT SEPARATE COUNSEL AND CONTRACTOR WILL PAY ALL REASONABLE
+COSTS OF TEA’S COUNSEL. FOR AVOIDANCE OF DOUBT, NOTWITHSTANDING THE ABOVE, ANY GOODS OR SERVICES
+CREATED BY A GENERATIVE AI ARE SUBJECT TO THIS INDEMNITY.
+Taxes/Workers’ Compensation/Unemployment Insurance – Including Indemnity
+CONTRACTOR AGREES AND ACKNOWLEDGES THAT DURING THE EXISTENCE OF THIS CONTRACT, CONTRACTOR
+SHALL BE ENTIRELY RESPONSIBLE FOR THE LIABILITY AND PAYMENT OF CONTRACTOR’S AND CONTRACTOR’S
+EMPLOYEES’ TAXES OF WHATEVER KIND, ARISING OUT OF THE PERFORMANCES IN THIS CONTRACT. CONTRACTOR
+AGREES TO COMPLY WITH ALL STATE AND FEDERAL LAWS APPLICABLE TO ANY SUCH PERSONS, INCLUDING LAWS
+REGARDING WAGES, TAXES, INSURANCE, AND WORKERS’ COMPENSATION. TEA AND/OR THE STATE SHALL NOT BE
+LIABLE TO CONTRACTOR, ITS EMPLOYEES, AGENTS, OR OTHERS FOR THE PAYMENT OF TAXES OR THE PROVISION
+OF UNEMPLOYMENT INSURANCE AND/OR WORKERS’ COMPENSATION OR ANY BENEFIT AVAILABLE TO A STATE
+EMPLOYEE OR EMPLOYEE OF ANOTHER GOVERNMENTAL ENTITY CUSTOMER.
+CONTRACTOR AGREES TO INDEMNIFY AND HOLD HARMLESS TEA, THE STATE AND/OR THEIR EMPLOYEES, AGENTS,
+REPRESENTATIVES, CONTRACTORS, AND/OR ASSIGNEES FROM ANY AND ALL LIABILITY, ACTIONS, CLAIMS, DEMANDS,
+OR SUITS, AND ALL RELATED COSTS, ATTORNEYS’ FEES, AND EXPENSES, ARISING OUT OF OR RELATING TO PAYMENT
+OF TAXES OR THE PROVISION OF UNEMPLOYMENT INSURANCE AND/OR WORKERS’ COMPENSATION OR ANY BENEFIT
+AVAILABLE TO A STATE EMPLOYEE OR EMPLOYEE OF ANOTHER GOVERNMENTAL ENTITY CUSTOMER IN ITS
+PERFORMANCE UNDER THIS CONTRACT. CONTRACTOR SHALL BE LIABLE TO PAY ALL COSTS OF DEFENSE INCLUDING
+ATTORNEYS’ FEES. THE DEFENSE SHALL BE COORDINATED BY CONTRACTOR WITH THE OFFICE OF THE ATTORNEY
+GENERAL WHEN TEXAS STATE AGENCIES ARE NAMED DEFENDANTS IN ANY LAWSUIT AND CONTRACTOR MAY NOT
+AGREE TO ANY SETTLEMENT WITHOUT FIRST OBTAINING THE CONCURRENCE FROM THE OFFICE OF THE ATTORNEY
+GENERAL. CONTRACTOR AND TEA AGREE TO FURNISH TIMELY WRITTEN NOTICE TO EACH OTHER OF ANY SUCH
+CLAIM.
+4. Signature Authority and Binding Effect: By executing the Contract, Contractor represents and warrants that the individual signing
+the Contract and any documents made part of the Contract, including, without limitation, the Response, is authorized to sign such
+documents on behalf of the Contractor and to bind the Contractor under the Contract. The Contract shall be binding upon and shall
+inure to the benefit of TEA and Contractor and to their respective permitted successors, and assigns.
+5. Responsibility for Actions and Limitation on Authority: Contractor is solely responsible for its actions and those of its agents,
+employees or subcontractors. Contractor and its agents, employees or subcontractors shall have no authority to act for or on behalf
+of TEA or the State except as expressly provided for in the Contract; no other authority, power or use is granted or implied. Contractor
+and its agents, employees and subcontractors may not incur any debt, obligation, expenses, or liability of any kind on behalf of TEA
+or the State.
+6. Final Expression, and Superseding Document: The Contract represents the final and complete expression of the terms of
+agreement between the parties. The Contract supersedes any previous understandings or negotiations between the parties and any
+documents referenced via URLs, “click-through” license agreements, end-user licenses, subscription agreements, terms of use or
+other terms that may be presented on, through or by the Technology Platform provided or operated by Contractor (whether presented
+before or after Contract signing) (collectively, “Supplemental Terms”). Such Supplemental Terms shall have no force and effect with
+respect to the Parties or any Authorized Users except with respect to the Creative Commons and open source licenses specified in
+Attachment E to the Contract. Contractor hereby represents and warrants that no Creative Commons licenses or open source
+licenses are applicable to any Works or Contractor Materials (other than a Technology Platform) except as provided in Attachment
+E to the Contract, and if no Attachment E is attached to the Contract, no such Supplemental Terms apply to this Contract. Subject to
+the foregoing, any representations, oral statements, promises or warranties that differ from the Contract shall have no force or effect.
+The Contract may be modified, amended or extended as provided in Clause 7 or Clause 37 below.
+B - 4
+Notwithstanding the foregoing, a particular Authorized User may agree to terms that are more protective of that Authorized User or
+their interests provided those terms do not conflict with the terms and conditions of this Contract. No such terms and conditions shall
+have any effect to the extent that they conflict with or diminish the rights of any Authorized User, or the protections afforded that
+Authorized User through this Contract.
+7. Contract Change Management Procedure and Amendments: All modifications, amendments or extensions to this Contract are
+subject to Clause 2 of these Standard TEA Terms and Conditions, will be executed on standard TEA forms, and will follow TEA’s
+internal contracting process. All modifications, amendments or extensions will be initiated by TEA Contract and Purchasing staff. A
+modification, amendment, or extension to this Contract will become effective on the date of signature by TEA or the effective date
+shown on such, modification, amendment or extension document, whichever is later. All modifications, amendments, or extensions
+(other than a renewal as provided for in the Contract) must be in writing and signed by both parties. Notwithstanding the foregoing,
+TEA may make technical amendments in order to correct manifest errors in the Contract, provided such technical amendments would
+not have a materially adverse effect on Contractor and Contractor does not contest such amendments in writing within 30 days after
+TEA provides written notice to Contractor of such technical amendments.
+(a) Written amendments are required for the following Contract changes:
+i. Any revision which would result in the need for additional funding;
+ii. Revisions or additions to the scope of work, deliverables, or objectives of the Contract, other than revisions permitted
+by paragraph (b) of this Clause 7;
+iii. Any extension of the period of the Contract other than a renewal as provided for in the Contract;
+iv. Any reduction of funds or reduction in the scope of work, other than revisions permitted by paragraph (b) of this Clause
+7; and
+v. Any change to the Standard TEA Terms and Conditions.
+(b) Budget revisions approved by Contract Managers may be permitted, provided that: (1) any changes are documented in a form
+prepared by the TEA Contracts and Purchasing Division; (2) such budget revisions are countersigned by Contract Manager
+and Contractor; and (3) such changes are approved in writing by the TEA Contracts and Purchasing Division. Such budget
+revisions may only be considered in the following circumstances:
+i. Reallocating existing funds among existing Contract tasks/deliverables (up to 25% increase or any decrease for each
+specified task/deliverable, provided that total Contract value does not increase);
+ii. Reallocating funds across TEA fiscal years and State bienniums; and
+iii. Revisions to the scope of work consisting of a reduction to specified tasks that would decrease the total Contract value.
+Unauthorized Purchases
+All changes to this Contract must follow the change management procedures set forth above. Any work not contemplated in this
+Contract must be added to this Contract in a formal contract amendment processed by the TEA Contracts and Purchasing Division
+prior to the work commencing. Only four individuals are authorized to execute contracts on behalf of the Texas Education Agency:
+The Commissioner of Education, the Deputy Commissioner of Finance, the Associate Commissioner of Agency Finance and the
+Director of Contracts and Purchasing. An amendment not signed by one of these four individuals is void. TEA shall have no obligation
+to pay for work performed without an executed Contract amendment in place in accordance with the foregoing. For any questions
+about Contract changes and to verify an amendment or budget revision, please email: teacontractmonitoring@tea.texas.gov.
+Updates to Standard TEA Terms and Conditions
+TEA updates the TEA Standard Terms and Conditions on a regular basis to account for changes to laws and evolving agency needs.
+Contractor agrees that updated Standard TEA Terms and Conditions may be included in any amendment, renewal, or other
+document altering this Contract and that any negotiations regarding such updated Standard TEA Terms and Conditions will be limited
+to terms that have changed since the most recent Standard TEA Terms and Conditions attached to the Contract.
+8. Assignment: Contractor may not assign the Contract or assign, transfer or delegate, in whole or in part, any of its interest in, or
+rights or obligations under, the Contract without the prior written consent of TEA, and any attempted or purported assignment, transfer
+or delegation thereof without such consent shall be null and void. To seek consent for assignment of this Contract, Contractor should
+contact TEAContractMonitoring@tea.texas.gov.
+9. Mergers, Conversions, and Name Changes: Contractor must notify TEA if Contractor is party to a merger, conversion to a different
+entity type, or amendment of its name within 15 calendar days of the effective date of the merger, conversion or name change. Upon
+effectiveness of the merger, conversion or name change, Contractor must submit to TEA (1) a certified copy of the merger, conversion
+or amendment document filed with Contractor’s home state and (2) if Contractor is not a Texas entity, sufficient evidence to prove
+Contractor has updated its registration to transact business in Texas with the Texas Secretary of State pursuant to Chapter 9 of the
+Texas Business Organizations Code. Submissions under this Clause should be made to TEAContractMonitoring@tea.texas.gov.
+If Contractor is a non-surviving party to the merger, Contractor’s representatives may designate a surviving party of the merger.
+Subject to TEA approval in Clause 8, Assignment, the Contract will be considered to have been assigned to the designated survivor
+on the effective date of the merger or acquisition.
+If Contractor survives the merger, no changes to the Contract shall be made. Payment will continue to be made directly to Contractor
+or its designee pursuant to the Contract.
+B - 5
+10. Subcontracting: Contractor may not subcontract any or all of the work and/or obligations due under the Contract without prior written
+approval of TEA. If the Contractor intends to enter into any subcontracts, Contractor shall send notice of such intent to the Contract
+Manager with a copy sent to TEAContractMonitoring@tea.texas.gov. Subcontracts, if any, entered into by the Contractor shall be in
+writing and be subject to the requirements of the Contract. Should Contractor subcontract any of the services required in the Contract,
+Contractor expressly understands and acknowledges that in entering into such subcontract(s), TEA is in no manner liable to any
+subcontractor(s) of Contractor. In no event shall this provision relieve Contractor of the responsibility for ensuring that the services
+performed under all subcontracts are rendered in compliance with the Contract.
+11. Personnel Assignments, Transfers, HUB Subcontracting, Substitutions and Reporting: TEA reserves the right to request
+changes in personnel assigned to the Contract Project. The TEA Contract Manager must pre-approve any changes in key personnel
+throughout the Term. Pursuant to 34 Tex. Admin. Code § 20.281-298 and Chapter 2161 of the Texas Government Code, Contractor
+shall maintain business records documenting compliance with the HSP and shall submit compliance reports to TEA. Any changes to
+the HSP must be approved by TEA HUB Coordinator before subcontracting changes are initiated. Substitutions are not permitted
+without written approval of TEA Contract Manager. If Contractor subcontracts any of the work without prior authorization and without
+complying with this Clause, Contractor is deemed to have breached the Contract and is subject to any remedial actions provided by
+Chapter 2161 of the Texas Government Code and other applicable State law. Contractor will be responsible for maintaining business
+records documenting compliance with HUB Program requirements. Contractor shall submit a Progress Assessment Report (PAR)
+monthly documenting all subcontractor payments made in the preceding month. Submission of the PAR is a condition for payment.
+PAR’s are due no later than the 10th day of the following month. The PAR is required to be submitted monthly, even if no reportable
+activity occurred for the month. Reports shall be submitted electronically to the HUBOffice@tea.texas.gov. In addition to the PAR,
+Contractor shall also create and maintain a monitoring report to document that it is diligently monitoring and enforcing subcontractor
+compliance with the Contract. When requested by TEA, Contractor shall furnish TEA with satisfactory proof of its compliance with
+this provision.
+12. Interpretation: If this Contract is the result of a competitive solicitation, the terms, conditions, and assurances stated in such
+solicitation, if any, as well as Contractor’s Response thereto, are incorporated herein by reference. In the event of a conflict between
+or among the various documents comprising the Contract, the order of precedence set forth in the Contract shall apply.
+13. Severability: In the event that any provision of this Contract is later determined to be invalid, void, or unenforceable, the invalid
+provision will be deemed severable and stricken from the Contract as if it had never been incorporated herein. The remaining terms,
+provisions, covenants, and conditions of this Contract shall remain in full force and effect, and shall in no way be affected, impaired,
+or invalidated.
+14. Proof of Financial Stability, Records Retention and the Right to Audit: TEA may require Contractor to provide proof of financial
+stability prior to or at any time during the Term.
+Contractor shall maintain and retain all records relating to the performance of the Contract, including supporting fiscal documents
+adequate to ensure that claims for Contract funds are in accordance with applicable State requirements. These records will be
+maintained and retained by Contractor for a period of seven years after (a) the Contract expiration date or (b) the resolution of all
+audit, claim, and litigation matters related to the Contract, whichever is later.
+15. State Auditor’s Right to Audit: Pursuant to Section 2262.154 of the Texas Government Code, the State auditor may conduct an
+audit or investigation of Contractor or any other entity or person receiving funds from the State directly under this Contract or indirectly
+through a subcontract under this Contract. The acceptance of funds by Contractor or any other entity or person directly under this
+Contract or indirectly through a subcontract under this Contract acts as acceptance of the authority of the State auditor, under the
+direction of the legislative audit committee to conduct an audit or investigation in connection with those funds. Under the direction of
+the legislative audit committee, Contractor or other entity that is the subject of an audit or investigation by the State auditor must
+provide the State auditor with access to any information the State auditor considers relevant to the investigation or audit. Contractor
+will ensure that this Clause concerning the authority to audit funds received indirectly by subcontractors through the Contract and
+the requirement to cooperate is included in any subcontract it awards.
+Contractor further agrees that acceptance of funds under this Contract acts as acceptance for TEA to conduct an audit or investigation
+in connection with those funds. Contractor, subcontractors, and any entities receiving funds through this Contract shall cooperate
+fully with TEA in the conduct of the audit or investigation, including making available at reasonable times and upon reasonable notice,
+and for a reasonable period, work papers, reports, books, records, supporting documents and any other records kept current by them
+pertaining to the Contract for purposes of inspecting, monitoring, auditing or evaluating by TEA and the State of Texas.
+16. Technology Platform (SaaS) License
+(a) License to Access and Use Technology Platform: Contractor hereby grants to TEA, exercisable by TEA and by and through
+its Authorized Users, a nonexclusive, royalty-free, irrevocable, transferable and sublicensable right and license throughout the
+world during the Term and such additional periods, if any, as Contractor is required to provide any Technology Platform, to: (i)
+access and use the Technology Platform, including in operation with other software, hardware, systems, networks, and
+Technology Platform, for TEA’s permitted uses; (ii) generate, print, copy, upload, download, store and otherwise process all
+graphical user interfaces, audio, visual, digital, and other output, displays, and content as may result from any access to or use
+of the Technology Platform; (iii) prepare, reproduce, print, download and use as many copies of the documentation as may be
+necessary or useful for any use of the Technology Platform under this Contract; (iv) access and use the Technology Platform
+B - 6
+for all such non-production uses and applications as may be necessary or useful for the effective use of the Technology Platform
+as permitted hereunder, including for purposes of analysis, development, configuration, integration, testing, training,
+maintenance, support, and repair, which access and use will be without charge and shall not be included for any purpose in
+any calculation of TEA’s or its Authorized Users’ use of the Technology Platform, including for purposes of assessing any fees
+or other consideration payable to Contractor or determining any excess use of the Technology Platform as described in an
+order; and (v) perform, display, execute, reproduce, and modify (including to create improvements and derivative works of),
+and distribute and otherwise make available to Authorized Users, any Technology Platform solely to the extent necessary to
+access or use the Technology Platform in accordance with the terms and conditions of this Contract.
+(b) Technology Platform Service Levels and Service Credits: Contractor shall make the Technology Platform, if any, available
+to Authorized Users in accordance with Attachment F to the Contract, if attached, and provide the Service Credits set forth in
+Attachment F to the Contract for any failure to meet the agreed upon service levels.
+(c) Technical Support Service Levels: Contractor shall provide Authorized Users with technical support in accordance with
+Attachment F to the Contract, if any.
+(d) No Indemnities for Authorized Users: The Parties hereby acknowledge and agree that since Contractor controls the means
+of access to the Technology Platform and TEA is prohibited by law from indemnifying third parties, TEA shall have no
+responsibility or liability for: (1) verifying or enforcing whether an Authorized User is a bona fide Authorized User; (2) creating,
+distributing or enforcing login credentials; (3) controlling whether or not access to the Technology Platform is limited to
+Authorized Users; (4) enforcing or controlling Authorized Users’ use of the Contractor Materials; (5) limiting Authorized Users’
+use of the Contractor Materials to Non-Commercial uses; (6) use of Contractor Materials by Authorized Users; (7) any other
+failures of, or actions by, any Authorized User in connection with this Contract, other than the willful actions of TEA or its
+employees; or (8) adherence to any Technology Platform user agreement provisions.
+17. Intellectual Property
+(a) Ownership and License to Works Components
+Contractor agrees that all Works (as defined above) are intended to be and are, upon creation, works made for hire and the
+sole property of TEA. Contractor and its officers, directors, employees, agents, representatives and subcontractors shall have
+no rights therein. If the Works are, under applicable law, not considered works made for hire, Contractor hereby assigns to TEA
+all worldwide ownership of all rights in the Works, including, but not limited to, the Intellectual Property Rights, all works based
+upon, derived from or incorporating the Works, all income, royalties, damages, claims and payments now or hereafter due or
+payable with respect thereto, all causes of action, either in law or in equity for past, present, or future infringement based on
+the Intellectual Property Rights, and all rights corresponding to the foregoing. Contractor agrees to execute all papers and to
+perform such other actions, as TEA may deem necessary to secure for TEA or its designee the rights herein assigned, without
+the necessity of any further consideration, and TEA can obtain and hold in its own name all such rights to the Works. Contractor
+agrees to maintain written agreements with all officers, directors, employees, agents, representatives and subcontractors
+engaged by Contractor for the Contract Project, granting Contractor rights sufficient to support the performance and grant of
+rights to TEA by Contractor. Copies of such agreements shall be provided to TEA promptly upon request.
+In the event that Contractor has any rights in and to the Works that cannot be assigned to TEA, Contractor hereby grants to
+TEA an exclusive, worldwide, royalty-free, irrevocable, and perpetual license to directly and indirectly reproduce, distribute,
+modify, publicly perform and publicly display the Works, prepare derivative works of the Works, and to make, have made, use,
+sell and offer for sale any products developed by practicing such license rights, and to otherwise use such license rights, with
+the right to sublicense such rights through multiple levels of sublicenses.
+If any preexisting rights are embodied in the Works, Contractor grants to TEA the irrevocable, perpetual, non-exclusive,
+worldwide, royalty-free right and license to (a) use, execute, reproduce, display, perform, distribute copies of, and prepare
+derivative works based upon such preexisting rights and any derivative works thereof and (b) authorize others to do any or all
+of the foregoing. Contractor agrees to notify TEA on delivery of the Works if they include any such preexisting rights. On request,
+Contractor will provide TEA with documentation indicating a third party’s written approval for Contractor to use any preexisting
+rights that may be embodied or reflected in the Works.
+Contractor represents and warrants that (i) it has the authority to grant the rights herein granted, (ii) it has not assigned or
+transferred any right, title, or interest in the Works or Intellectual Property Rights that would conflict with its obligations under
+the Contract, and Contractor will not enter into any such agreements, and (iii) the Works will be original and will not infringe any
+Intellectual Property Rights of any other person or entity. These representations and warranties will survive the termination of
+the Contract.
+(b) License to Contractor Materials
+Contractor hereby grants to TEA and Authorized Users a nonexclusive, worldwide, royalty-free, fully paid-up, irrevocable,
+perpetual, unlimited, assignable and transferable right and license to the Contractor Materials (except for any Contractor
+Materials that are a Technology Platform), and any updates, revisions, additions thereto, or derivative works thereof, to directly
+and indirectly: (i) use, access, execute, reproduce, copy, modify, adapt, publicly display, publicly perform, provide access
+B - 7
+to, distribute copies of, transmit and otherwise use and exploit; and (ii) authorize others to do any or all of the foregoing in a
+sublicense, subcontractor agreement, sub-grant or otherwise, for or on behalf of TEA, in order to further the purposes of TEA
+(collectively “Materials License”). The Materials License includes the right for TEA and Authorized Users to create derivative
+works of the Contractor Materials and authorize others to do so in order to further the purposes of TEA and/or Authorized Users.
+The authors of such derivative works shall have and retain ownership of such derivative works.
+For the avoidance of doubt, Technology Platforms are subject only to the license in Clause 16.
+18. Social Security Numbers (SSNs) Withheld: TEA will not provide SSNs to any Contractor under this Contract unless specifically
+stated as part of the Contract Project requirements. TEA, its Contractors and their subcontractors, will not require or request school
+districts to provide SSNs under this Contract. Contractor agrees that in executing tasks on behalf of TEA, Contractor will not use any
+student-identifying information in any way that violates the provisions of FERPA and will destroy or return all student-identifying
+information in accordance with the terms in Clause 21 on Confidential Information, FERPA, and Information Security Requirements
+hereof.
+19. Nondisclosure and Press Releases: Contractor shall not use TEA’s name, logo, or other likeness in any press release, marketing
+material, or other announcement without TEA’s prior written approval and in the event of such approval, Contractor shall comply with
+the TEA Trademarks License set forth below. TEA does not endorse any vendor, commodity, or service. Contractor is not authorized
+to make or participate in any media releases or public announcements pertaining to this procurement, the Response, the Contract,
+or the services to which any of the foregoing relate without TEA’s prior written consent, and then only in accordance with explicit
+written instructions from TEA. All information gathered, produced, derived, obtained, analyzed, controlled or accessed by Contractor
+in connection with this Contract shall be and remain confidential and shall not be released or disclosed by Contractor without the
+prior written consent of TEA, which consent must specifically identify the information, data, or materials requested and the audience
+for the release of information.
+20. Trademark License for Contractor’s Use of TEA’s Logo and Other Trademarks
+Contractor hereby acknowledges and agrees that all trademarks and service marks adopted, used, registered, and/or owned by TEA
+(“TEA Trademarks,” as shown in the TEA Brand Book, which is available upon request) remain the exclusive property of TEA, that
+all right, title and interest in and to the TEA Trademarks are exclusively held by TEA and all goodwill associated with such trademarks
+inures solely to TEA. TEA hereby grants to Contractor, and any approved subcontractors pursuant to Clause 10 hereof, for the Term,
+a limited, non-exclusive, non-assignable, non-transferable license to reproduce specific TEA Trademarks, which must be approved
+by the Contract Manager in each case, on published materials, in print and digital form, solely for purposes authorized under this
+Contract and only in furtherance of the Contract Project (“TEA Trademarks License”), provided that such TEA Trademarks License
+is expressly conditional upon and subject to, the following:
+(a) Contractor is in compliance with all provisions of, and laws applicable to, this Contract;
+(b) Contractor is in compliance with all rules, requirements, formats and depictions as set forth in the TEA Brand Book;
+(c) Contractor’s use of the TEA Trademarks is strictly in accordance with the quality standards and in conformance with the
+reproduction requirements set forth in the TEA Brand Book or as otherwise communicated by TEA and used as directed by
+TEA;
+(d) Contractor takes no action to damage the goodwill associated with the TEA Trademarks, and does not directly or indirectly
+contest, attack, dispute, challenge, cancel and/or oppose TEA’s right, title and interest in the TEA Trademarks or their validity;
+(e) Contractor makes no attempt to sublicense, assign or transfer any rights under this TEA Trademarks License;
+(f) Contractor makes no use of the TEA Trademarks to advertise, market, or sell its goods or services to any third parties;
+(g) Contractor complies with any marking requests TEA may make in relation to the TEA Trademarks, including without limitation
+to use the phrase “Registered Trademark,” the symbol “™”, and/or the registered trademark symbol “®”, as directed by TEA;
+and
+(h) Contractor shall provide examples of proposed usage of the TEA Trademarks for review and approval by TEA.
+Contractor represents and warrants that all materials produced for and/or procured by TEA will align with the requirements and
+content expectations detailed in the TEA Brand Book. All materials delivered by Contractor that do not meet the requirements
+contained in the TEA Brand Book shall be deemed not accepted for purposes of Clause 55 (Payment) of these Standard TEA Terms
+and Conditions. To the extent that Contractor has any questions about content in the TEA Brand Book or TEA appearance and style
+guidelines, they should email Communications@tea.texas.gov.
+If TEA discovers that Contractor’s uses of the TEA Trademarks are not of a high quality, as determined by TEA, TEA may give
+Contractor five working days’ written notice within which to change its operations to conform to TEA’s requirements. After the five
+working day period, should Contractor fail to meet the quality requirements of TEA, TEA, may at its sole discretion, terminate this
+Contract and/or Contractor’s license to use TEA Trademarks.
+Contractor further agrees that it is critical that the goodwill associated with the TEA Trademarks is protected and enhanced and,
+toward this end, Contractor shall not during the Term or thereafter: (i) attack the title or any rights of TEA in or to the TEA Trademarks;
+(ii) attack the validity of this Contract; (iii) do anything either by an act of omission or commission which might impair, violate or
+infringe the TEA Trademarks; (iv) claim (adversely to TEA or anyone claiming rights through TEA) any right, title or interest in or to
+the TEA Trademarks; (v) misuse or harm the TEA Trademarks or bring the TEA Trademarks into disrepute; (vi) for its benefit, directly
+or indirectly, register or apply for registration of the TEA Trademarks or any mark which is, in TEA’s reasonable opinion, the same
+as or confusingly similar to any of the TEA Trademarks; and/or (vii) for its benefit, directly or indirectly, register, maintain or apply for
+B - 8
+registration of a domain name which is, in TEA’s reasonable opinion, the same as, confusingly similar to or incorporates any of the
+TEA Trademarks.
+21. Confidential Information, FERPA, and Information Security Requirements:
+(a) TEA Confidential Information and Protected Data
+Contractor acknowledges and agrees that Contractor does not own any TEA Confidential Information, including any Protected
+Data, shall not acquire any ownership or other rights to such TEA Confidential Information as a result of performing this
+Contract, and has no right to use such TEA Confidential Information except as explicitly provided in this Contract for the
+purposes of performing this Contract Project as directed by TEA.
+(b) Access to and Use of TEA Confidential Information
+Contractor represents and warrants that it will take all necessary and appropriate action to safeguard TEA Confidential
+Information and to protect it from unauthorized disclosure. If Contractor discloses any TEA Confidential Information to a
+subcontractor or agent, Contractor will require the subcontractor or agent to comply with the same restrictions and obligations
+as are imposed on Contractor. Whenever communications with Contractor necessitate the release of TEA Confidential
+Information, additional TEA confidentiality forms will need to be signed by the Contractor who requires access to or may be
+exposed to that information. Contractor shall access TEA’s systems or TEA Confidential Information only for the purposes for
+which it is authorized under this Contract. Contractor shall have a policy and process in place that ensures the same level of
+protection of TEA Confidential Information by all employees and subcontractors who require access to or may be exposed to
+that information.
+Contractor shall at all times cause an Authorized User’s Protected Data to be accessible solely by such Authorized User and
+its related or otherwise authorized persons and entities, including applicable teachers and tutors, and applicable school, school
+district and TEA personnel. Contractor shall allow each Authorized User and its related persons and entities, at any time, to
+export such Authorized User’s Protected Data in a standard electronic format as mutually agreed by TEA and Contractor
+throughout and until the expiration of the Term.
+Contractor shall not: (i) anonymize or de-identify any part of TEA Confidential Information or create statistics or analysis of TEA
+Confidential Information for any Contractor purpose, marketing or otherwise, except as necessary to meet its obligations to
+TEA under the Contract or as allowed by Clause 22(d); (ii) use or distribute any part of TEA Confidential Information by or to
+any third-party, except as necessary to meet its obligations to TEA under the Contract and subject to Clause 21(e) below;
+and/or (iii) use such data for any other purpose not specifically set forth herein or as otherwise authorized in writing by the
+owner of the Protected Data.
+For the avoidance of doubt, all Contractor’s representations, warranties and covenants herein including, but not limited to,
+access to TEA Confidential Information, FERPA compliance, information security compliance, and disclosure of security
+breaches, apply to all Protected Data.
+Under no circumstances, unless the use is explicitly and expressly allowed under the terms of this Contract and only to directly
+further the Contract Project, may any TEA Confidential Information be used (1) as an input to a Generative AI, (2) in an
+environment where any Generative AI may have access to the TEA Confidential Information, or (3) to train, improve or otherwise
+modify any artificial intelligence models or algorithms, including, without limitation, any large language models. A statement in
+the Response that Generative AI will or may be used shall not be considered an explicit and express allowance.
+(c) Data Privacy Agreements for Protected Data
+In addition to any agreements required by an Authorized User, prior to the collection, input, or generation of any Protected
+Data, a data privacy agreement must be signed between the Contractor and/or relevant subcontractor and such Authorized
+User. The data privacy agreement must be the most recent version and revision of the Texas Standard Student Data Privacy
+Agreement distributed by Texas Education Technology Leaders unless a different agreement is explicitly required in writing by
+the Authorized User.
+(d) Limited Use of Anonymized Data
+If Contractor wishes to produce Anonymized data from TEA’s Protected Data, Contractor shall submit a written request to TEA,
+and TEA has the option, in its sole discretion, to approve or deny that request. If the request is granted by TEA for a particular
+set of Protected Data, after Anonymization, the resulting Anonymized data is owned by TEA and is only authorized for use by
+Contractor in accordance with the following:
+(1) Protected Data that has been Anonymized by Contractor must be reported to TEA at that time, and upon termination or
+expiration of the Contract, and accompanied by a document in each instance signed by an authorized officer of Contractor
+attesting that all requirements relative to Anonymization have been met;
+(2) Contractor represents and warrants it shall and will continue to: (A) comply with all applicable laws and regulations
+governing the handling of such Anonymized data; and (B) implement internal procedures and controls to protect against
+the re-identification of Anonymized data;
+(3) Contractor may use Anonymized data solely for purposes of product improvement;
+(4) The Anonymized dataset shall not be used to re-identify the dataset or to recreate the original data during or after the
+Term; and
+B - 9
+(5) CONTRACTOR SHALL INDEMNIFY, DEFEND AND HOLD HARMLESS THE STATE AND TEA, AND/OR ITS/THEIR
+OFFICERS, AGENTS, EMPLOYEES, REPRESENTATIVES, CONTRACTORS, ASSIGNEES, AND/OR DESIGNEES
+AND/OR ANY AUTHORIZED USER AGAINST ANY AND ALL CLAIMS AND LIABILITIES, INCLUDING ALL COSTS AND
+EXPENSES, ARISING OUT OF ANY SUCH USE AND/OR DISCLOSURE OF PROTECTED DATA TO ITS RESEARCH
+PARTNERS, OR IN ANY WAY CONNECTED WITH ANY ACTUAL OR ALLEGED ACTION OR FAILURE TO ACT
+RELATIVE TO, OR RESULTING FROM, THE MISUSE AND/OR MISHANDLING OF THE PROTECTED DATA BY
+CONTRACTOR, CONTRACTOR’S SUBCONTRACTORS AND/OR CONTRACTOR’S RESEARCH PARTNERS.
+Contractor shall not provide any Protected Data to research partners.
+If any of the above requirements have not been met as determined by TEA in its sole discretion, Contractor agrees to
+immediately cease use of the applicable Anonymized data and return such data to TEA.
+Notwithstanding the above, unless the use is explicitly and expressly allowed under the terms of this Contract and only to
+directly further the Contract Project, TEA Confidential Information, regardless of whether it has been Anonymized, may not be
+used (1) as an input to a Generative AI, (2) in an environment where any Generative AI may have access to the TEA Confidential
+Information, or (3) to train, improve or otherwise modify any artificial intelligence models or algorithms. A statement in the
+Response that Generative AI will or may be used shall not be considered an explicit and express allowance.
+(e) Release of TEA Confidential Information
+Contractor may not release or disclose TEA Confidential Information to any third-party except as described in this Clause. TEA
+Confidential Information may only be released or disclosed to any third-party if: (i) required by applicable laws or regulations,
+(ii) required by any subpoena or similar legal process, or (iii) (A) the release or disclosure is necessary for Contractor to meet
+its obligations to TEA under the Contract, (B) Contractor keeps a record of all individuals that will have access to the TEA
+Confidential Information, (C) Contractor requires TEA confidentiality forms be signed by all individuals who will or may access
+the TEA Confidential Information and (D) Contractor obtains express, written consent from the Contract Manager to release
+the TEA Confidential Information. Such consent shall be required in all circumstances notwithstanding any other provision of
+this Contract. The record of individuals with access to the TEA Confidential Information must be made available to TEA
+immediately upon request.
+(f) Notice of Order or Request for Release; Notice of Release
+Contractor shall immediately notify TEA upon its receipt of an order or request for the release of TEA Confidential Information.
+Contractor shall immediately notify TEA upon its release of TEA Confidential Information.
+(g) FERPA
+Contractor, its employees and subcontractors, agree that in executing tasks on behalf of TEA, they will not use any student-
+identifying information in any way that violates the provisions of applicable law and regulations, including without limitation,
+FERPA.
+(h) Return and Destruction of TEA Confidential Information.
+Contractor shall ensure that any TEA Confidential Information in the custody of Contractor is properly sanitized or destroyed
+when the information is no longer required to be retained by TEA or Contractor in accordance with this Contract. Electronic
+media used for storing any TEA Confidential Information must be sanitized by clearing, purging or destroying in accordance
+with such standards established by the National Institute of Standards and Technology and the Center for Internet Security.
+These standards are also required if Contractor is collecting, maintaining, or analyzing data gathered, collected, or provided
+under this Contract. Contractor must maintain a record documenting the removal and completion of all sanitization procedures
+with the following information:
+i. Date and time of sanitization/destruction;
+ii. Description of the item(s) and serial number(s) if applicable;
+iii. Inventory number(s); and
+iv. Procedures and tools used for sanitization/destruction.
+Subject to Clause 64(g), no later than 30 days from Contract expiration or termination or as otherwise specified in this Contract,
+Contractor must complete the sanitization and destruction of all TEA Confidential Information, including all copies thereof and
+materials incorporating such TEA Confidential Information, whether in physical or electronic form, and provide to the TEA
+Contract Manager documentation that the sanitization has been completed. An authorized agent of Contractor must certify the
+completion of the destruction of data and sanitization.
+22. Information Security Requirements
+Contractor shall: (a) use appropriate legal, organizational, physical, administrative and technical measures, and security procedures,
+including, without limitation, ensuring TEA Confidential Information will be encrypted at rest and in motion, to safeguard and ensure
+the security of TEA Confidential Information and to protect TEA Confidential Information from unauthorized access, hacking,
+disclosure, duplication, theft, use, modification and/or loss; (b) comply with all applicable laws and regulations governing the handling
+B - 10
+of TEA data, including TEA Confidential Information; (c) process all TEA Confidential Information solely within the United States and
+limit access to the TEA Confidential Information to employees, subcontractors and staff of Contractor who have passed reasonable
+security clearance checks; (d) implement physical security and access controls at any of its facilities (including any data centers) that
+house TEA Confidential Information; (e) leverage one or more of the following authentication controls: multi-factor authentication
+(MFA), privileged access management (PAM), and/or 14 character minimum passphrases on systems that will store, process, or
+transmit TEA Confidential Information; (f) enable endpoint detection and response (EDR) technology on systems that will store,
+process, or transmit TEA Confidential Information; (g) provide evidence of an established vulnerability and patch management
+program; and (h) store backups of all TEA data, including TEA Confidential Information, on a separate network from production.
+Contractor shall implement an adequate cybersecurity framework based on one of the nationally recognized standards such as: NIST
+Cybersecurity Framework Version 1.1, NIST SP 800-53, NIST SP 800-171, NIST Cybersecurity Framework for Improving Critical
+Infrastructure Cybersecurity (CSF), ISO 27000 series, or CIS Critical Security Controls (CSC, CIS Top 18). The adopted cybersecurity
+framework may not conflict with the most recent version of the Texas Cybersecurity Framework adopted by the Department of
+Information Resources under Chapters 2054 and 2059 of the Texas Government Code.
+TEA shall have the right to review Contractor’s security measures to ensure that any data that is in Contractor’s possession is secure.
+For any Contractor or subcontractor that transmits, processes, or stores TEA Confidential Information, TEA may require Contractor
+or subcontractor to periodically provide evidence of its information security policies, procedures, controls, and third-party
+certifications. Contractor shall cooperate fully by providing such evidence and by making resources, personnel, and systems access
+available to TEA and TEA’s authorized representative(s), if requested by TEA. TEA shall also have the right to immediately terminate
+network and system connections that do not meet the requirements herein. For any information security risks of the Contractor
+identified by TEA throughout the Term, TEA may require an action plan to mitigate or remediate the security risk and Contractor
+agrees to provide such action plan promptly upon request.
+If Contractor is providing TEA software goods or services and/or data processing goods or services, Contractor agrees to provide
+secure configuration guidelines that fully describe all security relevant configuration options and their implications for the overall
+security of the software. The guidelines shall include a full description of dependencies on the supporting platform, including operating
+system, web server, and application server, and how they should be configured for security.
+(a) Cybersecurity Training
+Contractor shall ensure that any Contractor employee or subcontractor employee who (1) has access to any TEA Confidential
+Information or (2) has remote access to any internal TEA network or system, shall complete a cybersecurity training program
+certified by the Texas Department of Information Resources under Section 2054.519 of the Texas Government Code. Such
+training is required annually. Contractor shall provide TEA with verification of the completion of the requisite training. If TEA
+requires a specific cybersecurity training program, Contractor’s employees or subcontractors shall complete that cybersecurity
+training program even if those individuals have already completed another certified training program that otherwise complies
+with this subsection.
+(b) Access to Internal TEA Network and Systems
+As a condition of gaining remote access to any internal TEA network and systems, Contractor must comply with TEA’s policies
+and procedures reviewed in the cybersecurity training required under subsection (a) above. The cybersecurity training must be
+completed within 30 days of obtaining access to TEA networks and systems, and on an annual basis thereafter. TEA’s remote
+access request procedures will require Contractor to submit applicable TEA access request forms for TEA’s review and
+approval. Remote access technologies provided by Contractor must be approved by TEA’s Chief Information Security Officer.
+TEA, in its sole discretion, may deny network or system access to any individual that does not complete the required forms.
+Contractor must secure its own connected systems in a manner consistent with TEA’s requirements. The off-site downloading,
+transfer, and/or storage of TEA Confidential Information is strictly prohibited unless such acts are specifically allowed in the
+Contract’s scope of work. Contractor may not use any computing device to access TEA’s network or e-mail while outside of
+the continental United States.
+(c) Data Management and Security Controls
+In accordance with Section 2054.138 of the Texas Government Code, Contractor certifies that it will comply with the security
+controls required under this Contract and will maintain records and make them available to TEA as evidence of Contractor’s
+compliance with the required controls.
+(d) Contractor-Developed Websites and Mobile Applications
+In accordance with Section 2054.516 of the Texas Government Code, Contractor shall conduct and provide results of
+penetration tests, at Contractor’s sole expense, of Contractor-developed websites and/or mobile applications for specific TEA
+use that process, transmit, or store TEA Confidential Information prior to launch and annually thereafter. TEA shall have the
+right to conduct a penetration scan and/or vulnerability testing through a third party periodically during the Term without prior
+notice. Contractor shall resolve all identified issues to TEA’s satisfaction in a timely manner not to exceed 30 days from the
+date such issues are identified, provided that for any issues which cannot be resolved within 30 days, Contractor and TEA shall
+agree upon a plan for resolving such issues as promptly as practical, but in any case not to exceed three months.
+Websites that process, transmit, or store TEA Confidential Information shall be accessible through a secure connection
+(HTTPS-only, with HTTP Strict Transport Security (HSTS)), utilizing Transport Layer Security (TLS) version 1.2 or higher.
+B - 11
+If Contractor develops or hosts a website or mobile application on behalf of TEA, TEA shall have the right to require, at
+Contractor’s sole expense, a third-party risk assessment, including, but not limited to, a security audit or a privacy audit.
+Contractor may provide a copy of a current and valid Service Organization Control type 2 (SOC 2) report in lieu of the foregoing.
+23. Cloud Computing State Risk and Authorization Management Program: If this Contract involves Cloud Computing services
+subjected to the Cloud Computing state risk and authorization management program (“TxRAMP”), pursuant to Section 2054.0593(d)-
+(f) of the Texas Government Code, relating to TxRAMP, Contractor represents and warrants that it complies with the requirements
+of the state risk and authorization management program and Contractor agrees that throughout the Term of the Contract it shall
+maintain its certifications and comply with the program requirements in the performance of the Contract. Additionally, any third-party
+Cloud Computing services the Contractor will leverage to store, process, or transmit any TEA data shall be disclosed in writing to
+TEA prior to use with any TEA data and shall be subject to TxRAMP requirements.
+24. Disclosure of and Response to Security Breach or Security Vulnerability
+Contractor shall provide notice to TEA’s Contract Manager and TEA’s Chief Information Security Officer as soon as possible following
+Contractor’s discovery or reasonable belief that there has been unauthorized use, exposure, access, disclosure, compromise,
+modification, or loss of sensitive data or TEA Confidential Information or any breach, denial of service attack and/or inaccessible data
+due to ransomware or other type of malware (each such event being a “Security Incident”). Within 24 hours of the discovery or
+reasonable belief of a Security Incident, Contractor shall provide a written report to TEA’s Chief Information Security Officer at
+Cybersecurity@tea.texas.gov. The report shall include the following information, to the extent known by Contractor:
+(a) Description of the nature of the Security Incident;
+(b) The type of TEA information involved;
+(c) Who may have obtained the information;
+(d) The specific malware variant used to perform the attack, if any;
+(e) What steps Contractor has taken or will take to investigate the Security Incident (Including external resources leveraged);
+(f) Whether law enforcement was notified and, if so, written confirmation and verification from the law enforcement agency that
+there is an active investigation into the breach;
+(g) What steps Contractor has taken or will take to mitigate any negative effect of the Security Incident;
+(h) What corrective action Contractor has taken or will take to prevent future similar unauthorized use or disclosure; and
+(i) A point of contact for additional information.
+After submission of the initial report, if Contractor discovers additional responsive information, Contractor shall notify TEA’s Chief
+Information Security Officer immediately. If no additional information is discovered, Contractor must provide a report to TEA’s Chief
+Information Security Officer on at least a weekly basis providing the status of the investigation and confirming no additional
+information has been discovered. The TEA Chief Information Security Officer may request update reports on a more frequent basis
+by sending a request in writing to Contractor, and Contractor shall use best efforts to comply with that frequency request.
+Contractor acknowledges and agrees that the determination as to whether TEA information was involved in the Security Incident is
+of paramount importance, and timely communication of the above information to TEA is essential to the performance of this Contract.
+Notwithstanding any other provision herein, Contractor shall fully cooperate with TEA in providing all such information requested by
+TEA in order for TEA to: (a) meet any applicable statutory notification requirements, as described by TEA and communicated to
+Contractor; and (b) mitigate the effects of any Security Incident. Failure to comply with any of the reporting requirements under this
+Clause is a material breach of the Contract.
+Contractor will notify TEA, at cybersecurity@tea.texas.gov, within 24 hours, of any new report of a known exploited security
+vulnerability published in publications of the Cybersecurity and Infrastructure Security Agency, such as the Known Exploited
+Vulnerabilities (KEV) database, or any zero-day security vulnerability, that directly or indirectly affects either the Contractor’s
+Technology Platform or any platform that includes or could allow access to TEA Confidential Information (each such event, a “Security
+Vulnerability”).
+Contractor will provide an action plan for final resolution of such Security Incident or Security Vulnerability within one week of the
+date of such Security Incident or Security Vulnerability and complete remediation of such Security Incident or Security Vulnerability
+must be completed at Contractor’s expense.
+Contractor shall confer with TEA’s Chief Information Security Officer regarding the proper course of the investigation and risk
+mitigation. TEA reserves the right to conduct an independent investigation of any Security Incident, SAS 70 Audit or other audit in
+TEA’s sole discretion, and should TEA choose to do so, Contractor shall cooperate fully by making resources, personnel, and systems
+access available to TEA and TEA’s authorized representative(s).
+Contractor is not permitted to issue a press release or otherwise publicly disclose the breach without TEA coordination and approval.
+Subject to review and approval of TEA’s Chief Information Security Officer, Contractor, at its own cost, shall provide notice that
+satisfies the requirements of applicable law to individuals whose personal, confidential, or privileged data were compromised or likely
+compromised as a result of the Security Incident, regulatory agencies and other entities as required by law or contract.
+Contractor shall reimburse and indemnify TEA or affected Authorized Users for any and all costs and expenses that TEA or affected
+B - 12
+Authorized Users incur in investigating and remediating the Security Incident, including but not limited to costs and expenses
+associated with: a) TEA or Authorized Users preparing and providing notice to individuals whose confidential data was compromised
+or likely compromised; (b) providing credit monitoring for a minimum of 18 months to individuals whose confidential data was
+compromised or likely compromised as a result of the security breach that a reasonable person would believe may impact the
+individual’s credit or financial security; (c) legal fees, audit costs, fines, and any other fees or damages imposed against TEA or
+affected Authorized Users as a result of the security breach; and (d) providing any other notifications or fulfilling any other
+requirements under other State or federal laws.
+If Contractor does not reimburse such costs within 30 days of TEA’s written request, TEA may obtain such money from Contractor
+by any means permitted by law, including but not limited to offset or counterclaim against any money otherwise due to Contractor by
+TEA.
+25. Load Testing: Prior to delivery or as otherwise mutually agreed, the Contractor must conduct load testing of the Technology
+Platform with simulated usage commensurate with the expected usage of the Technology Platform and provide documentation to
+TEA that the Technology Platform has been successfully load tested.
+Failed Load Testing: In its sole judgment, TEA may terminate the Contract for cause if the Technology Platform fails to successfully
+complete load testing, and Contractor shall refund all fees paid to TEA.
+Without prejudice to TEA’s right to terminate for cause for unsuccessful load testing, TEA may, in its sole determination:
+(a) give the Contractor the opportunity to extend the load testing period for up to 30 calendar days to allow the Contractor to
+diagnose and correct performance problems that may be caused by the Technology Platform or the configuration of the
+Technology Platform;
+(b) give the Contractor the opportunity to install additional hardware or platform components, at the Contractor’s sole expense, to
+meet the performance requirements specified; or
+(c) give the Contractor up to 30 calendar days following the diagnosis of any problem related to the Technology Platform to correct,
+at the Contractor’s sole expense, the defects in the Technology Platform.
+26. Electronic and Information Resources Accessibility Standards: Contractor represents and warrants that the products and
+services that are the subject of this Contract comply with the State accessibility requirements for Electronic Information Resources
+(EIR) specified in 1 Tex. Admin. Code Chapter 206 and 1 Tex. Admin. Code Chapter 213. For purposes of this Contract, digital files
+such as PDFs, Word files, PowerPoint files, and other similar files are EIR within the meaning of Chapter 206 and Chapter 213 of
+the Texas Administrative Code.
+Contractor represents and warrants that the deliverables under this Contract also comply with the federal regulations set forth in
+Section 508 of the Rehabilitation Act of 1973.
+Contractor shall follow the WCAG as the minimum technical accessibility standard unless a stricter standard is mandated under 1
+Tex. Admin. Code Chapter 206 or 1 Tex. Admin. Code Chapter 213.
+Contractor shall provide credible evidence of its ability to produce EIR that comply with all rules and statutes referenced above and
+is acceptable to TEA in TEA’s sole discretion.
+Upon request of TEA, which shall not be unreasonable, a Contractor shall arrange accessibility testing with a third-party company to
+evaluate the accessibility of each EIR at Contractor’s expense unless otherwise provided in Attachment A. The ideal third-party
+company shall have a proven track record in accessibility testing for products of the same type as the EIR and use real users with
+disabilities for manual testing. The third-party company will provide an accessibility conformance report (ACR) to the Contractor and
+any recommendations they suggest. The report must be submitted to the TEA Contract Manager for inclusion in the Contract file.
+In addition to the quality control measures for Generative AI in Clause 27, if Contractor uses Generative AI to make any deliverable,
+or part of a deliverable, accessible, Contractor shall ensure the output of the Generative AI is reviewed in whole for accuracy, quality,
+and compliance with any relevant law by an individual with the knowledge and skills required to perform such a review.
+27. Quality Control Measures for Generative AI: Contractor represents and warrants that Generative AI will only be used by
+Contractor, if at all, in compliance with any restrictions on such use under this Contract. If Contractor is otherwise permitted under
+this Contract to use Generative AI for any specific purpose, such use shall only be permitted with quality controls as described in this
+Clause and this Contract.
+Contractor shall implement robust and comprehensive quality control measures when using Generative AI. Quality control measures
+should include all reasonable industry standards and expectations with regard to use of Generative AI and shall include, but should
+not be limited to, the following quality controls:
+(a) Human Oversight: Any output by Generative AI must, within a reasonable timeframe, be reviewed, approved, and
+edited by a human qualified to perform the review, approval, and editing. The review shall ensure, at minimum, the
+output is accurate and free of bias.
+B - 13
+(b) Safety and Testing: Contractor must ensure that the Generative AI has been subject to adequate testing and
+safeguards in alignment with general and reasonable industry standards and expectations.
+(c) Quality of Generative AI: Contractor must ensure that the Generative AI used by Contractor (1) performs in
+accordance with any specifications placed by Contractor, if any, (2) was created using an industry standard risk
+management system such as NIST-AI-600-1, and (3) has been trained using data appropriate for its use, with such
+data sources having been appropriately licensed as required by law.
+(d) Security of Generative AI: The Generative AI used by Contractor must be secure against (1) attacks, gaming, and
+misuse, and (2) data leakage.
+(e) Bias: Contractor must ensure that the underlying model powering the Generative AI is reasonably free from bias. The
+model must be designed to identify and mitigate any type of bias in its training data or in its algorithm by ensuring, to
+the extent possible, demographic parity and equalized odds. Bias includes, but is not limited to, racial, gender,
+ideological, or other prejudicial biases.
+(f) Transparency: Contractor must ensure that the Generative AI reasonably complies with all industry standards relating
+to transparency in the field of generative artificial intelligence such as ISO/IEC or NIST standards.
+(g) Compliance with Law: The Generative AI used by Contractor must comply with all relevant State and federal laws.
+(h) Provenance: Contractor must have the capability, as appropriate and technologically feasible, to verify and reliably
+label or establish the provenance of the Generative AI’s output as being generated or modified by the Generative AI.
+(i) Attribution: Contractor must have a process in place to review output, determine whether attribution to a third-party
+source is necessary, and notify TEA of the need to attribute.
+(j) Training: Contractor shall provide training to any individual who will use Generative AI on behalf of Contractor in
+performance under this Contract. The training should (1) encompass the functionality, advantages, and possible
+hazards of the Generative AI and (2) emphasize the ethical and legal obligations relating to generative artificial
+intelligence. The training should be conducted regularly to ensure users are familiar with the latest industry standard
+practices regarding generative artificial intelligence.
+Contractor shall maintain an awareness of industry practices with regard to generative artificial intelligence and review its quality
+control measures at least quarterly to ensure Contractor meets or exceeds the requirements of those industry practices.
+Contractor acknowledges that it is paramount that TEA have the necessary resources and information to, upon TEA’s request, verify
+Contractor’s compliance with this Clause and demonstrate compliance with this Clause. Accordingly, Contractor shall retain and
+maintain information in a human-readable form that explains or could reasonably be used to explain the output of any Generative AI
+used by Contractor in furtherance of this Contract. Contractor shall provide that information to TEA upon request and shall reasonably
+make resources available to (1) facilitate TEA’s understanding and review of the information and (2) assist TEA in responding to
+requests, inquiries, investigations, or other actions with respect to the Generative AI. Contractor shall also provide a copy of any of
+its policies and procedures relating to Generative AI upon request by TEA.
+28. Using Generative AI in Decision-making: Contractor shall not allow Generative AI to make decisions or judgments in performance
+of this Contract.
+29. Unauthorized Recordings or Transcripts Prohibited: Contractor may not, except to the extent required by federal or State law,
+record or transcribe the contents of any meeting involving TEA staff or any Authorized User without the prior written consent of the
+Contract Manager. Written consent must be obtained from the Contract Manager for each meeting that will be recorded or transcribed;
+blanket written consent for all meetings under the Contract or a subset of those meetings is insufficient under this Clause. This
+prohibition includes, but is not limited to, the use of Generative AI for such purpose. Any transcription that is authorized under this
+Clause must be submitted to TEA for review.
+30. Drafts or Working Versions of Electronic Deliverables: In addition to the format of any deliverables set forth in Attachment A
+and/or the task plan, Contractor shall provide, within five (5) business days of a request by TEA, any (1) deliverable or (2) draft
+component or working version of a deliverable to TEA in its native format or another format specified by TEA, if Contractor can
+reasonably provide such a draft or working version.
+31. Obscene or Harmful Content and LEA Compliance with Laws: Contractor represents and warrants that all Contractor Materials,
+Works and any other deliverables hereunder and/or content accessible within a product provided under this Contract:
+(a) Are and shall be compliant and consistent with all relevant laws and regulations to protect Texas students from obscene or
+harmful content, including, but not limited to:
+i. the Children's Internet Protection Act, Pub. L. No. 106-554, 114 Stat. 2763A-335 (2000);
+ii. Section 28.0022 of the Texas Education Code;
+iii. Section 43.22 of the Texas Penal Code (meaning no violation of such Penal Code section); and
+iv. any other law, rule or regulation that protects students from obscene or harmful content, including any TEKS or
+instructional materials suitability rubrics,
+and
+(b) Shall not undermine, subvert or impede compliance with federal and state law by any LEA that uses goods or services provided
+under this Contract. Compliance with federal and state law includes, but is not limited to, Section 31.1011(a)(1) of the Texas
+B - 14
+Education Code, which requires that districts and charter schools must certify annually, for each subject and grade level in
+their curriculum, that (1) they provide each student with instructional materials that cover all elements of the essential
+knowledge and skills adopted by the State Board of Education for that subject and grade level, and (2) that students are
+protected from obscene or harmful content in compliance with subsection (a)(i) above.
+Any content included in Contractor Materials, Works or other deliverables and/or accessible content determined by TEA to be out of
+compliance with (a) above shall be corrected by Contractor and resubmitted to TEA within fifteen (15) working days of written
+notification from TEA. This correction shall be made even if the deliverables have already been accepted by TEA. In addition,
+Contractor shall routinely report in writing to TEA any feedback from participating school districts, LEAs, Education Service Centers,
+charter schools or other educators or parents that may relate to, or indicate a violation of, the above requirements, within fifteen (15)
+working days of receipt of such feedback.
+32. Capital Outlay: If Contractor purchases capital outlay (furniture and/or equipment) to accomplish the Contract Project, title will remain
+with Contractor for the period of the Contract. TEA reserves the right to transfer capital outlay items for Contract noncompliance
+during the Contract period or as needed after the ending date of the Contract. This provision applies to any and all furniture and/or
+equipment regardless of unit price and how the item is classified in Contractor’s accounting record. This provision is applicable when
+federal funds are utilized for the Contract.
+33. TEA Property: In the event of loss, damage or destruction of any property owned by or loaned by TEA while in the custody or control
+of Contractor, Contractor shall indemnify TEA and pay to TEA the full value of or the full cost of repair or replacement of such property,
+whichever is greater, within 30 days of Contractor’s receipt of written notice of TEA’s determination of the amount due. This applies
+whether the property is developed or purchased by Contractor pursuant to this Contract or is provided by TEA to Contractor for use
+in the Contract Project. If Contractor fails to make timely payment, TEA may obtain such money from Contractor by any means
+permitted by law, including but not limited to offset or counterclaim against any money otherwise due to Contractor by TEA.
+34. Use of State Property: Contractor is prohibited from using State Property for any purpose other than performing services authorized
+under the Contract. “State Property” includes, but is not limited to, TEA’s office space, identification badges, TEA information
+technology equipment and networks (e.g., laptops, portable printers, cell phones, iPads, external hard drives, data storage devices,
+any TEA-issued software, and the TEA Virtual Private Network (VPN client)), and any other resources of TEA. Contractor will not
+remove State Property from the continental United States. In addition, Contractor may not use any computing device to access TEA’s
+network or e-mail while outside of the continental United States. Contractor will not perform any maintenance services on State
+Property unless the Contract expressly authorizes such services. During the time that State Property is in the possession of
+Contractor, Contractor will be responsible for all charges attributable to Contractor’s use of State Property that exceeds the Contract
+Project. Contractor will fully reimburse such charges to TEA within 10 calendar days of Contractor’s receipt of TEA’s notice of amount
+due. If Contractor fails to make timely payment, TEA may obtain such money from Contractor by any means permitted by law,
+including but not limited to offset or counterclaim against any money otherwise due to Contractor by TEA. Use of State Property for
+a purpose not authorized by Contract will constitute breach of contract and may result in termination of the Contract and the pursuit
+of other remedies available to TEA under the Contract, at law, or in equity.
+35. Governing Law and Venue: The Contract shall be governed by and construed in accordance with the laws of the State of Texas,
+without regard to the conflicts of law provisions. The venue of any suit arising under the Contract is fixed in any court of competent
+jurisdiction of Travis County, Texas, unless the specific venue is otherwise identified in a statute which directly names or otherwise
+identifies its applicability to TEA.
+36. No Waiver: Nothing in this Contract shall be construed as a waiver of TEA’s or the State’s sovereign immunity. This Contract shall
+not constitute or be construed as a waiver of any of the privileges, rights, defenses, remedies, or immunities available to TEA or the
+State. The failure to enforce, or any delay in the enforcement, of any privileges, rights, defenses, remedies, or immunities available
+to TEA or the State under the Contract or under applicable law shall not constitute a waiver of such privileges, rights, defenses,
+remedies, or immunities or be considered as a basis for estoppel. TEA does not waive any privileges, rights, defenses, or immunities
+available to TEA by entering into the Contract or by its conduct prior to or subsequent to entering into the Contract.
+37. Applicable Law and Conforming Amendments: Contractor must comply with all laws, regulations, requirements and guidelines
+applicable to a Contractor providing services to the State as these laws, regulations, requirements and guidelines currently exist and
+as they are amended throughout the Term. Any alterations, additions, or deletions to the terms of this Contract which are required
+by changes in federal or State law or regulations are automatically incorporated into this Contract without written amendment hereto
+and shall become effective on the date designated by such law or regulation.
+38. Federal Rules, Laws, and Regulations that apply to all Federal Programs: Contractor represents and warrants its compliance
+with all federal laws, rules, and regulations, pertaining to the Contract Project, including, but not limited to:
+(a) Americans With Disabilities Act, P.L. 101-336, 42 U.S.C. sec. 12101, and the regulations effectuating its provisions contained
+in 28 CFR Parts 35 and 36, 29 CFR Part 1630, and 47 CFR Parts 0 and 64;
+(b) Title VI of the Civil Rights Act of 1964, as amended (prohibition of discrimination by race, color, or national origin), and the
+regulations effectuating its provisions contained in 34 CFR Part 100;
+(c) Title IX of the Education Amendments of 1972, as amended (prohibition of sex discrimination in educational institutions) and
+the regulations effectuating its provisions contained in 34 CFR Part 106, if Contractor is an educational institution;
+(d) Section 504 of the Rehabilitation Act of 1973, as amended (nondiscrimination on the basis of handicapping condition), and the
+regulations effectuating its provisions contained in 34 CFR Parts 104 and 105;
+B - 15
+(e) The Age Discrimination Act of 1975, as amended (prohibition of discrimination on basis of age), and the implementing
+regulations contained in 34 CFR Part 110;
+(f) The Immigration and Nationality Act (8 U.S.C. § 1101 et seq.) and all subsequent immigration laws and amendments;
+(g) Family Educational Rights and Privacy Act of 1975, as amended, and the implementing regulations contained in 34 CFR, Part
+99, if Contractor is an educational institution;
+(h) Section 509 of H.R. 5233 as incorporated by reference in P.L. 99-500 and P.L. 99-591 (prohibition against the use of federal
+grant funds to influence legislation pending before Congress);
+(i) The Clean Air Act (42 U.S.C. § 7401 et seq.) and the Clean Water Act (33 U.S.C. § 1251 et seq.), as amended;
+(j) P.L. 103-227, Title X, Miscellaneous Provisions of the GOALS 2000: Educate America Act; P.L. 103-382, Title XIV, General
+Provisions of the Elementary and Secondary Education Act, as amended; and
+(k) General Education Provisions Act, as amended.
+Contractor represents and warrants that all articles and services shall meet or exceed the safety standards established and
+promulgated under the Federal Occupational Safety and Health Act of 1970, as amended (29 U.S.C. Chapter 15).
+39. Equal Employment Opportunity: Contractor represents and warrants its compliance with all applicable duly enacted State and
+federal laws governing equal employment opportunities.
+40. E-Verify Program: Contractor certifies that for contracts for services, Contractor shall utilize the U.S. Department of Homeland
+Security’s E-Verify system during the Term of the Contract to determine the eligibility of:
+(a) All persons employed by Contractor to perform duties within Texas; and
+(b) All persons, including subcontractors, assigned by Contractor to perform work pursuant to the Contract within the United States
+of America.
+41. Compliance with Laws: Contractor shall comply with all laws, regulations, requirements, and guidelines applicable to a contractor
+providing services and products required by the Contract to the State, as these laws, regulations, requirements, and guidelines
+currently exist and as amended throughout the Term. TEA reserves the right, in its sole discretion, to unilaterally amend the Contract
+prior to award and throughout the Term to incorporate any modifications necessary for TEA’s compliance, as an agency of the State,
+with all applicable State and federal laws, regulations, requirements, and guidelines. Contractor represents and warrants that it has
+determined what licenses, certifications, and permits are required under the Contract and has acquired all applicable licenses,
+certifications, and permits. For the entire duration of the Contract, Contractor shall maintain all required licenses, certifications,
+permits, and any other documentation necessary to perform this Contract. When required or requested by TEA, Contractor shall
+furnish TEA with satisfactory proof of its compliance with this provision.
+42. Legal and Regulatory Actions: Contractor represents and warrants that it is not aware of and has received no notice of any court
+or governmental agency actions, proceedings or investigations, etc., pending or threatened against Contractor or any of the
+individuals or entities included in the Response within the five calendar years immediately preceding the submission of the Response
+that would or could impair Contractor’s performance under the Contract, relate to the solicited or similar goods or services, or
+otherwise be relevant to TEA’s consideration of the Response. If Contractor is unable to make the preceding representation and
+warranty, then Contractor instead represents and warrants that it has included as a detailed attachment in its Response a complete
+disclosure of any such court or governmental agency actions, proceedings or investigations, etc. that would or could impair
+Contractor’s performance under the Contract, relate to the solicited or similar goods or services, or otherwise be relevant to TEA’s
+consideration of the Response. In addition, Contractor represents and warrants that it shall notify TEA in writing within 5 working
+days of any changes to the representations or warranties in this Clause and understands that failure to so timely update TEA shall
+constitute a material breach of contract and may result in immediate termination of the Contract.
+43. Forms, Assurances, and Reports: Contractor shall timely make and file with the proper authorities all forms, assurances and
+reports required by federal laws and regulations. TEA shall be responsible for reporting to the proper authorities any failure by
+Contractor to comply with the foregoing laws and regulations coming to TEA’s attention and may deny payment or recover payments
+made by TEA to Contractor in the event of Contractor’s failure to so comply.
+44. No Exclusivity: The Contract is not exclusive to the Contractor. TEA may obtain products and related services from other sources
+during the Term of the Contract. TEA makes no express or implied warranties whatsoever that any particular quantity or dollar amount
+of products and related services will be procured through the Contract.
+45. Antitrust: By signing this Contract, Contractor represents and warrants that, in accordance with Section 2155.005 of the Texas
+Government Code, neither Contractor nor any firm, corporation, partnership, or institution represented by Contractor, or anyone
+acting for such firm, corporation, partnership, or institution has (a) violated any provision of the Texas Free Enterprise and Antitrust
+Act of 1983, Chapter 15 of the Texas Business and Commerce Code, or the federal antitrust laws; or (b) communicated directly or
+indirectly any of the contents of the Response to any competitor or any other person engaged in the same line of business as
+Contractor.
+46. Unfair Business Practices: Contractor represents and warrants that it has not been the subject of allegations of Deceptive Trade
+Practices violations under Chapter 17 of the Texas Business and Commerce Code, or allegations of any unfair business practice in
+any administrative hearing or court suit. Contractor represents and warrants that it has no officers who have served as officers of
+B - 16
+other entities who have been the subject of allegations of Deceptive Trade Practices violations under Chapter 17 of the Texas
+Business and Commerce Code or allegations of any unfair business practices in an administrative hearing or court suit.
+47. Child Support Obligation Affirmation: Under Section 231.006 of the Texas Family Code, Contractor certifies that the individual or
+business entity named in this Contract or Response is not ineligible to receive the specified grant, loan, or payment and acknowledges
+that this Contract may be terminated and payment may be withheld if this certification is inaccurate.
+48. Public Information Act: Contractor understands that TEA is subject to, and will comply with, the Texas Public Information Act
+(Chapter 552 of the Texas Government Code) as interpreted by judicial rulings and opinions of the Attorney General of the State.
+Information, documentation, and other material in connection with this solicitation, the Response or any resulting Contract may be
+subject to public disclosure pursuant to the Texas Public Information Act. In accordance with Section 2252.907 of the Texas
+Government Code, Contractor is required to make any information created or exchanged with the State pursuant to the Contract,
+and not otherwise excepted from disclosure under the Texas Public Information Act, available in a format that is accessible by the
+public at no additional charge to the State. TEA Contract Manager will provide the specific format by which Contractor is required to
+make the information accessible by the public.
+If TEA receives a request for disclosure of information, such information must qualify for an exception provided by the Act to be
+withheld from public disclosure. Contractor authorizes TEA to submit any such information, including information Contractor has
+labeled as confidential or proprietary, to the Office of the Attorney General for a determination as to whether such information may
+be exempt from public disclosure under the Act. TEA shall have no obligation to submit information it does not have a good faith
+belief may be subject to an exception to disclosure to the Attorney General. It shall be the responsibility of Contractor to make any
+legal argument to the Attorney General or appropriate court of law regarding the exception of the information in question from
+disclosure. Contractor waives any claim against and releases from liability TEA, its officers, employees, agents, and attorneys with
+respect to disclosure of information provided in accordance with the Texas Public Information Act. Upon receipt of a request for
+information, the TEA Contract Manager shall request the responsive information from the Contractor, and Contractor shall respond
+to TEA’s request within five working days.
+49. Lobbying Prohibition: Contractor represents and warrants that TEA’s payments to Contractor and Contractor’s receipt of
+appropriated or other funds under the Contract are not prohibited by Sections 556.005 or 556.0055 of the Texas Government Code.
+50. Prohibition of Text Messaging and Emailing while Driving during Official Federal Grant Business: Federal grant recipients
+and their grant personnel are prohibited from texting messaging while driving a government owned vehicle or while driving their own
+privately-owned vehicle during official grant business, or from using government supplied electronic equipment to text message or
+email while driving. Recipients must comply with these conditions under Executive Order 13513, “Federal Leadership on Reducing
+Text Messaging While Driving,” effective October 1, 2009.
+51. Liability for and Payment of Taxes: Purchases made for the State’s use are exempt from the State Sales Tax and Federal Excise
+Tax. TEA will furnish Tax Exemption Certificates upon request. Contractor represents and warrants that it shall pay all taxes or similar
+amounts resulting from this Contract, including, but not limited to, any federal, State, or local income, sales or excise taxes of
+Contractor or its employees. TEA shall not be liable for any taxes resulting from this Contract.
+52. Conformance: Contractor represents and warrants that all goods and services furnished will conform in all respects to the terms of
+this Contract, including any drawings, specifications or standards incorporated herein, and will be free from any defects in materials,
+workmanship, or design. In addition, Contractor warrants that goods and services are suitable for and will perform in accordance with
+the purposes for which they are intended.
+53. Buy Texas Affirmation: In accordance with Section 2155.4441 of the Texas Government Code, Contractor agrees that during the
+performance of a contract for services, Contractor shall purchase products and materials produced in Texas when they are available
+at a price and time comparable to products and materials produced outside this State. This provision does not apply if Contractor
+receives any federal funds under this Contract.
+54. Pricing Certification, Best Pricing: Contractor hereby represents and warrants that the fees and expenses charged for the work
+being conducted for TEA under this Contract are no less favorable than Contractor’s standard pricing practices utilized for offers for
+similar work to similar organizations including, without limitation, any pricing provided pursuant to a contract with the Texas
+Department of Information Resources or any pricing previously provided to TEA. If Contractor enters into any subsequent agreement
+for similar work with any similar organization during the Term which provides for benefits, pricing and/or hourly rates that are more
+favorable than those contained in this Contract, Contractor shall notify TEA promptly of the existence of such more favorable benefits,
+pricing and/or hourly rates and TEA shall have the right to receive the more favorable contractual terms immediately. If requested in
+writing by TEA, Contractor hereby agrees to amend this Contract to contain the more favorable benefits, pricing and/or hourly rates.
+55. Payment: Payment shall be made in accordance with Chapter 2251 of the Texas Government Code, commonly known as the Texas
+Prompt Payment Act. Chapter 2251 of the Texas Government Code shall govern remittance of payment and remedies for late
+payment and non-payment. Payment for goods or services purchased with State-appropriated funds will be issued by (a) State
+warrants or (b) electronic Direct Deposit from the State Treasury. Direct Deposit is the preferred method of payment. Additional
+information and a Direct Deposit Authorization application may be found at: https://fmx.cpa.state.tx.us/fm/payment/index.php.
+Invoices must be submitted to TEAAccountsPayable@tea.texas.gov and TEA Contract Manager. Any payment owed by TEA must
+be transmitted electronically to Contractor no later than 30 days after the latest of:
+B - 17
+(a) Date on which TEA received the goods;
+(b) Date the performance of the service under the Contract is completed; or
+(c) Date on which TEA received the complete and correct invoice for goods or services.
+Payment for service(s) described in this Contract is contingent upon satisfactory completion of the deliverables or services. For the
+avoidance of doubt, Contractor must comply with all sections of Chapter 2251 applicable to Contractor, including but not limited to,
+provisions regarding payments to subcontractors.
+Contractor shall submit one original copy of an itemized invoice including all required information detailed in 34 Tex. Admin. Code
+§ 20.487. Invoices must include, at a minimum, the following information:
+(a) the contractor's mailing and e-mail (if applicable) address,
+(b) the contractor's telephone number,
+(c) the name and telephone number of a person designated by the contractor to answer questions regarding the invoice,
+(d) the state agency's name, agency number, and delivery address,
+(e) the state agency's purchase order number, if applicable,
+(f) the Contract number or other reference number, if applicable,
+(g) a valid Texas identification number (TIN) issued by the Comptroller,
+(h) a description of the goods or services as outlined in the Contract, including relevant delivery dates and the service period,
+(i) unit numbers corresponding to the amount of the invoice,
+(j) if submitting an invoice after receiving an assignment of a contract, the TIN of the original contractor and the TIN of the
+successor vendor, and
+(k) other relevant information supporting and explaining the payment requested.
+TEA will have 15 working days to approve a deliverable or request revisions to the deliverable. Contractor must receive written
+approval from TEA before payment may be made on a deliverable. If TEA finds a submitted deliverable to be substandard or not in
+compliance with the deliverable definition provided by the TEA Contract Manager and Attachment A, Contractor will have 10 working
+days to provide a Corrective Action Plan and address the quality or other compliance requirements and resubmit the deliverable. A
+“Correction Action Plan” under this Clause means a written document that identifies specific activities that must be performed by the
+Contractor to restore compliance with the Contract and be tailored to address the identified deficiency, clearly state the desired
+outcome, and establish a time frame for the Contractor to demonstrate improved performance. TEA reserves the right to reject and
+withhold payment for deliverables found to be substandard or not in compliance with the deliverable definition, including without
+limitation test items developed under the Contract.
+Contractor is strongly encouraged to collaborate with TEA on draft versions of any deliverables or services and request review(s) of
+such draft versions before submitting a final version. Additional costs incurred by Contractor that result from repeated submissions
+and revising of substandard deliverables will be borne solely by Contractor and not charged against the Contract or to TEA. This
+does not preclude an arrangement that allows Contractor to bill against a deliverable as progress is made toward completing that
+deliverable, so long as documentation of such progress in a form and nature satisfactory to TEA is provided and is approved by TEA.
+It is up to Contractor to request incremental billing based on progress towards a deliverable, and such a request must be approved
+by TEA prior to submission of any invoice by Contractor.
+Unless otherwise stated, payment under this Contract will be made upon delivery of goods and performance of services based upon
+submission of an invoice, properly prepared and certified, outlining expenditures by deliverable as detailed above and required by
+34 Tex. Admin. Code § 20.487. The final invoice is due within 45 days after the end of the Contract. Payment on the final expenditure
+report is contingent upon receipt of all reports/products required by this Contract. All costs must be reasonable, allowable and
+allocable to the Contract Project.
+An encumbrance, accounts payable, and expenditure, as with all other contract accounting terms, will be as defined in the Financial
+Accounting and Reporting Module of TEA Financial Accountability System Resource Guide. All goods must have been received and all
+services rendered by the ending date of this Contract in order for Contractor to include these costs as either expenditures or as accounts
+payable and, thereby, recover funds due.
+56. Debts and Delinquencies Affirmation: Contractor acknowledges and agrees that, to the extent Contractor owes any debt including,
+but not limited to, delinquent taxes, delinquent student loans, and child support owed to the State, any payments or other amounts
+Contractor is otherwise owed under the Contract may be applied toward any debt Contractor owes the State until the debt is paid in
+full, regardless of when the debt or delinquency was incurred. These provisions are effective at any time Contractor owes any such
+debt or delinquency.
+Contractor may verify its account status by accessing the Comptroller’s website at
+https://fmx.cpa.state.tx.us/fm/pubs/purchase/restricted/index.php?section=indebted&page=persons_indebted.
+57. Encumbrances/Obligations: All encumbrances, accounts payable, and expenditures shall occur on or between the beginning and
+ending dates of this Contract. All goods must have been received and all services rendered during the Contract period in order for
+Contractor to recover funds due. In no manner shall encumbrances be considered or reflected as accounts payable or as
+expenditures.
+B - 18
+58. Refunds Due to TEA: If TEA determines that TEA is due a refund of money paid to Contractor pursuant to this Contract, Contractor
+shall pay the money due to TEA within 30 days of Contractor’s receipt of written notice that such money is due to TEA. If Contractor
+fails to make timely payment, TEA may obtain such money from Contractor by any means permitted by law, including but not limited
+to offset, counterclaim, cancellation, termination, suspension, total withholding, and/or disapproval of all or any subsequent
+applications for said funds.
+59. Credit for Deficient Deliverables: After payment has been made on an invoice related to a deliverable, even if that deliverable has
+already been accepted, if TEA discovers a deficiency in that deliverable, TEA shall be entitled to a credit equal to the amount paid
+for that deliverable if Contractor is not able to resolve the deficiency within 90 days from the day Contractor is notified by TEA of the
+deficiency. TEA shall reasonably determine if a deficiency is resolved. If a deficiency is not resolved, TEA shall have the right to
+withhold the amount of the credit from future invoice payments to Contractor.
+For purposes of this Clause, a deficiency shall be defined as (1) a critical flaw in the deliverable, (2) Contractor’s failure to obtain
+intellectual property rights relating to the deliverable as required by this Contract, or (3) Contractor’s failure to comply with a
+certification, warranty, or representation in a Clause of this Contract in relation to or in performance of the deliverable.
+60. Time Delays, Suspension, and Sanctions for Failure to Perform:
+Time is of the Essence
+Contractor’s timely performance is essential to this Contract.
+Suspension
+If this Contract is suspended by TEA prior to its expiration date, the reasonable monetary value of services properly performed by
+Contractor pursuant to this Contract prior to suspension shall be determined by TEA and paid to Contractor as soon as reasonably
+possible. TEA shall not be required to pay any standby hourly rates during a suspension of work.
+Sanctions
+If Contractor, in TEA’s sole determination, fails or refuses for any reason to comply with or perform any of its obligations under this
+Contract, TEA may impose such sanctions as it may deem appropriate. This includes, but is not limited to, the withholding of
+payments to Contractor until Contractor complies; the cancellation, termination, or suspension of this Contract in whole or in part;
+and the seeking of other remedies as may be provided by this Contract or by law. Any cancellation, termination, or suspension of
+this Contract, if imposed, shall become effective at the close of business on the day of Contractor’s receipt of written notice thereof
+from TEA.
+61. Service Levels: Contractor shall perform its obligations in accordance with the performance standards set forth in Exhibit F, if
+attached, and provide the Service Credits set forth in Attachment F for any failure to meet the agreed upon service levels.
+62. Dispute Resolution: The dispute resolution process provided for in Chapter 2260 of the Texas Government Code must be used by
+TEA and Contractor to attempt to resolve all disputes arising under this Contract.
+63. Protests: Any actual or prospective Contractor who is aggrieved in connection with the solicitation, evaluation, or award of this
+Contract by TEA may submit a formal protest to the Director of TEA’s Purchasing and Contracts Division. This protest procedure
+shall be the exclusive method by which anyone may make a challenge to any aspect of TEA’s contracting process. TEA will not be
+required to consider the merits of any protest unless the written protest is submitted within 10 working days after such aggrieved
+person knows, or reasonably should have known, of the occurrence of the action which is protested. The protest document must
+meet with all requirements in applicable law and TEA’s rules (19 Tex. Admin. Code § 30.2002).
+If the protest procedure results in a final determination by TEA that a violation of law has occurred in its contracting process in a case
+in which a contract has been awarded, then TEA may declare the Contract void at inception. In that event, the party who had been
+awarded the Contract shall have no rights under the Contract and no remedies under the law against TEA.
+64. Termination: This Contract shall terminate upon full performance of all requirements contained in this Contract, unless otherwise
+terminated, extended or renewed as provided in accordance with the Contract.
+(a) Termination for Convenience: TEA may terminate this Contract at any time, in whole or in part, without cost or penalty, by
+providing 15 calendar days’ advance written notice to Contractor. In the event of such a termination, Contractor must, unless
+otherwise mutually agreed upon in writing, cease all work immediately upon the effective date of termination. TEA shall be
+liable for payments limited only to the portion of work TEA authorized in writing and which Contractor has completed, delivered
+to TEA, and which has been accepted by TEA. All such work shall have been completed, in accordance with Contract
+requirements, prior to the effective date of termination. TEA shall have no other liability, including no liability for any costs
+associated with the termination.
+(b) Termination for Cause/Default: If Contractor fails to provide the goods or services contracted for according to the provisions
+of the Contract or fails to comply with any of the terms or conditions of the Contract, TEA may, upon written notice of default to
+Contractor, immediately terminate all or any part of the Contract. Termination is not an exclusive remedy but will be in addition
+to any other rights and remedies provided in equity, by law or under the Contract. TEA may exercise any other right, remedy
+or privilege which may be available to it under applicable law of the State and any other applicable law or may proceed by
+B - 19
+appropriate court action to enforce the provisions of the Contract, or to recover damages for the breach of any agreement being
+derived from the Contract. The exercise of any of the foregoing remedies will not constitute a termination of the Contract unless
+TEA notifies Contractor in writing prior to the exercise of such remedy.
+Following any termination for cause/default, Contractor shall remain liable for all covenants and indemnities under the Contract
+and shall be liable for all costs and expenses, including court costs, incurred by TEA with respect to the enforcement of any of
+the remedies listed herein.
+(c) Termination Due to Changes in Law: If federal or State laws or regulations or other federal or State requirements are amended
+or judicially interpreted so that either party cannot reasonably fulfill this Contract and if the parties cannot agree to an
+amendment that would enable substantial continuation of the Contract, the parties shall be discharged from any further
+obligations under this Contract.
+(d) Rights upon Termination or Expiration of Contract: In the event that the Contract is terminated for any reason, or upon its
+expiration, TEA shall retain ownership of all Works and associated documentation and materials obtained from Contractor
+under the Contract.
+(e) Survival of Terms: Expiration or termination of the Contract for any reason does not release Contractor from any liability or
+obligation set forth in the Contract that is expressly stated to survive any such expiration or termination or by its nature would
+be intended to be applicable following any such termination, including the provisions regarding confidentiality, indemnification,
+warranty, transition, records, audit, ownership of intellectual property or other property rights, dispute resolution, rights and
+remedies upon termination, invoice and fees verification.
+(f) Delivery of Works: Upon TEA’s request, at any time during the Term, and upon termination or expiration of the Contract,
+Contractor shall deliver, surrender, and assign, to TEA or to a third party designated by TEA in writing, all Works, except any
+Works containing TEA Confidential Information which shall be returned to TEA in accordance with subsection (g) below.
+Contractor will begin shipping, transmitting or providing access to all Works to TEA or its designee within 10 business days
+from TEA’s request. Contractor will be responsible for providing the services identified in the Contract until all Works have been
+completely transferred to TEA or its designee. Contractor is responsible for performing due diligence to ensure that all the
+transition activities are identified and completed during the Contract transition. For the avoidance of doubt, TEA has no
+obligation to compensate Contractor for transferring items under this Clause unless compensation is specifically provided for
+in Attachment A.
+TEA will not pay the final invoice until all Works are returned to TEA or its designee. TEA Contract Manager shall approve the
+transition plan prior to its implementation. The transition plan must minimize the impacts on continuity of operations and maintain
+communication with TEA Contract Manager and TEA’s designee, if any.
+(g) Return of TEA Confidential Information: TEA has the unrestricted right, (i) upon request at any time during the Term or (ii)
+upon termination or expiration of the Contract, to the return of TEA Confidential Information to any Authorized Users designated
+by TEA.
+Following confirmation by TEA that the copies of such TEA Confidential Information have been returned and upon the
+completion of any Contract Project activities for which such materials are required, Contractor will sanitize or destroy all other
+copies of such material in Contractor’s possession and cease using such materials and any information contained therein for
+any purpose. Contractor must certify that all records have either been properly cleared, purged, destroyed or returned to TEA
+in order to close out the Contract.
+B - 20
+65. Insurance: Contractor represents and warrants that it maintains and will maintain the following insurance coverage during the Term:
+Minimum Required Amounts of Insurance Coverage
+Type of Insurance Each Occurrence/Aggregate
+Workers Compensation Statutory Limits
+Employers Liability
+Bodily Injury by Accident $1,000,000 each Accident
+Bodily Injury by Disease $1,000,000 each Employee
+Bodily Injury by Disease $1,000,000 Policy Limit
+Commercial General Liability Bodily Injury and Property Damage
+(Occurrence based) $1,000,000 each Occurrence Limit
+$2,000,000 Aggregate Limit
+$5,000 Medical Expenses each person
+$2,000,000 Products/Completed Operations Aggregate Limit
+$1,000,000 Personal Injury and Advertising Liability
+$50,000 Damage to Premises Rented
+Automobile Liability
+All Owned, Hired and Non-Owned Vehicles $500,000 Combined Single Limit (for each accident)
+Umbrella/Excess Liability $1,000,000 per Occurrence
+Technology/Professional Liability Insurance, $5,000,000 for each and every claim and in the aggregate, covering liabilities
+and Intellectual Property Infringement, and for financial loss resulting or arising from acts, errors, or omissions, in
+Data Protection Liability Insurance (Cyber rendering the Contract Project, including: (i) intellectual property infringement
+Liability) arising out of software and/or content (excluding patent infringement and
+misappropriation of trade secrets); (ii) breaches of security; (iii) a violation or
+infringement of any laws; and (iv) data theft, damage, destruction, or
+corruption, including without limitation, unauthorized access, unauthorized
+use, identity theft, theft of Personally Identifiable Information or confidential
+corporate information, transmission of a computer virus or other type of
+malicious code, and participation in a denial of service attack on a third party.
+Such insurance must address all of the foregoing without limitation if caused
+by Contractor, its Affiliates or agents, or an independent contractor working
+on behalf of the Contractor in providing the Contract Project
+All required insurance coverage must: (a) be in a form satisfactory to TEA; (b) be written on a primary and non-contributory basis
+with any other insurance coverages Contractor currently has in place; (c) include a Waiver of Subrogation Clause; and (d) be issued
+from a company or companies that: (i) have a Financial Strength Rating of “A” or better from A.M. Best Company, Inc., (ii) have a
+Financial Size Category Class of “VII” or better from A.M. Best Company, Inc., and (iii) are authorized to do business under the laws
+of the State.
+All required insurance coverage, other than workers compensation and professional liability, must name the State, TEA and its/their
+Officers, Directors, and Employees as additional insureds. Contractor shall provide to TEA certificates of insurance showing the State
+and TEA as named additional insureds as detailed below.
+Contractor shall:
+(a) provide Certificates of Insurance to the TEA Contracts and Purchasing Division by email at
+TEAContractMonitoring@tea.texas.gov or by U.S. First Class Mail within 30 days of the time Contractor submits its signed
+Contract and at least 30 calendar days prior to any material change of a required policy;
+(b) provide (a) notice to TEA Contracts and Purchasing Division by email at TEAContractMonitoring@tea.texas.gov or by U.S.
+First Class Mail of any cancellation or non-renewal of a required policy at least 30 days prior to such cancellation or non-renewal
+and (b) Certificates of Insurance for any policy replacing such cancelled or non-renewed policy to TEA Contracts and
+Purchasing Division by email at TEAContractMonitoring@tea.texas.gov or by U.S. First Class Mail at least 10 calendar days
+prior to such cancelation or non-renewal;
+(c) ensure that all required insurance policies are written to cover all products, services, and locations related to Contractor’s
+performance under the Contract; and
+(d) within five working days of being requested by TEA, provide additional written proof, acceptable to TEA, of all policies and
+renewal policies. All policies and renewal policies must meet all terms set forth in the Contract.
+Contractor further represents and warrants that all policies contain endorsements prohibiting cancellation except upon at least 30
+days prior written notice to TEA.
+66. Force Majeure: Neither Contractor nor TEA shall be liable to the other for any delay in, or failure of performance of, any requirement
+included in this Contract caused by force majeure. The existence of such causes of delay or failure shall extend the period of
+performance until after the causes of delay or failure have been removed provided the non-performing party exercises all reasonable
+due diligence to perform. Force majeure is defined as acts of God, war, fires, explosions, hurricanes, floods, failure of transportation,
+or other causes that are beyond the reasonable control of either party and that by exercise of due foresight such party could not
+reasonably have been expected to avoid, and which, by the exercise of all reasonable due diligence, such party is unable to
+B - 21
+overcome. Force majeure events specifically exclude cyberattacks, intrusions and incidents of unauthorized access to any Contractor
+Technology Platform that is provided to TEA hereunder. Each party must inform the other in writing, with proof of receipt, within five
+working days of the existence of such force majeure, or otherwise waive this right as a defense. Contractor shall use diligent efforts
+to end the failure or delay and ensure the effects of such force majeure event are minimized. In the event of a force majeure event,
+Contractor will not increase its charges under this Contract. If the delay or failure continues beyond 10 calendar days, TEA may
+terminate this Contract in whole or in part with no further liability and will receive a refund of any prepaid fees unearned as of the
+time of termination.
+67. Drug Free Workplace Policy: Contractor represents and warrants that it shall comply with the applicable provisions of the Drug-
+Free Workplace Act of 1988 (41 U.S.C. § 701 et seq.) and maintain a drug-free work environment.
+68. Performance Measurement: Contractor shall use Office of Management and Budget-approved standard information collections
+when providing financial and performance information. Contractor must be able to relate financial data to performance
+accomplishments of the Contract Project. Contractor must also provide cost information to demonstrate cost effective practices (e.g.,
+through unit cost data). Contract performance should be measured in a way that will help to improve program outcomes, share
+lessons learned, and spread adoption of promising practices. Contractor must have effective control over, and accountability for, all
+funds, property, and other assets. The Contractor must adequately safeguard all assets and assure that they are used solely for
+authorized purposes.
+69. Entities that Boycott Israel: Contractor represents and warrants that: (a) it does not, and shall not for the duration of the Contract,
+boycott Israel or (b) the verification required by Section 2271.002 of the Texas Government Code does not apply to the Contract. If
+circumstances relevant to this provision change during the course of the Contract, Contractor shall promptly notify TEA.
+70. Energy Company Boycotts: Contractor represents and warrants that: (a) it does not, and will not for the duration of the Contract,
+boycott energy companies or (b) the verification required by Section 2276.002 of the Texas Government Code does not apply to the
+Contract. If circumstances relevant to this provision change during the course of the Contract, Contractor shall promptly notify TEA.
+71. Firearm Entities and Trade Associations Discrimination: Contractor verifies that: (1) it does not, and will not for the duration of
+the Contract, have a practice, policy, guidance, or directive that discriminates against a firearm entity or firearm trade association or
+(2) the verification required by Section 2274.002 of the Texas Government Code does not apply to the Contract. If circumstances
+relevant to this provision change during the course of the Contract, Contractor shall promptly notify TEA.
+72. COVID-19 Vaccine Passport Prohibition: Contractor certifies that it does not require its customers to provide any documentation
+certifying the customer’s COVID-19 vaccination or post-transmission recovery on entry to, to gain access to, or to receive service
+from the Contractor’s business. Contractor acknowledges that such a vaccine or recovery requirement would make Contractor
+ineligible for a state-funded contract.
+73. National Anthem Verification: If Contractor is a professional sports team as defined by Section 2004.002 of the Texas Occupations
+Code, including a wholly-owned subsidiary, majority-owned subsidiary, parent company, or affiliate of a professional sports team that
+exists to make a profit, Contractor will play the United States national anthem at the beginning of each team sporting event held at
+the Contractor’s home venue or other venue controlled by Contractor for the event. Failure to comply with this obligation constitutes
+a default of this Contract, and immediately subjects Contractor to the penalties for default, such as repayment of money received or
+ineligibility for additional money. In addition, Contractor may be debarred from contracting with the State. TEA or the Attorney General
+may strictly enforce this provision.
+74. Equal Treatment of All Persons: Consistent with Article I, Section 3a of the Texas Constitution, the Fourteenth Amendment to the
+United States Constitution, federal and State law, and Executive Order No. GA-55, Contractor represents and warrants that:
+(a) all conduct under this Contract shall be administered and performed in a neutral manner without regard to race of persons;
+(b) Contractor shall not, in the specific performance of this Contract, elevate one individual person over another, or advantage any
+one person over another, due to race;
+(c) Contractor shall not, in the specific performance of this Contract, employ practices or engage in any advancement of the
+programs known as diversity, equity and inclusion, critical race theory, affirmative action, or other similar, divisive agendas;
+(d) Contractor’s staff, agents, and subcontractors that are selected and employed in the specific performance of this Contract shall
+be selected and employed solely on merit and the ability to perform; and
+(e) Contractor shall ensure that any subcontractors participating in the specific performance of this Contract represent and warrant
+to the provisions of this Clause.
+75. Biological Sex and No Preferred Pronouns: Contractor represents and warrants that it shall ensure that all actions in specific
+performance of this Contract shall comply with federal and state law and reflect that there are only two sexes. Contractor’s employees,
+officers, representatives, subcontractors, and agents shall not, in performance of this Contract, present, direct, request, or suggest
+the use of preferred personal pronouns in professional correspondence or presentations.
+76. Critical Infrastructure Affirmation: If Contractor will be granted direct or remote access to or control of critical infrastructure in this
+State, as defined by Section 2275.0101 of the Texas Government Code, which includes cybersecurity systems, excluding access
+specifically allowed by the governmental entity for product warranty and support purposes, then pursuant to Section 2275.0102 of
+the Texas Government Code, Contractor certifies that neither it nor its parent company, nor any affiliate of Contractor or its parent
+B - 22
+company, is: (1) majority owned or controlled by citizens or governmental entities of China, Iran, North Korea, Russia, or any other
+country designated by the Governor under Texas Government Code Section 2275.0103, or (2) headquartered in any of those
+countries.
+77. Critical Infrastructure Subcontracts: For purposes of this Clause, the designated countries are China, Iran, North Korea, Russia,
+and any countries lawfully designated by the Governor as a threat to critical infrastructure. Pursuant to Section 113.002 of the
+Business and Commerce Code, Contractor shall not enter into a subcontract that will provide direct or remote access to or control of
+critical infrastructure, as defined by Section 113.001 of the Texas Business and Commerce Code, in this state, other than access
+specifically allowed for product warranty and support purposes, unless (i) neither the subcontractor nor its parent company, nor any
+affiliate of the subcontractor or its parent company, is majority owned or controlled by citizens or governmental entities of a designated
+country; and (ii) neither the subcontractor nor its parent company, nor any affiliate of the subcontractor or its parent company, is
+headquartered in a designated country. Contractor will notify TEA before entering into any subcontract that will provide direct or
+remote access to or control of critical infrastructure, as defined by Section 113.001 of the Texas Business & Commerce Code, in this
+state.
+78. Disaster Recovery Measures and Plan: Contractor will maintain commercially reasonable business continuity and disaster recovery
+measures (including but not limited to adequate backups in the case of ransomware) to prevent or cure any resulting delay or failure
+and must execute such measures prior to being excused from performance due to force majeure. In accordance with 13 Tex. Admin.
+Code § 6.94(a)(9), Contractor must provide to TEA the descriptions of its business continuity and disaster recovery plan. Contractor
+shall provide TEA with a copy of updated versions of its business continuity and disaster recovery plan (and that of any subcontractor,
+including any third-party hosting company, that it uses) within 30 days after changes are adopted, or within five days of TEA
+requesting a copy. Contractor must provide TEA the expected recovery time objective and recovery point objective in the event of
+major outage. TEA shall be free to share the disaster plan with any government agency with jurisdiction to request a copy from TEA
+and as otherwise required by a court of competent jurisdiction, or any federal or State law, including without limitation the Public
+Information Act, in accordance with Clause 48 hereof.
+79. Computer Equipment Recycling Program: If this Contract is for the purchase or lease of computer equipment, then Contractor
+certifies that it is in compliance with Subchapter Y, Chapter 361 of the Texas Health and Safety Code related to the Computer
+Equipment Recycling Program and the Texas Commission on Environmental Quality rules in 30 Tex. Admin. Code Chapter 328.
+80. Television Equipment Recycling Program: If Contractor is submitting a Response for the purchase or lease of covered television
+equipment, then Contractor certifies that it is compliant with Subchapter Z, Chapter 361 of the Texas Health and Safety Code related
+to the Television Equipment Recycling Program.
+81. Secure Erasure of Hard Disk Capability: All equipment provided to TEA by Contractor that is equipped with hard disk drives (i.e.,
+computers, telephones, printers, fax machines, scanners, multifunction devices, etc.) shall have the capability to securely erase data
+written to the hard drive prior to final disposition of such equipment, either at the end of the equipment’s useful life or the end of the
+related services agreement for such equipment, in accordance with 1 Tex. Admin. Code Chapter 202.
+82. Electrical Items: All electrical items purchased under this Contract must meet all applicable OSHA standards and regulations and
+bear the appropriate listing from Underwriters Laboratory (UL), Factory Mutual Resource Corporation (FMRC), or National Electrical
+Manufacturers Association (NEMA).
+83. Independent Contractor: Contractor acknowledges and agrees that it is furnishing products and services in the capacity of an
+independent contractor and that Contractor, Contractor’s employees, representatives, agents, subcontractors, suppliers, and third-
+party service providers are not employees of TEA or the State. Contractor shall have no claim against TEA for vacation pay, sick
+leave, retirement benefits, Social Security, worker’s compensation, health or disability benefits, unemployment insurance benefits,
+or employee benefits of any kind. The Contract shall not create any joint venture, partnership, agency, or employment relationship
+between Contractor and TEA.
+84. Excluded Parties: Contractor certifies that:
+(a) It is not listed in the prohibited vendors list authorized by Executive Order No. 13224, “Blocking Property and Prohibiting
+Transactions with Persons Who Commit, Threaten to Commit, or Support Terrorism”, published by the United States
+Department of the Treasury, Office of Foreign Assets Control; and
+(b) Neither Contractor, nor any of its holding companies or subsidiaries, is:
+(i) listed in Section 889 of the 2019 National Defense Authorization Act;
+(ii) listed in Section 1260H of the 2021 National Defense Authorization Act;
+(iii) owned by the government of a country on the U.S. Department of Commerce's foreign adversaries list under 15 C.F.R.
+§ 791.4; or
+(iv) controlled by any governing or regulatory body located in a country on the U.S. Department of Commerce's foreign
+adversaries list under 15 C.F.R. § 791.4.
+B - 23
+85. Felony Criminal Convictions: Contractor represents and warrants that Contractor has not and Contractor’s employees, agents or
+representatives, including any subcontractors and employees, agents or representative of such subcontractors assigned to TEA
+projects, have not been convicted of a felony criminal offense, or that, if such a conviction has occurred, Contractor has fully advised
+TEA as to the facts and circumstances surrounding the conviction.
+86. Criminal Background Checks: If during the Term, Contractor and/or Contractor’s staff, or subcontractor and/or subcontractor’s staff
+have either (a) access to Texas public school campuses, or (b) access to TEA Confidential Information or TEA data systems, all of
+Contractor and/or Contractor’s staff and/or subcontractor and/or subcontractor’s staff must submit to a national criminal history record
+information review (including fingerprinting) and meet all eligibility standards and criteria as set by TEA before serving in assignments
+on behalf of TEA. This requirement applies to all individuals who currently serve or will serve in TEA assignments that have the
+possibility of direct contact with students. Contractor and/or any staff member of Contractor who may perform services under this
+Contract must complete this criminal history review before the beginning of an assignment. If said individuals have not completed
+this requirement or the review results in a determination that Contractor, Contractor’s staff, subcontractor or subcontractor’s staff is
+not eligible for assignment, this Contract will be terminated effective immediately or the date of notice of non-eligibility, whichever is
+earliest.
+(a) Contractor, Contractor’s staff, subcontractor or subcontractor’s staff will not meet eligibility standards and be permanently
+disqualified from serving on TEA assignments if an initial review of criminal history records indicates:
+i. A conviction or deferred adjudication for a felony or Class A misdemeanor;
+ii. Offense on conviction of which the defendant is required to register as a sex offender; or
+iii. Offense under the laws of another state or federal law that is equivalent to an offense specified above, or their criminal
+record indicates an unresolved felony or Class A misdemeanor.
+(b) Educator Certification Required: If the individual is a certified educator, the educator’s certificate(s) must currently be valid and
+in good standing. If the certificate(s) is/are not in good standing (inactive, invalid, revoked, suspended or surrendered) the
+individual is not eligible for TEA appointments, assignments, contract, or grant awards or to provide services to school entities
+on behalf of TEA.
+87. Disclosure of Prior State Employment: In accordance with Section 2254.033 of the Texas Government Code, relating to consulting
+services, Contractor certifies that it does not employ an individual who has been employed by TEA or another State agency at any
+time during the two years preceding the submission of the Response or, in the alternative, Contractor has disclosed in its Response
+the following: (a) the nature of the previous employment with TEA or the other State agency; (b) the date the employment was
+terminated; and (c) the annual rate of compensation for the employment at the time of its termination.
+88. No Conflicts of Interest: Contractor represents and warrants that the provision of goods and services or other performance under
+the Contract will not constitute an actual or potential conflict of interest or reasonably create an appearance of impropriety.
+89. Collusion: Contractor represents and warrants that Contractor has not colluded with, nor received any assistance from, any person
+who was paid by TEA to prepare specifications or a solicitation on which a Contractor’s Response is based and will not allow any
+person who prepared the respective specifications or solicitation to participate financially in any Contract award.
+90. Suspension and Debarment: Contractor represents and warrants that it and its principals are not suspended or debarred from
+doing business with the State or federal government as listed on the State Debarred Vendor List maintained by the Texas Comptroller
+of Public Accounts and/or the System for Award Management (SAM) maintained by the General Services Administration.
+91. Financial Participation Prohibited: Under Section 2155.004(b) of the Texas Government Code, Contractor certifies that the
+individual or business entity named in the Response or Contract is not ineligible to receive the specified Contract and acknowledges
+that the Contract may be terminated and payment withheld if this certification is inaccurate.
+92. Foreign Terrorist Organizations: Contractor represents and warrants that it is not engaged in business with Iran, Sudan, or a
+foreign terrorist organization, as prohibited by Section 2252.152 of the Texas Government Code.
+93. Former TEA Employees: In accordance with Section 2252.901 of the Texas Government Code, Contractor represents and warrants
+that none of its employees including, but not limited to, those authorized to provide services under the Contract, were former
+employees of TEA during the 12 month period immediately prior to the date of execution of the Contract. In the case of professional
+services contracts as described by Chapter 2254 of the Texas Government Code, Contractor represents and warrants that if a former
+employee of TEA was employed by Contractor within one year of the employee’s leaving TEA, then such employee will not perform
+services on projects with Contractor that the employee worked on while employed by TEA.
+94. Restricted Employment of Certain State Personnel: Pursuant to Section 572.069 of the Texas Government Code, Contractor
+represents and warrants that it has not employed and will not employ a former State officer or employee who participated in a
+procurement or contract negotiations for TEA involving Contractor within two years after the date that the contract is signed, or the
+procurement is terminated or withdrawn. This certification only applies to former State officers or employees whose State service or
+employment ceased on or after September 1, 2015.
+B - 24
+95. Dealings with Public Servants: Pursuant to Section 2155.003 of the Texas Government Code, Contractor represents and warrants
+that it has not given, offered to give, nor intends to give at any time hereafter any economic opportunity, future employment, gift,
+loan, gratuity, special discount, trip, favor, or service to a public servant in connection with the Contract.
+96. Prior Disaster Relief Contract Violation: Sections 2155.006 and 2261.053 of the Texas Government Code prohibit State agencies
+from accepting a Response or awarding a Contract that includes proposed financial participation by a person who, in the past five
+years, has been convicted of violating a federal law or assessed a penalty in connection with a contract involving relief for Hurricane
+Rita, Hurricane Katrina, or any other disaster, as defined by Section 418.004 of the Texas Government Code, occurring after
+September 24, 2005. Under Sections 2155.006 and 2261.053 of the Texas Government Code, Contractor certifies that the individual
+or business entity named in the Response or Contract is not ineligible to receive the specified Contract and acknowledges that this
+Contract may be terminated, and payment withheld if this certification is inaccurate.
+97. Ability to Conduct Business in Texas: Contractor represents and warrants that it is, and will be for the duration of the Contract,
+duly organized, validly existing and duly authorized and in good standing with an active status to transact business under the laws
+of its state of organization. If Contractor is a foreign or out-of-state entity, Contractor represents and warrants that it is duly authorized
+and in good standing to do business with an active status in the State and is registered to transact business in the State under the
+process described in Texas Business Organizations Code, Title 1, Chapter 9 and any other State or federal statutes which require
+registration in order for Contractor to conduct business in the State under the Contract.
+98. Headings: The headings of articles, sections or clauses contained in this Attachment B and in the Contract, its attachments and
+annexes are intended for convenience and reference purposes only and shall in no way be deemed to define or limit any provision
+hereof or thereof.
+99. Contracting Information Responsibilities: In accordance with Section 552.372 of the Texas Government Code, Contractor agrees
+to (a) preserve all contracting information related to the Contract as provided by the records retention requirements applicable to
+TEA for the duration of the Contract, (b) promptly provide to TEA any contracting information related to the Contract that is in the
+custody or possession of the Contractor on request of TEA, and (c) on termination or expiration of the Contract, either provide at no
+cost to TEA all contracting information related to the Contract that is in the custody or possession of the Contractor or preserve the
+contracting information related to the Contract as provided by the records retention requirements applicable to TEA. Except as
+provided by Section 552.374(c) of the Texas Government Code, the requirements of Subchapter J, Chapter 552, Texas Government
+Code, may apply to the Contract and the Contractor agrees that the Contract can be terminated if the Contractor knowingly or
+intentionally fails to comply with a requirement of that subchapter.
+100. Human Trafficking Prohibition: Under Section 2155.0061 of the Texas Government Code, Contractor certifies that the individual
+or business entity named in the Response or Contract is not ineligible to receive the specified Contract and acknowledges that this
+Contract may be terminated and payment withheld if this certification is inaccurate.
+101. Executive Head of State Agency Affirmation: In accordance with Section 669.003 of the Texas Government Code, relating to
+contracting with the executive head of the state agency that is party to this Contract, Contractor certifies that it is not (1) the executive
+head of the agency, (2) a person who at any time during the four years before the date of the Contract was the executive head of the
+agency, or (3) a person who employs a current or former executive head of the agency.
+102. Notification Required for Certain Affiliations with Elected or Appointed Officials: Contractor shall notify TEA within fifteen
+calendar days of the existence or initiation of any relationship between Contractor and any elected or appointed official, including
+municipal, county, state, and federal elected or appointed officials, that arises during the Term and/or during the two-year period prior
+to the Contract Term. A “relationship” under this Clause includes, but is not limited to, an elected or appointed official acting as an
+executive, director, employee, independent contractor, consultant, agent, or subcontractor. All such relationships must be reported
+whether or not the elected or appointed official is working on or affiliated with any part of this Contract. Submissions under this Clause
+should be made to TEAContractMonitoring@tea.texas.gov.
+103. Point of Contact, Responsiveness and Escalation: All notices, reports, documents, correspondence or other data required by this
+Contract shall be in writing and delivered to the individuals listed below, their successors in office, or the TEA employee requesting
+such notice, report, document, correspondence or other data, on or before scheduled due dates or where no due date is specified
+within five working days of any request for such notice, report, document, correspondence or other data by TEA. Within 30 days of
+execution of this Contract, the respective Parties will designate the next level of personnel within each organization to address
+conflicts or ambiguity that cannot be resolved at the Contract Manager level.
+TEA Contractor
+Texas Education Agency
+1701 North Congress Ave.
+Austin, TX 78701
+Attn:
+B - 25
+104. False Statements: Contractor represents and warrants that all statements and information contained herein are current, complete,
+true and accurate. Submitting a document with a false statement or material misrepresentations made during the performance of a
+Contract is a material breach of contract and may void the submitted Response and any resulting Contract. During the Term of the
+Contract, Contractor shall promptly disclose to TEA all changes that occur to the representations, warranties, and certifications
+contained herein. Contractor covenants to fully cooperate in the development and execution of any resulting documentation
+necessary to maintain accurate record of the representations, warranties and certifications.
+The Texas Code cites referenced in this document may be viewed at: http://www.statutes.legis.state.tx.us/
+The Texas Administrative Code cites referenced in this document may be viewed at:
+http://texreg.sos.state.tx.us/public/readtac$ext.viewtac
+B - 26

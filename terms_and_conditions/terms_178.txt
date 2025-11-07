@@ -1,0 +1,604 @@
+
+
+
+
+TaxAct Terms Of Service And License Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Sign In 
+ Create Account 
+ Avoid further penalties. Finish filing today! 
+TaxAct 
+Business 
+TaxAct 
+Professional 
+Tax Filing 
+Products 
+Tax Resources 
+Support 
+ Create Account 
+ Sign In 
+TaxAct Terms of Service
+TaxAct Terms of Service Last Updated: January 2, 2025
+These Terms of Service (this “
+Agreement
+") is a legally-binding contract between TaxAct ("
+TaxAct
+", "
+we
+", "
+us
+", or "
+our
+") and you, or if filing jointly, you and your spouse, ("
+you
+", "
+your
+", or "
+user
+"), a visitor or user of TaxAct's websites, mobile applications, online and offline tax return preparation products, and related services, and, if selected by you, TaxAct's electronic filing services along with any of our other services which link to this Agreement (collectively, the "
+Services
+"). 
+PLEASE READ THIS AGREEMENT CAREFULLY BEFORE USING THE SERVICES AS THIS AGREEMENT AFFECTS YOUR LEGAL RIGHTS AND GOVERNS HOW CLAIMS THAT YOU AND WE MAY HAVE AGAINST EACH OTHER ARE RESOLVED INCLUDING A CLASS ACTION AND JURY TRIAL WAIVER AND LIMITATION OF DAMAGES.
+ This Agreement 
+(Section 12) 
+contains a class action waiver provision that requires the parties to resolve all disputes on an individual basis and limits the remedies available to you in the event of certain disputes relating to the operation or use of the services. Unless you opt out of arbitration within 30 days of the date you agree to this Agreement, you agree that any dispute that cannot be informally resolved between us will be resolved by binding, individual arbitration and you waive your right to participate in a class action lawsuit.
+You may not use the Services until you have read and agreed to this Agreement. BY DOWNLOADING, ACCESSING OR USING THE SERVICES, YOU INDICATE YOUR UNCONDITIONAL ACCEPTANCE OF THIS AGREEMENT. IF YOU DO NOT ACCEPT THIS AGREEMENT, YOU MUST TERMINATE YOUR USE OF THE SERVICES.
+A 
+"registered user”
+ is a user from whom TaxAct has received the information necessary to permit such person to print or electronically file a tax return prepared using the Services and who complies with the terms and conditions of this Agreement.
+TABLE OF CONTENTS
+Ownership; Limited License; Copyright & Trademark Ownership.
+User Responsibility
+Electronic Communications
+Electronic Filing Services
+Modifications to the Services
+TaxAct Guarantees for Registered Users
+Third Party Offerings
+Release for Operation and Use of the Services
+Disclaimer of Warranties
+Limitation of Liability and Damages
+Miscellaneous
+Dispute Resolution; Informal Resolution; Class Waiver; Binding Arbitration; Mass Arbitration; Termination of Rights; & 30 Day Opt-Out Right
+Jurisdiction and Venue
+Changes to the Terms of Service
+Privacy Notice
+Notices and Procedure for Making Claims of Copyright Infringement
+Contact
+ 
+ 1. Ownership; Limited License; Copyright & Trademark Ownership. 
+The Services and all related text, graphics, images, photographs, videos, illustrations, computer code, and other information, materials and content contained in the Services or provided by TaxAct in connection therewith (collectively, "
+Content
+") are owned by or licensed to TaxAct and are protected under both United States and foreign laws. Except as explicitly stated in this Agreement, TaxAct and its licensors reserve all right in and to the Services and Content.
+Limited License to Services.
+Subject to your continued compliance with this Agreement, including payment of any applicable fees, you are hereby granted a limited, nonexclusive, nontransferable, non-sublicensable, revocable license to access and use the Services for your personal purposes. You may only use the TaxAct tax preparation software (whether online, downloaded, or via mobile application) to prepare one valid and complete tax return per applicable service fee paid and, after proper registration and any applicable payment, to file electronically and/or print such tax return. Unless you have purchased a license to one of TaxAct’s Professional products, you will not use the Services for commercial purposes, including, but not limited to using the Services to prepare tax returns, schedules or worksheets for others as part of a service offering.
+Limited License to Content.
+Subject to this Agreement, you are hereby granted a limited, nonexclusive, nontransferable, non-sublicensable, revocable license to electronically copy and print portions of Content to hardcopy for the sole purpose of your personal, non-commercial use in researching and making a decision to purchase Services. Any other use of the Content—including reproductions other than specified, modifications, distribution, or republication—without the prior written permission of TaxAct is strictly prohibited.
+Restrictions.
+The license granted to you is subject to this Agreement and does not include any right to (a) sell, mirror, frame, resell or commercially use our Services or Content; (b) copy, reproduce, distribute, publicly perform or publicly display any Services or Content; (c) modify, or create derivative works based on, the Services or Content; (d) remove or alter any proprietary rights notices or markings on or in the Services or Content; (e) use any data mining, robots, artificial intelligence, or similar data gathering or extraction methods in relation to the Services or Content; (f) use our Services or Content other than for their intended purposes; (g) transmit any viruses, malware, or other malicious code or software through the Services or otherwise interfere or attempt to interfere with the normal operation of the Services; (h) attempt to gain unauthorized access to TaxAct's or any third party's systems, networks, or data; (i) use the Services to transmit any fraudulent information, create any false identity, or misrepresent your identity; or (j) otherwise use the Services or Content in violation of any applicable law. Any use of our Services or Content other than as specifically authorized herein, without our prior written permission, is strictly prohibited and will terminate the permissions granted in this Agreement.
+Trademarks
+TaxAct® and the associated logos and any other TaxAct service names, logos or slogans that may appear on the Services are trademarks of TaxAct and our licensors and may not be copied, imitated or used, in whole or in part, without our or the applicable trademark holder's prior written permission. You may not use metatags or other "hidden text" utilizing "TaxAct" or any other name, trademark or product or service name of TaxAct. In addition, the look and feel of the Services, including, without limitation, all page headers, custom graphics, button icons and scripts, constitute the service mark, trademark or trade dress of TaxAct and may not be copied, imitated or used, in whole or in part, without our prior written permission. All other trademarks, registered trademarks, product names and company names or logos mentioned on the Services are the property of their respective owners and may not be copied, imitated or used, in whole or in part, without the permission of the applicable trademark holder.
+ 
+ 2. User Responsibility 
+You agree that you are responsible for submitting accurate and complete information while preparing your tax return and for reviewing your tax return for indications of obvious errors prior to electronically filing or printing your return. TaxAct may, but is under no obligation to, make certain non-substantive (e.g., formatting) changes to your return in conformance with various e-filing requirements and standards. You are also responsible for acquiring and maintaining all equipment, computers, software and communications or Internet services (such as data or long distance phone charges) relating to your access and use of the Services, and for all expenses relating thereto (plus applicable taxes). You must use your valid form of payment to pay all fees and charges related to the Services and, except as otherwise provided herein, all fees and charges are non-refundable. YOU ARE RESPONSIBLE FOR MEETING ANY TAX FILING DEADLINES. WE CANNOT GUARANTEE HOW LONG IT WILL TAKE TO COMPLETE AND FILE YOUR RETURN, SO YOU ARE RESPONSIBLE FOR PREPARING YOUR RETURN EARLY ENOUGH TO ENSURE IT CAN BE FILED BEFORE ANY APPLICABLE DEADLINES.
+TaxAct may offer you the ability to use certain informative tools, including, without limitation, for example, a tax estimator/calculator, interview questions related to life events, or a deduction maximizer. YOU ACKNOWLEDGE AND AGREE THAT THESE TOOLS ARE PROVIDED MERELY AS A CONVENIENCE TO OUR USERS, AND THAT YOU RETAIN ULTIMATE RESPONSIBILITY FOR ENSURING THE ACCURACY AND COMPLETENESS OF ANY INFORMATION YOU SUBMIT WHILE USING THE SERVICES. THE DEDUCTION MAXIMIZER IS INTENDED TO HIGHLIGHT CERTAIN COMMONLY-USED DEDUCTIONS FOR FILERS LISTING A PARTICULAR OCCUPATION. IT IS SOLELY YOUR RESPONSIBILITY TO DETERMINE, BASED ON YOUR SPECIFIC CIRCUMSTANCES, IF SUCH DEDUCTIONS APPLY TO YOU AND IF OTHER DEDUCTIONS, THAT MAY NOT HAVE BEEN HIGHLIGHTED BY THE TOOL, MAY APPLY TO YOU.
+You are the only person authorized to use your user identification and password, and you shall not permit or allow other people to have access to or use the same. You are responsible for maintaining the confidentiality of your user identification and password. You are responsible for any actions taken using your user identification and password. You are responsible for ensuring that all information in your account, including without limitation your contact information, is and remains, at all times, complete and accurate.
+You acknowledge and agree that you are solely responsible for all content, data, and information submitted by your user identification into the Services, including, without limitation, content, data, and information relating to third parties. 
+You hereby indemnify and hold harmless TaxAct from and against any third party claims, liabilities, costs and expenses, including attorney’s fees, related to such content, data, and information submitted by you. You further acknowledge and agree that you are solely responsible for implementing and responding to any third party requests to modify, update, delete, or otherwise alter any content, data, and information that you have submitted into the Service.
+To the fullest extent permitted by applicable law, TaxAct has no obligation to store or maintain any information you provide to it, and you are responsible for printing or saving a copy of your tax return for your records.
+Our Services may contain bulletin board services, chat areas, news groups, forums, communities, personal web pages, calendars, and/or other message or communication facilities designed to enable you to communicate with the public at large or with a group (collectively, “
+Communication Services
+”). You agree to use the Communication Services only to post, send and receive messages and material that are proper and related to the particular Communication Service. By way of example, and not as a limitation, you agree that when using a Communication Services, you will not:
+Defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others.
+Publish, post, upload, distribute or disseminate any inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topic, name, material or information.
+Upload files that contain software or other material protected by intellectual property laws (or by rights of privacy of publicity) unless you own or control the rights thereto or have received all necessary consents.
+Upload files that contain viruses, corrupted files, or any other similar software or programs that may damage the operation of another's computer.
+Advertise or offer to sell or buy any goods or services for any business purpose unless such Communication Service specifically allows such messages.
+Conduct or forward surveys, contests, pyramid schemes or chain letters.
+Download any file posted by another user of a Communication Service that you know, or reasonably should know, cannot be legally distributed in such manner.
+Falsify or delete any author attributions, legal or other proper notices or proprietary designations or labels of the origin or source of software or other material contained in a file that is uploaded.
+Restrict or inhibit any other user from using and enjoying the Communication Services.
+Violate any code of conduct or other guidelines which may be applicable for any particular Communication Service.
+Harvest or otherwise collect information about others, including e-mail addresses, without their consent.
+Violate any applicable laws or regulations.
+TaxAct has no obligation to monitor the Communication Services. TaxAct, however, reserves the right to review materials posted to a Communication Service and to remove any materials in its sole discretion. TaxAct reserves the right to terminate your access to any or all of the Communication Services at any time without notice for any reason whatsoever.
+TaxAct reserves the right at all times to disclose any information as necessary to satisfy any applicable law, regulation, legal process or governmental request, or to edit, refuse to post or to remove any information or materials, in whole or in part, in TaxAct’s sole discretion. Always use caution when giving out any personally identifying information about yourself or your children in any Communication Service. TaxAct does not control or endorse the content, messages or information found in any Communication Service and, therefore, TaxAct specifically disclaims any liability with regard to the Communication Services and any actions resulting from your participation in any Communication Service. Managers and hosts are not authorized TaxAct spokespersons, and their views do not necessarily reflect those of TaxAct.
+Materials uploaded to a Communication Service may be subject to posted limitations on usage, reproduction and/or dissemination. You are responsible for adhering to such limitations if you download the materials.
+TaxAct may use AI-powered chatbots and similar features on some of the Services to provide helpful information. By using this service, you are interacting with an AI platform, not a live person. Please do not input any personal or sensitive information unless you’re directly interacting with a customer support representative. All information you submit is subject to our 
+Privacy Notice
+ and processed by our vendor that supports the AI chat feature. Chat transcripts may be kept for future reference. Use of such chatbots and similar features is for general information only; please understand that information, decisions, advice, or materials provided by or retrieved from the bot have not been reviewed for content or accuracy. These features may have limitations and inaccuracies and thus may not be appropriate for your situation. Note that some technologies used on our website, including AI-powered chatbots, allow us and our vendors to monitor and analyze how visitors use our website to better understand user behavior and improve our Services.
+ 
+ 3. Electronic Communications 
+By creating a TaxAct account, you consent to receive electronic communications from TaxAct (e.g., SMS or text messaging, telephone, via email, or by posting notices on our Services). These communications may include notices about your account (e.g., authentication, payment authorizations, password changes and other transactional information) or legal notices and are part of your relationship with us. When permitted by applicable law, we may also send you promotional communications via email, including newsletters, special offers, surveys and other information we think may be of interest to you. You may opt out of receiving these promotional emails at any time by following the unsubscribe instructions provided in such emails. You agree that any notices, agreements, disclosures or other communications that we send to you electronically will satisfy any legal communication requirements, including, but not limited to, that such communications be in writing.
+By providing your phone number to us through the Services or otherwise, you consent to receive calls or text messages from us for operational or informational purposes. We may use our service providers, including an automated telephone dialing system, to send these calls or messages from us to you. You will receive operational or informational messages as described above when you first consent to texts and every time you sign in to verify and authenticate your account, should you choose not to remember the device.
+From time to time, we may also ask for your consent to send you marketing calls or text messages. Your consent to receive marketing calls or text messages is not required to purchase goods or services from us. 
+You can cancel SMS services at any time by texting STOP to the short code. After you send the SMS message STOP to us, we will send you an SMS message to confirm that you have been unsubscribed. After this, you will no longer receive SMS messages from us. If you want to receive SMS messages again, you may sign up as you did previously. If you are experiencing issues with the messaging program, you can reply with the keyword HELP for more assistance, or you can get help directly by calling (319) 373-3600 during our 
+regular support hours
+. 
+Carriers are not liable for delayed or undelivered messages. As always, message and data rates may apply for any messages sent to you from us and to us from you. Message frequency varies. Please review applicable additional terms carefully when you provide your mobile phone number for marketing purposes. If you have any questions about your text plan or data plan, it is best to contact your wireless provider.
+If you have any questions regarding privacy, please review the TaxAct 
+Privacy Notice
+.
+ 
+ 4. Electronic Filing Services 
+If you choose to file your return electronically, your tax return will be forwarded to TaxAct’s Electronic Filing Center, where it will be converted to and stored in a standardized format and then, transmitted to the applicable federal or state taxing authority. TaxAct cannot guarantee that the taxing authority will accept your return, as rejections may occur due to circumstances beyond TaxAct’s control (e.g., incorrect user information, malfunction of the taxing authority’s system, etc.). Your e-filing fee, if any, is non-refundable even if your return is rejected by the taxing authority. You are responsible for verifying the status of your return to confirm that it has been received and accepted by the applicable taxing authority and, if necessary, for filing it manually. The Internal Revenue Service (IRS) requires TaxAct to provide notification to it of information relating to your use of the Services, such as notice of your electronic filing of your tax return, of the Internet Protocol (IP) address and other device information of the computer from which your return originated, and of whether your email address was collected. By using the Services to prepare and submit your tax return, you consent to the disclosure to the IRS and any other tax authority, revenue authority, or other governmental authority with jurisdiction of any information pertaining to your use of the Services. You agree that TaxAct is permitted to access and use any tax return and other information provided by you to perform the Services and, if necessary, to access such information to obtain contact information in order to provide you with notifications relating to the Services.
+ 
+ 5. Modifications to the Services 
+TaxAct has the right at any time and for any reason to modify or discontinue the Services or any aspect or feature of the Services, including but not limited to their Content, functionality or hours of availability, the equipment needed for its access or use, or pricing. In addition, TaxAct reserves the right, at any time, to change the terms of this Agreement. 
+ 
+ 6. TaxAct Guarantees for Registered Users 
+TaxAct offers the following guarantees with respect to the Services: 
+Maximum Refund Guarantee
+$100k Accuracy Guarantee
+100% Satisfaction Guarantee (Applies to TaxAct Online products only)
+Money-Back Guarantee (Applies to TaxAct download products only)
+100% Accuracy Guarantee (Applies to TaxAct Business products only)
+For all of the details of how our guarantees work – what’s covered, what’s excluded, required time frames, and what steps are required – please read the full terms below:
+UNLESS OTHERWISE SPECIFICALLY ALLOWED BY LAW, THE BELOW GUARANTEES SET FORTH YOUR SOLE AND EXCLUSIVE REMEDY AGAINST TAXACT, ITS AFFILIATES AND REPRESENTATIVES AND OUR SERVICE PROVIDERS AND OUR ONLY OBLIGATION, IN THE EVENT OF ANY ERRORS OR INACCURANCIES WITH OUR SERVICES. GUARANTEES ARE DISTINCT AND MAY NOT BE COMBINED.
+Maximum Refund Guarantee
+We guarantee you’ll get your maximum tax refund if you use one of TaxAct’s individual 1040 products (the “Service”) to e-file your return. If you are a registered user of the Service and you receive a larger refund amount or pay a smaller tax due amount on your federal and/or state tax return using an online tax preparation software other than the TaxAct software, then we will refund to you the applicable federal and/or state purchase price paid by you for the Service. All other fees are excluded. To qualify, the larger refund or smaller tax due cannot be attributed to variations in data you provided for tax preparation or for positions taken by you or another online tax preparation software that are contrary to the law. To make a claim under this guarantee, you must notify us in writing, as soon as you learn of the difference (and in no event later than 60 days from the date you filed your tax return using the Service or October 31 of the applicable tax year, if earlier). See 
+https://www.taxact.com/company/guarantees
+ for more details and how to submit a Maximum Refund Guarantee claim.
+$100k Accuracy Guarantee
+We guarantee our software is 100% accurate and will calculate your maximum refund under applicable law. If an error in our software results in you ultimately receiving a smaller refund or larger tax liability than you receive using the same data with another tax preparation product, we will: (1) refund the applicable software fees you paid us, (2) pay you the difference in the tax refund or liability, (3) cover any penalties and interest levied against you and (4) any reasonably documented legal and audit costs you incur. In no event will our total, cumulative obligation under (1)-(4) above to any customer under this guarantee exceed $100,000. This guarantee only extends to returns that are e-filed by taxpayers preparing their own tax returns using our Consumer 1040 products (e.g., those located at 
+https://www.taxact.com/taxes-online
+) starting in the 2017 tax year. Our other offerings (including, without limitation, our products for businesses (TaxAct Business) and tax professionals (TaxAct Professional)) as well as our Consumer 1040 products for past tax years have their own guarantees and are expressly excluded from this guarantee. This guarantee only applies to errors contained in our software, and does not apply to errors attributable to the user, including without limitation if a user: (i) overrides any amounts generated by the software, (ii) misclassifies or fails to enter any information completely or accurately, (iii) makes incorrect or fraudulent claims, or (iv) fails to file an amended return after we announce any updates or corrections to the software. This guarantee sets forth your sole and exclusive remedy, and our only obligation, in the event of any errors with our software. To make a claim under this guarantee, you must submit a claim within 60 days from the date you e-filed your return or within 30 days of the IRS or state imposing a penalty, and provide any other information we reasonably request, within a timely manner but no more than 60 days after we request such information, to allow us to evaluate and verify your claim. Once we receive your claim and the necessary information, we will review it and respond to you within 90 days. This Guarantee does not apply when using the applicable TaxAct product or service to prepare tax returns for others. See 
+https://www.taxact.com/company/guarantees
+ for more details and how to submit an $100K Accuracy Guarantee claim.
+100% Satisfaction Guarantee (Applies to TaxAct Online products only)
+If you are a registered user using the Services online and are dissatisfied with the Services prior to completing the billing steps within the program, your exclusive remedy is to immediately discontinue using the Services. If you are a registered user who completed the billing steps and have not printed or e-filed or your e-file was rejected by the IRS or State and you cannot re-file, you must contact us within the calendar year of the purchase to request a refund of fee(s) paid. See 
+https://www.taxact.com/company/guarantees
+ for more details and how to submit a 100% Satisfaction Guarantee claim. 
+Money-Back Guarantee (Applies to TaxAct download products only)
+If you are a TaxAct download purchaser and you’re not completely satisfied with your TaxAct download software purchase, you can request a full refund within 30 days of receipt to get your money back. The Money-Back Guarantee does not apply after you use the TaxAct software to print or e-file a return and that return is accepted by the IRS or state taxing agency. See 
+https://www.taxact.com/company/guarantees
+ for more details and how to submit a Money-Back Guarantee claim. 
+100% Accuracy Guarantee (Applies to TaxAct Business products only)
+Rest assured — our calculations are correct. If you are assessed a penalty from the IRS or state taxing authority due to a calculation error in a TaxAct product, we'll pay the penalty and interest. To make a claim under this guarantee, you must notify us in writing within 30 days of the IRS or state imposing a penalty. This Guarantee does not apply (i) when using the applicable TaxAct product or service to prepare tax returns for others or (iii) if you fail to enter all required information accurately. See 
+https://www.taxact.com/company/one-hundred-percent-accuracy
+ for more details and how to submit an 100% Accuracy Guarantee claim. 
+ 
+ 7. Third Party Offerings 
+The Services and Content may contain links to, or information regarding, third party websites, products, or services (collectively, “
+Third Party Offerings
+”). TaxAct offers such links and information for your convenience but does not control or endorse any Third Party Offerings. YOU AGREE THAT TAXACT IS NOT LIABLE FOR THE CONTENT, ACCURACY, FUNCTIONALITY, OR ANY OTHER ASPECT OF ANY THIRD PARTY OFFERINGS AND THAT TAXACT IS NOT RESPONSIBLE FOR THE ACTS, OMISSIONS, POLICIES, OR PROCEDURES OF ANY SUCH THIRD PARTY. ANY TRANSACTIONS THAT YOU CHOOSE TO ENTER INTO WITH ANY THIRD PARTY IS BETWEEN YOU AND THE APPLICABLE THIRD PARTY, AND TAXACT WILL NOT BE A PARTY TO OR HAVE ANY LIABILITY WITH REGARDS TO SUCH TRANSACTIONS.
+ 
+ 8. Release for Operation and Use of the Services 
+To the fullest extent permitted by applicable law, you release TaxAct from responsibility, liability, claims, demands, and/or damages of every kind and nature, in any way arising out of or related to the operation, or your use, of the Services or any Content that in any way arise out of or related to the acts or omissions of third parties ("
+Third Party Disputes
+") except as expressly provided in Section 6, TaxAct Guarantees for Registered Users. 
+If you are a 
+California resident
+, you hereby waive any rights you may have arising out of these terms under California Civil Code section 1542, which says "A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR OR RELEASING PARTY DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE AND THAT, IF KNOWN BY HIM OR HER WOULD HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR OR RELEASED PARTY." You also waive any rights you may have with respect to third party disputes under any other statute or common law principles that would otherwise limit the coverage of this release to include only those claims which you may know or suspect to exist in your favor at the time of agreeing to this release.
+ 
+ 9. Disclaimer of Warranties 
+EXCEPT AS EXPRESSLY PROVIDED BY TAXACT TO THE CONTRARY, THE SERVICES AND CONTENT ARE PROVIDED "
+AS IS
+" AND "
+AS AVAILABLE
+" AND, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, TAXACT AND ITS PARENT, SUBSIDIARIES AND AFFILIATES, AND THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, CONTRACTORS, CONSULTANTS, AGENTS, ASSIGNS, LICENSORS, DISTRIBUTORS, ADVERTISERS, WEB-LINK PROVIDERS, DEALERS OR SUPPLIERS (COLLECTIVELY, THE "PARTICIPATING PARTIES") 
+DISCLAIM ALL WARRANTIES, EXPRESS, IMPLIED, OR STATUTORY, REGARDING THE SERVICES, CONTENT, AND RELATED MATERIALS, INCLUDING, WITHOUT LIMITATION, THEIR FITNESS FOR A PARTICULAR PURPOSE, THEIR QUALITY, THEIR MERCHANTABILITY, AND THEIR NON-INFRINGEMENT
+.
+Except for the guarantees expressly set forth in Section 6 of this Agreement, TaxAct does not warrant that the Services are accurate, complete or free of errors, interruptions, viruses or other harmful components or that the services will be available 24 hours per day, seven days per week. You further acknowledge that the operation and availability of the communications systems used for accessing and interacting with the Services (e.g., the public telephone, computer networks and the internet) or transmitting information to the taxing authorities can be unpredictable and may, from time to time, interfere with or prevent access to the services or their operation. TaxAct is not in any way responsible for any such interference with, or prevention of, your use of or access to Services beyond the reasonable control of TaxAct.
+TAXACT DOES NOT PROVIDE TAX ADVICE
+. Any information contained on or in the TaxAct Services is provided for informational purposes only, and you are responsible for consulting with your own professional tax advisors concerning your specific tax circumstances. TaxAct disclaims any responsibility for the validity, accuracy, or adequacy of any positions taken by users in their tax returns. All warranties or guarantees given or made by TaxAct with respect to the services (1) are for the benefit of the registered user of the Services only and are not transferable, and (2) shall be null and void if you breach any terms or conditions of this Agreement.
+ 
+ 10. Limitation of Liability and Damages 
+EXCEPT AS OTHERWISE PROVIDED UNDER THE GUARANTEES FOR REGISTERED USERS DESCRIBED ABOVE, AND TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE ENTIRE LIABILITY OF TAXACT AND THE PARTICIPATING PARTIES (JOINTLY) FOR ANY REASON SHALL BE LIMITED TO THE AMOUNT PAID BY YOU FOR THE SERVICES AND CONTENT.
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, NEITHER TAXACT NOR THE PARTICIPATING PARTIES WILL BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES (INCLUDING DAMAGES FOR LOSS OF BUSINESS, LOSS OF PROFITS OR INVESTMENT, OR THE LIKE), WHETHER BASED ON BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, EVEN IF TAXACT OR THE PARTICIPATING PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
+THE LIMITATIONS SET FORTH IN THIS SECTION WILL NOT LIMIT OR EXCLUDE TAXACT OR THE PARTICIPATING PARTIES' LIABILITY FOR PRODUCT LIABILITY CLAIMS THAT ARISE IN CONNECTION WITH THE ACCESS OR USE OF THE SERVICES OR FOR TAXACT'S OR THE PARTICIPATING PARTIES' GROSS NEGLIGENCE, FRAUD, OR INTENTIONAL, WILLFUL, MALICIOUS, OR RECKLESS MISCONDUCT.
+ 
+ 11. Miscellaneous 
+TaxAct shall have the right to immediately terminate your access to or use of the Services in the event of any activities which breach this Agreement or conduct which, in TaxAct’s sole judgment, interferes with the operation or use of the Services (e.g., excessive usage of the Services which disrupts the use of the Services by other users) or your failure to consent to the terms of this Agreement, any updates or amendments to this Agreement, or other policies or terms, such as our 
+Privacy Notice
+, related to the use of our services. Termination of this Agreement automatically terminates your license and authorization to use the Services and Content.
+This Agreement, TaxAct’s 
+Privacy Notice
+, and any terms associated with any particular offer for use of the Services set forth TaxAct’s and the Participating Parties’ entire liability and your exclusive remedy with respect to the Services, comprise a complete statement of the agreement between you and TaxAct regarding the subject matter thereof, and supersede any prior understandings with regards to such subject matter. In the event of any conflict between the terms of this Agreement and another policy or offer terms, the conflicting terms shall, if possible, be read so as to avoid the conflict and, should the conflict be unavoidable, the terms of this Agreement shall control. This Agreement does not limit any rights that TaxAct may have under trade secret, trademark, copyright, patent or other laws. The employees of TaxAct and the Participating Parties are not authorized to make modifications to this Agreement, or to make any additional representations, commitments, or warranties binding on TaxAct, except in a writing signed by an authorized officer of TaxAct. If any provision of this Agreement is invalid or unenforceable under applicable law, then it shall be, to that extent, deemed omitted and the remaining provisions will continue in full force and effect.
+ 
+ 12.Dispute Resolution; Informal Resolution; Class Waiver; Binding Arbitration; Mass Arbitration; Termination of Rights; & 30 Day Opt-Out Right 
+PLEASE READ THE FOLLOWING SECTION CAREFULLY BECAUSE IT LIMITS CERTAIN LEGAL RIGHTS, INCLUDING THE RIGHT TO A JURY TRIAL, THE RIGHT TO PARTICIPATE IN ANY FORM OF CLASS, COLLECTIVE, OR REPRESENTATIVE CLAIM, DISPUTE OR ACTION, AND THE RIGHT TO CERTAIN REMEDIES AND FORMS OF RELIEF. YOU UNDERSTAND THAT THE RIGHTS TO DISCOVERY AND APPEALS MAY BE MORE LIMITED IN ARBITRATION THAN IN COURT.
+Informal Dispute Resolution
+Prior to initiating any formal legal action, you must first provide TaxAct with written notice of your dispute by email at legalnotices@taxact.com. The notice of dispute must contain enough information for us to identify all relationship(s) that you have with TaxAct and to attempt to resolve your claim, including (a) your name; (b) the email address(es) that you used when using the Services; (c) your mobile telephone number; (d) your residential address; (e) an explanation of the facts of the dispute as you understand them and supporting information; and (f) a good faith calculation of the damages you claim to have suffered and a statement of the specific relief you are seeking. During the 60 days following the date your notice of dispute is received by TaxAct, you and we agree to engage in good faith efforts to resolve the Dispute informally and you will not initiate any legal action during this period. You and we agree to toll any statutes of limitations that may apply, along with any filing deadlines during this 60-day time period. If you commence an arbitration without having previously provided a valid and compliant notice of dispute, you and we agree that the applicable arbitration provider (or the arbitrator, if one has been appointed) must suspend the arbitration pending compliance with this paragraph.
+Class Waiver
+TO THE FULLEST EXTENT ALLOWED BY APPLICABLE LAW, YOU AND TAXACT AGREE THAT ANY DISPUTE ARISING OUT OF OR RELATED TO THIS AGREEMENT OR OUR SERVICES IS PERSONAL TO YOU AND TAXACT AND THAT ANY DISPUTE WILL BE RESOLVED SOLELY THROUGH INDIVIDUAL ARBITRATION AND WILL NOT BE BROUGHT AS A COLLECTIVE ACTION, CLASS ACTION, OR ANY OTHER TYPE OF REPRESENTATIVE PROCEEDING. 
+If there is a final determination that applicable law precludes enforcement of the Class Waiver contained in this paragraph as to any claim, cause of action or requested remedy, then that claim, cause of action or requested remedy will be severed and may be brought in a court of competent jurisdiction, but the waiver contained in this paragraph shall be enforced in arbitration on an individual basis as to all other claims, causes of action or requested remedies to the fullest extent possible. In the event that a claim, cause of action or requested remedy is severed pursuant to this paragraph, then you and we agree that the claims, causes of action or requested remedies that are not subject to arbitration will be stayed until all arbitrable claims, causes of action and requested remedies are resolved by the arbitrator.
+Agreement to Binding Individual Arbitration
+In the unlikely event that an agreed upon solution is not reached within sixty (60) days from the date your notice of dispute is received (and the parties do not agree to extend the period), you and we agree that any disagreement between you and TaxAct regarding any claim or controversy at law or equity arising out of, relating to, or connected in any way with the Services (collectively, "Dispute") will be resolved entirely through binding individual arbitration in Dallas County, Texas or the location of the registered user, or as we and you otherwise agree in writing. You agree that the term "Dispute" in this Agreement will have the broadest meaning possible. This Agreement also cover any Dispute between you and any officer, director, board member, agent, employee, affiliate of TaxAct, or third party if TaxAct could be liable, directly or indirectly, for such Dispute. If the parties have more than one Dispute between them, you and we agree to assert all such Disputes in a single arbitration so they may be resolved at the same time or they will be deemed waived.
+Except in the event of a Mass Arbitration (as defined below), You and TaxAct agree to meet and confer to select a neutral arbitrator. If we are unable to agree on an arbitrator or arbitration firm, you and TaxAct agree that the Dispute shall be submitted to binding arbitration administered on a confidential basis by JAMS, in accordance with the JAMS Streamlined Arbitration Rules and Procedures as modified by these Terms, but excluding any rules or procedures that permit arbitration on a class-wide basis (collectively, the “JAMS Rules”). The JAMS Rules governing the arbitration may be accessed at 
+https://www.jamsadr.com/adr-rules-procedures
+. 
+WITH ARBITRATION (i) THERE IS NO JUDGE OR JURY, (ii) THE ARBITRATION PROCEEDINGS AND ARBITRATION OUTCOME ARE SUBJECT TO CERTAIN CONFIDENTIALITY RULES, AND (iii) JUDICIAL REVIEW OF THE ARBITRATION OUTCOME IS LIMITED. The arbitrator’s award shall be final and binding and may be entered as a judgment in any court of competent jurisdiction.
+You and TaxAct agree that the terms of this Agreement affect interstate commerce and that the enforceability of this Section will be substantively and procedurally governed by the Federal Arbitration Act, 9 U.S.C. § 1, et seq. (the "
+FAA
+"), to the maximum extent permitted by applicable law. As limited by the FAA, this Agreement and the JAMS Rules, the arbitrator will have exclusive authority to make all procedural and substantive decisions regarding any Dispute and to grant any remedy that would otherwise be available in court; provided, however, that the arbitrator does not have the authority to conduct a class arbitration or a representative action, which is prohibited by this Agreement. You and TaxAct agree that for any arbitration you initiate, you will pay the filing fee and TaxAct will pay the remaining arbitration provider’s fees and costs. For any arbitration initiated by TaxAct, TaxAct will pay all of the arbitration provider’s fees and costs. You and TaxAct agree that the state or federal courts of the State of Texas and the United States sitting in Dallas County, Texas have exclusive jurisdiction over any appeals and the enforcement of an arbitration award.
+Notwithstanding the forgoing, this Agreement shall not require arbitration of the following Disputes (i) qualifying individual Disputes in small claims court in the county of your or TaxAct’s billing address. and/or (ii) injunctive or other equitable relief in a court of competent jurisdiction in Texas for the alleged unlawful use of intellectual property. 
+Mass Arbitrations
+In the event twenty-five (25) same or more similar Disputes sharing common issues of fact or law are asserted against TaxAct at or around the same time by the same or coordinated counsel or are otherwise consistent or coordinated, you and we agree that the demands will constitute a “Mass Arbitration.” If a Mass Arbitration is commenced, you and we agree that the JAMS Mass Arbitration Procedures and Guidelines shall apply.
+Further, if your Dispute is part of a Mass Arbitration, you agree that TaxAct, in its sole discretion, may elect to opt your Disputes out of arbitration and require the Dispute to proceed in a court of competent jurisdiction in Dallas County, Texas consistent with the remainder of this Agreement, including the class and collective action waiver. 
+Termination of Rights
+ANY CLAIM ARISING OUT OF OR RELATED TO THIS AGREEMENT OR OUR SERVICES OR CONTENT MUST BE FILED WITHIN ONE YEAR AFTER SUCH CLAIM AROSE; OTHERWISE, THE CLAIM IS PERMANENTLY BARRED, WHICH MEANS THAT YOU AND TAXACT WILL NOT HAVE THE RIGHT TO ASSERT THE CLAIM.
+30 Day Opt-Out Right 
+You have the right to opt out and not be bound by the binding arbitration by sending an email to 
+arbitration@taxact.com
+. In order to be effective, the opt-out notice must include your full name and clearly indicate your intent to opt out of binding arbitration. By opting out of binding arbitration, you are agreeing to resolve Disputes in accordance with the following Section (Jurisdiction and Venue). 
+The opt-out notice must be sent within 30 days
+ 
+from the date you first accepted the terms of this Section.
+ 
+ 13. Jurisdiction and Venue 
+THE VALIDITY AND PERFORMANCE OF THIS AGREEMENT SHALL BE GOVERNED BY TEXAS LAW (WITHOUT REFERENCE TO CHOICE OF LAW PRINCIPLES), AND APPLICABLE FEDERAL LAW. ANY DISPUTE BETWEEN THE PARTIES THAT IS NOT SUBJECT TO ARBITRATION OR CANNOT BE HEARD IN SMALL CLAIMS COURT WILL BE RESOLVED ON AN INDIVIDUAL BASIS EXCLUSIVELY IN THE STATE OR FEDERAL COURTS OF TEXAS AND THE UNITED STATES, RESPECTIVELY, SITTING IN DALLAS COUNTY, TEXAS. EACH OF THE PARTIES HERETO HEREBY IRREVOCABLY WAIVES ANY AND ALL RIGHTS TO TRIAL BY JURY IN ANY LEGAL PROCEEEDING ARISING OUT OF OR RELATED TO THIS AGREEMENT.
+ 
+ 14. Changes to Terms of Service 
+We may revise and update this Agreement from time to time in our sole discretion. If TaxAct makes changes to this Agreement, TaxAct will provide you with notice of such changes, such as by sending an email to the email address associated with your account, posting a notice on the Services or updating the date at the top of this Agreement. Your continued use of the Services after any such changes will confirm your acceptance of the then-current version of this Agreement. If you do not agree with any such changes, you must immediately discontinue your use of the Services. You should review this page from time to time so you are aware of any changes, as they are binding on you.
+ 
+ 15. Privacy Notice 
+Please refer to TaxAct's 
+Privacy Notice
+, which applies to your use of the Services. You agree that all information you provide through your use of the Services is governed by our 
+Privacy Notice
+, and, by using the Services, you agree to our Privacy Notice and you consent to all actions we take with respect to your information consistent with our Privacy Notice. Please review our 
+Privacy Notice
+ carefully before using the Services.
+ 
+ 16. Notices and Procedure for Making Claims of Copyright Infringement 
+If you believe any materials accessible on or via our Services infringe your copyright, you may request removal of those materials by submitting written notification to our copyright agent designated below. ALL INQUIRIES THAT DO NOT COMPLY WITH THE FOREGOING PROCEDURE WILL RECEIVE NO RESPONSE.
+In accordance with the Online Copyright Infringement Liability Limitation Act of the Digital Millennium Copyright Act (17 U.S.C. § 512) (“
+DMCA
+”), the written notice (the “
+DMCA Notice
+”) must include substantially the following:
+Your physical or electronic signature.
+Identification of the copyrighted work you believe to have been infringed or, if the claim involves multiple works, a representative list of such works.
+Identification of the material you believe to be infringing in a sufficiently precise manner to allow us to locate that material.
+Adequate information by which we can contact you (including your name, postal address, telephone number, and, if available, email address).
+A statement that you have a good faith belief that use of the copyrighted material is not authorized by the copyright owner, its agent, or the law.
+A statement that the information in the written notice is accurate.
+A statement, under penalty of perjury, that you are authorized to act on behalf of the copyright owner. Our designated copyright agent to receive DMCA Notices is:
+Brenda Burrell
+TaxAct, Inc.
+3200 Olympus Blvd, Suite 150
+Dallas, TX 75809
+legalnotices@taxact.com
+If you fail to comply with all of the requirements of Section 512(c)(3) of the DMCA, your DMCA Notice may not be effective. Please be aware that if you knowingly materially misrepresent that material or activity in the Service is infringing your copyright, you may be held liable for damages (including costs and attorneys’ fees) under Section 512(f) of the DMCA.
+ 
+ 17. Contact 
+Please refer to 
+https://www.taxact.com/support/request
+ if you would like to contact us regarding this Agreement or the Services or Content.
+About
+About TaxAct
+TaxAct Guarantees
+Press Center
+Refer and Earn
+Careers
+Security
+Affiliates
+Help and Support
+Check E-file Status
+Service and Support 
+TaxAct Blog
+Site Map
+Contact Us
+Tax Resources and Tips
+Lottery Tax Calculator
+ Tax Bracket Calculator
+Self-Employment Calculator 
+All Tax Calculators
+Tax Center
+Tax Extensions
+Stay Connected
+Facebook
+Twitter
+Instagram
+YouTube
+Terms of Service
+Privacy Notice
+GLBA Notice
+Do Not Sell or Share My Personal Information
+ ©2025 TaxAct, Inc., a Taxwell company. All Rights Reserved. 
+

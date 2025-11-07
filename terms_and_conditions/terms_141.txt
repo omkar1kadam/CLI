@@ -1,0 +1,1173 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Customer Terms & Conditions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			Skip To The Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specialty Product Technologies   
+▼
+
+
+
+
+
+
+
+
+Specialty Product Technologies
+
+
+
+
+
+
+
+
+
+
+Eagle Signal
+
+
+
+
+
+
+
+
+
+
+Veeder Root
+
+
+
+
+
+
+
+
+
+
+Namco
+
+
+
+
+
+
+
+
+
+
+Joslyn Clark
+
+
+
+
+
+
+
+
+
+
+Superior Electric
+
+
+
+
+
+
+
+
+
+
+Thomson Nyliner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Account
+
+
+Careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+
+
+
+
+About SPT
+
+
+
+
+
+
+Customer Terms & Conditions
+
+
+
+
+
+
+Integrity & Compliance
+
+
+
+
+
+
+Suppliers
+
+
+
+
+
+
+Certifications
+
+
+
+
+
+
+Privacy Notice
+
+
+
+
+
+
+Cookie Policy
+
+
+
+
+
+
+Additional Brands
+
+
+
+
+
+
+
+
+
+
+Blogs
+
+
+
+
+
+
+Support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GENERAL TERMS AND CONDITIONS FOR THE SALE OF GOODS AND SERVICES
+
+
+
+
+Acceptance
+
+
+Delivery And Shipping Terms
+
+
+Non-Delivery
+
+
+Quantity
+
+
+Title and Risk of Loss
+ 
+
+
+Amendment and Modification
+ 
+
+
+Inspection and Rejection of Nonconforming Goods
+ 
+
+
+Price and Tax
+ 
+
+
+Payment Terms
+ 
+
+
+Order Changes
+ 
+
+
+Evaluation Products
+ 
+
+
+Intellectual Property Rights
+ 
+
+
+Buyer Indemnity
+ 
+
+
+Limited Warranty
+ 
+
+
+Limitation of Liability
+ 
+
+
+Insurance
+ 
+
+
+Compliance with Law
+ 
+
+
+Termination
+ 
+
+
+Waiver
+ 
+
+
+Confidential Information
+ 
+
+
+Force Majeure
+ 
+
+
+Assignment
+ 
+
+
+Relationship of the Parties
+ 
+
+
+No Third-Party Beneficiaries
+ 
+
+
+Governing Law
+ 
+
+
+Submission to Jurisdiction
+ 
+
+
+Notices
+ 
+
+
+Severability
+ 
+
+
+Survival
+ 
+
+
+
+
+
+
+SCHEDULE A. DATA ACCESS AND RIGHTS
+ 
+
+
+SCHEDULE B. SERVICES TERMS
+ 
+
+
+SCHEDULE C. END USER LICENSE AGREEMENT
+ 
+    
+
+
+DEFINITIONS
+ 
+
+
+LICENSE
+ 
+
+
+FEEDBACK
+ 
+
+
+OWNERSHIP
+ 
+
+
+GOVERNMENT NOTICE
+ 
+
+
+TERM AND TERMINATION
+ 
+
+
+SECURITY DISCLAIMER
+ 
+
+
+THIRD PARTY DISCLAIMER
+ 
+
+
+SOURCE CODE OFFER
+ 
+
+
+PRIVACY
+ 
+
+
+ADDITIONAL STATEMENTS FOR BETA SOFTWARE
+ 
+
+
+
+
+
+
+
+
+1. Acceptance.
+
+
+(a) These terms and conditions of sale (these "
+Terms
+") are the only terms which govern the sale of the goods (“Goods”) and services (“
+Services
+”) by Dynapar Corporation ("
+Seller
+") to the purchaser of such Goods and or Services ("
+Buyer
+"). If the subject of the sale is software-as-service (“SaaS”), then the additional terms contained in any attached SaaS agreement also applies. Notwithstanding anything herein to the contrary, if a written contract signed by both parties is in existence covering the sale of the Goods or Services covered hereby, the terms and conditions of said contract shall prevail to the extent they are inconsistent with these Terms. If the Goods or Services covered by the Agreement (defined below) are capable of collecting, storing (including remotely) or transmitting information, then the additional terms in Schedule A shall also apply to such Goods. If the sale under the Agreement includes Services (except for SaaS), then the additional terms in Schedule B shall also apply to such Services. If the sale under the Agreement includes software (except for SaaS) (whether alone or in conjunction with hardware), then the additional terms in Schedule C shall also apply to such software.
+
+
+(b) Any offer, including without limitation any quotation or proposal or similar document, referencing these Terms is capable of acceptance only on the terms stated in such offer and these Terms, and any such offer is expressly conditional on acceptance of these Terms and those contained in the offer without the addition of any other terms whether or not such terms conflict in any way with those of the offer or herein. Any quotation/confirmation of sale/invoice issued by Seller (the "
+Sales Confirmation
+" accompanying or referencing these Terms (Sales Confirmation and Terms are collectively, this "
+Agreement
+") comprise the entire agreement between the parties, and supersede all prior or contemporaneous understandings, agreements, negotiations, representations and warranties, and communications, both written and oral. These Terms may be modified by inclusion of different terms on Buyer’s quotation or order acceptance documents but not by inclusion of any terms on documents provided by Buyer. These Terms prevail over any of Buyer's general terms and conditions of purchase regardless of whether or when Buyer has submitted its purchase order or such terms. Fulfillment of Buyer's order does not constitute acceptance of any of Buyer's terms and conditions and does not serve to modify or amend these Terms. Buyer expressly waives the right to enforce any terms other than those in the Agreement including, without limitation, any terms proposed or supplied by Buyer.
+
+
+(c) The Terms also apply to all channel partners, distributors, and resellers who sell or license the Services. All channel partners, distributors, and resellers who sell or license the Services, agree that they will ensure that all third-party end users will be bound by the Terms. 2. Delivery And Shipping Terms. (a) The Goods or Services will be delivered within a reasonable time after the written acceptance of Buyer's purchase order subject to availability of finished Goods or Services and consistent with any delivery information provided by Seller. Seller shall not be liable for any delays in providing Goods or Services, nor for any loss or damage in transit.
+
+
+2. Delivery And Shipping Terms.
+
+
+(a) The Goods or Services will be delivered within a reasonable time after the written acceptance of Buyer's purchase order subject to availability of finished Goods or Services and consistent with any delivery information provided by Seller. Seller shall not be liable for any delays in providing Goods or Services, nor for any loss or damage in transit.
+
+
+(b) Unless otherwise agreed in writing by the parties, Seller shall deliver the Goods Ex Works Seller’s facility (Incoterms 2020) using Seller's standard methods for packaging and shipping such Goods. Buyer agrees to pay all transportation charges incurred after the Goods are made available to the carrier and to reimburse Seller for any transit insurance or freight pre-paid for the Goods by Seller. All shipping and delivery dates are approximate only.
+
+
+(c) Where Buyer furnishes special transportation instructions, any special expense is to be borne by the Buyer, including special handling, packaging, and additional freight charges. When export instructions or special packaging are required and have been agreed upon by both Seller and Buyer, any extra charges such as export duties, licenses, fees and the like shall be borne by Buyer.
+
+
+(d) Seller may, in its sole discretion, without liability or penalty, make partial shipments of Goods to Buyer. Each shipment will constitute a separate sale, and Buyer shall pay for the units shipped whether such shipment is in whole or partial fulfillment of Buyer's purchase order.
+
+
+(e) If for any reason Buyer fails to accept delivery of any of the Goods, or if Seller is unable to deliver the Goods because Buyer has not provided appropriate instructions, documents, licenses or authorizations: (i) risk of loss to the Goods shall pass to Buyer; (ii) the Goods shall be deemed to have been delivered; and (iii) Seller, at its option, may store the Goods until Buyer picks them up, whereupon Buyer shall be liable for all related costs and expenses (including, without limitation, storage and insurance).
+
+
+3. Non-Delivery.
+
+
+(a) The quantity of any installment of Goods as recorded by Seller on dispatch from Seller's place of business is conclusive evidence of the quantity received by Buyer on delivery unless Buyer can provide conclusive evidence proving the contrary.
+
+
+(b) The Seller shall not be liable for any late delivery of Goods (even if caused by Seller's negligence).
+
+
+(c) Any liability of Seller for non-delivery of the Goods shall be limited to delivering the Goods within a reasonable time or adjusting the invoice respecting such Goods to reflect the actual quantity delivered.
+
+
+4. Quantity.
+
+
+Buyer shall not be entitled to object to or reject any Goods or any portion of them by reason of the quantity being less than the amount ordered and shall pay for such Goods delivered at the price set forth in the applicable Sales Confirmation.
+
+
+5. Title and Risk of Loss.
+
+
+Title and risk of loss passes to Buyer upon delivery, i.e., when Seller makes the Goods available for pick up by a common carrier as per the Incoterms above, and Buyer shall have the responsibility of filing any claims for loss, damage, delay or otherwise, with the carrier, insured or other related third parties. As collateral security for the payment of the purchase price of the Goods, Buyer hereby grants to Seller a lien on and security interest in and to all of the right, title and interest of Buyer in, to and under the Goods, wherever located, and whether now existing or hereafter arising or acquired from time to time, and in all accessions thereto and replacements or modifications thereof, as well as all proceeds (including insurance proceeds) of the foregoing. The security interest granted under this provision constitutes a purchase money security interest under the relevant state Uniform Commercial Code.
+
+
+6. Amendment and Modification.
+
+
+These Terms may only be amended or modified in a writing which specifically states that it amends these Terms and is signed by an authorized representative of each party.
+
+
+7. Inspection and Rejection of Nonconforming Goods.
+
+
+(a) Buyer shall inspect the Goods within three (3) days of receipt ("
+Inspection Period
+") at Buyer’s facility, except in the case where Buyer’s source inspector or authorized representative inspects the Goods at Seller’s facility in which case no Buyer has no further right of inspection. Buyer will be deemed to have accepted the Goods unless it notifies Seller in writing of any Nonconforming Goods during the Inspection Period and furnishes such written evidence or other documentation as reasonably required by Seller. "
+Nonconforming Goods
+" means only the following: (i) product shipped is different than identified in Buyer's purchase order; or (ii) product's label or packaging incorrectly identifies its contents.
+
+
+(b) If Buyer timely notifies Seller of any Nonconforming Goods, Seller shall, in its sole discretion, (i) replace such Nonconforming Goods with conforming Goods, or (ii) credit the price for such Nonconforming Goods in connection therewith. Buyer shall ship, at its expense and risk of loss, the Nonconforming Goods to Seller's facility as directed by Seller. If Seller exercises its option to replace Nonconforming Goods, Seller shall, after receiving Buyer's shipment of Nonconforming Goods, ship to Buyer, at Buyer's expense and risk of loss, the replaced Goods to the Delivery Point.
+
+
+(c) Buyer acknowledges and agrees that the remedies set forth in Section 7(b) are Buyer's exclusive remedies for the delivery of Nonconforming Goods. Except as provided under Section 8(b), all sales of Goods to Buyer are made on a one-way basis and Buyer has no right to return Goods purchased under this Agreement to Seller.
+
+
+8. Price and Tax
+.
+
+
+(a) Buyer shall purchase the Goods or Services from Seller at the prices shown on the applicable quotation and such shall be reflected on Buyer’s purchase order. Seller reserves the right to increase the price of any Goods or Services prior to delivery and, if it does so, shall notify Buyer of such increase and Buyer shall have five (5) days to terminate in writing its order for any Goods or Services at the new price; however, if such written cancellation notice is not supplied to Seller within the stated period, Buyer shall be deemed to have agreed to purchase the ordered Goods or Services at the new price and the Agreement shall be construed as if the new price was originally inserted therein, and Buyer shall be billed by Seller on the basis of such new price.
+
+
+(b) Unless otherwise specified in this Agreement, Seller shall be responsible for and pay directly all corporate and individual taxes measured by net income or profit imposed by any governmental authority on Seller, its employees or subcontractors in any way connected with this Agreement (“Seller Taxes”).   Buyer shall be responsible for and pay directly when due and payable all taxes, duties, fees, or other charges of any nature (including, but not limited to, ad valorem, consumption, digital services, excise, franchise, gross receipts, import, license, property, sales, stamp, storage, transfer, turnover, use, or value-added taxes, and any and all items of withholding, deficiency, penalty, addition to tax, interest, or assessment related thereto), other than Seller Taxes, imposed by any governmental authority on Seller or its employees or subcontractors in any way connected with this Agreement (“Buyer Taxes”).  All payments due and payable to Seller by Buyer under this Agreement shall be made without deduction or withholding for Buyer taxes, except that if Buyer shall be required by law to deduct or withhold any Buyer taxes from or in respect of any amount payable by it to Seller hereunder, the amount payable by Buyer shall be increased by such amount as may be necessary so that after making all required deductions or withholdings (including deductions or withholdings with respect to any additional amounts payable pursuant to this Section), Seller receives an amount equal to that which Seller would have received if no such deduction or withholding had been made.  If Seller is nevertheless required by any governmental authority to pay Buyer Taxes, Seller shall collect and remit Buyer Taxes (e.g. VAT, sales tax etc.) and Buyer shall, promptly upon presentation of Seller’s compliant invoice for the Buyer Taxes, reimburse Seller for the Buyer Taxes. Buyer shall provide to Seller, on a timely basis, accurate official receipts for deducted or withheld taxes.   If and to the extent applicable, all rights to drawback of customs duties paid by Seller to the customs authorities of the country of manufacture of any products shall belong to Seller. Buyer agrees to cooperate with Seller to obtain a drawback. 
+
+
+9. Payment Terms. 
+
+
+(a) Buyer shall pay all invoiced amounts due to Seller within 30 days after the date of Seller's invoice. Buyer shall make all payments hereunder by in the manner specified on the relevant quotation or order acceptance documents and such payment shall be made in and in US dollars unless otherwise agreed in writing by Seller.
+
+
+(b) Buyer shall pay interest on all late payments at the lesser of the rate of 1.5% per month or the highest rate permissible under applicable law, calculated daily and compounded monthly. Buyer shall reimburse Seller for all costs incurred in collecting any late payments, including, without limitation, attorneys' fees. In addition to all other remedies available under these Terms or at law (which Seller does not waive by the exercise of any rights hereunder), Seller shall be entitled to suspend the delivery of any Goods or Services if Buyer fails to pay any amounts when due hereunder and such failure continues for seven (7) days following written notice thereof.
+
+
+(c) Buyer shall not withhold payment of any amounts due and payable by reason of any set-off of any claim or dispute with Seller, whether relating to Seller's breach, bankruptcy or otherwise. If any invoice is not paid when due, Buyer agrees to pay all costs, including collection costs if this account is referred outside for collection, and reasonable attorneys’ fees, including all costs and reasonable attorneys’ fees incurred on any appeal to any appellate court.
+
+
+10. Order Changes. 
+
+
+(a) Buyer may not cancel an order accepted by Seller. Buyer may, within a reasonable time after placing the order and prior to shipment thereof, request, in writing, changes within the general scope of the order. Seller, at its discretion has the option to accept a change to an order after receiving the Buyers’ order change request. If an order is changed after the order has been released to manufacturing, a supplemental charge may be applied. Seller, prior to accepting the order change will notify Buyer of any increase or decrease in the cost of, or the time required for the performance of, any part of the order change. If Buyer then confirms the order change in writing, the Seller will make any equitable adjustments and the order will be modified in writing accordingly.
+
+
+(b) Seller reserves the right at any time to make changes in design or additions or improvements in its Goods or Services without liability or obligation to install such change, addition, or improvement in any Goods manufactured or Services provided prior thereto.
+
+
+(c) Seller reserves the right to cancel all or part of any order, including without limitations orders previously acknowledged or accepted by Seller, for any reason prior to delivery.
+
+
+11. Evaluation Products.
+
+
+(a) Evaluation Products Provided Free of Charge
+
+(i) From time to time, Seller may provide Buyer, free of charge, with sample or prototype Goods for test and evaluation purposes only ("Free Evaluation Products"). During the evaluation period, Seller is the owner of and retains title to the Free Evaluation Products. All Free Evaluation Products shall be provided "AS IS" without warranty of any kind. Buyer agrees that any use of the Free Evaluation Product is at Buyer's sole risk. Under no circumstances shall the Free Evaluation Products be used in any production or commercial environment, technology, device or other machinery and Seller shall assume no liability for such unauthorized use. Free Evaluation Products shall be returned to Seller immediately upon Seller’s request.
+
+
+(b) Evaluation Products Sold to Seller
+
+(i) From time to time, Seller may sell sample or prototype Goods for test and evaluation purposes only ("Sold Evaluation Products"). Seller is the owner of and retains title to the Sold Evaluation Products. All Sold Evaluation Products shall be provided "AS IS" without warranty of any kind. Buyer agrees that any use of the Sold Evaluation Product is at Buyer's sole risk. Under no circumstances shall the Sold Evaluation Products be used in any production or commercial environment, technology, device or other machinery and Seller shall assume no liability for such unauthorized use.
+
+
+12. Intellectual Property Rights.
+
+
+Seller shall have no liability to Buyer for any claims, liabilities, damages, losses, and expenses, including but not limited to reasonable attorney’s fees and costs of suit, arising out of or in connection with any claims that the Goods or Services provided hereunder infringe any intellectual property rights including patents, trademarks, trade secrets, or copyrights (hereinafter collectively referred to as the "Intellectual Property Rights") of any third party except as specifically provided in this Section. In the event the foregoing is deemed inapplicable such that Seller has liability related to any of the foregoing, such liability of Seller shall be limited as set forth elsewhere in the Terms.
+
+
+13. Buyer Indemnity
+
+
+Buyer agrees to defend, indemnify and hold Seller harmless from any and all liability, and to pay all costs and attorney's fees, for injury or damage to persons or property caused in any manner by the Goods while in possession or under the control of Buyer or Buyer's customer or the Services provided by Seller except as expressly set forth elsewhere in these Terms.
+
+
+14. Limited Warranty.
+
+
+(a) Seller warrants that incremental encoder products for a period of twenty-four (24) months from the date of shipment, and that all other products for a period of twelve (12) months from the date of shipment or such other period as provided by Seller in its relevant product documentation or on its quotation ("Warranty Period"), that such Goods will be free from material defects in material and workmanship.
+
+
+(b) EXCEPT FOR THE WARRANTY SET FORTH IN SECTION 11(A) AND SCHEDULE B, SELLER MAKES NO WARRANTY WHATSOEVER WITH RESPECT TO THE GOODS OR SERVICES, INCLUDING ANY (a) WARRANTY OF MERCHANTABILITY; (b) WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE; (c) WARRANTY OF TITLE; (AND d) WARRANTY AGAINST INFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS OF A THIRD PARTY; WHETHER EXPRESS OR IMPLIED BY LAW, COURSE OF DEALING, COURSE OF PERFORMANCE, USAGE OF TRADE OR OTHERWISE.
+
+
+(c) Products manufactured by a third party (“Third Party Product”) may constitute, contain, be contained in, incorporated into, attached to or packaged together with, the Goods or Services. Third Party Products are not covered by the warranty in Section 11(a). For the avoidance of doubt, 
+SELLER MAKES NO REPRESENTATIONS OR WARRANTIES WITH RESPECT TO ANY THIRD-PARTY PRODUCT, INCLUDING ANY (a) WARRANTY OF MERCHANTABILITY; (b) WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE; (c) WARRANTY OF TITLE; OR (d) WARRANTY AGAINST INFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS OF A THIRD PARTY; WHETHER EXPRESS OR IMPLIED BY LAW, COURSE OF DEALING, COURSE OF PERFORMANCE, USAGE OF TRADE OR OTHERWISE.
+
+
+(d) The Seller shall not be liable for a breach of the warranty set forth in Section 14(a) unless: (i) Buyer gives written notice of the defect, reasonably described, to Seller within seven (7) days of the time when Buyer discovers or ought to have discovered the defect; (ii) Seller is given a reasonable opportunity after receiving the notice to examine such Goods and Buyer (if requested to do so by Seller) returns such Goods to Seller's place of business at Buyer’s cost for the examination to take place there; (iii) Buyer must properly package such Goods to protect against risk of loss and damage, including damage from electrostatic discharge; (iv) Buyer pays Seller an evaluation fee as stated on the quote, if any, and (v) Seller reasonably verifies Buyer's claim that the Goods are defective.
+
+
+(e) The Seller shall not be liable for a breach of the warranty set forth in Section 14(a) if: (i) Buyer makes any further use of such Goods or Services after giving such notice absent written authorization from Seller to do so; (ii) the defect arises because Buyer failed to follow Seller's oral or written instructions as to the storage, installation, commissioning, use or maintenance of the Goods; or (iii) Seller determines that a claimed defect resulted from (a) normal wear and tear, including corrosion; (b) installation and/or maintenance by Buyer or a third party; (c) misuse or abuse, whether willful or negligent, of any of the Goods or Services by any person other than Seller; (d) modifications, alterations, service, repair or replacement made by Buyer or a third party during the Warranty Period that were not requested or authorized by Seller; (e) any combination or use of the Goods or Services with any incompatible equipment or ancillary products that may be connected to the Goods or Services; (f) [failure of Buyer to maintain environmental conditions in accordance with Seller specifications or instructions, if any; (g) customized equipment manufactured by third parties for incorporation into any of the Goods or Services; (h) defects or errors in any custom specifications provided by Buyer; (i) causes beyond Seller reasonable control; or (j) causes other than Seller’s workmanship or materials.
+
+
+(f) Subject to Section 14(d) and Section 14(e) above, with respect to any such Goods or Services during the Warranty Period, Seller shall, in its sole discretion, either: (i) repair or replace such Goods (or the defective part) or Services or (ii) credit the price of such Goods at the pro rata contract rate provided that, if Seller so requests, Buyer shall, at Seller's expense, return such Goods or Services to Seller. If Buyer sends Goods back to Seller for evaluation to repair or replace and is provided a repair quote from Seller, Buyer then has fourteen (14) days to accept the repair quote (unless a longer time is stated on such quotation), otherwise Seller may, at its discretion, scrap the Goods or return the Goods to Buyer at Buyer’s expense. Following Seller’s evaluation Such repair, replacement or issuance of a credit shall be Buyer’s sole and exclusive remedy with respect to a breach of warranty set forth herein. All costs of de-installation or re-installation of the Goods or Services shall be borne by Buyer. Goods or Services that are repaired or replaced during the Warranty Period are warranted for a period of six (6) months from the date of repair or replacement or the unexpired term of the original Warranty Period, whichever period is longer. Where Goods or Services are replaced pursuant to this Section, Buyer shall be invoiced for the replaced Goods or Services and then issued a credit for such Goods or Services.
+
+
+(g) THE REMEDIES SET FORTH IN SECTION 11(F) SHALL BE THE BUYER'S SOLE AND EXCLUSIVE REMEDY AND SELLER'S ENTIRE LIABILITY FOR ANY BREACH OF THE LIMITED WARRANTY SET FORTH IN SECTION 14(A).
+
+
+15. Limitation of Liability.
+
+
+(a) IN NO EVENT SHALL SELLER BE LIABLE TO BUYER OR ANY THIRD PARTY FOR ANY LOSS OF USE, REVENUE OR PROFIT, OR LOSS OF DATA OR DIMINUTION IN VALUE, OR FOR ANY CONSEQUENTIAL, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR PUNITIVE DAMAGES WHETHER ARISING OUT OF BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, REGARDLESS OF WHETHER SUCH DAMAGES WERE FORESEEABLE AND WHETHER OR NOT SELLER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND NOTWITHSTANDING THE FAILURE OF ANY AGREED OR OTHER REMEDY OF ITS ESSENTIAL PURPOSE.
+
+
+(b) IN NO EVENT SHALL SELLER'S AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT, WHETHER ARISING OUT OF OR RELATED TO BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, EXCEED THE PRICE PAID BY BUYER FOR THE GOOD(S) OR SERVICES THAT GAVE RISE TO ANY SUCH LIABILITY.
+
+
+16. Insurance.
+
+
+During the term of this Agreement and for a period of one year thereafter, Buyer shall, at its own expense, maintain and carry insurance in full force and effect which includes, but is not limited to, commercial general liability (including product liability) in an amount sufficient to pay for any potential liabilities hereunder with financially sound and reputable insurers. Upon Seller's request, Buyer shall provide Seller with a certificate of insurance from Buyer's insurer evidencing the insurance coverage specified in these Terms. The certificate of insurance shall name Seller as an additional insured. Buyer shall provide Seller with thirty (30) days' advance written notice in the event of a cancellation or material change in Buyer's insurance policy. Except where prohibited by law, Buyer shall require its insurer to waive all rights of subrogation against Seller's insurers and Seller.
+
+
+17. Compliance with Law
+
+
+Buyer shall comply with all applicable laws, regulations, and ordinances. Buyer shall maintain in effect all the licenses, permissions, authorizations, consents and permits that it needs to carry out its obligations under this Agreement. Buyer shall comply with all export and import laws of all countries involved in the sale of the Goods or Services under this Agreement or any resale of the Goods or Services by Buyer. Buyer assumes all responsibility for shipments of Goods requiring any government import clearance. Seller may terminate this Agreement if any governmental authority imposes antidumping or countervailing duties or any other penalties on Goods or Services. The export or re-export of the Products and related technical data supplied hereunder, if any, may be subject to regulation or restriction under the United States Export Administration Act, the Arms Export Control Act, the U.K. Export Control Organization, or other similar laws. Buyer shall not sell, re-export, transfer or otherwise dispose of the Products or any relate technical data in violation of U.S., U.K. laws or any other applicable export laws. Buyer shall have sole responsibility for obtaining all applicable licenses or authorizations at its sole cost and expense.
+
+
+18. Termination.
+
+
+Seller may terminate all or any portion of any order placed by Buyer, even if previously accepted by Seller, at any time and for any reason prior to delivery by providing written notice (including via email) of its intention to do so. In addition to any remedies that may be provided under these Terms, Seller may terminate this Agreement with immediate effect upon written notice to Buyer, if Buyer: (i) fails to pay any amount when due under this Agreement and such failure continues for seven (7) days after Buyer's receipt of written notice of nonpayment; (ii) has not otherwise performed or complied with any of these Terms, in whole or in part; or (iii) becomes insolvent, files a petition for bankruptcy or commences or has commenced against it proceedings relating to bankruptcy, receivership, reorganization or assignment for the benefit of creditors.
+
+
+19. Waiver. 
+
+
+No waiver by Seller of any of the provisions of this Agreement is effective unless explicitly set forth in writing and signed by Seller. No failure to exercise, or delay in exercising, any right, remedy, power or privilege arising from this Agreement operates, or may be construed, as a waiver thereof. No single or partial exercise of any right, remedy, power or privilege hereunder precludes any other or further exercise thereof or the exercise of any other right, remedy, power or privilege.
+
+
+20. Confidential Information.
+
+
+All non-public, confidential or proprietary information of Seller, including but not limited to specifications, samples, patterns, designs, plans, drawings, documents, data, business operations, customer lists, pricing, discounts or rebates, disclosed by Seller to Buyer, whether disclosed orally or disclosed or accessed in written, electronic or other form or media, and whether or not marked, designated or otherwise identified as "confidential" in connection with this Agreement is confidential, solely for the use of performing this Agreement and may not be disclosed or copied unless authorized in advance by Seller in writing. Upon Seller's request, Buyer shall promptly return all documents and other materials received from Seller. Seller shall be entitled to injunctive relief for any violation of this Section. This Section does not apply to information that is: (a) in the public domain; (b) known to Buyer at the time of disclosure; or (c) rightfully obtained by Buyer on a non-confidential basis from a third party.
+
+
+21. Force Majeure.
+
+
+No party shall be liable or responsible to the other party, nor be deemed to have defaulted under or breached this Agreement, for any failure or delay in fulfilling or performing any term of this Agreement (except for any obligations of Buyer to make payments to Seller hereunder), when and to the extent such failure or delay is caused by or results from acts beyond the impacted party's ("Impacted Party") reasonable control, including, without limitation, the following force majeure events ("Force Majeure Event(s)"): (a) acts of God; (b) flood, fire, earthquake, COVID-19 and other mass health related issues, or explosion; (c) war, invasion, hostilities (whether war is declared or not), terrorist threats or acts, riot or other civil unrest; (d) government order, law, or actions; (e) embargoes or blockades in effect on or after the date of this Agreement; (f) national or regional emergency; (g) strikes, labor stoppages or slowdowns, or other industrial disturbances; (h) shortage of adequate power or transportation facilities; and (i) other similar events beyond the reasonable control of the Impacted Party. The Impacted Party shall give reasonably prompt notice of the Force Majeure Event to the other party, stating the period of time the occurrence is expected to continue. The Impacted Party shall use diligent efforts to end the failure or delay and ensure the effects of such Force Majeure Event are minimized. The Impacted Party shall resume the performance of its obligations as soon as reasonably practicable after the removal of the cause.
+
+
+22. Assignment.
+
+
+Buyer shall not assign any of its rights or delegate any of its obligations under this Agreement without the prior written consent of Seller. Any purported assignment or delegation in violation of this Section is null and void. No assignment or delegation relieves Buyer of any of its obligations under this Agreement.
+
+
+23. Relationship of the Parties.
+
+
+The relationship between the parties is that of independent contractors. Nothing contained in this Agreement shall be construed as creating any agency, partnership, joint venture or other form of joint enterprise, employment, or fiduciary relationship between the parties, and neither party shall have authority to contract for or bind the other party in any manner whatsoever.
+
+
+24. No Third-Party Beneficiaries.
+
+
+This Agreement is for the sole benefit of the parties hereto and their respective successors and permitted assigns and nothing herein, express or implied, is intended to or shall confer upon any other person or entity any legal or equitable right, benefit or remedy of any nature whatsoever under or by reason of these Terms.
+
+
+25. Governing Law.
+
+
+All matters arising out of or relating to this Agreement is governed by and construed in accordance with the internal laws of the State of North Carolina without giving effect to any choice or conflict of law provision or rule (whether of the State of North Carolina or any other jurisdiction) that would cause the application of the laws of any jurisdiction other than those of the State of North Carolina.
+
+
+26. Submission to Jurisdiction.
+
+
+Any legal suit, action or proceeding arising out of or relating to this Agreement shall be instituted in the federal courts of the United States of America or the courts of the State of North Carolina, and each party irrevocably submits to the exclusive jurisdiction of such courts in any such suit, action or proceeding.
+
+
+27. Notices.
+
+
+All notices, request, consents, claims, demands, waivers and other communications hereunder (each, a "Notice") shall be in writing and addressed to the parties at the addresses set forth on the face of the Sales Confirmation or to such other address that may be designated by the receiving party in writing. All Notices shall be delivered by personal delivery, nationally recognized overnight courier (with all fees pre-paid), facsimile (with confirmation of transmission) or certified or registered mail (in each case, return receipt requested, postage prepaid). Except as otherwise provided in this Agreement, a Notice is effective only (a) upon receipt of the receiving party, and (b) if the party giving the Notice has complied with the requirements of this Section.
+
+
+28. Severability.
+
+
+If any term or provision of this Agreement is invalid, illegal or unenforceable in any jurisdiction, such invalidity, illegality or unenforceability shall not affect any other term or provision of this Agreement or invalidate or render unenforceable such term or provision in any other jurisdiction.
+
+
+29. Survival.
+
+
+Provisions of these Terms which by their nature should apply beyond their terms will remain in force after any termination or expiration of this Agreement including, but not limited to, the following provisions: Insurance, Compliance with Laws, Confidential Information, Governing Law, Submission to Jurisdiction and Survival.
+
+
+SCHEDULE A. DATA ACCESS AND RIGHTS.
+
+
+Collection and Ownership. Buyer acknowledges “Collected Data” may be collected by and from one or more Goods installed or located at Buyer’s premises, including location(s) owned, occupied or otherwise under control of Buyer. If Buyer has ownership rights to one or more of the Goods, Buyer owns and retains full access and rights to the Collected Data, or if resold by a field service provider the end-user acquires full access and right as Licensor (and be classified as Licensor herein and hereafter). If Seller owns one or more of the Goods, notwithstanding the Goods being located on Buyer’s premises, Seller shall own and retain full access and rights to the Collected Data. If Collected Data is obtained from third-party devices for use in or with Goods, such data shall belong to both parties for use in accordance with this contract and be considered Collected Data.
+
+
+Use and Access. Each of the parties shall have access to the Collected Data of the other party and any third-party devices. However, for avoidance of doubt, Seller may not, either directly or indirectly, sell or share Buyer owned Collected Data with any third parties, except as allowed herein, without the prior consent of Buyer. Seller may share Collected Data with any of its affiliates meaning any entity controlling, controlled by, or under common control with Seller. Buyer may sell or share Buyer owned Collected Data to third parties without the consent of Seller. Unless mutually agreed upon by the parties, in no event may a party sell or share with any third-party data owned by the other party. Seller’s use of the Collected Data may be used for any purposes including, without limitation, improving the Goods, and developing, improving, and selling new Goods, including those offered to third parties. Notwithstanding anything herein to the contrary, (i) Buyer may not access Collected Data, including data owned by Buyer, which is stored in or on any system operated by or for Seller if Buyer no longer has the rights to access such system; and (ii) Seller is not obligated and Buyer may not under any circumstances require Seller to delete or cease using Collected Data, including that owned by Buyer, for any purpose allowed hereunder even in the case where Buyer is no longer using the Goods or Services which collected or used the Collected Data.
+
+
+Anonymization and Aggregation. Buyer hereby agrees Seller and its successors and assigns may collect, use, publish, disseminate, sell, transfer, create derivative works based on, and otherwise exploit the Collected Data if such data has been anonymized by Seller or its designee. Anonymized Collected Data may also be aggregated (“Aggregate Data”). Anonymized Collected Data and Aggregate Data shall not identify Buyer, any user, or any individual. Anonymized Collected Data and Aggregate Data in any form may be used by Seller for any lawful purpose. Seller is the sole owner of all right, title, and interest in and to the Anonymized Collected Data and Aggregate Data, as well as any conclusions, impressions, understandings, insights, process improvements, or other information or inventions (collectively “Analytics”) derived, extracted, or otherwise obtained by Seller from the Collected Data, Anonymized Collected Data, and Aggregate Data, and all intellectual property rights therein.
+
+
+Combination. Anonymized User Data, Aggregate Data and data obtained from other sources may be combined (“Combined Data”) either by Seller or by a third-party data analysis vendor and stored either at a Seller controlled repository or a third-party repository in any form of structured, raw, or other data format. Combined Data in any form may be used by Seller for any lawful purpose. Seller is the sole owner of all right, title, and interest in and to the Combined Data and any Analytics derived, extracted, or otherwise obtained by Seller from the Combined Data, and all intellectual property rights therein, including the right to collect, use, publish, disseminate, sell, transfer, create derivative works based on, and otherwise exploit the Combined Data and Analytics.
+
+
+Transport, Security and Storage. Save for data collected and transported directly from a sensor, any Collected Data, Aggregate Data or Combined Data transported by Seller to a remote or third-party vendor site, Seller shall take commercially reasonable steps to ensure transport of the data is securely undertaken, including the use of various encryption technologies and other security measures. Further security shall include maintaining adequate physical controls and password protections for any server or system on which data is stored and any other measures reasonably necessary to prevent any use or disclosure of data other than as allowed under this contract.
+
+
+Affiliation. Buyer hereby agrees if Seller is divested, sold, separated, or otherwise no longer affiliated with, or under common control of, its parent Seller, a copy of all data including User Data, Aggregate Data and Combined Data shall remain with the parent Seller along with all the same rights, title and obligations as Seller as set forth herein.
+
+
+Data Loss. Buyer is solely responsible for its data and must back up its data before Seller or a third party performs any remedial, repair, upgrade, or other work on Buyer systems, including any Goods. If applicable law prohibits exclusion of liability for lost data, then Seller will only be liable for the cost of the typical effort to recover the lost data from Buyer’s last available back up.
+
+
+Personal Information and PHI. Buyer represents that the use for Goods purchased hereunder does not require the Seller to process any Personal Information or PHI on behalf of Buyer in connection with the Agreement. Buyer shall not provide, disclose, or transfer any Personal Information or PHI to the Company in connection with the Agreement. As used herein, “Personal Information” means any information that identifies or, alone or in combination with any other information, could reasonably be used to identify an individual, including name, address, telephone number, e-mail address, Social Security Number, credit or debit card number, bank information, biometric data, medical or health information, or any other information that is considered “personally identifiable information,” “personal information,” or “personal data” under applicable law. “PHI” means protected health information as defined in the U.S. Health Insurance Portability and Accountability Act of 1996.
+
+
+Buyer represents and warrants that Buyer has all right, title, and interest in and to, or the right to provide, the Collected Data necessary for the use of such Collected Data by Seller as set forth in this agreement. Buyer represents, warrants, and agrees to indemnify, hold harmless, and defend Seller and its affiliates and subsidiaries, and their officers, directors, employees, and agents, from and against all claims, liabilities, damages, losses, and expenses, including but not limited to reasonable attorney’s fees and costs of suit, arising out of or in connection with any claims arising from or relating to the Collected Data.
+
+
+SCHEDULE B. SERVICES TERMS.
+
+
+In addition to the terms and conditions in the Terms to which this Schedule B is attached, the following shall apply only to Services subject to the Agreement:
+
+
+Seller represents and warrants that the Services provided under these standard terms and conditions will be performed by qualified individuals in a professional and workmanlike manner. This warranty extends only to the original Buyer. Seller shall not be liable for a breach of this warranty regarding Services unless Buyer gives written notice of the defective Services, reasonably described, to Seller within ten (10) days from the date of service. Seller's warranty obligation regarding Services is limited to, as Seller’s option and in its sole discretion, a) re-performance of the Services to the extent required to correct such defect, or b) refunding the amount paid for the specific Services which are in breach of the warranty. Any re-performance of Services will be warranted against defects in material or workmanship for the unexpired portion of the warranty applicable to the Services. Warranty claims must be filed by Buyer within the time period stated above.
+
+
+This warranty applicable to Services will be voided if, in Seller's opinion, either: (a) the subject of any Services has been altered, repaired, or modified following commissioning/installation by Seller without the prior written agreement of the Seller; or (b) Buyer engaged, employed, or used a third party to commission or install Seller's equipment, or do corrective services, without Seller's prior written consent.
+
+
+This warranty applicable to Services only applies to the original Buyer and original site where the work was performed and cannot be assigned to a different site or location, without the express written consent of the Seller. Notwithstanding this warranty will not apply to mobilization and logistics associated with the delivery of warranty at a 3rd party site.
+
+
+Buyer Training
+
+
+If Services to be provided by Seller include Buyer training, Buyer shall be responsible to select from its employees those trainees who possess the requisite technical skill, experience, and language fluency appropriate for comprehension of the training and associated training materials ("Attendees"). Training curriculums and associated materials are general in nature and are intended only to supplement Attendees' prior knowledge. Trainings do not replace Buyer's existing practices and procedures regarding equipment operation, safety, and maintenance. The equipment discussed during trainings and in training materials may differ from or may only partially represent the equipment which Buyer or its Attendees operate, service or maintain. It is Buyer's responsibility to ensure that Attendees shall not operate or work on or around any specific Buyer equipment without first familiarizing Attendees with all applicable safety, operating and maintenance instructions and procedures relating to Buyer's specific equipment. Seller makes no warranty or guarantee that Buyer’s representatives who attend any training will achieve any level of proficiency or ability to use the Goods or Services and ensuring that such individuals are capable of doing so safely and effectively is the sole and exclusive responsibility of Buyer. If requested by Buyer, Seller shall issue to Buyer’s representatives certificates stating that they have attended the relevant training. Such certificate shall in no way certify the competency of the work of Buyer’s representatives.
+
+
+SCHEDULE C. END USER LICENSE AGREEMENT.
+
+
+This End User License Agreement (“Agreement”) is an agreement between Seller and its corporate affiliates, subsidiaries, and divisions as applicable (collectively, “Seller,” “we,” “us,” or “our”) and You (including any entity or organization you represent, collectively, “Buyer” or “You”). Please read this Agreement carefully as this Agreement governs the terms and conditions under which You are permitted to use Seller’s software and services.
+
+
+THE SOFTWARE, ENCODED OR INCORPORATED WITHIN GOODS, ASSOCIATED WITH SERVICES, OR ACCOMPANYING THIS AGREEMENT, IS FURNISHED SUBJECT TO THE TERMS AND CONDITIONS OF THIS AGREEMENT. BY INDICATING YOUR ACCEPTANCE OF THESE TERMS BY SELECTING AN “ACCEPT” OR SIMILAR BUTTON IN A SOFTWARE MENU, OR BY RETAINING THE SOFTWARE FOR MORE THAN THIRTY DAYS OR USING THE SOFTWARE IN ANY MANNER YOU (A) ACCEPT THIS AGREEMENT AND AGREE THAT YOU ARE LEGALLY BOUND BY ITS TERMS; AND (B) REPRESENT AND WARRANT THAT: (I) YOU ARE OF LEGAL AGE TO ENTER INTO A BINDING AGREEMENT; AND (II) IF YOU ARE A REPRESENTATIVE FOR A CORPORATION OR OTHER LEGAL ENTITY, YOU HAVE THE AUTHORITY TO ENTER INTO THIS AGREEMENT ON BEHALF OF SUCH ENTITY AND BIND SUCH ENTITY TO ITS TERMS. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, SELLER WILL NOT AND DOES NOT LICENSE THE SOFTWARE TO YOU AND YOU MUST NOT DOWNLOAD, INSTALL, OR USE THE SOFTWARE. UNITED STATES GOVERNMENT CUSTOMERS OR END-USERS MAY REQUEST A GOVERNMENT ADDENDUM TO THIS AGREEMENT.
+
+
+NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS AGREEMENT OR YOUR ACCEPTANCE OF THE TERMS AND CONDITIONS OF THIS AGREEMENT, NO LICENSE IS GRANTED (WHETHER EXPRESSLY, BY IMPLICATION, OR OTHERWISE) UNDER THIS AGREEMENT TO ANY SOFTWARE THAT YOU DID NOT OBTAIN LAWFULLY OR THAT IS NOT A LEGITIMATE, AUTHORIZED COPY OF SELLER’S SOFTWARE. THIS AGREEMENT EXPRESSLY EXCLUDES ANY RIGHTS CONCERNING SUCH ILLEGITIMATE COPIES.
+
+
+IF THESE TERMS ARE NOT ACCEPTABLE, THE UNUSED SOFTWARE AND ANY ACCOMPANYING DOCUMENTATION SHOULD BE RETURNED PROMPTLY TO SELLER (WITHIN 30 DAYS OF PURCHASE) FOR A FULL REFUND OF THE LICENSE FEE PAID. (FOR INFORMATION REGARDING THE RETURN OF SOFTWARE ENCODED OR INCORPORATED WITHIN GOODS OR ASSOCIATED WITH SERVICES, CONTACT THE NEAREST SELLER SALES OFFICE.)
+
+
+1. DEFINITIONS
+
+
+“Beta Software” means any Software that has been designated as a non-production version, including software labeled as “beta,” “pre-release,” or “candidate,” “prototype,” or “evaluation product.”
+
+
+“Beta Term” begins on the day when You agree to this Agreement and ends upon the date set by Seller.
+
+
+“Software” means the software accompanying this Agreement.
+
+
+“Subscription Software” means Software that is licensed on a limited term basis, typically one year or as otherwise defined in a quotation, purchase order, or product description.
+
+
+“Trial Period” means the duration of time—if any—that You are allowed to use the Software without paying for it.
+
+
+2. LICENSE
+
+
+Subject to the terms and conditions of this Agreement, Seller grants You a non-exclusive, non-transferable license to the Software, as follows.
+
+
+You May:
+
+
+a)Use the Software with the Goods it is encoded or incorporated in, or Services it is associated with. If the Software is not encoded or incorporated in any Goods, You may use the Software on the number of computers or machines that You purchased licenses for. If You obtained the Software for free, You may use it on an unlimited number of computers or machines unless otherwise specified;
+
+
+b) Copy the Software for archival or backup purposes, provided that no more than one (1) such copy is permitted to exist at any one time, and provided that each copy includes a reproduction of any patent or copyright notice or restrictive rights legend that was included with the Software, as received from Seller;
+
+
+c) Fully transfer the Goods to a third party but only if prominently accompanied by this Agreement, and such third party recipients agree to be bound by its terms; and
+
+
+d) Integrate Seller products that contain the Software into a system and sell or distribute that system to third parties, provided that those third parties are bound by the terms of this Agreement, and provided that You (i) do not separate the Software from any Goods it is incorporated into, (ii) do not retain any copies of the Software, and (iii) do not modify the Software.
+
+
+You May Not:
+
+
+a) Use the Software other than for its intended purpose as provided above in the section “You may,” or in conflict with the terms and restrictions of this Agreement;
+
+
+b) Use or retain any Beta Software after its Beta Term expires;
+
+
+c) Use or retain any Software after its Trial Period (if any), unless You have paid for further use;
+
+
+d) Use any Subscription Software after its subscription period expires;
+
+
+e) Disclose, distribute or transfer the Software to any person or organization outside of Your organization without Seller’s prior written consent, except in connection with a permitted use authorized in “You may” paragraphs 3 or 4 above;
+
+
+f) Decompile, decrypt, disassemble, or otherwise attempt to derive the source code, techniques, processes, algorithms, know-how, or other information (collectively “Reverse Engineer”) from the Software or permit or induce any third party to do so, except to the limited extent allowed by directly applicable law or third party license (if any), and only to obtain information necessary to achieve interoperability of independently created software with the Software;
+
+
+g) Modify, translate, adapt, or create derivative works of the Software, or merge the Software with any other software;
+
+
+h) Copy the documentation accompanying the Software, except as necessary to support an authorized use;
+
+
+i) Remove any copyright, trademark, or other proprietary notices from the Software or any media relating thereto;
+
+
+j) Export or re-export, directly or indirectly, the Software or Goods, any associated documentation, or systems created in accordance with “You may” section 4 above, to any country to which such export or re-export is restricted by law or regulation of the United States or any foreign government having jurisdiction without the prior authorization, if required, of the Office of Export Administration, Department of Commerce, Washington, D.C. and the corresponding agency of such foreign government;
+
+
+k) Use the Software, Goods, or Services in any manner or for any purpose that infringes, misappropriates, or otherwise violates any intellectual property rights or other proprietary rights of any person, or any applicable laws;
+
+
+l) Use the Software, Goods, or Services in a network or system with other products or services that are incompatible, insecure, or not compliant with applicable laws; or
+
+
+m) Bypass, circumvent, damage, or otherwise interfere with any security or other features of the Software, Goods, or Services designed to control the manner in which they are used, or harvest or mine Seller’s proprietary content or information from the Software, Goods, or Services.
+
+
+THE SOFTWARE MAY NOT BE USED, COPIED, MODIFIED, MERGED, OR TRANSFERRED TO ANOTHER EXCEPT AS EXPRESSLY PERMITTED BY THESE TERMS AND CONDITIONS.
+
+
+3. FEEDBACK
+
+
+If You provide feedback to Seller concerning the functionality and performance of the Software, Goods, or Services, including without limitation identifying potential errors and improvements, any comments, questions, suggestions, or the like (“Feedback”), Seller is free to use such Feedback without any attribution, compensation, or restriction in any manner to improve or enhance its products, irrespective of any other obligation or limitation between the Parties governing such Feedback. You hereby grant Seller an irrevocable, worldwide, perpetual, royalty-free license to use Your Feedback for any purpose whatsoever and waive any moral rights You may have in the Feedback. Seller is not obligated to use Your Feedback.
+
+
+4. OWNERSHIP
+
+
+Title to the Software and all copies thereof, but not the media on which the Software or copies may reside, shall remain with Seller or others from whom Seller has obtained a respective licensing right. Nothing in this Agreement grants, by implication, waiver, estoppel, or otherwise, to You or any third party any intellectual property rights or other right, title, or interest in or to the Software or any intellectual property rights embodied or contained therein.
+
+
+5. GOVERNMENT NOTICE
+
+
+This Software is a commercial product that has been developed entirely at private expense. If the Software or any related documentation is obtained by or for an agency of the U.S. Government, the Software and documentation shall be considered “commercial items,” “commercial computer software” or “commercial computer software documentation” respectively, as those terms are used in 48 CFR §2.101, 48 CFR §12.212, 48 CFR §227.7202, or 48 CFR §252.227-7014, and are licensed with only those rights as are granted to all other licensees as set forth in this Agreement and supersede any conflicting terms or conditions in any government order except those contrary to applicable mandatory federal laws.
+
+
+If the Buyer is the United States Government, all contract disputes arising out of or relating to this Agreement will be governed by and construed in accordance with the Contract Disputes Act (CDA), 41 U.S.C. §§ 7101-7109. Any legal suit, action, or proceeding arising out of or relating to this Agreement or the transaction contemplated hereby will be instituted in the court or board of jurisdiction under the CDA. If the matter is tortious in nature, the action will be brought under the Federal Tort Claims Act (FTCA), 28 U.S.C. § 1346(b).
+
+
+6. TERM AND TERMINATION
+
+
+For Software that is provided without time restriction the license granted herein is effective until otherwise terminated.
+
+
+For Subscription Software, the license granted herein is only effective for the period defined in a quotation, purchase order, or product description, after which the license will expire.
+
+
+Seller may terminate Your license to Beta Software at any time.
+
+
+Any license may be terminated by Seller if You (1) fail to pay any amount for the Software, Goods, or Services when due, or (2) fail to comply with any term or condition and such failure is not remedied within fifteen (15) days after notice from Seller. Upon expiration or termination by either party of any license including Beta Software, You shall return to Seller or destroy, the Software and all associated documentation, together with all copies in any form and certify such destruction in writing.
+
+
+Important Note: upon expiration or termination of Subscription Software, You may lose access to Your data stored by the Software. SELLER HAS NO OBLIGATION OR LIABILITY FOR ANY LOSS, ALTERATION, DESTRUCTION, DAMAGE, CORRUPTION, OR RECOVERY OF YOUR DATA CAUSED BY SUCH TERMINATION.
+
+
+IF YOU TRANSFER, DISTRIBUTE, OR OTHERWISE MAKE AVAILABLE ANY COPY, MODIFICATION, OR MERGED PORTION OF THE SOFTWARE WITHOUT THE EXPRESS PERMISSION OF THESE TERMS AND CONDITIONS OR PRIOR WRITTEN CONSENT OF SELLER, YOUR LICENSE WILL BE IMMEDIATELY AND AUTOMATICALLY TERMINATED.
+
+
+7. SECURITY DISCLAIMER
+
+
+This Software and its associated Goods or Services (if any) are not designed or intended to be used with unsecure networks. You acknowledge that use of the Goods and Services may rely upon certain networks, systems, and data communication mediums that are not controlled by Seller and that may be vulnerable to data or security breaches, including, without limitation, internet networks used by Your internet providers and the databases and servers controlled by Your internet providers. Seller shall not be liable for any such breaches, including without limitation, damages and/or loss of data related to any security breach, and disclaims all warranties, including any implied or express warranties that any content will be secure or not otherwise lost or altered.
+
+
+For the avoidance of doubt, if You choose to connect this Software, Goods, or Services to a network, it is Your sole responsibility to provide and continuously ensure a secure connection to that network. You agree to establish and maintain appropriate measures (e.g., firewalls, authentication measures, encryption, anti-virus applications, etc.) to protect the Software, Goods, Services and any associated data against security breaches including unauthorized access, destruction, use, modification, or disclosure. Notwithstanding the foregoing, You shall not use any Products in a network with other products or services that are incompatible, insecure or not compliant with applicable laws.
+
+
+8. THIRD PARTY DISCLAIMER
+
+
+The Software may contain software owned by third parties and obtained under a license from those parties (“Third Party Software”). Your use of such Third-Party Software is subject to the terms and conditions of this Agreement and the applicable Third Party Software licenses. Except as expressly agreed otherwise, third parties do not warrant the Third-Party Software, do not assume any liability with respect to its use, and do not undertake to furnish any support or information relating thereto.
+
+
+9. SOURCE CODE OFFER
+
+
+This Software may contain components licensed under the “GNU General Public License (GPL),” “Lesser GNU General Public License (LGPL),” “Common Public License (CPL),” and/or “Mozilla Public License (MPL)” for which the complete corresponding sources are available. You can order a complete machine-readable copy of the GPL, LGPL, CPL, and/or MPL source code from us for a period of three (3) years after download or receipt of the software, by sending a written request to:
+
+
+Dynapar Corporation
+
+2100 West Broad Street Elizabethtown, NC 28337 
+
+ATTN: Legal Department
+
+
+This offer is valid to anyone in receipt of this information.
+
+
+Your request must include: (i) the name of the product, (ii) your (company) name, and (iii) your return mailing and email address (if available).
+
+
+Please note that we may charge you a fee to cover the cost of performing this distribution.
+
+
+Seller will fulfill its obligations under section 3.2 of the MPL by providing MPL source code (including any Seller modifications, if applicable) via an electronic distribution method.
+
+
+10. PRIVACY
+
+
+Seller will handle and store data it receives in compliance with applicable law and the applicable Seller privacy statement or privacy notice.
+
+
+11. ADDITIONAL STATEMENTS FOR BETA SOFTWARE
+
+
+IF THIS SOFTWARE IS DESIGNATED AS BETA SOFTWARE, YOU MUST KEEP THIS SOFTWARE CONFIDENTIAL AND MAY NOT DISCLOSE IT TO ANY THIRD PARTY WITHOUT SELLER’S EXPRESS WRITTEN CONSENT. Your full confidentiality obligations are set forth below.
+
+
+Beta Software is not at the level of performance of a commercially available product. Beta Software is only provided for testing and evaluation purposes and is not intended for commercial use. Seller does not warrant that the functions contained in the Beta Software will meet Your requirements or that the operation of the Beta Software will be uninterrupted or error-free. Seller may modify the Beta Software substantially prior to commercial release or may choose to not release a commercial version of the Beta Software.
+
+
+You agree that Beta Software and any accompanying documentation are the confidential, proprietary trade secret information of Seller (“Confidential Information”). Confidential Information also includes other proprietary information that Seller may share with You including but not limited to technology, trade secrets, know-how, business operations, plans, strategies, marketing information, financial information, or business plans. Confidential Information does not include any information that (i) is or becomes generally available to the general public through no fault of You, (ii) is received by You from a third party that lawfully obtained the information and is not under any obligation to keep it confidential, or (iii) was known to You prior to this Beta Software License Agreement or was independently developed by You without any reference to the Confidential Information.
+
+
+During the Beta Term and for a period of three years afterwards, You will safeguard the Confidential Information from unauthorized use, access, or disclosure using at least the same degree of care that it uses to protect Your own sensitive information, and in no event less than a reasonable degree of care. You agree that You will not disclose any Confidential Information in whole or in part to any third party without the express prior written consent of Seller.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+
+
+
+
+Blogs
+
+
+
+
+
+
+Support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright Specialty Product Technologies © 2024. All Rights Reserved
+
+Legal Entity: Dynapar Corporation
+
+
+
+
+Privacy Policy
+
+
+Cookie Policy
+
+
+Cookie Settings
+
+
+Sitemap
+
+
+Terms and Conditions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

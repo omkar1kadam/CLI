@@ -1,0 +1,365 @@
+Wistia Terms | Wistia
+Wistia
+Wistia
+Product
+ 
+Video management
+Hosting
+Upload and store all your videos.
+Embedding
+Publish your videos wherever you want.
+Ad-free player
+Fast playback without any distractions.
+Collections
+Four ways to display your video collections.
+Channels
+Give your video series a home.
+Localization
+Dub & translate your videos in 30+ languages.
+ 
+Video marketing
+Webinar hosting
+Whip up seamless live events in no time.
+Lead generation
+Amp up ROI with lead gen forms.
+SEO
+Get more eyeballs on your videos.
+Engagement
+Encourage interaction with your content.
+Wistia API
+Build custom video experiences for your site.
+ 
+Video creation
+Recording
+Capture yourself, your screen, or both.
+Editing
+Trim and polish videos in a snap.
+Collaboration
+Your team’s feedback, all in one place.
+Video analytics
+Analytics
+All things video performance.
+Video integrations
+Marketing automation
+Use video with HubSpot, Marketo, or Pardot
+All integrations
+See Wistia’s full integrations library.
+Features Overview
+Learning Center
+Learning Center
+Go from a camera-shy beginner to a video marketing pro.
+Subscribe now
+Blog
+Support
+Developer Docs
+Customer Stories
+Webinars
+Tutorial Videos
+Asset Library
+Blog Categories
+Marketing
+Production
+Product Updates
+Wistia Culture
+2025 State of Video Report
+Level up your video strategy with insights from millions of videos, 2.7 million hours of content, and 1,300+ professionals.
+Pricing
+Watch Demo
+Talk to Sales
+Log in
+Get started
+Jump to section
+1. Definitions
+2. Services
+3. Support and Maintenance
+4. Proprietary Rights
+5. Confidentiality
+6. Paid Version Payments
+7. Limited Warranty and Disclaimers
+8. Limitation of Liability
+9. Term and Termination
+10. Digital Millennium Copyright Act
+11. General Provisions
+Supplemental Terms
+Jump to section
+1. Definitions
+2. Services
+3. Support and Maintenance
+4. Proprietary Rights
+5. Confidentiality
+6. Paid Version Payments
+7. Limited Warranty and Disclaimers
+8. Limitation of Liability
+9. Term and Termination
+10. Digital Millennium Copyright Act
+11. General Provisions
+Supplemental Terms
+Wistia - Terms of Service
+The following Terms of Service (“Terms” or “Agreement”) constitute a legal agreement between you or the entity or company that you represent (“Customer” or “You”) and Wistia, Inc. (“Wistia”), which governs Customer’s use of the Services. The Services can be accessed (a) as a free-to-the-user service having the specifications outlined in the respective Plan (the “Free Version”) and (b) as a paid service having the specifications outlined in the respective Plan or in-app purchase, for which Customer pays a monthly or yearly subscription fee (the “Paid Version”). Wistia may also make beta, pilot, or limited release features of the Services available for Customer’s use (“Beta Services”). Customer’s use of the Services is subject to (a) the terms and conditions set forth below, (b) the Wistia policies, available at 
+security.wistia.com
+, including Wistia’s Data Processing Agreement (the “DPA”), Artificial Intelligence Policy and Privacy Policy (collectively, the “Policies”)  and incorporated herein by reference, and (c) the terms and conditions of any other agreements Customer and Wistia have entered into (such agreements, the “Other Customer Agreements”) and incorporated herein by reference, so please take the time to fully understand how these Terms, the Policies and Other Customer Agreements governing Customer’s relationship with Wistia and Customer’s use of the Services. The Services are available only to individuals who are at least 18 years old. If Customer is an individual, Customer represents and warrants that Customer is at least 18 years old. Each business or individual may have only 1 Free Version account or Beta Services account.
+Customer acknowledges that the Free Version and Beta Services are provided at no charge, and therefore, the terms that govern use of the Free Version and Beta Services are different, in part, from the terms that govern use of the Paid Version. The specific provisions that relate only to the Paid Version (and expressly not the Free Version or Beta Services) are set forth in Sections 6 (Paid Version Payments), 7.1 (Paid Version Limited Warranty), 8.1 (Paid Version Limitation of Liability), and 9.2 (Termination of the Paid Version), and the specific provision that relates only to the Free Version and Beta Services are set forth in Section 8.2 (Free Version and Beta Services  Limitation of Liability). All other non-specified terms shall apply to both the Paid Version, the Free Version and the Beta Services. If Customer upgrades from the Free Version to a Paid Version, Customer acknowledges and agrees that the terms that govern the use of the Paid Version shall automatically apply to Customer upon such upgrade.
+CUSTOMER’S RIGHT TO USE THE SERVICES IS EXPRESSLY CONDITIONED ON ACCEPTANCE OF THESE TERMS. BY CLICKING ON THE “ACCEPT” BUTTON AND/OR USING THE SERVICES, YOU ARE UNCONDITIONALLY CONSENTING TO BE BOUND BY AND ARE BECOMING A PARTY TO THE TERMS OF THIS AGREEMENT. IF YOU ARE ACCESSING THE SERVICES ON BEHALF OF YOUR EMPLOYER OR ANOTHER ENTITY, YOU REPRESENT AND WARRANT THAT YOU HAVE THE AUTHORITY TO AGREE TO THESE TERMS ON ITS BEHALF. IF YOU DO NOT HAVE SUCH AUTHORITY, OR IF YOU DO NOT AGREE WITH THESE TERMS AND CONDITIONS, YOU MUST NOT ACCEPT THIS AGREEMENT AND MAY NOT USE THE SERVICES.
+1. Definitions
+“Account Owner”
+ means an authorized individual of the Customer who is the ultimate authority at the Customer who has control over account usage monitoring, branding, integrations, API keys, subscription management, billing details, account cancellation, and Content access permissions.
+“Bandwidth”
+ means the total data transfer of your Content to end-users. 
+“Confidential Information”
+ means all trade secrets, know-how, inventions, developments, software and other financial, business or technical information disclosed by or for a party in relation to this Agreement, but not including any information the receiving party can demonstrate is (a) already rightfully known by it without restriction, (b) rightfully furnished to it by a third party without restriction and without breach of any obligation to the disclosing party, (c) generally available to the public without breach of this Agreement or (d) independently developed by it without reliance on the Confidential Information of the disclosing party. All pricing information is Wistia’s Confidential Information.
+“Content”
+ means all Media, text, software, scripts, graphics, photos, sounds, music, videos, podcasts, audiovisual combinations, interactive features and other materials that may be viewed on, accessed through, or contributed to the Services.
+“Customer Content”
+ means Content contributed to the Services by Customer or Users.
+“Customer Data”
+ means all Customer registration information and other Transaction Data collected, processed and retained by Wistia in connection with providing the Services.
+“Manager”
+ means an individual who has managerial user rights on behalf of the Customer with respect to the Services.
+“Media”
+ means any file uploaded to the Services.
+“Order Form”
+ means the document, if any, signed by the parties and  describing the Services and pricing purchased by Customer.
+“Plan”
+ means Wistia’s free or any paid plans, as applicable and as further described on Wistia’s website available at: 
+https://wistia.com/pricing
+  and Plan description in the Order Form, if an Order Form is signed by the parties, and any additional features described at the time of in-app purchase.The Plan description in the Order Form, if any, shall govern if there is a conflict with the features and services described in the Plan.
+“Services”
+ means the services hosted by Wistia and provided to Customer under this Agreement.
+“Systems”
+ means modems, servers, software, network and communications equipment and ancillary services that are owned, controlled or procured by Customer.
+“Transactional Data”
+ includes, but is not limited to, playback events, session data (timestamps, watch duration, re-watch patterns), technical data (device information, such as screen width, browser name and version) and user-specific context (geographic locations, referrer, UTM parameters, etc).
+“Updates”
+ means any patch, revision or update to the Services delivered by Wistia.
+“User”
+ means Customer’s employees, representatives, consultants, contractors or agents who are authorized to use the Services for Customer’s benefit and have unique user identifications and passwords for the Services.
+2. Services
+2.1 Services.
+Subject to all terms and conditions of this Agreement, Wistia will use commercially reasonable efforts to provide the Services. Wistia may provide the Services to Customer directly, or indirectly using contractors or other third party vendors or service providers. 
+2.2 Bandwidth.
+Use of the Services by Customer shall not unreasonably interfere with use of the Services by other Wistia customers. All Plans have an associated monthly or annual Bandwidth limit. Monthly limits are calculated based on calendar months and are based on the date of account activation. Annual limits are calculated based on cumulative usage from the date of account activation. Once an account reaches its monthly or annual Bandwidth limit You will be notified and given the option of (a) upgrading to a plan with a higher Bandwidth limit, or (b) paying for extra Bandwidth at the then current overage rate for your account (unless otherwise previously mutually agreed upon). In rare circumstances, where Customer is continually exceeding Customer’s Plan monthly or annual Bandwidth limit and not upgrading Customer’s Plan or paying for overages, Wistia reserves the right to suspend Customer’s account until a solution is reached, provided that Wistia gives Customer ten (10) days’ notice and opportunity to cure prior to such suspension. 
+2.3 Security Measures.
+Customer may access the Services as Wistia instructs through a combination of one or more user names and passwords. Customer shall not create multiple accounts to access the Free Version or Beta Services. Customer shall not create additional accounts to circumvent an account suspension, termination, or any other prohibition on Customer’s access to the Services.
+2.4 Account Owners, Managers and Users.
+The Plan sets forth the number of Manager and User seats that Customer has been allotted. Each Manager may appoint the number of Users specified in the Plan and determine what feature permissions to grant to such Users, provided that the aggregate use of the Services by all Managers and all Customer appointed Users may not exceed the maximum limits as specified in the Plan. Account Owners have access to anything a Manager or User does, and in addition they may monitor the usage of the account (including bandwidth and mediavideos), change the account logo, name and URL, connect/disconnect integrations, create API keys, purchase upgrade, or downgrade a subscription, change billing information, cancel the Wistia account, have final say over who can access the Content hosted on Wistia. Customer shall be responsible for any breaches of this Agreement by its Account Owners, Managers and Users.
+2.5 Passwords.
+Customer shall take full responsibility and liability for the security of each of its user names and passwords, and shall be solely responsible for all use of the Services through such user names or passwords. Customer agrees to immediately notify Wistia of any unauthorized use of the Services or any other breach of security known to Customer.
+2.6 Prohibited Uses.
+(a) As a condition of use of the Services, Customer shall not use the Services or allow any third party invited by Customer to use the Services for any purpose that is prohibited by the Wistia Acceptable Use Policy set forth at 
+https://wistia.com/terms/supplemental/wistia-acceptable-use-policy
+. In addition to any rights or remedies available to Wistia herein or at law, Wistia may immediately suspend Customer’s use of the Services if Customer violates the Acceptable Use Policy. If after such suspension, Customer is unable, within a reasonable time period, to cure a violation of the Acceptable Use Policy, then Wistia may immediately terminate this Agreement for breach (without further notice). 
+(b) Customer shall not (directly or indirectly) or permit any third party to: (i) interfere or attempt to interfere with the proper working of the Services or any activities conducted on the Services; (ii) use any robot, spider, site search/retrieval application or other manual or automatic device to retrieve, index, “scrape,” “data mine” or in any way gather information, content or other materials from Services or reproduce or circumvent the navigational structure or presentation of Services; (iii) decipher, decompile, disassemble, reverse engineer or otherwise attempt to derive any source code or underlying ideas or algorithms of any part of the Services, except to the limited extent applicable laws specifically prohibit such restriction, (iv) use any of Wistia’s Confidential Information to create any software, documentation or service that is similar to the Services or any documentation provided in connection therewith; (v) modify, translate, or otherwise create derivative works of any part of the Services, or (vi) copy, license, sublicense, sell, resell, encumber, rent, lease, time-share, distribute, transfer or otherwise use or exploit or make available the Services in any service bureau arrangement or otherwise for the benefit of any third party without the prior written consent of Wistia.  Customer shall abide by all applicable local, state, national and international laws and regulations, including, without limitation, any export control laws or regulations of the United States of America or any other relevant jurisdiction.  Access to the Services by “bots” or other automated methods in any way that could degrade the system is not permitted. 
+2.7 Changes to Services.
+Wistia reserves the right to change, modify or discontinue any Services or Plan (in whole or in part) at any time. You agree that if Wistia changes, modifies or discontinues the Services or Plan you have elected, Wistia is authorized to migrate you to the new Services or Plan which most closely align with your previously elected Services or Plan.
+2.8 Changes to Terms.
+Wistia reserves the right to change the Terms at any time, but if Wistia makes such changes, Wistia will bring it to your attention by placing a notice on the Wistia website, by sending You an email, and/or by some other means. The “Last Updated” date at the bottom of these Terms will indicate the most recent date the Terms were changed. If You do not agree with the new Terms, You are free to reject them; unfortunately, that means You will no longer be able to use the Services. If You use the Services in any way after a change to the Terms is effective, that means You agree to all of the changes. Except for changes by Wistia as described herein, no other amendment or modification of these Terms will be effective unless in writing and signed by both You and Wistia.
+2.9 Limitations.
+Wistia will not be responsible or liable for any failure in the Services resulting from or attributable to (a) Customer’s Systems, (b) network, telecommunications or other service or equipment failures outside of Wistia’s facilities, (c) Customer’s or third party’s products, services, negligence, acts or omissions, (d) any Force Majeure Event (as defined below) or cause beyond Wistia’s reasonable control, (e) scheduled maintenance, (f) unauthorized access, breach of firewalls or other hacking by third parties, (g) inaccurate, incorrect, or inappropriate Content generated by AI Tools available at AI Platforms (as defined in the AI Policy) not controlled by Wistia, or (h) the failure of any Content generated by AI Tools to be eligible for intellectual property rights and/or protections.  Customer will only have access to the features and services described in the Plan. If Customer access features or services not described in the Plan, Wistia may terminate this Agreement immediately and bill for payment of features or services rendered. Wistia is not responsible or liable for any failure of features or services that were not purchased by the Customer.
+2.10 Systems.
+Customer shall obtain and operate all Systems needed to connect to, access, or otherwise use the Services, and provide all corresponding backup, recovery, and maintenance services. Customer shall ensure that all Systems are compatible with the Services. Customer shall maintain the integrity and security of its Systems (physical, electronic and otherwise).
+2.11 Services to Schools and Students.
+This section shall govern the usage of the Services by any public school, charter school, private school, and other natural person (including teachers) and entity providing educational or tutoring services (collectively, “Schools” and each individually, “School”) and the Services a School makes available to students under the age of 16 (each a “Student,” and collectively, “Students”). The School shall only use the Services to provide to Students Content depicting or containing teachers, lessons, demonstrations, or other educational resources. The School shall not use the Services for any other uses beyond those described in the previous sentence, including, but not limited to: permitting any communications between Students or from any individual Student through the Services; permitting Students to create, store, or share Content; or recording, storing, transferring or otherwise processing Students’ educational performance results, educational records, pictures of Students, vocal or video recordings of Students, personally identifiable information as defined by the Family Educational Rights and Privacy Act, and other Personal Information (as that term is defined in Wistia’s Privacy Policy) about Students, except as otherwise stated in the School & Students Privacy Policy Addendum or the Privacy Policy. The School shall obtain all consents, make all disclosures, and comply with all laws (including all Privacy Laws, as that term is defined in Wistia’s Privacy Policy) necessary for Wistia to properly collect, use, transfer, and otherwise process the Personal Information of the School’s Students, as such processing is more thoroughly described in Wistia’s Privacy Policy and School & Students Privacy Policy Addendum. For three years following the expiration or earlier termination of this Agreement: (a) the School shall maintain accurate records of the measures it implements to comply with the requirements of the previous sentence; and (b) the School shall indemnify, hold harmless, and, at Wistia’s option, defend Wistia from and against any losses, damages, liabilities, costs (including reasonable attorneys’ fees) resulting from the School’s failure to comply with the requirements of the previous sentence. The School agrees that it shall process and respond to all requests from individuals, including Students, to exercise privacy rights granted by the Privacy Laws and that in the event an individual directs such a request to Wistia, Wistia shall refer the request to the School. To the extent the School makes one or more AI Tools or AI Platforms available to Students to use with the Services, the School acknowledges that it is responsible for (i) complying with the terms and conditions governing each AI Tool and AI Platform, and (ii) the Personal Information of Students entered into, submitted to, or otherwise made available to such AI Tools and AI Platforms. Wistia may terminate this Agreement and cease providing the Services to the School in the event the School does not comply with or violates its obligations in this section. In the event of any conflict between this section and the other sections of this Agreement as they apply to the School, the terms of this section shall govern.
+2.12 Additional Services.
+(a) Wistia makes available, at no charge, certain assets for your use in connection with the Services (collectively, the “Assets”). A description of such Assets is available at 
+https://wistia.com/resources/free-downloads
+. Should you decide to access or use the Assets, you shall automatically be subject to the Asset License set forth at 
+https://wistia.com/asset-license
+.
+(b) Beta Services are not intended for commercial usage, may be modified or discontinued at any time, may contain bugs or errors, and are not subject to support. Customer will provide timely feedback to Wistia and only use the Beta Services for the purpose of providing such feedback. If Beta Services are available to Customer, they may be subject to different or additional terms and conditions set forth at 
+https://wistia.com/terms/supplemental
+.
+(c) Certain features or services identified in the Plan may, in addition to these Terms, be subject to additional terms and conditions. These additional terms and conditions are set forth at 
+https://wistia.com/terms/supplemental
+. In the event of any conflict between these Terms and the additional terms and conditions, the additional terms and conditions shall govern.
+3. Support and Maintenance
+3.1 Support.
+Wistia will use commercially reasonable efforts to provide Customer with support and maintenance for the Services in accordance with its standard practices (as amended from time to time). Customer agrees that Wistia will have the right to charge in accordance with its then current policies for any support services resulting from problems, errors or inquiries relating to Systems or any other network, equipment, service or software not owned, controlled or procured by Wistia.
+3.2 Updates.
+Wistia shall have no obligation to provide Updates, except that Wistia will provide Customer with any Update that it makes generally available without charge to its similar customers.
+4. Proprietary Rights
+4.1 Services.
+Except for Customer Content and Customer Data, Wistia (and its licensors) own all right, title and interest in and to the Services and all modifications, enhancements and Updates to the Services (including all intellectual property and proprietary rights embodied therein). Wistia reserves all rights not expressly granted hereunder. Customer shall not take any action inconsistent with such rights. Customer shall not alter, obscure or remove any printed or on-screen trademark, patent legend or other proprietary or legal notice.
+4.2 Customer Content.
+Customer owns all right, title and interest in and to the Customer Content. You hereby grant Wistia a royalty-free, fully paid-up, irrevocable, worldwide license to exploit the Customer Content as necessary to provide the Services to You. This license includes, but is not limited to, the right to:
+Stream the Customer Content;
+Embed the Customer Content on third-party websites;
+Distribute the Customer Content;
+Make the Customer Content available for download;
+Transcode the Customer Content (create compressed versions optimized for streaming);
+Generate stills (i.e., “thumbnails”) from the Customer Content;
+Automatically generate and display summaries, chapters, closed captions, and subtitles from the Customer Content; and
+Copy, modify, alter, create derivative works of or enhance the Customer Content as necessary to provide the Services, including, but not limited to, translating or dubbing the Customer Content if elected by you.
+You are responsible for all Customer Content, and You represent and warrant You have all rights necessary to grant the rights and licenses in Customer Content set forth in this Agreement. Customer agrees to create archival copies or backup copies of all Customer Content.
+Wistia’s Services integrate publicly available AI Platforms and AI Tools. You may use these AI Tools and AI Platforms to enhance the Customer Content as described in the AI Policy, but (a) you may not own all right, title, and interest in AI Content (as that term is defined in the AI Policy) produced in response to Customer Content provided to each AI Tool and AI Platform, and (b) such AI Content may not be eligible for any intellectual property rights or protections. For additional information on the AI Platforms and AI Tools Wistia uses, please see the websites and accompanying privacy policies of the AI Platforms. 
+4.3 Customer Data.
+As between the parties, Customer shall own all Customer Data. Wistia shall not disclose to third parties or use any Customer Data except as reasonably necessary to (i) provide the Services to Customer, (ii) comply with a validly issued subpoena, an investigative demand or warrant, or (iii) meet its legal, regulatory or similar requirement or investigation. Notwithstanding the foregoing, during and after the term of this Agreement, Wistia may make Customer Data available to the AI Tools and AI Platforms integrated into Wistia’s Services, use anonymized Customer Data, such as number of Customer Content plays, number of Customer Content, how Customer Content and audiences are interacting with the player, as combined with other Wistia customers’ data, to improve and/or market the Services. Customer hereby grants Wistia a nonexclusive, non-sublicenseable and royalty-free right and license to use the Customer Data solely for the purposes described above. For clarity, Wistia does not share personally identifiable information such as user name, email, etc. Customer agrees to create archival copies or backup copies of all Customer Data.
+4.4 Indemnity.
+Customer agrees to defend, indemnify and hold Wistia harmless from all claims, damages, liabilities, losses, costs and expenses (including attorneys' fees) arising out of, relating to or resulting from (a) use or disclosure of Customer Data or Customer Content in connection with the provision of Services, (b) failure to comply with any legal, regulatory or similar requirement or investigation, (c) Customer’s breach of Section 2.6 and (d)  any third-party claim against Wistia from Customer’s failure to comply with any of its obligations under the DPA, if applicable.
+5. Confidentiality
+5.1 Confidentiality.
+Except for the specific rights granted by this Agreement, the receiving party shall not use or disclose any of the disclosing party’s Confidential Information without its written consent, and shall use reasonable care to protect the disclosing party’s Confidential Information, including ensuring that its employees and contractors with access (a) have a need to know for the purposes of this Agreement and (b) are bound by obligations of confidentiality at least as protective as those provided herein. Each party shall be responsible for any breach of confidentiality by its employees and contractors. Each party may disclose only the general nature, but not the specific terms, of this Agreement without the prior consent of the other party; provided, either party may provide a copy of this Agreement or otherwise disclose its terms in connection with any financing transaction or due diligence inquiry, provided that the party to whom such information is disclosed is bound by confidentiality obligations substantially similar to those herein and the party disclosing such information is responsible for any breaches of confidentiality by the party to whom such information is disclosed.
+This confidentiality provision does not govern any of Customer’s Confidential Information shared with any AI Platform or AI Tool through Wistia’s Services. For additional information on how these third-party AI Platforms may use Customer’s Confidential Information, please see the websites and accompanying privacy policies for these AI Platforms.
+5.2 Compelled Disclosure.
+Nothing herein shall prevent a receiving party from disclosing any Confidential Information as necessary pursuant to any court order, lawful requirement of a governmental agency or when disclosure is required by operation of law (including disclosures pursuant to any applicable securities laws and regulations); provided, that prior to any such disclosure, the receiving party shall use reasonable efforts to (a) promptly notify the disclosing party in writing of such requirement to disclose and (b) cooperate with the disclosing party in protecting against or minimizing any such disclosure or obtaining a protective order.
+5.3 Effect of Termination.
+Promptly after any termination of this Agreement (or at the disclosing party’s request at any other time), the receiving party shall return all of the disclosing party’s tangible Confidential Information, permanently erase all Confidential Information from any storage media and destroy all information, records and materials developed therefrom. Notwithstanding the foregoing, Wistia may retain and use Customer Data, as combined with other Wistia customers’ data, solely to improve and/or market the Services, even after termination of the provision of Services or this Agreement.
+This termination provision does not govern any of Customer’s Confidential Information shared with any AI Platform or AI Tool through Wistia’s Services. For additional information on how these third-party AI platforms may retain Customer’s Confidential Information, please see the websites and accompanying privacy policies for these AI Platforms. 
+6. Paid Version Payments
+6.1 Fees.
+Customer agrees to pay Wistia the fees, in the amounts and at the payment frequency specified in the selected Plan, at the time of in-app purchase or as otherwise set forth in the Order Form.
+6.2 Credit Card Information.
+In order to set up an account with Wistia, Customer must provide Wistia with accurate and complete billing information including legal name, address, telephone number, and a valid credit card. Customer shall promptly notify Wistia of any changes necessary to charge the Customer credit card. By submitting such credit card information, Customer gives Wistia permission to charge all fees incurred through its account to the designated credit card on the earlier of the date incurred or invoice date. Wistia reserves the right to terminate this Agreement in accordance with Section 9.2 hereto if Customer does not provide a valid credit card for the payment of fees hereunder.
+6.3 Payment Terms.
+The Services are billed in advance on a monthly or annual basis, depending upon which Plan is chosen by Customer or if Services are purchased in-app, and are due within thirty (30) days thereof (other than credit card charges which are due on the earlier of the date incurred or invoice date). Wistia will not provide refunds or credits in the case of cancellations, downgrades, or when there are unused portions of the Services on an open account. For any Services or Plan upgrade or upgrade from an in-app purchase, the additional fees for the remainder of the current term (i.e. either month or year) will automatically be charged to Customer at the time of the upgrade. With thirty (30) days’ prior notice, Wistia may change future recurring charges for the Services or Plan to a monthly or annual billing cycle or such other cycle then available for the Services or Plan. In such case, Customer may terminate this Services anytime prior to end of such thirty (30) day notice period. For Customers that elect to be invoiced, all amounts are due and payable within 30 days from the date of the invoice (other than credit card charges which are due on the earlier of the date incurred or invoice date).
+6.4 Taxes.
+All payments are exclusive of federal, state, local and foreign taxes, duties, tariffs, levies, withholdings and similar assessments (including without limitation, sales taxes, use taxes and value added taxes) which Wistia will charge to You as applicable. You agree to pay and will be responsible for paying, withholding, filing, and reporting all taxes, duties, and other governmental assessments associated with your activity in connection with the Services, excluding taxes based upon Wistia’s net income. All amounts due hereunder shall be grossed-up for any withholding taxes imposed by any foreign government. 
+7. Limited Warranty and Disclaimers
+7.1 Paid Version Limited Warranty.
+Wistia warrants that it will provide the Paid Version in a manner consistent with general industry standards reasonably applicable to the provision thereof. Any warranty claim under the foregoing sentence must be made in writing within ten (10) days after performance of the nonconforming Services. Wistia’s sole obligation and Customer’s exclusive remedy in respect thereof is for Wistia to re-perform the nonconforming Services or, at Wistia’s sole discretion, to terminate these Terms in respect of the nonconforming Services and refund to Customer the pro-rata portion of the previously paid Services fees for the unused portion of the subscription term for the nonconforming Services.  Notwithstanding the foregoing, the Paid Version may be temporarily unavailable, for example, when deemed reasonably necessary or prudent by Wistia to repair, maintain or upgrade the Paid Version or for causes beyond Wistia’s reasonable control. Wistia will use commercially reasonable efforts to notify Customer at least 48 hours in advance of any known planned Paid Version-related outages.
+7.2 Disclaimers.
+EXCEPT AS SPECIFICALLY PROVIDED HEREIN, THE SERVICES ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND. WISTIA DOES NOT WARRANT THAT THE SERVICES WILL MEET CUSTOMER’S REQUIREMENTS OR THAT THEIR OPERATION WILL BE UNINTERRUPTED OR ERROR-FREE. TO THE FULLEST EXTENT PERMITTED BY LAW, WISTIA HEREBY DISCLAIMS (FOR ITSELF AND ITS SUPPLIERS) ALL OTHER WARRANTIES, WHETHER EXPRESS OR IMPLIED, ORAL OR WRITTEN, WITH RESPECT TO THE SERVICES INCLUDING, WITHOUT LIMITATION, ALL IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, QUIET ENJOYMENT, INTEGRATION, MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE AND ALL WARRANTIES ARISING FROM ANY COURSE OF DEALING, COURSE OF PERFORMANCE OR USAGE OF TRADE.
+8. Limitation of Liability
+8.1 Paid Version Limitation of Liability.
+EXCEPT FOR DEATH, BODILY INJURY OR FRAUD, THE INDEMNIFICATION OBLIGATIONS HEREIN, ANY BREACHES OF SECTION 2.6 (PROHIBITED USES) OR SECTION 6.1 (FEES), OR ANY EXCLUSION OR LIMITATION OF LIABILITY THAT IS VOID, PROHIBITED OR UNENFORCEABLE BY APPLICABLE LAW, IN NO EVENT SHALL EITHER PARTY (OR WISTIA’S SUPPLIERS) BE LIABLE CONCERNING THE SUBJECT MATTER OF THIS AGREEMENT, REGARDLESS OF THE FORM OF ANY CLAIM OR ACTION (WHETHER IN CONTRACT, NEGLIGENCE, STRICT LIABILITY OR OTHERWISE), FOR ANY (A) MATTER BEYOND ITS REASONABLE CONTROL (INCLUDING ANY ERROR OR DAMAGE ATTRIBUTABLE TO ANY NETWORK OR SYSTEM), (B) LOSS OR INACCURACY OF DATA, LOSS OR INTERRUPTION OF USE, OR COST OF PROCURING SUBSTITUTE TECHNOLOGY, GOODS OR SERVICES, (C) INDIRECT, PUNITIVE, INCIDENTAL, RELIANCE, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, INCLUDING, BUT NOT LIMITED TO, LOSS OF BUSINESS, REVENUES, PROFITS OR GOODWILL, OR (D) DIRECT DAMAGES, IN THE AGGREGATE, IN EXCESS OF THE AMOUNTS PAID TO WISTIA HEREUNDER WITH RESPECT TO THE SERVICES THAT GAVE RISE TO THE CLAIM DURING THE TWELVE-MONTH PERIOD PRIOR TO THE DATE THE CAUSE OF ACTION AROSE, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THESE LIMITATIONS ARE INDEPENDENT FROM ALL OTHER PROVISIONS OF THIS AGREEMENT AND SHALL APPLY NOTWITHSTANDING THE FAILURE OF ANY REMEDY PROVIDED HEREIN. THE TERMS OF THIS SECTION SHALL APPLY TO THE DPA AND ANY OTHER DATA PROCESSING ADDENDUM EXECUTED BY THE PARTIES.
+8.2 Free Version and Beta Services Limitation of Liability.
+EXCEPT FOR DEATH, BODILY INJURY OR FRAUD, OR TO THE EXTENT THAT ANY EXCLUSION OR LIMITATION OF ITS LIABILITY IS VOID, PROHIBITED OR UNENFORCEABLE BY APPLICABLE LAW, IN NO EVENT SHALL WISTIA BE LIABLE CONCERNING THE SUBJECT MATTER OF THIS AGREEMENT, REGARDLESS OF THE FORM OF ANY CLAIM OR ACTION (WHETHER IN CONTRACT, NEGLIGENCE, STRICT LIABILITY OR OTHERWISE), FOR ANY (A) MATTER BEYOND ITS REASONABLE CONTROL (INCLUDING ANY ERROR OR DAMAGE ATTRIBUTABLE TO ANY NETWORK OR SYSTEM), (B) LOSS OR INACCURACY OF DATA, LOSS OR INTERRUPTION OF USE, OR COST OF PROCURING SUBSTITUTE TECHNOLOGY, GOODS OR SERVICES, (C) INDIRECT, PUNITIVE, INCIDENTAL, RELIANCE, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES INCLUDING, BUT NOT LIMITED TO, LOSS OF BUSINESS, REVENUES, PROFITS OR GOODWILL, OR (D) DIRECT DAMAGES IN EXCESS OF $100.00 IN THE AGGREGATE, EVEN IF WISTIA HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THESE LIMITATIONS ARE INDEPENDENT FROM ALL OTHER PROVISIONS OF THIS AGREEMENT AND SHALL APPLY NOTWITHSTANDING THE FAILURE OF ANY REMEDY PROVIDED HEREIN. THE TERMS OF THIS SECTION SHALL APPLY TO THE DPA AND ANY OTHER DATA PROCESSING ADDENDUM EXECUTED BY THE PARTIES.
+9. Term and Termination
+9.1 Term.
+This Agreement shall commence on the date that this Agreement is accepted. With respect to a Paid Version user, this Agreement shall continue in effect for the initial term specified in the Plan (or if no such term is specified, then for the length of your billing cycle), unless this Agreement is terminated earlier as permitted in Section 9.2. At the end of such initial term, the Agreement will be extended automatically for additional terms equivalent to your billing cycle (i.e. 1-month terms or 1-year terms, as applicable), unless your Plan says otherwise or Wistia changed the billing cycle per Section 6.3 hereof or this Agreement is terminated earlier as permitted in Sections 9.1 or 9.2. Either party may elect not to have this Agreement extend automatically by giving notice of such election to the other party at least 2 months prior to the end of the then current initial or renewal term. Customer is solely responsible for properly notifying Wistia of its election not to have this Agreement automatically renew by following the cancellation directions available in Customer’s Wistia account. With respect to a Free Version user or a Beta Services user, this Agreement shall continue in effect until either party terminates this Agreement upon at least 5 business days’ notice to the other party.
+9.2 Termination of the Paid Version.
+With respect to the Paid Version, this Agreement may be earlier terminated by either party, in whole or in part, (a) if the other party materially breaches a provision of this Agreement and fails to cure such breach within 10 days (5 days in the case of non-payment) after receiving notice of such breach from the non-breaching party, or (b) immediately upon notice, if the other party makes any assignment for the benefit of creditors, or a receiver, trustee in bankruptcy or similar officer is appointed to take charge of any or all of the other party’s property, or the other party seeks protection under any bankruptcy, receivership, trust deed, creditors arrangement, composition or comparable proceeding or such a proceeding is instituted against the other party and is not dismissed within 90 days, or the other party becomes insolvent or, without a successor, dissolves, liquidates or otherwise fails to operate in the ordinary course. Without limiting Wistia’s rights or remedies herein or at law, Wistia may elect to suspend Customer’s right to use the Services in the event of a termination event as provided herein.
+9.3 Effects of Termination.
+Upon any expiration or termination of this Agreement, all rights, obligations and licenses of the parties shall cease, except that (a) all obligations that accrued prior to the effective date of termination (including, without limitation, all payment obligations) and remedies for breach of this Agreement shall survive, (b) Wistia may, but shall not be obligated to, delete archived Customer Data and (c) the provisions of Sections 4 (Proprietary Rights), 5 (Confidentiality), 6 (Paid Version Payments) (only with respect to amounts incurred prior to the effective date of termination), 7.2 (Disclaimers), 8 (Limitation of Liability), 11 (General Provisions) and this Section 9.3 (Effects of Termination) shall survive. 
+10. Digital Millennium Copyright Act
+10.1 General Policy.
+Wistia has adopted the following general policy toward copyright infringement in accordance with the Digital Millennium Copyright Act (
+http://lcweb.loc.gov/copyright/legislation/dmca.pdf
+). The address of Company’s Designated Agent to Receive Notification of Claimed Infringement (“Designated Agent”) is listed at the end of this Section. It is Wistia’s policy to (a) block access to or remove content that it believes in good faith to be copyrighted material that has been illegally copied and distributed by any of its affiliates, content providers, or users; and (b) remove and discontinue service to repeat offenders.
+10.2 Procedure for Reporting Copyright Infringement.
+If You believe that content residing on or accessible through the Wistia web site or Services infringes a copyright, please send a notice of copyright infringement in accordance with the policy at 
+https://wistia.com/support/account-and-billing/content-standards-policy
+. 
+10.3 Once Proper Bona Fide Infringement Notification is Received by the Designated Agent.
+It is Wistia’s policy:
+to remove or disable access to the infringing content;
+to notify the content provider or user that it has removed or disabled access to the content; and
+that repeat offenders will have the infringing content removed from the system and that Wistia will terminate such content provider’s or user’s access to the Services.
+10.4 Procedure to Supply a Counter-Notice to the Designated Agent.
+If the content provider or user believes that the content that was removed or to which access was disabled is either not infringing, or the content provider or user believes that it has the right to post and use such content from the copyright owner, the copyright owner’s agent, or pursuant to the law, the content provider or user must send a counter-notice containing the following information to the Designated Agent listed below:
+A physical or electronic signature of the content provider or user;
+Identification of the content that has been removed or to which access has been disabled and the location at which the content appeared before it was removed or disabled;
+A statement that the content provider or user has a good faith belief that the content was removed or disabled as a result of mistake or a misidentification of the content; and
+Content provider’s or user’s name, address, telephone number, and, if available, e-mail address and a statement that such person or entity consents to the jurisdiction of the Federal Court for the judicial district in which the content provider’s or user’s address is located, or if the content provider’s or user’s address is located outside the United States, for any judicial district in which Wistia is located, and that such person or entity will accept service of process from the person who provided notification of the alleged infringement.
+If a counter-notice is received by the Designated Agent, Wistia may send a copy of the counter-notice to the original complaining party informing that person that it may replace the removed content or cease disabling it in 10 business days. Unless the copyright owner files an action seeking a court order against the content provider or user, the removed content may be replaced, or access to it restored, in 10 to 14 business days or more after receipt of the counter-notice, at Wistia’s discretion.
+10.5 Designated Agent to Receive Notification of Claimed Infringement.
+Please contact Wistia’s Designated Agent to Receive Notification of Claimed Infringement at the following address:
+Designated Agent
+c/o Wistia, Inc.
+120 Brookline St, Cambridge, MA 02139
+Telephone: (888) 494–7842 Email: 
+dmca@wistia.com
+11. General Provisions
+11.1 Third Party Sites.
+The Services may contain links or connections to third party websites or services, including, but not limited to, AI Platforms, (collectively, “Third Party Services,” and each a “Third Party Service”) that are not owned or controlled by Wistia. Wistia encourages You to be aware when You leave the Services and to read the terms and conditions and privacy policy of each Third Party Service that You visit or utilize. You acknowledge that your use of such Third Party Services is governed solely by the terms and conditions and privacy policy of such Third Party Services (including, but not limited to, the YouTube Terms of Service located at 
+https://www.youtube.com/t/terms
+), that by using the Services You agree to be bound by such terms and conditions and privacy policies, and that Wistia does not endorse, is not liable for, and makes no representations regarding Third Party Services, their content, or the manner in which any such Third Party Service uses, stores, or processes Customer Content and Customer Data. Wistia is not liable for any damage or loss arising from or in connection with your use of or access to Third Party Services and your reliance on the policies, privacy practices, and data security processes of any Third Party Service. Wistia is not responsible or liable for any changes to or deletion of Customer Content or Customer Data by Third Party Services. Certain functions of the Services may depend on the functionality, or the available functionality, of certain Third Party Services. Wistia does not control such functionality, and the functionality of Third Party Services may change without any notice to Wistia. Wistia may stop providing access to certain functions of the Services if Wistia determines, in its sole discretion, that the availability and functionality of Third Party Services warrant such cessation of functions. Wistia will not be liable to You for any refunds or any damage or loss arising from or in connection with (a) any such change of availability or functionality by any Third Party Services, or (b) any resulting change to the Services. You irrevocably waive any claim against Wistia with respect to such Third Party Services.
+11.2 Entire Agreement.
+This Agreement, together with the Policies, Other Customer Agreements and the applicable Plan(s) and any other Wistia documents or policies referenced herein, constitute the entire agreement, and supersedes all prior negotiations, understandings or agreements (oral or written), between the parties about the subject matter of this Agreement. In the event of any conflict or inconsistency between the Agreement and the Plan, the Policies, Other Customer Agreements, Customer purchase order (or other similar document), the priority shall be given to terms and conditions of each document in the following order of precedence: the Order Form, then the Plan, then the Policies, then this Agreement, then the Other Customer Agreement and then the Customer’s purchase order (or other similar document). Customer’s purchase order is only effective as its unqualified commitment to access and pay for the Services upon the Terms (and only the Terms). No waiver, consent or, except as expressly provided herein, modification of these Terms shall bind either party unless in writing and signed by the party against which enforcement is sought. The failure of either party to enforce its rights under this Agreement at any time for any period will not be construed as a waiver of such rights. If any provision of this Agreement is determined to be illegal or unenforceable, that provision will be limited or eliminated to the minimum extent necessary so that this Agreement will otherwise remain in full force and effect and enforceable. If this Agreement is required to be registered with any governmental authority, Customer shall cause such registration to be made and shall bear any expense or tax payable in respect thereof.
+11.3 Governing Law.
+This Agreement shall be governed by and construed in accordance with the laws of the Commonwealth of Massachusetts, USA, without regard to its conflicts of law provisions. Neither the United Nations Convention on Contracts for the International Sale of Goods nor any enactment of the Uniform Computer Information Transactions Act shall apply to this Agreement. The sole jurisdiction and venue for actions related to this Agreement will be the state or federal courts located in Middlesex County, Massachusetts, and both parties consent to the jurisdiction of such courts with respect to any such action. In any action or proceeding to enforce or interpret this Agreement, the prevailing party will be entitled to recover from the other party its costs and expenses (including reasonable attorneys' fees) incurred in connection with such action or proceeding and enforcing any judgment or order obtained.
+11.4 Remedies.
+Except as specifically provided otherwise, each right and remedy in this Agreement is in addition to any other right or remedy, at law or in equity. Each party agrees that, in the event of any breach or threatened breach of Section 5, the non-breaching party may suffer irreparable damage for which it may have no adequate remedy at law. Accordingly, the non-breaching party shall be entitled to seek injunctive and other equitable remedies to prevent or restrain such breach or threatened breach, without the necessity of posting any bond.
+11.5 Notices.
+Except as otherwise provided in Sections 9.1 and 10, any notice under this Agreement shall be provided in the following manner: by Wistia to you, on the Wistia website, by email or by another means intended to bring the notice to your attention; by you to Wistia, by email at 
+support@wistia.com
+, or at such other address designated by Wistia. All notices shall be in English.
+11.6 Assignment.
+This Agreement and the rights and obligations hereunder may not be assigned, in whole or in part, by either party without the other party’s written consent (which shall not be unreasonably withheld). However, without consent, but with notice, either party may assign this Agreement to any successor to all or substantially all of its business which concerns this Agreement (whether by sale of assets or equity, merger, consolidation or otherwise). Any attempted transfer in violation hereof will be void and of no effect. This Agreement shall be binding upon, and inure to the benefit of, the successors, representatives and permitted assigns of the parties hereto.
+11.7 Independent Contractors.
+he parties shall be independent contractors under this Agreement, and nothing herein will constitute either party as the employer, employee, agent or representative of the other party, or both parties as joint venturers or partners for any purpose.
+11.8 Publicity.
+Neither party will make public announcements or issue press releases relating to this Agreement or the terms hereof without the prior written consent of the other party, which consent shall not be unreasonably withheld or delayed. Customer agrees that Wistia has the right to disclose Customer’s status as a customer of Wistia as needed in the ordinary course of business.
+11.9 Force Majeure.
+Except for the obligation to make payments, neither Party shall be liable for delays or breaches in its performance under this Agreement due to causes beyond its reasonable control, such as acts of vendors, acts of god, acts or omissions of civil or military authority, government priorities, fire, earthquakes, strikes or other labor problems, floods, epidemics, quarantine restrictions, riots, war, acts of terror, computer or telecommunications failures, network intrusions or denial of service attacks and delays of transportation (“Force Majeure Event”).
+Effective Date: 
+April 10, 2025
+Product
+Home
+Platform Features
+Enterprise Video Platform
+Pricing
+Record
+Webinar Hosting
+Editing
+Collaboration
+Hosting
+Management
+Player
+Accessibility
+Collections
+Embedding
+Lead Generation
+Channels
+Localization
+SEO
+Engagement
+Podcasts
+Analytics
+Marketing Automation
+All Integrations
+Learning Center
+Blog
+Events
+Customer Stories
+Guide to Video Marketing
+State of Video Report
+Asset Library
+Video Series
+Talking Too Loud
+Fix My Setup
+Show Business
+Brandwagon
+Gear Squad vs Dr. Boring
+A Better Workplace
+One, Ten, One Hundred
+Support
+Help Center
+Developer Docs
+Product Changelog
+Status
+Contact Support
+Company
+About Us
+Brand Assets
+Careers
+Company Values
+DEI & Belonging
+Partner Program
+Security
+AI Policy & Governance
+Wistia
+Your complete video marketing platform
+SOC 2 Certified
+©2001–
+2025
+ All rights reserved.
+ 
+Sitemap
+,
+ 
+Privacy
+, and
+ 
+Terms
+.
+Follow us on social media:
+X icon
+Follow us on X
+TikTok icon
+Follow us on TikTok
+Instagram icon
+Follow us on Instagram
+LinkedIn icon
+Follow us on LinkedIn
+Facebook icon
+Follow us on Facebook

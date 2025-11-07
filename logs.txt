@@ -1,0 +1,334 @@
+PS C:\Users\omkar\Documents\GitHub\CLI> python -u "c:\Users\omkar\Documents\GitHub\CLI\fetchurl.py"
+Fetching page 1...
+Found 9 organic results
+Fetching page 2...
+Found 10 organic results
+Fetching page 3...
+Found 10 organic results
+Collected 20 URLs:
+1. https://www.termsfeed.com/blog/sample-terms-and-conditions-template/
+2. https://www.iubenda.com/en/help/2859-terms-and-conditions-when-are-they-needed
+3. https://www.icertis.com/contracting-basics/what-are-terms-and-conditions/
+4. https://www.enzuzo.com/blog/write-terms-and-conditions
+5. https://www.contractscounsel.com/t/us/terms-and-conditions
+6. https://www.termsfeed.com/blog/5-reasons-need-terms-conditions/
+7. https://www.termsandconditionsgenerator.com/
+8. https://www.youtube.com/watch?v=2lZ4ZbNGVUU
+9. https://www.docusign.com/legal/terms-and-conditions
+10. https://ironcladapp.com/journal/contracts/website-terms-and-conditions/
+11. https://www.iubenda.com/en/help/53008-terms-and-conditions-template
+12. https://www.lexisnexis.com/en-us/terms/general/default.page
+13. https://www.websitepolicies.com/blog/what-are-terms-and-conditions
+14. https://www.apple.com/legal/internet-services/itunes/
+15. https://www.enzuzo.com/blog/terms-and-conditions-examples
+16. https://www.spotify.com/legal
+17. https://www.privacypolicies.com/blog/how-to-write-terms-conditions/
+18. https://www.freeprivacypolicy.com/free-terms-and-conditions-generator/
+19. https://www.privacypolicyonline.com/sample-terms-conditions-template/
+20. https://mailchimp.com/resources/website-terms-of-use/
+PS C:\Users\omkar\Documents\GitHub\CLI> python -u "c:\Users\omkar\Documents\GitHub\CLI\tcd.py"
+Fetching URLs from Google...
+Found 289 URLs
+Downloading and extracting text...
+[1/289] Processing: https://www.termsfeed.com/blog/sample-terms-and-conditions-template/    
+[2/289] Processing: https://www.iubenda.com/en/help/2859-terms-and-conditions-when-are-they-needed
+[3/289] Processing: https://www.icertis.com/contracting-basics/what-are-terms-and-conditions/
+[4/289] Processing: https://www.enzuzo.com/blog/write-terms-and-conditions
+[5/289] Processing: https://www.contractscounsel.com/t/us/terms-and-conditions
+Error fetching https://www.contractscounsel.com/t/us/terms-and-conditions: HTTPSConnectionPool(host='www.contractscounsel.com', port=443): Max retries exceeded with url: /t/us/terms-and-conditions (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CE98398690>, 'Connection to www.contractscounsel.com timed out. (connect timeout=15)'))
+[6/289] Processing: https://www.termsfeed.com/blog/5-reasons-need-terms-conditions/
+[7/289] Processing: https://www.termsandconditionsgenerator.com/
+[8/289] Processing: https://www.youtube.com/watch?v=2lZ4ZbNGVUU
+[9/289] Processing: https://www.docusign.com/legal/terms-and-conditions
+[10/289] Processing: https://ironcladapp.com/journal/contracts/website-terms-and-conditions/
+[11/289] Processing: https://www.iubenda.com/en/help/53008-terms-and-conditions-template
+[12/289] Processing: https://www.lexisnexis.com/en-us/terms/general/default.page
+[13/289] Processing: https://www.websitepolicies.com/blog/what-are-terms-and-conditions
+[14/289] Processing: https://www.apple.com/legal/internet-services/itunes/
+[15/289] Processing: https://www.enzuzo.com/blog/terms-and-conditions-examples
+[16/289] Processing: https://www.spotify.com/legal
+[17/289] Processing: https://www.privacypolicies.com/blog/how-to-write-terms-conditions/
+[18/289] Processing: https://www.freeprivacypolicy.com/free-terms-and-conditions-generator/
+[19/289] Processing: https://www.privacypolicyonline.com/sample-terms-conditions-template/
+[20/289] Processing: https://mailchimp.com/resources/website-terms-of-use/
+[21/289] Processing: https://en.wikipedia.org/wiki/Terms_of_service
+[22/289] Processing: https://termly.io/resources/templates/terms-and-conditions-template/
+[23/289] Processing: https://www.hemmerlaw.com/blog/7-key-clauses-to-include-in-a-terms-and-conditions-agreement/
+[24/289] Processing: https://www.websitepolicies.com/blog/sample-terms-conditions-template
+[25/289] Processing: https://www.netlawman.co.uk/ia/term-condition?srsltid=AfmBOoqaKBWJsHkJOXEO_RzyjwpXaDk5wjK-UahWpQsXX3Ud2-Bre-ej
+[26/289] Processing: https://thelawdictionary.org/terms-and-conditions/
+[27/289] Processing: https://wplegalpages.com/blog/terms-and-conditions-examples/
+[28/289] Processing: https://termly.io/resources/articles/terms-and-conditions-vs-terms-of-service-vs-terms-of-use/
+[29/289] Processing: https://www.enzuzo.com/blog/difference-between-terms-and-conditions
+[30/289] Processing: https://www.charlottelaw.org/terms-conditions-generators/
+[31/289] Processing: https://www.privacypolicies.com/blog/sample-terms-conditions-template/
+[32/289] Processing: https://www.mehaffyweber.com/news/the-importance-of-a-strong-terms-conditions-agreement-to-protect-against-liability/
+[33/289] Processing: https://www.legalzoom.com/articles/creating-your-website-terms-and-conditions
+[34/289] Processing: https://www.termsandcondiitionssample.com/
+[35/289] Processing: https://www.solegal.co.uk/insights/why-are-terms-and-conditions-so-important
+[36/289] Processing: https://oneflow.com/blog/are-terms-and-conditions-legally-binding/
+[37/289] Processing: https://support.wix.com/en/article/creating-a-terms-and-conditions-policy
+[38/289] Processing: https://www.ucop.edu/procurement-services/policies-forms/uc-terms-conditions-12-14-21.pdf
+[39/289] Processing: https://www.acquisition.gov/far/52.212-4
+[40/289] Processing: https://nebraska.tv/news/local/terms-and-conditions-what-do-they-mean-should-we-read-them
+[41/289] Processing: https://www.upcounsel.com/what-are-terms-and-conditions-of-a-contract
+[42/289] Processing: https://www.pandadoc.com/blog/write-terms-and-conditions-that-protect-your-company/
+[43/289] Processing: https://learn.microsoft.com/en-us/office/developer-program/terms-and-conditions
+[44/289] Processing: https://juro.com/learn/terms-and-conditions-legally-binding
+[45/289] Processing: https://www.wolterskluwer.com/en/solutions/bizfilings/terms-and-conditions
+[46/289] Processing: https://www.thomsonreuters.com/us-general-terms-and-conditions
+[47/289] Processing: https://sprintlaw.com.au/articles/terms-of-use-vs-terms-and-conditions/
+[48/289] Processing: https://www.privacypolicygenerator.info/sample-terms-conditions-template/
+[49/289] Processing: https://www.freeprivacypolicy.com/blog/disclaimers-versus-terms-conditions-agreements/
+[50/289] Processing: https://world.org/legal/user-terms-and-conditions/3.23
+[51/289] Processing: https://www.getjobber.com/academy/terms-conditions-templates/
+[52/289] Processing: https://www.websitepolicies.com/blog/are-terms-and-conditions-legally-required
+[53/289] Processing: https://policies.dartmouth.edu/policy/standard-terms-and-conditions-purchase
+[54/289] Processing: https://privacyterms.io/terms/8-reasons-you-need-a-terms-and-conditions-agreement/
+[55/289] Processing: https://business.gov.nl/running-your-business/legal-matters/drafting-general-terms-and-conditions/
+[56/289] Processing: https://www.privacypolicies.com/blog/common-issues-terms-conditions/
+[57/289] Processing: https://usercentrics.com/guides/terms-of-service/
+[58/289] Processing: https://www.lawbite.co.uk/resources/blog/how-to-write-terms-and-conditions
+[59/289] Processing: https://www.quora.com/What-is-the-purpose-of-terms-and-conditions
+[60/289] Processing: https://www.oracle.com/legal/terms/
+[61/289] Processing: https://www.smallbusiness.wa.gov.au/templates-tools-guides/guides/how-to-prepare-standard-terms-and-conditions
+[62/289] Processing: https://fynk.com/en/clauses/general-terms-and-conditions/
+[63/289] Processing: https://lawpath.com.au/blog/whats-the-difference-between-terms-of-service-and-terms-and-conditions
+[64/289] Processing: https://www.businesscompanion.info/focus/contract-law-basics/part-3-terms-and-conditions
+[65/289] Processing: https://www.who.int/about/policies/publishing/data-policy/terms-and-conditions
+[66/289] Processing: https://www.adobe.com/legal/terms.html
+[67/289] Processing: https://contractbook.com/templates/general-terms-and-conditions-of-sale
+[68/289] Processing: https://www.dgs.ca.gov/-/media/Divisions/PD/Acquisitions/CMAS/Non-IT-Services-GTC-April-2017-FINAL-Passed.pdf
+Error processing PDF https://www.dgs.ca.gov/-/media/Divisions/PD/Acquisitions/CMAS/Non-IT-Services-GTC-April-2017-FINAL-Passed.pdf: No /Root object! - Is this really a PDF?
+[69/289] Processing: https://www.reddit.com/r/explainlikeimfive/comments/1col2c5/eli5_who_writes_the_20page_long_user_agreements/
+[70/289] Processing: https://getterms.io/templates/terms-and-conditions-template
+[71/289] Processing: https://www.youtube.com/watch?v=LwpHwPwQ0dA
+[72/289] Processing: https://www.doa.nc.gov/north-carolina-general-terms-and-conditions-5-2025/open
+[73/289] Processing: https://ironcladapp.com/journal/contracts/terms-and-conditions-legally-binding/
+[74/289] Processing: https://www.wolterskluwer.com/en/solutions/kluwerlawinternational/terms-and-conditions
+[75/289] Processing: https://www.verfacto.com/wp-content/uploads/2021/03/terms-of-service.pdf
+[76/289] Processing: https://www.qualtrics.com/legal/customers/gtcs/
+[77/289] Processing: https://www.contractscounsel.com/b/terms-and-conditions-review
+Error fetching https://www.contractscounsel.com/b/terms-and-conditions-review: HTTPSConnectionPool(host='www.contractscounsel.com', port=443): Max retries exceeded with url: /b/terms-and-conditions-review (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CE999FB750>, 'Connection to www.contractscounsel.com timed out. (connect timeout=15)'))
+[78/289] Processing: https://legalvision.com.au/website-terms-and-conditions-9-key-clauses/
+[79/289] Processing: https://www.cookieyes.com/blog/privacy-policy-vs-terms-and-conditions/
+[80/289] Processing: https://www.reuters.com/info-pages/terms-of-use/
+[81/289] Processing: https://resourcemanagement.wustl.edu/purchasing-services/policies-terms-and-conditions/construction-terms-and-conditions/
+Error fetching https://resourcemanagement.wustl.edu/purchasing-services/policies-terms-and-conditions/construction-terms-and-conditions/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[82/289] Processing: https://www.canada.ca/en/transparency/terms.html
+[83/289] Processing: https://support.google.com/adspolicy/answer/54818?hl=en
+[84/289] Processing: https://european-law-firm.com/news/how-do-you-declare-general-terms-and-conditions-applicable/
+[85/289] Processing: https://solidwp.com/blog/terms-and-conditions/
+[86/289] Processing: https://educationusa.state.gov/social-media-terms-and-conditions
+[87/289] Processing: https://www.upcounsel.com/how-to-draft-terms-and-conditions
+[88/289] Processing: https://help.nytimes.com/115014893428-Terms-of-Service
+[89/289] Processing: https://www.dropbox.com/terms
+[90/289] Processing: https://www.ancestry.com/c/legal/termsandconditions
+[91/289] Processing: https://www.lambbrooks.com/news/are-your-business-terms-and-conditions-enforceable
+[92/289] Processing: https://www.template.net/documents/terms-and-conditions/
+[93/289] Processing: https://www.acquisition-international.com/8-reasons-why-your-business-needs-a-terms-and-conditions-agreement-on-your-website/
+[94/289] Processing: https://www.instructure.com/policies/master-terms-conditions
+[95/289] Processing: https://www.youtube.com/watch?v=7_fJ33sbhLw
+[96/289] Processing: https://www.internetlegalattorney.com/make-website-terms-enforceable-101/
+[97/289] Processing: https://www.gov.uk/help/terms-conditions
+[98/289] Processing: https://www.spotify.com/uk/legal/end-user-agreement/
+[99/289] Processing: https://www.docusign.com/en-gb/legal/terms-and-conditions
+[100/289] Processing: https://test.io/terms-of-service
+[101/289] Processing: https://www.medialegalhelp.org/application/velocity/_newgen/assets/TermsCondition.pdf
+[102/289] Processing: https://www.freeprivacypolicy.com/blog/sample-terms-conditions-template/
+[103/289] Processing: https://seqlegal.com/free-legal-documents/website-terms-and-conditions
+[104/289] Processing: https://content.veeabb.com/1d09429b-8373-419f-8f1a-d28f9586863a/c94af044-04ca-4c8a-9898-f972a18fa068/c94af044-04ca-4c8a-9898-f972a18fa068_source__v.pdf
+Error processing PDF https://content.veeabb.com/1d09429b-8373-419f-8f1a-d28f9586863a/c94af044-04ca-4c8a-9898-f972a18fa068/c94af044-04ca-4c8a-9898-f972a18fa068_source__v.pdf: No /Root object! - Is this really a PDF?
+[105/289] Processing: https://www.procurement.utoronto.ca/about-procurement/terms-conditions
+[106/289] Processing: https://www.att.com/legal/terms.attWebsiteTermsOfUse.html
+[107/289] Processing: https://circle.so/terms
+[108/289] Processing: https://www.thomsonreuters.com/en/policies/anz/terms-and-conditions
+[109/289] Processing: https://www.pmi.org/terms
+[110/289] Processing: https://www.cdw.com/content/cdw/en/terms-conditions/sales-and-service-projects.html
+[111/289] Processing: https://openai.com/policies/services-agreement/
+[112/289] Processing: https://www.consumerfinance.gov/about-us/newsroom/cfpb-proposes-rule-to-establish-public-registry-of-terms-and-conditions-in-form-contracts-that-claim-to-waive-or-limit-consumer-rights-and-protections/
+[113/289] Processing: https://business.gov.nl/regulation/general-terms-conditions/
+[114/289] Processing: https://sprintlaw.co.uk/articles/why-you-need-terms-and-conditions-for-your-online-business/
+[115/289] Processing: https://legal.epicgames.com/en-US/epicgames/tos
+[116/289] Processing: https://europa.eu/youreurope/business/dealing-with-customers/consumer-contracts-guarantees/consumer-contracts/index_en.htm
+[117/289] Processing: https://adsense.google.com/adsense/terms
+[118/289] Processing: https://wordpress.com/tos/
+[119/289] Processing: https://juro.com/contract-templates/terms-and-conditions-of-sale
+[120/289] Processing: https://legalvision.co.nz/commercial-contracts/terms-and-conditions-effective/
+[121/289] Processing: https://www.bbb.org/terms-of-use
+[122/289] Processing: https://www.copyrightuser.org/understand/terms-conditions/
+[123/289] Processing: https://www.wix.com/about/terms-of-use
+[124/289] Processing: https://x.com/en/tos
+[125/289] Processing: https://tea.texas.gov/about-tea/agency-finances/contracts-and-purchasing/contract-terms-and-conditions.pdf
+[126/289] Processing: https://calendly.com/legal/customer-terms-conditions
+[127/289] Processing: https://www.dgs.ca.gov/ols/resources/page-content/office-of-legal-services-resources-list-folder/standard-contract-language
+[128/289] Processing: https://www.theguardian.com/technology/2017/mar/03/terms-of-service-online-contracts-fine-print
+[129/289] Processing: https://www.privacypolicyonline.com/terms-conditions-generator/
+[130/289] Processing: https://www.washingtonpost.com/terms-of-service/
+Error fetching https://www.washingtonpost.com/terms-of-service/: HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Read timed out. (read timeout=15)
+[131/289] Processing: https://www.jotform.com/terms/
+[132/289] Processing: https://www.youtube.com/watch?v=IqslDNyqEig
+[133/289] Processing: https://www.nfl.com/legal/terms/
+[134/289] Processing: https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use
+[140/289] Processing: https://www.upcounsel.com/are-website-terms-and-conditions-legally-binding
+[141/289] Processing: https://www.mlb.com/official-information/terms-of-use
+[142/289] Processing: https://www.specialtyproducttechnologies.com/about/customer-terms-conditions?srsltid=AfmBOopcPNyWevmVbBrq--ppiCNJ4sg2qrFM9md_61Vz5T_eq1V_Cba3
+[143/289] Processing: https://www.aa.com/i18n/aadvantage-program/aadvantage-terms-and-conditions.jsp        
+Error fetching https://www.aa.com/i18n/aadvantage-program/aadvantage-terms-and-conditions.jsp: HTTPSConnectionPool(host='www.aa.com', port=443): Read timed out. (read timeout=15)
+[144/289] Processing: https://www.envoyglobal.com/business-terms-conditions/
+[145/289] Processing: https://developer.apple.com/support/terms/
+[146/289] Processing: https://competition-bureau.canada.ca/en/deceptive-marketing-practices/types-deceptive-marketing-practices/terms-and-conditions-best-practices-businesses
+[147/289] Processing: https://www.spotify.com/in-en/legal/end-user-agreement/
+[148/289] Processing: https://www.servicenow.com/terms-of-use.html
+[149/289] Processing: https://risk.lexisnexis.com/terms
+[150/289] Processing: https://guce.yahoo.com/terms?locale=en-US
+[151/289] Processing: https://www.occourts.org/general-information/terms-and-conditions
+[152/289] Processing: https://www.shopify.com/legal/terms
+[153/289] Processing: https://static.zara.net/static/pdfs/US/terms-and-conditions/terms-and-conditions-en_US-20250829.pdf
+Error processing PDF https://static.zara.net/static/pdfs/US/terms-and-conditions/terms-and-conditions-en_US-20250829.pdf: No /Root object! - Is this really a PDF?
+[154/289] Processing: https://str.com/terms-and-conditions
+Error fetching https://str.com/terms-and-conditions: HTTPSConnectionPool(host='str.com', port=443): Read timed out. (read timeout=15)
+[155/289] Processing: https://stripe.com/legal/ssa
+[156/289] Processing: https://www.crowdstrike.com/en-us/legal/terms-conditions/
+[157/289] Processing: https://www.t-mobile.com/responsibility/legal/terms-and-conditions
+[158/289] Processing: https://www.johnsoncontrols.com/legal/united-states-terms-and-conditions-of-sale      
+[159/289] Processing: https://lggindustrial.com/general-terms-and-conditions-for-the-sale-of-products-or-services/
+[160/289] Processing: https://www.rightworks.com/terms-conditions/
+[161/289] Processing: https://www.duolingo.com/terms
+[162/289] Processing: https://www.youtube.com/watch?v=g1SXZBrhXTk
+[163/289] Processing: https://www.intuit.com/legal/terms/en-us/website/
+[164/289] Processing: https://x.ai/legal/terms-of-service
+[165/289] Processing: https://www.faceapp.com/en/terms/
+[166/289] Processing: https://creativecommons.org/licenses/by/4.0/legalcode.en
+[167/289] Processing: https://funplus.com/terms-conditions/en/
+[168/289] Processing: https://www.intercom.com/legal/terms-and-policies
+[169/289] Processing: https://terms.line.me/line_terms?lang=en
+[170/289] Processing: https://pay.google.com/intl/en_in/about/terms/
+[171/289] Processing: https://www.paypal.com/us/legalhub/paypal/useragreement-full
+[172/289] Processing: https://www.onit.com/services-agreement/
+[173/289] Processing: https://satsuite.collegeboard.org/sat/testing-rules
+[174/289] Processing: https://www.trimble.com/en/legal/terms-and-conditions/services
+[175/289] Processing: https://docs.midjourney.com/hc/en-us/articles/32083055291277-Terms-of-Service
+[176/289] Processing: https://www.verizon.com/about/terms-conditions/overview
+[177/289] Processing: https://www.wbs.legal/allgemein/standard-terms-conditions-guide-businesses-16575/     
+[178/289] Processing: https://www.snap.com/terms
+[179/289] Processing: https://www.taxact.com/terms-of-service
+[180/289] Processing: https://www.youtube.com/watch?v=CIaJk33H6bk
+[181/289] Processing: https://www.entrust.com/legal-compliance/terms-conditions
+[182/289] Processing: https://signinapp.com/en-us/legal/terms/terms-and-conditions
+[183/289] Processing: https://www.mcdonalds.com/us/en-us/terms-and-conditions.html
+[184/289] Processing: https://www.adidas.com/us/help/us-company-information/what-are-the-terms-and-conditions
+Error fetching https://www.adidas.com/us/help/us-company-information/what-are-the-terms-and-conditions: HTTPSConnectionPool(host='www.adidas.com', port=443): Read timed out. (read timeout=15)
+[185/289] Processing: https://www.workday.com/en-us/legal/site-terms.html
+[186/289] Processing: https://legal.hubspot.com/terms-of-service
+[187/289] Processing: https://www.pwc.com/us/en/site/terms-and-conditions.html
+[188/289] Processing: https://wise.com/en/legal/terms-and-conditions
+[189/289] Processing: https://www.make.com/en/terms-and-conditions
+[190/289] Processing: https://kindsight.io/terms-and-conditions/
+[191/289] Processing: https://squareup.com/us/en/legal/general/ua
+[192/289] Processing: https://www.squarespace.com/terms-of-service
+[193/289] Processing: https://www.beckmancoulter.com/support/service-terms-and-conditions
+[194/289] Processing: https://www.ugg.com/terms-and-conditions.html
+[195/289] Processing: https://clarivate.com/legal-center/terms-of-business/
+[196/289] Processing: https://wistia.com/terms
+[197/289] Processing: https://www.verint.com/our-company/legal-documents/master-agreement/
+[198/289] Processing: https://flex.com/downloads/standard-terms-and-conditions-of-purchase
+[199/289] Processing: https://www.iff.com/about/terms-and-conditions-of-sale/
+[200/289] Processing: https://aws.amazon.com/service-terms/
+[201/289] Processing: https://shop.interface.com/US/en-US/help-center/terms-and-conditions-of-sale.html
+[202/289] Processing: https://www.capitalone.com/digital/terms-conditions/
+[203/289] Processing: https://kayako.com/legal/professional-services-terms-and-conditions/
+[204/289] Processing: https://www.lexisnexis.com/en-us/terms/default.page
+[205/289] Processing: https://www.trimble.com/en/legal
+[206/289] Processing: https://www.zeiss.com/content/dam/consumer-products/downloads/service/terms-and-conditions-sale/terms-and-conditions-sale-en.pdf
+[207/289] Processing: https://www.cbord.com/standard-terms-and-conditions-of-purchase-united-states/
+[208/289] Processing: https://www.sgs.com/en/terms-and-conditions
+[209/289] Processing: https://www.aamc.org/purchase-order-terms-conditions
+[210/289] Processing: https://www.siteminder.com/legal/terms-and-conditions/
+[211/289] Processing: https://www.sensitech.com/en/legal/terms-and-conditions/
+Error fetching https://www.sensitech.com/en/legal/terms-and-conditions/: HTTPSConnectionPool(host='www.sensitech.com', port=443): Max retries exceeded with url: /en/legal/terms-and-conditions/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)')))
+[212/289] Processing: https://www.farleys.com/terms-and-conditions-why-are-they-so-important/
+[213/289] Processing: https://en.wikipedia.org/wiki/Terms_and_Conditions_May_Apply
+[214/289] Processing: https://www.honda.com/privacy/terms-and-conditions
+[215/289] Processing: https://www.led2work.com/en/tcs
+[216/289] Processing: https://www.freshbooks.com/blog/does-my-website-really-need-a-terms-and-conditions-page?srsltid=AfmBOookwbztd_xcJjIgPvMmHqMXscm6hS_gg5pnCUZpXv_h5aoaXydV
+[217/289] Processing: https://www.homedepot.com/c/Terms_of_Use
+Error fetching https://www.homedepot.com/c/Terms_of_Use: HTTPSConnectionPool(host='www.homedepot.com', port=443): Read timed out. (read timeout=15)
+[218/289] Processing: https://www.ups.com/us/en/support/shipping-support/legal-terms-conditions
+Error fetching https://www.ups.com/us/en/support/shipping-support/legal-terms-conditions: HTTPSConnectionPool(host='www.ups.com', port=443): Read timed out. (read timeout=15)
+[219/289] Processing: https://helpcenter.yola.com/hc/en-us/articles/360011549640-Creating-GDPR-compliant-Terms-and-Conditions-with-a-sample
+[220/289] Processing: https://www.riverjettyrg.com/a-restaurant/terms-conditions/
+[221/289] Processing: https://www.samsung.com/us/trade-in/terms-and-conditions/
+[222/289] Processing: https://legal.padlet.com/terms
+[223/289] Processing: https://www.cdw.com/content/cdw/en/terms-conditions.html
+[224/289] Processing: https://www.lyft.com/terms
+[225/289] Processing: https://www.sage.com/en-us/legal/terms-and-conditions/product-and-service-terms-and-conditions/sage-intacct/tos/
+[226/289] Processing: https://www.blackbaud.com/terms-and-conditions
+[227/289] Processing: https://rajant.com/about/terms-and-conditions/
+[228/289] Processing: https://carta.com/legal/terms-agreements/terms-service/
+[229/289] Processing: https://plaid.com/legal/terms-of-use/
+[230/289] Processing: https://www.mazdausa.com/site/terms-of-use
+[231/289] Processing: https://www.avery.com/about-us/legal/terms-and-conditions
+[232/289] Processing: https://www.span.io/general-terms-conditions-for-the-purchase-of-goods-services
+[233/289] Processing: https://frontier.com/corporate/terms
+[234/289] Processing: https://pilotcompany.com/terms-and-conditions
+[235/289] Processing: https://www.indeed.com/legal
+[236/289] Processing: https://help.boostmobile.com/docs/general-terms-conditions
+[237/289] Processing: https://www.playstation.com/en-us/legal/psn-terms-of-service/
+[238/289] Processing: https://www.circlek.com/inner-circle/terms-and-conditions
+[239/289] Processing: https://www.amctheatres.com/terms-and-conditions
+[240/289] Processing: https://www.vinted.com/terms_and_conditions?srsltid=AfmBOooQUZ-x-QTo8WoxFaU6hrXQRNHRqmvoXbya-3dsXZ9QHhUfYTOW
+[241/289] Processing: https://www.hilton.com/en/hilton-honors/terms/
+[242/289] Processing: https://www.broadcom.com/company/legal/licensing
+[243/289] Processing: https://www.miniclip.com/terms-and-conditions
+[244/289] Processing: https://www.perplexity.ai/hub/legal/terms-of-service
+[245/289] Processing: https://disneyland.disney.go.com/magic-key-terms-conditions/
+Error fetching https://disneyland.disney.go.com/magic-key-terms-conditions/: HTTPSConnectionPool(host='disneyland.disney.go.com', port=443): Read timed out. (read timeout=15)
+[246/289] Processing: https://www.youtube.com/watch?v=85uAUi9R0Vc
+[247/289] Processing: https://www.vodacom.co.za/vodacom/terms/contract-terms-and-conditions
+[248/289] Processing: https://www.samsung.com/us/support/legal/LGL10000282/
+[249/289] Processing: https://www.hublot.com/en-mo/website-terms-and-conditions-of-supply-of-products
+[250/289] Processing: https://www.klarna.com/us/legal/
+[251/289] Processing: https://mistral.ai/terms
+[252/289] Processing: https://www.afterpay.com/en-AU/terms-of-service
+[253/289] Processing: https://razorpay.com/terms/
+[254/289] Processing: https://legal.yahoo.com/us/en/yahoo/terms/vendor/mastertnc/index.html
+[255/289] Processing: https://www.strava.com/legal/terms
+[256/289] Processing: https://pos.toasttab.com/terms-of-service?srsltid=AfmBOooqWCNwUeGH4wcUxZz3RpcONwrCelYjIc561l4lI2rCXf4-xwXe
+[257/289] Processing: https://www.bankofamerica.com/online-banking/service-agreement.go
+[258/289] Processing: https://www.starbucks.com/terms/manage-gift-cards/
+[259/289] Processing: https://www.marriott.com/loyalty/terms/default.mi
+[260/289] Processing: https://www.greatwolf.com/terms
+[261/289] Processing: https://m.youtube.com/watch?v=jv9mrP5rXOQ&pp=ygUaI2Jsb2dnZXJ0ZXJtc2FuZGNvbmRpdGlvbnM%3D
+[262/289] Processing: https://softwareoffer.intel.com/Campaign/Terms/15a4c2aa-cf96-496c-bd1f-4e10891672f9
+[263/289] Processing: https://www.uber.com/legal/en/
+[264/289] Processing: https://www.choicehotels.com/choice-privileges/rules-regulations
+Error fetching https://www.choicehotels.com/choice-privileges/rules-regulations: HTTPSConnectionPool(host='www.choicehotels.com', port=443): Read timed out. (read timeout=15)
+[265/289] Processing: https://www.facebook.com/groups/westhighlandwaytipsandtricks/posts/1548146369961721/
+[266/289] Processing: https://www.labcorp.com/compliance/privacy/web/terms-conditions
+[267/289] Processing: https://www.amazon.com/gp/help/customer/display.html?nodeId=G2B9L3YR7LR8J4XP
+[268/289] Processing: https://www.swiggy.com/terms-and-conditions
+[269/289] Processing: https://store.google.com/intl/en_uk/about/device-trade-in/
+[270/289] Processing: https://www.dutchbros.com/terms-of-service/
+[271/289] Processing: https://www.youtube.com/watch?v=ITeAs6kDz0I
+[272/289] Processing: https://www.fedex.com/en-us/service-guide.html
+[273/289] Processing: https://www.paypal.com/us/legalhub/paypal/home
+[274/289] Processing: https://www.royalcaribbean.com/guest-terms/
+Error fetching https://www.royalcaribbean.com/guest-terms/: HTTPSConnectionPool(host='www.royalcaribbean.com', port=443): Read timed out. (read timeout=15)
+[275/289] Processing: https://www.cvsspecialty.com/terms-and-conditions.html
+[276/289] Processing: https://www.ups.com/assets/resources/webcontent/en_US/terms_service_us.pdf
+[277/289] Processing: https://www.youtube.com/watch?v=KZ_BlbvsKWI
+[278/289] Processing: https://www.youtube.com/watch?v=jm20Pw2tnzU
+[279/289] Processing: https://www.youtube.com/shorts/qRBXmkGCwVM
+[280/289] Processing: https://www.youtube.com/watch?v=Xkh_gnEophA
+[281/289] Processing: https://www.youtube.com/shorts/L6rZnLG2aX4
+[282/289] Processing: https://www.youtube.com/watch?v=VJsstkE2I2I
+[283/289] Processing: https://www.youtube.com/watch?v=687XjACamvE
+[284/289] Processing: https://www.youtube.com/watch?v=5_GZl9I7-H4
+[285/289] Processing: https://www.youtube.com/watch?v=kJvFbfbW5Yk
+[286/289] Processing: https://www.youtube.com/watch?v=nS-13-oxemk
+[287/289] Processing: https://www.youtube.com/watch?v=9Hb2oMlRI0I
+[288/289] Processing: https://www.youtube.com/watch?v=Vp-zBCk3R2k
+[289/289] Processing: https://www.youtube.com/shorts/GGIXbe4CZKY
+✅ Download complete! Check the 'terms_and_conditions' folder.
+PS C:\Users\omkar\Documents\GitHub\CLI> 

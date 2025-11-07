@@ -1,0 +1,826 @@
+Terms and Conditions of Purchase
+ARTICLE 1 – GENERAL
+The equipment, materials, or supplies (“Goods”) and/or services (“Services”) furnished by Supplier (together, the “Goods and
+Services”) and covered by the UC Purchase Order (“PO”) and/or other agreement (which, when combined with these Terms and
+Conditions and any other documents incorporated by reference, will constitute the “Agreement”) are governed by the terms
+and conditions set forth herein. As used herein, the term "Supplier" includes Supplier and its sub-suppliers at any tier. As used
+herein, “UC” refers to The Regents of the University of California, a corporation described in California Constitution Art. IX, Sec.
+9, on behalf of the UC Locations identified in the Agreement and/or the PO. UC and Supplier individually will be referred to as
+“Party” and collectively as “Parties.” Any defined terms not defined in these Terms and Conditions of Purchase will have the
+meaning ascribed to such term in any of the other documents incorporated in and constituting the Agreement. No other terms
+or conditions will be binding upon the Parties unless accepted by them in writing. Supplier accepts all of the Agreement’s terms
+and conditions either in writing, by shipping any portion of the Goods, or performing any portion of the Services. The terms of
+any proposal referred to in the Agreement are included and made a part of the Agreement only to the extent the proposal
+specifies the Goods and/or Services ordered, the price therefor, and the delivery thereof, and then only to the extent that such
+terms are consistent with the terms and conditions of the Agreement.
+ARTICLE 2 – TERM AND TERMINATION
+A. As applicable, the term of the Agreement (“Initial Term”) will be stated in the Agreement. Following the Initial Term, the
+Agreement may be extended by written mutual agreement.
+B. UC’s obligation to proceed is conditioned upon the appropriation of state, federal and other sources of funds not
+controlled by UC ("Funding"). UC will have the right to terminate the Agreement without damage, penalty, cost or further
+obligation in the event that through no action or inaction on the part of UC, the Funding is withdrawn.
+C. UC may, by written notice stating the extent and effective date thereof, terminate the Agreement for convenience in
+whole or in part, at any time. The effective date of such termination shall be consistent with any requirements for
+providing notice specified in the Agreement, or immediate if no such terms are set forth in the Agreement. As specified in
+the termination notice, UC will pay Supplier as full compensation the pro rata Agreement price for performance through
+the later of the date that
+a. UC provided Supplier with notice of termination or
+b. Supplier’s provision of Goods and/or Services will terminate.
+D. UC may by written notice terminate the Agreement for Supplier’s breach of the Agreement, in whole or in part, at any
+time, if Supplier refuses or fails to comply with the provisions of the Agreement, or so fails to make progress as to
+endanger performance and does not cure such failure within five (5) business days, or fails to supply the Goods and/or
+Services within the time specified or any written extension thereof. In such event, UC may purchase or otherwise secure
+Goods and/or Services and, except as otherwise provided herein, Supplier will be liable to UC for any excess costs UC
+incurs thereby.
+E. If any of the following appendices are incorporated in to the agreement, then they will control in the event that the
+appendices conflict with the provisions of this Article:
+UC’s Appendix – Data Security,
+Appendix – BAA, and/or
+Appendix – GDPR
+ARTICLE 3 – PRICING, INVOICING METHOD, AND SETTLEMENT METHOD AND TERMS.
+Pricing is set forth in the Agreement or PO, and the amount UC is charged and responsible for shall not exceed the amount
+specified in the Agreement unless UC has given prior written approval. Unless otherwise agreed in writing by UC, Supplier will
+use the invoicing method and payment settlement method (and will extend the terms applicable to such settlement method)
+set forth in UC’s Supplier Invoicing, Terms & Settlement Matrix (https://www.ucop.edu/procurement-services/procurement-
+systems/supplier-invoicing,-terms-and-settlement-matrix.html). UC will pay Supplier, upon submission of acceptable invoices,
+for Goods and/or Services provided and accepted. Invoices must be itemized and reference the Agreement or PO number. UC
+will not pay shipping, packaging or handling expenses, unless specified in the Agreement or PO. Unless otherwise provided,
+freight is to be FOB destination. Any of Supplier’s expenses that UC agrees to reimburse will be reimbursed under UC’s Travel
+Policy, which may be found at http://www.ucop.edu/central-travel-management/resources/index.html. Where applicable,
+Supplier will pay all taxes imposed on Supplier in connection with its performance under the Agreement, including any federal,
+state and local income, sales, use, excise and other taxes or assessments. Notwithstanding any other provision to the contrary,
+UC will not be responsible for any fees, interest or surcharges Supplier wishes to impose.
+ARTICLE 4 – INSPECTION.
+Revised 12 14 21 1
+Terms and Conditions of Purchase
+The Goods and/or Services furnished will be exactly as specified in the Agreement, free from all defects in Supplier's
+performance, design, skill and materials, and, except as otherwise provided in the Agreement, will be subject to inspection and
+test by UC at all times and places. If, prior to final acceptance, any Goods and/or Services furnished are found to be incomplete,
+or not as specified, UC may reject them, require Supplier to correct them at the sole cost of Supplier, or require provision of
+such Goods and/or Services at a reduction in price that is equitable under the circumstances. If Supplier is unable or refuses to
+correct such deficiencies within a time UC deems reasonable, UC may terminate the Agreement in whole or in part. Supplier
+will bear all risks as to rejected Goods and/or Services and, in addition to any costs for which Supplier may become liable to UC
+under other provisions of the Agreement, will reimburse UC for all transportation costs, other related costs incurred, or
+payments to Supplier in accordance with the terms of the Agreement for unaccepted Goods and/or Services and materials and
+supplies incidental thereto. Notwithstanding final acceptance and payment, Supplier will be liable for latent defects, fraud or
+such gross mistakes as amount to fraud.
+ARTICLE 5 – ASSIGNED PERSONNEL; CHARACTER OF SERVICES
+Supplier will provide the Services as an independent contractor and furnish all equipment, personnel, and supplies sufficient to
+provide the Services expeditiously and efficiently, during as many hours per shift and shifts per week, and at such locations as
+UC may so require. Supplier will devote only its best-qualified personnel to work under the Agreement. Should UC inform
+Supplier that anyone providing the Services is not working to this standard, Supplier will immediately remove such personnel
+from providing Services and those individuals will not again be assigned to provide Services without UC’s written permission. At
+no time will Supplier or Supplier’s employees, sub-suppliers, agents, or assigns be considered employees of UC for any purpose,
+including but not limited to workers’ compensation provisions. Supplier shall not have the power nor right to bind or obligate
+UC, and Supplier shall not hold itself out as having such authority. Supplier shall be responsible to UC for all Services performed
+by Supplier’s employees, agents and subcontractors, including being responsible for ensuring payment of all unemployment,
+social security, payroll, contributions and other taxes with respect to such employees, agents and subcontractors.
+ARTICLE 6 – WARRANTIES
+In addition to the warranties set forth in Articles 11, 12, 17, 23, 24, 25 and 26 herein, Supplier makes the following warranties.
+Supplier acknowledges that failure to comply with any of the warranties in the Agreement will constitute a material breach of
+the Agreement and UC will have the right to terminate the Agreement without damage, penalty, cost or further obligation.
+A. General Warranties. Supplier represents, warrants and covenants that: (i) Supplier is free to enter into this Agreement and
+that Supplier is not, and will not become, during the Term, subject to any restrictions that might restrict or prohibit
+Supplier from performing the Services or providing the Goods ordered hereunder; (ii) Supplier will comply with all
+applicable laws, rules and regulations in performing Supplier’s obligations hereunder; (iii) the Goods and/or Services shall
+be rendered with promptness and diligence and shall be executed in a skilled manner by competent personnel, in
+accordance with the prevailing industry standards; and if UC Appendix Data Security is NOT included:(iv) Supplier has
+developed a business interruption and disaster recovery program and is executing such program to assess and reduce the
+extent to which Supplier’s hardware, software and embedded systems may be susceptible to errors or failures in various
+crisis (or force majeure) situations; (v) if Supplier uses electronic systems for creating, modifying, maintaining, archiving,
+retrieving or transmitting any records, including test results that are required by, or subject to inspection by an applicable
+regulatory authority, then Supplier represents and warrants that Supplier’s systems for electronic records are in
+compliance; and (vi) Supplier agrees that the Goods and/or Services furnished under the Agreement will be covered by the
+most favorable warranties Supplier gives to any customer for the same or substantially similar goods or services, or such
+other more favorable warranties as specified in the Agreement. The rights and remedies so provided are in addition to and
+do not limit any rights afforded to UC by any other article of the Agreement.
+B. Permits and Licenses. Supplier agrees to procure all necessary permits or licenses and abide by all applicable laws,
+regulations and ordinances of the United States and of the state, territory and political subdivision or any other country in
+which the Goods and/or Services are provided.
+C. Federal and State Water and Air Pollution Laws. Where applicable, Supplier warrants that it complies with the
+requirements in UC Business and Finance Bulletin BUS-56 (Materiel Management; Purchases from Entities Violating State
+or Federal Water or Air Pollution Laws). Consistent with California Government Code 4477, these requirements do not
+permit UC to contract with entities in violation of Federal or State water or air pollution laws.
+D. Web Accessibility Requirements. As applicable to the Supplies and/or Services being provided under the Agreement,
+Supplier warrants that:
+a. It complies with California and federal disability laws and regulations; and
+b. The Goods and/or Services will conform to the accessibility requirements of WCAG 2.0AA.
+c. Supplier agrees to promptly respond to and resolve any complaint regarding accessibility of its Goods and/or
+Services;
+Revised 12 14 21 2
+Terms and Conditions of Purchase
+E. General Accessibility Requirements. Supplier warrants that:
+a. It will comply with California and federal disability laws and regulations;
+b. Supplier will promptly respond to remediate to any identified accessibility defects in the Goods and Services to
+conform to WCAG 2.0 AA; and
+c. Supplier agrees to promptly respond to and use reasonable efforts to resolve and remediate any complaint
+regarding accessibility of its Goods and/or Services.
+F. Warranty of Quiet Enjoyment. Supplier warrants that Supplier has the right of Quiet Enjoyment in, and conveys the right of
+Quiet Enjoyment to UC for UC’s use of, any and all intellectual property that will be needed for Supplier’s provision, and
+UC’s use of, the Goods and/or Services provided by Supplier under the Agreement.
+G. California Child Abuse and Neglect Reporting Act ("CANRA"). Where applicable, Supplier warrants that it complies with
+CANRA.
+H. Debarment, Suspension, U.S. Government Restricted Party Lists. Supplier warrants that it is not on the U.S. government’s
+Denied Parties List, the Unverified List, the Entities List, the Specially Designated Nationals and Blocked Parties List, and is
+not presently debarred, suspended, proposed for debarment or otherwise declared ineligible for award of federal
+contracts or participation in federal assistance programs or activities.
+I. UC Trademark Licensing Code of Conduct. If the Goods will bear UC’s name (including UC campus names, abbreviations of
+these names, UC logos, UC mascots, or UC seals) or other trademarks owned by UC, Supplier warrants that it holds a valid
+license from UC and complies with the Trademark Licensing Code of Conduct policy, available at
+http://policy.ucop.edu/doc/3000130/TrademarkLicensing
+J. Outsourcing (Public Contract Code section 12147) Compliance. Supplier warrants that if the Agreement will displace UC
+employees, no funds paid under the Agreement will be used to train workers who are located outside of the United States,
+or plan to relocate outside the United States as part of the Agreement. Additionally, Supplier warrants that no work will be
+performed under the Agreement with workers outside the United States, except as described in Supplier’s bid. If Supplier
+or its sub-supplier performs the Agreement with workers outside the United States during the life of the Agreement and
+Supplier did not describe such work in its bid, Supplier acknowledges and agrees that (i) UC may terminate the Agreement
+without further obligation for noncompliance, and (ii) Supplier will forfeit to UC the amount UC paid for the percentage of
+work that was performed with workers outside the United States and not described in Supplier’s bid.
+K. Supplier warrants that the Goods and Services rendered under this Agreement will not require Supplier to use for UC, or
+provide to UC to use, "covered telecommunications equipment or services" as a substantial or essential component of any
+system, or as critical technology as part of any system, within the meaning of Federal Acquisition Regulation (“FAR”)
+Section 52.204-25.
+Supplier will provide “Timely Notice” to the UC of any changes to the statements, confirmations or representations made
+in its proposal response or in any information provided as part of the contract award process, including in particular any
+changes to the certifications or representations made regarding NDAA Section 889. Timely Notice means that Supplier will
+notify UC in writing within 3 business days of any changes to the representations or confirmations made in relation to
+NDAA Section 889. Notice shall include the representations or confirmations made and the changes to those
+representations or confirmations. The notice shall be provided by a Supplier representative authorized to bind the
+Supplier.
+ARTICLE 7 – INTELLECTUAL PROPERTY, COPYRIGHT, PATENTS, AND DATA RIGHTS
+A. Goods and/or Services Involving Work Made for Hire.
+a. Unless UC indicates that the Goods and/or Services do not involve work made for hire, Supplier acknowledges
+and agrees that any deliverables provided to UC by Supplier in the performance of the Agreement, and any
+intellectual property rights therein, (hereinafter the "Deliverables") will be owned by UC. The Deliverables will be
+considered "work made for hire" under U.S. copyright law and all right, title, and interest to and in such
+Deliverables including, but not limited to, any and all copyrights or trademarks, will be owned by UC. In the event
+that it is determined that UC is not the owner of such Deliverables under the "work made for hire" doctrine of
+U.S. copyright law, Supplier hereby irrevocably assigns to UC all right, title, and interest to and in such
+Deliverables and any copyrights or trademarks thereto.
+b. The Deliverables must be new and original. Supplier must not use any pre-existing copyrightable or trademarked
+images, writings, or other proprietary materials (hereinafter "Pre-Existing Materials") in the Deliverables without
+UC’s prior written permission. In the event that Supplier uses any Pre-Existing Materials in the Deliverables in
+which Supplier has an ownership interest, UC is hereby granted, and will have, a non-exclusive, royalty-free,
+irrevocable, perpetual, paid-up, worldwide license (with the right to sublicense) to make, have made, copy,
+Revised 12 14 21 3
+Terms and Conditions of Purchase
+modify, make derivative works of, use, perform, display publicly, sell, and otherwise distribute such Pre-Existing
+Materials in connection with the Deliverables.
+c. Whenever any invention or discovery is made or conceived by Supplier in the course of or in connection with the
+Agreement, Supplier will promptly furnish UC with complete information with respect thereto and UC will have
+the sole power to determine whether and where a patent application will be filed and to determine the
+disposition of title to and all rights under any application or patent that may result.
+d. Supplier is specifically subject to an obligation to, and hereby does, assign all right, title and interest in any such
+intellectual property rights to UC as well as all right, title and interest in tangible research products embodying
+any such inventions whether the inventions are patentable or not. Supplier agrees to promptly execute any
+additional documents or forms that UC may require in order to effectuate such assignment.
+B. Goods and/or Services Not Involving Work Made for Hire.
+a. If the Goods and/or Services do not involve work made for hire, and in the event that Supplier uses any Pre-
+Existing Materials in the Deliverables in which Supplier has an ownership interest, UC is hereby granted, and will
+have, a non-exclusive, royalty-free, irrevocable, perpetual, paid-up, worldwide license (with the right to
+sublicense) to make, have made, copy, modify, make derivative works of, use, perform, display publicly, sell, and
+otherwise distribute such Pre-Existing Materials in connection with the Deliverables.
+b. The Deliverables must be new and original. Supplier must not use any Pre-Existing Materials in the Deliverables
+without UC’s prior written permission.
+c. Whenever any invention or discovery is made or conceived by Supplier in the course of or in connection with the
+Agreement, Supplier will promptly furnish UC complete information with respect thereto and UC will have the
+sole power to determine whether and where a patent application will be filed and to determine the disposition
+of title to and all rights under any application or patent that may result.
+d. Supplier is specifically subject to an obligation to, and hereby does, assign all right, title and interest in any such
+intellectual property rights to UC as well as all right, title and interest in tangible research products embodying
+any such inventions whether the inventions are patentable or not. Supplier agrees to promptly execute any
+additional documents or forms that UC may require in order to effectuate such assignment.
+C. General. Should the Goods and/or Services become, or in Supplier’s opinion be likely to become, the subject of a claim of
+infringement of any patent, copyright, trademark, trade name, trade secret, or other proprietary or contractual right of
+any third party, Supplier will provide written notice to UC of the circumstances giving rise to such claim or likely claim. In
+the event that UC receives notice of a claim of infringement or is made a party to or is threatened with being made a party
+to any claim of infringement related to the Goods and/or Services, UC will provide Supplier with notice of such claim or
+threat. Following receipt of such notice, Supplier will either (at Supplier’s sole election) (i) procure for UC the right to
+continue to use the affected portion of the Goods and/or Services, or (ii) replace or otherwise modify the affected portion
+of the Goods and/or Services to make them non-infringing, or obtain a reasonable substitute product for the affected
+portion of the Goods and/or Services, provided that any replacement, modification or substitution under this paragraph
+does not effect a material change in the Goods and/or Services’ functionality. If none of the foregoing options is
+reasonably acceptable to UC, UC will have the right to terminate the Agreement without damage, penalty, cost or further
+obligation.
+D. UC Rights to Institutional Information. Institutional Information shall belong exclusively to UC and unless expressly
+provided, this Agreement shall not be construed as conferring on Supplier any patent, copyright, trademark, license right
+or trade secret owned or obtained by UC. Any right for Supplier to use Institutional Information is solely provided on a
+non-exclusive basis, and only to the extent required for Supplier to provide the Goods or Services under the Agreement. As
+used herein, “Institutional Information” means any information or data created, received, and/or collected by UC or on its
+behalf, including but not limited to application logs, metadata and data derived from such data.
+ARTICLE 8 – INDEMNITY AND LIABILITY
+To the fullest extent permitted by law, Supplier will defend, indemnify, and hold harmless UC, its officers, employees, and
+agents, from and against all losses, expenses (including, without limitation, reasonable attorneys' fees and costs), damages, and
+liabilities of any kind resulting from or arising out of the Agreement, including the performance hereunder of Supplier, its
+officers, employees, agents, sub-suppliers, or anyone directly or indirectly employed by Supplier, or any person or persons
+under Supplier's direction and control, provided such losses, expenses, damages and liabilities are due or claimed to be due to
+the acts or omissions of Supplier, its officers, employees, agents, sub-suppliers, or anyone directly or indirectly employed by
+Supplier, or any person or persons under Supplier's direction and control. UC agrees to provide Supplier with prompt notice of
+any such claim or action and to permit Supplier to defend any claim or action, and that UC will cooperate fully in such defense.
+UC retains the right to participate in the defense against any such claim or action, and the right to consent to any settlement,
+which consent will not unreasonably be withheld.
+Revised 12 14 21 4
+Terms and Conditions of Purchase
+In the event Appendix DS applies to this Agreement, Supplier shall reimburse or otherwise be responsible for any costs, fines or
+penalties imposed against UC as a result of Supplier’s Breach of Institutional Information and/or failure to cooperate with UC’s
+response to such Breach. As used herein, “Breach” means:
+a. Any disclosure of Institutional Information to an unauthorized party or in an unlawful manner;
+b. Unauthorized or unlawful acquisition of information that compromises the security, confidentiality or integrity of
+Institutional Information and/or IT Resources; and
+c. The acquisition, access, use, or disclosure of Protected Health Information or medical information in a manner not
+permitted under the Health Insurance Portability and Accountability Act (HIPAA) or California law. “IT Resources”
+means IT infrastructure, cloud services, software, and/or hardware with computing and/or networking capability that
+is Supplier owned/managed, or UC-owned, or a personally owned device that stores Institutional Information, is
+connected to UC systems, is connected to UC networks, or is used for UC business.
+ARTICLE 9 – INSURANCE
+Supplier, at its sole cost and expense, will insure its activities in connection with providing the Goods and/or Services and
+obtain, keep in force, and maintain the following insurance with the minimum limits set forth below, unless UC specifies
+otherwise:
+A. Commercial Form General Liability Insurance (contractual liability included) with limits as follows:
+a. Each Occurrence $ 1,000,000
+b. Products/Completed Operations Aggregate $ 2,000,000
+c. Personal and Advertising Injury $ 1,000,000
+d. General Aggregate $ 2,000,000
+B. Business Automobile Liability Insurance for owned, scheduled, non-owned, or hired automobiles with a combined single
+limit of not less than one million dollars ($1,000,000) per occurrence. (Required only if Supplier drives on UC premises or
+transports UC employees, officers, invitees, or agents in the course of supplying the Goods and/or Services to UC.)
+C. If applicable, Professional Liability Insurance with a limit of two million dollars ($2,000,000) per occurrence or claim with
+an aggregate of not less than two million dollars ($2,000,000). If this insurance is written on a claims-made form, it will
+continue for three years following termination of the Agreement. The insurance will have a retroactive date of placement
+prior to or coinciding with the effective date of the Agreement.
+D. Workers' Compensation as required by applicable state law and Employer’s Liability with limits of one million dollars
+($1,000,000) per occurrence.
+E. If applicable, Supplier Fidelity Bond or Crime coverage for the dishonest acts of its employees in a minimum amount of one
+million dollars ($1,000,000). Supplier will endorse such policy to include a “Regents of the University of California
+Coverage” or “Joint Payee Coverage” endorsement. UC and, if so requested, UC’s officers, employees, agents and sub-
+suppliers will be named as "Loss Payee, as Their Interest May Appear” in such Fidelity Bond.
+F. In the event Appendix DS applies to this Agreement, Supplier, at its sole cost and expense, will obtain, keep in force, and
+maintain one or more insurance policies that provide coverage for technology, professional liability, data protection,
+and/or cyber liability. Typically referred to as Privacy, Technology and Data Security Liability, Cyber Liability, or Technology
+Professional Liability insurance, it will cover liabilities for financial loss due to the acts, omissions, or intentional
+misconduct of Supplier, its officers, employees, agents, sub-suppliers, or anyone directly or indirectly employed by
+Supplier, or any person or persons under Supplier’s direction and control, in connection with the performance of this
+Agreement, as well as all Supplier costs, including damages it is obligated to pay UC or any third party, that are associated
+with any confirmed or suspected Breach or compromise of Institutional Information. In some cases, Professional Liability
+policies may include some coverage for data breaches or loss of Institutional Information. Regardless of the type of
+policy(ies) in place, such coverage will include without limitation:
+a. Costs to notify parties whose data were lost or compromised;
+b. Costs to provide credit monitoring and credit restoration services to parties whose data were lost or
+compromised;
+c. Costs associated with third party claims arising from the confirmed or suspected Breach or loss of Institutional
+Information, including litigation costs and settlement costs;
+d. Any investigation, enforcement, fines and penalties, or similar miscellaneous costs; and
+e. Any payment made to a third party as a result of extortion related to a confirmed or suspected Breach. The
+following insurance coverage is based on the highest Protection Level Classification of Institutional Information
+identified in Exhibit 1 to Appendix DS:
+P1 - This insurance policy must have minimum limits of $500,000 each occurrence and $500,000 in the
+aggregate.
+P2 - This insurance policy must have minimum limits of $1,000,000 each occurrence and $1,000,000 in the
+aggregate.
+Revised 12 14 21 5
+Terms and Conditions of Purchase
+P3 and P4, less than 70,000 records - this insurance policy must have minimum limits of $5,000,000 each
+occurrence and $5,000,000 in the aggregate.
+P3 and P4, 70,000 or more records - this insurance policy must have minimum limits of $10,000,000 each
+occurrence and $10,000,000 in the aggregate.
+G. Protection Level Classifications are defined in the UC Systemwide Information Security Classification of Information and IT
+Resources: https://security.ucop.edu/policies/institutional-information-and-it-resource-classification.html
+H. Additional other insurance in such amounts as may be reasonably required by UC against other insurable risks relating to
+performance. If the above insurance is written on a claims-made form, it will continue for three years following
+termination of the Agreement. The insurance will have a retroactive date of placement prior to or coinciding with the
+effective date of the Agreement. If the above insurance coverage is modified, changed or cancelled, Supplier will provide
+UC with not less than fifteen (15) days’ advance written notice of such modification, change, or cancellation, and will
+promptly obtain replacement coverage that complies with this Article.
+I. The coverages referred to under A and B of this Article must include UC as an additional insured. It is understood that the
+coverage and limits referred to under A, B and C of this Article will not in any way limit Supplier’s liability. Supplier will
+furnish UC with certificates of insurance (and the relevant endorsement pages) evidencing compliance with all
+requirements prior to commencing work under the Agreement. Such certificates will:
+a. Indicate that The Regents of the University of California has been endorsed as an additional insured for the
+coverage referred to under A and B of this Article. This provision will only apply in proportion to and to the
+extent of the negligent acts or omissions of Supplier, its officers, agents, or employees.
+b. Include a provision that the coverage will be primary and will not participate with or be excess over any valid and
+collectible insurance or program of self-insurance carried or maintained by UC.
+ARTICLE 10 – USE OF UC NAME AND TRADEMARKS
+Supplier will not use the UC name, abbreviation of the UC name, trade names and/or trademarks (i.e., logos and seals) or any
+derivation thereof, in any form or manner in advertisements, reports, or other information released to the public, or place the
+UC name, abbreviations, trade names and/or trademarks or any derivation thereof on any consumer goods, products, or
+services for sale or distribution to the public, without UC’s prior written approval. Supplier agrees to comply at all times with
+California Education Code Section 92000.
+ARTICLE 11 – FEDERAL FUNDS
+Supplier who supplies Goods and/or Services certifies and represents its compliance with the following clauses, as applicable.
+Supplier shall promptly notify UC of any change of status with regard to these certifications and representations. These
+certifications and representations are material statements upon which UC will rely.
+A. For commercial transactions involving funds on a federal contract (federal awards governed by the FAR), the following
+provisions apply, as applicable:
+a. FAR 52.203-13, Contractor Code of Business Ethics and Conduct;
+b. FAR 52.203-17, Contractor Employee Whistleblower Rights and Requirement to Inform Employees of
+Whistleblower Rights;
+c. FAR 52.203-19, Prohibition on Requiring Certain Internal Confidentiality Agreements or Statements;
+d. FAR 52.219-8, Utilization of Small Business Concerns;
+e. FAR 52.222-17, Non-displacement of Qualified Workers;
+f. FAR 52.222-21, Prohibition of Segregated Facilities;
+g. FAR 52.222-26, Equal Opportunity;
+h. FAR 52.222-35, Equal Opportunity for Veterans;
+i. FAR 52.222-36, Equal Opportunity for Workers with Disabilities;
+j. FAR 52.222-37, Employment Reports on Veterans;
+k. FAR 52.222-40, Notification of Employee Rights Under the National Labor Relations Act;
+l. FAR 52.222-41, Service Contract Labor Standards;
+m. FAR 52.222-50, Combating Trafficking in Persons;
+n. FAR 52.222-51, Exemption from Application of the Service Contract Labor Standards to Contracts for
+Maintenance, Calibration, or Repair of Certain Equipment - Requirements;
+o. FAR 52.222-53, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain
+Services - Requirements;
+p. FAR 52.222-54, Employment Eligibility Verification;
+q. FAR 52.222-55, Minimum Wages Under Executive Order 13658;
+Revised 12 14 21 6
+Terms and Conditions of Purchase
+r. FAR 52.222-62, Paid Sick Leave under Executive Order 13706;
+s. FAR 52.224-3, Privacy Training;
+t. FAR 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations;
+u. FAR 52.233-1, Disputes; and
+v. FAR 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels.
+B. For non-commercial transactions involving funds on a federal contract, the UC Appendix titled ‘Federal Government
+Contracts Special terms and Conditions (Non-Commercial Items or Services)’ and located at www.ucop.edu/procurement-
+services/policies-forms/index.html is hereby incorporated herein by this reference.
+C. For transactions involving funds on a federal grant or cooperative agreement (federal awards governed by CFR Title 2,
+Subtitle A, Chapter II, Part 200) the following provisions apply, as applicable:
+a. Rights to Inventions. If Supplier is a small business firm or nonprofit organization, and is providing experimental,
+development, or research work under this transaction, Supplier must comply with the requirements of 3 CFR
+Part 401, “Rights to Inventions Made by nonprofit Organizations and Small Business Firms Under Government
+Grants, Contracts, and Cooperative Agreements”.
+b. Clean Air Act. Supplier agrees to comply with all applicable standards, orders or regulations issued pursuant to
+the Clean Air Act (42 U.S.C. 7401-7671q) and the Federal Water Pollution Control Act as amended (33 U.S.C.
+1251-1387). Violations must be reported to the Federal awarding agency and the Regional Office of the
+Environmental Protection Agency (EPA).
+c. Byrd Anti-Lobbying. Supplier certifies that it will not, and has not used Federal appropriated funds to pay any
+person or organization for influencing or attempting to influence an officer or employee of any agency, a
+member of Congress, officer or employee of Congress, or an employee of a member of Congress in connection
+with obtaining any Federal contract, grant or any other award covered by 31 U.S.C. 1352.
+d. Procurement of Recovered Materials. If Supplier is a state agency or agency of a political subdivision of a state,
+then Supplier must comply with section 6002 of the Solid Waste Disposal Act, as amended by the Resource
+Conservation and Recovery Act.
+e. Domestic Preferences for Procurements. As appropriate and to the extent consistent with law, Supplier should,
+to the greatest extent practicable under a Federal award, provide a preference for the purchase, acquisition, or
+use of goods, products, or materials produced in the United States (including but not limited to iron, aluminum,
+steel, cement, and other manufactured products). ‘‘Produced in the United States’’ means, for iron and steel
+products, that all manufacturing processes, from the initial melting stage through the application of coatings,
+occurred in the United States. ‘‘Manufactured products’’ means items and construction materials composed in
+whole or in part of non-ferrous metals such as aluminum; plastics and polymer-based products such as polyvinyl
+chloride pipe; aggregates such as concrete; glass, including optical fiber; and lumber.
+D. In these provisions, the term "contractor" as used therein will refer to Supplier, and the terms “Government” or
+“Contracting Officer” as used therein will refer to UC. Where a purchase of items is for fulfillment of a specific U.S.
+Government prime or subcontract, additional information and/or terms and conditions may be included in an attached
+supplement. By submitting an invoice to UC, Supplier is representing to UC that, at the time of submission:
+a. Neither Supplier nor its principals are presently debarred, suspended, or proposed for debarment by the U.S.
+government (see FAR 52.209-6);
+b. Supplier has filed all compliance reports required by the Equal Opportunity clause (see FAR 52.222-22); and
+c. Any Supplier representations to UC about U.S. Small Business Administration or state and local classifications,
+including but not limited to size standards, ownership, and control, are accurate and complete.
+d. Byrd Anti-Lobbying. Supplier certifies that it will not, and has not used Federal appropriated funds to pay any
+person or organization for influencing or attempting to influence an officer or employee of any agency, a
+member of Congress, officer or employee of Congress, or an employee of a member of Congress in connection
+with obtaining any Federal contract, grant or any other award covered by 31 U.S.C. 1352.
+ARTICLE 12 – EQUAL OPPORTUNITY AFFIRMATIVE ACTION
+Supplier will abide by the requirements set forth in Executive Orders 11246 and 11375. Where applicable, Supplier will comply
+with 41 CFR §§ 60-1.4(a), 60-300.5(a) and 60-741.5(a), incorporated by reference with this statement: “This contractor and
+subcontractor shall abide by the requirements of 41 CFR §§ 60-1.4(a), 60-300.5(a) and 60-741.5(a). These regulations prohibit
+discrimination against qualified individuals based on their status as protected veterans or individuals with disabilities, and
+prohibit discrimination against all individuals based on their race, color, religion, sex, sexual orientation, gender identity, or
+national origin. Moreover, these regulations require that covered prime contractors and subcontractors take affirmative action
+to employ and advance in employment individuals without regard to race, color, religion, sex, sexual orientation, gender
+identity, national origin, protected veteran status or disability.” With respect to activities occurring in the State of California,
+Supplier agrees to adhere to the California Fair Employment and Housing Act. Supplier will provide UC on request a breakdown
+Revised 12 14 21 7
+Terms and Conditions of Purchase
+of its labor force by groups as specified by UC, and will discuss with UC its policies and practices relating to its affirmative action
+programs. Supplier will not maintain or provide facilities for employees at any establishment under its control that are
+segregated on a basis prohibited by federal law. Separate or single-user restrooms and necessary dressing or sleeping areas
+must be provided, however, to ensure privacy.
+ARTICLE 13 – LIENS
+Supplier agrees that upon UC’s request, Supplier will submit a sworn statement setting forth the work performed or material
+furnished by sub-suppliers and material men, and the amount due and to become due to each, and that before the final
+payment called for under the Agreement, will upon UC’s request submit to UC a complete set of vouchers showing what
+payments have been made for such work performed or material furnished. Supplier will promptly notify UC in writing, of any
+claims, demands, causes of action, liens or suits brought to its attention that arise out of the Agreement. UC will not make final
+payment until Supplier, if required, delivers to UC a complete release of all liens arising out of the Agreement, or receipts in full
+in lieu thereof, as UC may require, and if required in either case, an affidavit that as far as it has knowledge or information, the
+receipts include all the labor and materials for which a lien could be filed; but Supplier may, if any sub-supplier refuses to
+furnish a release or receipt in full, furnish a bond satisfactory to UC to indemnify it against any claim by lien or otherwise. If any
+lien or claim remains unsatisfied after all payments are made, Supplier will refund to UC all monies that UC may be compelled
+to pay in discharging such lien or claim, including all costs and reasonable attorneys' fees.
+ARTICLE 14 – PREMISES WHERE SERVICES ARE PROVIDED
+A. Cleaning Up. Supplier will at all times keep UC premises where the Services are performed and adjoining premises free
+from accumulations of waste material or rubbish caused by its employees or work of any of its sub-suppliers, and, at the
+completion of the Services; will remove all rubbish from and about the premises and all its tools, scaffolding, and surplus
+materials, and will leave the premises "broom clean" or its equivalent, unless more exactly specified. In case of dispute
+between Supplier and its sub-suppliers as to responsibility for the removal of the rubbish, or if it is not promptly removed,
+UC may remove the rubbish and charge the cost to Supplier.
+B. Environmental, Safety, Health and Fire Protection. Supplier will take all reasonable precautions in providing the Goods and
+Services to protect the health and safety of UC employees and members of the public and to minimize danger from all
+hazards to life and property, and will comply with all applicable environmental protection, health, safety, and fire
+protection regulations and requirements (including reporting requirements). In the event that Supplier fails to comply with
+such regulations and requirements, UC may, without prejudice to any other legal or contractual rights of UC, issue an order
+stopping all or any part of the provision of the Goods and/or Services; thereafter a start order for resumption of providing
+the Goods and/or Services may be issued at UC’s discretion. Supplier will not be entitled to make a claim for extension of
+time or for compensation or damages by reason of or in connection with such stoppage. Supplier will have sole
+responsibility for the safety of all persons employed by Supplier and its sub-suppliers on UC premises, or any other person
+who enters upon UC premises for reasons relating to the Agreement. Supplier will at all times maintain good order among
+its employees and all other persons who come onto UC's premises at Supplier's request and will not engage any unfit or
+unskilled person to provide the Goods and/or Services. Supplier will confine its employees and all other persons who come
+onto UC's premises at Supplier's request or for reasons relating to the Agreement and its equipment to that portion of
+UC's premises where the Services are to be provided or to roads leading to and from such work sites, and to any other area
+which UC may permit Supplier to use. Supplier will take all reasonable measures and precautions at all times to prevent
+injuries to or the death of any of its employees or any other person who enters upon UC premises at Supplier’s request.
+Such measures and precautions will include, but will not be limited to, all safeguards and warnings necessary to protect
+workers and others against any conditions on the premises that could be dangerous and to prevent accidents of any kind
+whenever the Goods and/or Services are being provided in proximity to any moving or operating machinery, equipment or
+facilities, whether such machinery, equipment or facilities are the property of or are being operated by, Supplier, its sub-
+suppliers, UC or other persons. To the extent compliance is required, Supplier will comply with all relevant UC safety rules
+and regulations when on UC premises.
+C. Tobacco-free Campus. UC is a tobacco-free institution. Use of cigarettes, cigars, oral tobacco, electronic cigarettes and all
+other tobacco products is prohibited on all UC owned or leased sites.
+ARTICLE 15 – LIABILITY FOR UC - FURNISHED PROPERTY
+Supplier assumes complete liability for any materials UC furnishes to Supplier in connection with the Agreement and Supplier
+agrees to pay for any UC materials Supplier damages or otherwise is not able to account for to UC's satisfaction. UC furnishing
+to Supplier any materials in connection with the Agreement will not, unless otherwise expressly provided in writing by UC, be
+construed to vest title thereto in Supplier.
+Revised 12 14 21 8
+Terms and Conditions of Purchase
+ARTICLE 16 – COOPERATION
+Supplier and its sub-suppliers, if any, will cooperate with UC and other suppliers and will so provide the Services that other
+cooperating suppliers will not be hindered, delayed or interfered with in the progress of their work, and so that all of such work
+will be a finished and complete job of its kind.
+ARTICLE 17 – ADDITIONAL TERMS APPLICABLE TO THE FURNISHING OF GOODS
+The terms in this Article have special application to the furnishing of Goods:
+A. Price Decreases. Supplier agrees immediately to notify UC of any price decreases from its suppliers, and to pass through to
+UC any price decreases.
+B. Declared Valuation of Shipments. Except as otherwise provided in the Agreement, all shipments by Supplier under the
+Agreement for UC's account will be made at the maximum declared value applicable to the lowest transportation rate or
+classification and the bill of lading will so note.
+C. Title. Title to the Goods purchased under the Agreement will pass directly from Supplier to UC at the f.o.b. point shown, or
+as otherwise specified in the Agreement, subject to UC’s right to reject upon inspection.
+D. Changes. Notwithstanding the terms in Article 34, Amendments, UC may make changes within the general scope of the
+Agreement in drawings and specifications for specially manufactured Goods, place of delivery, method of shipment or
+packing of the Agreement by giving notice to Supplier and subsequently confirming such changes in writing. If such
+changes affect the cost of or the time required for performance of the Agreement, UC and Supplier will agree upon an
+equitable adjustment in the price and/or delivery terms. Supplier may not make changes without UC’s written approval.
+Any claim of Supplier for an adjustment under the Agreement must be made in writing within thirty (30) days from the
+date Supplier receives notice of such change unless UC waives this condition in writing. Nothing in the Agreement will
+excuse Supplier from proceeding with performance of the Agreement as changed hereunder. Supplier may not alter or
+misbrand, within the meaning of the applicable Federal and State laws, the Goods furnished.
+E. Forced, Convict and Indentured Labor. Supplier warrants that no foreign-made Goods furnished to UC pursuant to the
+Agreement will be produced in whole or in part by forced labor, convict labor, or indentured labor under penal sanction. If
+UC determines that Supplier knew or should have known that it was breaching this warranty, UC may, in addition to
+terminating the Agreement, remove Supplier from consideration for UC contracts for a period not to exceed one year. This
+warranty is in addition to any applicable warranties in Articles 6 and 11.
+F. Export Control. Supplier agrees to provide UC (the contact listed on the PO) with written notification that identifies the
+export-controlled Goods and such Goods’ export classification if any of the Goods is export-controlled under the
+International Traffic in Arms Regulations (ITAR) (22 CFR §§ 120-130), the Export Administration Regulations (15 CFR §§
+730-774) 500 or 600 series, or controlled on a military strategic goods list. Supplier agrees to provide UC (the contact listed
+on the PO) with written notification if Supplier will be providing information necessary for the operation, installation
+(including on-site installation), maintenance (checking), repair, overhaul, and refurbishing of the Goods that is beyond a
+standard user manual (i.e. ”Use” technology as defined under the EAR 15 CFR § 772.1), or “Technical Data” (as defined
+under the ITAR 22 CFR § 120.10).
+ARTICLE 18 – CONFLICT OF INTEREST
+Supplier affirms that, to the best of Supplier’s knowledge, no UC employee who has participated in UC’s decision-making
+concerning the Agreement has an “economic interest” in the Agreement or Supplier. A UC employee’s “economic interest”
+means:
+A. An investment worth $2,000 or more in Supplier or its affiliate;
+B. A position as director, officer, partner, trustee, employee or manager of Supplier or its affiliate;
+C. Receipt during the past 12 months of $500 in income or $440 in gifts from Supplier or its affiliate; or
+D. A personal financial benefit from the Agreement in the amount of $250 or more.
+In the event of a change in these economic interests, Supplier will provide written notice to UC within thirty (30) days after such
+change, noting such changes. Supplier will not be in a reporting relationship to a UC employee who is a near relative, nor will a
+near relative be in a decision making position with respect to Supplier.
+ARTICLE 19 – AUDIT REQUIREMENTS
+The Agreement, and any pertinent records involving transactions relating to this Agreement, is subject to the examination and
+audit of the Auditor General of the State of California or Comptroller General of the United States or designated Federal
+authority for a period of up to five (5) years after final payment under the Agreement. UC, and if the underlying grant,
+cooperative agreement or federal contract so provides, the other contracting Party or grantor (and if that be the United States
+or an instrumentality thereof, then the Comptroller General of the United States) will have access to and the right to examine
+Revised 12 14 21 9
+Terms and Conditions of Purchase
+Supplier’s pertinent books, documents, papers, and records involving transactions and work related to the Agreement until the
+expiration of five (5) years after final payment under the Agreement. The examination and audit will be confined to those
+matters connected with the performance of the Agreement, including the costs of administering the Agreement.
+ARTICLE 20 – PROHIBITION ON UNAUTHORIZED USE OR DISCLOSURE OF INSTITUTIONAL INFORMATION
+A. Prohibition on Access, Use and Disclosure of Institutional Information. Supplier will not access, use or disclose Institutional
+Information, other than to carry out the purposes for which UC disclosed the Institutional Information to Supplier, except
+as required by applicable law, or as otherwise authorized in writing by UC prior to Supplier’s disclosure. Supplier shall have
+the limited right to disclose Institutional Information to Supplier’s employees provided that: (i) Supplier shall disclose only
+such Institutional Information as is necessary for the Supplier to perform its obligations under this Agreement, and (ii)
+Supplier informs such employees of the obligations governing the access, use and disclosure of Institutional Information
+prior to Supplier’s disclosure. Supplier shall be liable for any breach of this Agreement by its employees. For avoidance of
+doubt, this provision prohibits Supplier from using for its own benefit Institutional Information and any information
+derived therefrom. For the avoidance of doubt, the sale of Institutional Information is expressly prohibited.
+B. Compliance with Applicable Laws and Industry Best Practices. Supplier agrees to comply with all applicable state, federal,
+and foreign laws, as well as industry best practices, governing the collection, access, use, disclosure, safeguarding and
+destruction of Institutional Information. Supplier agrees to protect the privacy and security of Institutional Information
+according to all applicable laws and industry best practices, and no less rigorously than it protects its own information, but
+in no case less than reasonable care.
+C. Confidential Institutional Information. Supplier agrees to hold UC’s Confidential Institutional Information, and any
+information derived therefrom, in strict confidence. Confidential Institutional Information shall be defined as any
+Institutional Information which is (i) marked as “Confidential” at the time of disclosure; (ii) if disclosed orally, identified at
+the time of such oral disclosure as confidential, and reduced to writing as “Confidential” within thirty (30) days of such oral
+disclosure; and (iii) if not marked as “Confidential,” information that would be considered by a reasonable person in the
+relevant field to be confidential given its content and the circumstances of its disclosure. Confidential Information will not
+be considered confidential to the extent that: (i) Supplier can demonstrate by written records was known to Supplier prior
+to the effective date of the Agreement; (ii) is currently in, or in the future enters, the public domain other than through a
+breach of the Agreement or through other acts or omissions of Supplier; (iii) is obtained lawfully from a third party; or (iv)
+is disclosed under the California Public Records Act or legal process. For the avoidance of doubt, as applicable to Supplier’s
+Services, Confidential Institutional Information may include any information that identifies or is capable of identifying a
+specific individual, including but not limited to:
+a. Personally identifiable information,
+b. Protected Health Information as defined by the Health Insurance Portability and Accountability Act of 1996
+(HIPAA) and the HIPAA regulations (including, but not limited to 45 C.F.R. § 160.103),
+c. Medical information as defined by California Civil Code § 56.05,
+d. Cardholder data,
+e. Student records, or
+f. Individual financial information that is subject to laws restricting the use and disclosure of such information,
+including but not limited to:
+i. Article 1, Section 1 of the California Constitution; the California Information Practices Act (Civil Code §
+1798 et seq.);
+ii. The federal Gramm-Leach-Bliley Act (15 U.S.C. §§ 6801(b) and 6805(b)(2));
+iii. The federal Family Educational Rights and Privacy Act (20 U.S.C. § 1232g);
+iv. The federal Fair and Accurate Credit Transactions Act (15 U.S.C. § 1601 et seq.);
+v. The Fair Credit Reporting Act (15 U.S.C. § 1681 et seq), and
+vi. Applicable international privacy laws, including, but not limited to the General Data Protection
+Regulation.
+D. Required Disclosures of Institutional Information. If Supplier is required by a court of competent jurisdiction or an
+administrative body to disclose Institutional Information, Supplier will notify UC in writing immediately upon receiving
+notice of such requirement and prior to any such disclosure (unless Supplier is prohibited by law from doing so), to give UC
+an opportunity to oppose or otherwise respond to such disclosure. To the extent Supplier still required to disclose
+Institutional Information, Supplier will furnish only that portion that is legally required and will exercise all reasonable
+efforts to obtain reliable assurance that confidential treatment will be afforded to any Confidential Institutional
+Information.
+E. No Offshoring. Supplier’s transmission, transportation or storage of Institutional Information outside the United States, or
+access of Institutional Information from outside the United States, is prohibited except with prior written authorization by
+UC.
+Revised 12 14 21 10
+Terms and Conditions of Purchase
+F. Conflict in Terms. UC’s Appendix – Data Security, Appendix – BAA, and/or Appendix GDPR will control in the event that one
+or more appendices is incorporated into the Agreement and conflicts with the provisions of this Article.
+G. Acknowledgement. Supplier acknowledges that remedies at law would be inadequate to protect UC against any actual or
+threatened breach of this Section by Supplier, and, without prejudice to any other rights and remedies otherwise available
+to UC, Supplier agrees to the granting of injunctive relief in UC’s favor without proof of actual damages.
+ARTICLE 21 – UC WHISTLEBLOWER POLICY
+UC is committed to conducting its affairs in compliance with the law, and has established a process for reporting and
+investigating suspected improper governmental activities. Please visit http://www.ucop.edu/uc-whistleblower/ for more
+information.
+ARTICLE 22 – SUSTAINABLE PROCUREMENT GUIDELINES
+Supplier will conduct business using environmentally, socially, and economically sustainable products and services (defined as
+products and services with a lesser or reduced effect on human health and the environment, and which generate benefits to
+the University as well as to society and the economy, while remaining within the carrying capacity of the environment), to the
+maximum possible extent consistent with the Agreement, and with the University of California Sustainable Practices Policy
+(https://policy.ucop.edu/doc/3100155) and the University of California Sustainable Procurement Guidelines:
+https://www.ucop.edu/procurement-services/for-ucstaff/sustainable-procurement/sustainableprocurementguidelines.pdf
+In accordance with the University of California Sustainable Practices Policy, Supplier will adhere to the following requirements
+and standards, as applicable. Supplier acknowledges that failure to comply with any of the sustainability standards and
+requirements in the Agreement will constitute a material breach of the Agreement and UC will have the right to terminate the
+Agreement without damage, penalty, cost or further obligation.
+A. Sustainability Marketing Standards. Supplier sustainability related claims, where applicable, must meet UC recognized
+certifications and standards set forth in the UC Sustainable Procurement Guidelines and/or meet the standards of Federal
+Trade Commission’s (FTC) Green Guides.
+B. Electronic Transfer of Supplier Information. Suppliers, when interacting with the UC, shall be prohibited from providing
+hard copies of presentations, marketing material, or other informational materials. Suppliers will be required to present all
+information in electronic format that is easily transferable to UC staff. Materials may be provided in hard copy or physical
+format if specifically required or requested by a UC representative.
+C. Packaging Requirements. All packaging must be compliant with the Toxics in Packaging Prevention Act (AB 455) and must
+meet all additional standards and requirements set forth in the UC Sustainable Practices Policy. In addition, UC requires
+that all packaging meet at least one of the criteria listed below:
+a. Uses bulk packaging;
+b. Uses reusable packaging (e.g. totes reused by delivery service for next delivery);
+c. Uses innovative packaging that reduces the weight of packaging, reduces packaging waste, or utilizes packaging
+that is a component of the product;
+d. Maximizes recycled content and/or meets or exceeds the minimum post-consumer content level for packaging in
+the U.S. Environmental Protection Agency Comprehensive Procurement Guidelines;
+e. Uses locally recyclable or certified compostable material.
+D. Foodservice Foam Ban. As of 2018, the University no longer allows packaging foam or expanded polystyrene (EPS) for
+takeaway containers or other food service items, in any University-owned or -operated food service facility.
+E. Product Packaging Foam Ban. Beginning January 1st, 2020, the University will prohibit all contracted and non-contracted
+suppliers from selling or distributing packaging foam (other than that utilized for laboratory supply or medical packaging)
+to UC campuses. Packaging foam is defined as any open or closed cell, solidified, polymeric foam used for cushioning or
+packaging, including but not limited to: low-density polyethylene foam, polypropylene foam, polystyrene foam (i.e.
+expanded polystyrene (EPS)), polyurethane foam, polyethylene foam, polyvinyl chloride (PVC) foam, and microcellular
+foam. Not included in this ban are easily biodegradable, plant-based foams such as those derived from corn or
+mushrooms.
+F. E-Waste Recycling Requirements. All recyclers of UC electronic equipment must be e-Steward certified by the Basel Action
+Network (BAN).
+G. Hosted and Punch-out Catalog Requirements. Suppliers enabled with eProcurement hosted catalog functionality must
+clearly identify products with UC-recognized certifications, as defined by the UC Sustainable Procurement Guidelines, in
+both hosted and punch-out catalog e-procurement environments.
+ARTICLE 23 – PATIENT PROTECTION AND AFFORDABLE CARE ACT (PPACA) EMPLOYER SHARED RESPONSIBILITY
+If the Services involve Supplier furnishing UC with temporary or supplementary staffing, Supplier warrants that:
+Revised 12 14 21 11
+Terms and Conditions of Purchase
+A. If Supplier is an Applicable Large Employer (as defined under Treasury Regulation Section 54.4980H-1(a)(4)):
+a. Supplier offers health coverage to its full-time employees who are performing Services for UC;
+b. Supplier’s cost of enrolling such employees in Supplier’s health plan is factored into the fees for the Services; and
+c. The fees for the Services are higher than what the Services would cost if Supplier did not offer health coverage to
+such full-time employees.
+B. If Supplier is not an Applicable Large Employer (as defined above):
+a. Supplier offers group health coverage to its full-time employees who are performing Services for UC and such
+coverage is considered Minimum Essential Coverage (as defined under Treasury Regulation Section 1-5000A-2)
+and is Affordable (as defined under Treasury Regulation Section 54.4980H-5(e)); or
+b. Supplier’s full-time employees who are performing services for UC have individual coverage and such coverage
+satisfies the PPACA requirements for mandated individual coverage.
+C. Supplier acknowledges that UC is relying on these warranties to ensure UC’s compliance with the PPACA Employer Shared
+Responsibility provision.
+ARTICLE 24 - PREVAILING WAGES
+Unless UC notifies Supplier that the Services are not subject to prevailing wage requirements, Supplier will comply, and will
+ensure that all sub-suppliers comply, with California prevailing wage provisions, including but not limited to those set forth in
+Labor Code sections 1770, 1771, 1771.1, 1772, 1773, 1773.1, 1774, 1775, 1776, 1777.5, and 1777.6. For purposes of the
+Agreement, the term “sub-supplier” means a person or firm, of all tiers, that has a contract with Supplier or with a sub-supplier
+to provide a portion of the Services. The term sub-supplier will not include suppliers, manufacturers, or distributors.
+Specifically, and not by way of limitation, if apprenticable occupations are involved in providing the Services, Supplier will be
+responsible for ensuring that Supplier and any sub-suppliers comply with Labor Code Section 1777.5. Supplier and sub-supplier
+may not provide the Services unless currently registered and qualified to perform public work pursuant to Labor Code Section
+1725.5 and 1771.1. Notwithstanding the foregoing provisions, Supplier will be solely responsible for tracking and ensuring
+proper payment of prevailing wages regardless if Services are partially or wholly subject to prevailing wage requirements. In
+every instance, Supplier will pay not less than the UC Fair Wage (defined as $13 per hour as of 10/1/15, $14 per hour as of
+10/1/16, and $15 per hour as of 10/1/17) for Services being performed at a UC Location (defined as any location owned or
+leased by UC).
+The California Department of Industrial Relations (DIR) has ascertained the general prevailing per diem wage rates in the
+locality in which the Services are to be provided for each craft, classification, or type of worker required to provide the Services.
+A copy of the general prevailing per diem wage rates will be on file at each UC Location’s procurement office, and will be made
+available to any interested party upon request. Supplier will post at any job site:
+A. Notice of the general prevailing per diem wage rates, and
+B. Any other notices required by DIR rule or regulation
+By this reference, such notices are made part of the Agreement. Supplier will pay not less than the prevailing wage rates, as
+specified in the schedule and any amendments thereto, to all workers employed by Supplier in providing the Services. Supplier
+will cause all subcontracts to include the provision that all sub-suppliers will pay not less than the prevailing rates to all workers
+employed by such sub-suppliers in providing the Services. The Services are subject to compliance monitoring and enforcement
+by the DIR. Supplier will forfeit, as a penalty, not more than $200 for each calendar day or portion thereof for each worker that
+is paid less than the prevailing rates as determined by the DIR for the work or craft in which the worker is employed for any
+portion of the Services provided by Supplier or any sub-supplier. The amount of this penalty will be determined pursuant to
+applicable law. Such forfeiture amounts may be deducted from the amounts due under the Agreement. If there are insufficient
+funds remaining in the amounts due under the Agreement, Supplier will be liable for any outstanding amount remaining due.
+Supplier will also pay to any worker who was paid less than the prevailing wage rate for the work or craft for which the worker
+was employed for any portion of the Services, for each day, or portion thereof, for which the worker was paid less than the
+specified prevailing per diem wage rate, an amount equal to the difference between the specified prevailing per diem wage
+rate and the amount which was paid to the worker. Review of any civil wage and penalty assessment will be made pursuant to
+California Labor Code section 1742.
+ARTICLE 25 – FAIR WAGE/FAIR WORK
+If the Agreement is for Services that will be performed at one or more UC Locations, does not solely involve furnishing Goods,
+and are not subject to extramural awards containing sponsor-mandated terms and conditions, Supplier warrants that it is in
+compliance with applicable federal, state and local working conditions requirements, including but not limited to those set
+forth in Articles 11, 12 and 14 herein, and that Supplier pays its employees performing the Services no less than the UC Fair
+Revised 12 14 21 12
+Terms and Conditions of Purchase
+Wage. Supplier agrees UC may conduct such UC Fair Wage/Fair Work interim compliance audits as UC reasonably requests, as
+determined in UC’s sole discretion. Supplier agrees to post UC Fair Wage/Fair Work notices, in the form supplied by UC, in
+public areas (such as break rooms and lunch rooms) frequented by Supplier employees who perform Services.
+For Services rendered (actual spend) not subject to prevailing wage requirements in excess of $100,000 in a year (under the
+Agreement or any combination of agreements for the same service), Supplier will
+a. At Supplier’s expense, provide an annual independent verification (https://www.ucop.edu/procurement-services/for-
+suppliers/fwfw-resources-suppliers.html) performed by a licensed public accounting firm (independent accountant)
+or the Supplier’s independent internal audit department (http://na.theiia.org/standards-
+guidance/topics/Pages/Independence-and-Objectivity.aspx) in compliance with UC’s required verification standards
+and procedures (https://www.ucop.edu/procurement-services/for-suppliers/fwfw-resources-suppliers.html),
+concerning Supplier’s compliance with this provision, and
+b. Ensure that in the case of a UC interim audit, its independent accountant/independent internal auditor makes
+available to UC its work papers for UC Fair Wage/Fair Work for the most recent verification period. Supplier agrees to
+provide UC with a UC Fair Wage/Fair Work verification annually, in a form acceptable to UC, no later than ninety days
+after the end of the 12-month period in which $100,000 in spend is reached.
+The Fair Wage Fair Work annual independent verification requirement does not extend to contracts for professional services or
+consulting for which pre-certification has been provided to UC (https://www.ucop.edu/procurement-services/for-
+suppliers/fwfw-resources-suppliers.html). Please see the UC Procurement/Supply Chain Management Policy BUS-43
+(https://www.ucop.edu/procurement-services/policies-forms/business-and-finance/index.html) for the definition of
+professional services and consulting.
+ARTICLE 26 – MEDICAL DEVICES
+This Article applies when the Goods and/or Services involve UC purchasing or leasing one or more medical devices from
+Supplier, or when Supplier uses one or more medical devices in providing Goods and/or Services to UC.
+Medical Device as used herein will have the meaning provided by the U.S. Food and Drug Administration (“FDA”) and means an
+instrument, apparatus, implement, machine, contrivance, implant, in vitro reagent, or other similar or related article, including
+a component part, or accessory which is:
+a. Recognized in the official National Formulary, or the United States Pharmacopoeia, or any supplement to them;
+b. Intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of
+disease, in humans or other animals, or
+c. Intended to affect the structure or any function of the body of humans or other animals, and which does not achieve
+any of its primary intended purposes through chemical action within or on the body of humans or other animals and
+which is not dependent upon being metabolized for the achievement of any of its primary intended purposes.
+Supplier warrants that prior to UC’s purchase or lease of any Medical Device or Supplier’s use of any Medical Device in
+providing Goods and/or Services hereunder, Supplier will:
+a. Perform security testing and validation for each such Goods and/or Services or Medical Device, as applicable;
+b. Perform security scans to detect malware on any software embedded within any Goods and/or Services or Medical
+Device, as applicable, in order to verify that the software does not contain any known malware;
+c. Conduct a vulnerability scan encompassing all ports and fuzz testing; and
+d. Provide UC with reports for a-c. Supplier warrants that all Goods or Medical Devices are compliant with FDA’s most
+current guidance or regulation for the quality system related to the cybersecurity and the Management of
+Cybersecurity in Medical Devices, and that Supplier will maintain compliance with any updates to such guidance or
+regulations.
+Throughout Supplier’s performance of this Agreement, Supplier will provide UC with reasonably up-to-date patches, firmware
+and security updates for any Medical Device provided to UC, and any other Medical Device used in the course of providing
+Services, as applicable. All such patches and other security updates will be made available to UC within thirty (30) days of its
+commercial release or as otherwise recommended by Supplier or Supplier’s sub-supplier, whichever is earlier.
+Supplier warrants that all software and installation media not specifically required for any Medical Device used by Supplier or
+Goods and/or Services delivered to UC under this Agreement as well as files, scripts, messaging services and data will be
+Revised 12 14 21 13
+Terms and Conditions of Purchase
+removed from all such Goods and/or Services or Medical Device following installation, and that all hardware ports and drivers
+not required for use or operation of such Goods and/or Services or Medical Device will be disabled at time of installation. In
+addition, Medical Devices must be configured so that only Supplier-approved applications will run on such Medical Devices.
+Supplier agrees that UC may take any and all actions that it, in its sole discretion, deems necessary to address, mitigate and/or
+rectify any real or potential security threat, and that no such action, to the extent such action does not compromise device
+certification, will impact, limit, reduce or negate Supplier’s warranties or any of Supplier’s other obligations hereunder.
+Supplier warrants that any Medical Device provided to UC, and any other Medical Device used in the course of providing such
+Goods and/or Services, meet and comply with all cyber-security guidance and similar standards promulgated by the FDA and
+any other applicable regulatory body.
+If the Goods and/or Services entail provision or use of a Medical Device, Supplier will provide UC with a completed
+Manufacturer Disclosure Statement for Medical Device Security (MDS2) form for each such Medical Device before UC is
+obligated to purchase or lease such Medical Device or prior to Supplier’s use of such device in its performance of Services. If
+Supplier provides an MDS2 form to UC concurrently with its provision of Goods and/or Services, UC will have a reasonable
+period of time to review such MDS2 form, and if the MDS2 form is unacceptable to UC, then UC in its sole discretion may return
+the Goods or terminate the Agreement with no further obligation to Supplier.
+ARTICLE 27 – FORCE MAJEURE
+Neither Party shall be deemed to be in default of or to have breached any provision of this Agreement due to a delay, failure in
+performance or interruption of service, if such performance or service are impossible to execute, illegal or commercially
+impracticable, because of the following “force majeure” occurrences: acts of God, acts of civil or military authorities, civil
+disturbances, wars, strikes or other labor disputes, transportation contingencies, freight embargoes, acts or orders of any
+government or agency or official thereof, earthquakes, fires, floods, unusually severe weather, epidemics, pandemics,
+quarantine restrictions and other catastrophes or any other similar occurrences beyond such party’s reasonable control. In
+every case, the delay or failure in performance or interruption of service must be without the fault or negligence of the Party
+claiming excusable delay and the Party claiming excusable delay must promptly notify the other Party of such delay.
+Performance time under this Agreement shall be considered extended for a period of time equivalent to the time lost because
+of the force majeure occurrence; provided, however, that if any such delay continues for a period of more than thirty (30) days,
+UC shall have the option of terminating this Agreement upon written notice to Supplier.
+ARTICLE 28 – ASSIGNMENT AND SUBCONTRACTING
+Except as to any payment due hereunder, Supplier may not assign or subcontract the Agreement without UC’s written consent.
+In case such consent is given, the assignee or subcontractor will be subject to all of the terms of the Agreement.
+ARTICLE 29 – NO THIRD-PARTY RIGHTS
+Nothing in the Agreement, express or implied, is intended to make any person or entity that is not a signer to the Agreement a
+third-party beneficiary of any right created by this Agreement or by operation of law.
+ARTICLE 30 – OTHER APPLICABLE LAWS
+Any provision required to be included in a contract of this type by any applicable and valid federal, state or local law, ordinance,
+rule or regulations will be deemed to be incorporated herein.
+ARTICLE 31 – NOTICES
+A Party must send any notice required to be given under the Agreement by overnight delivery or by certified mail with return
+receipt requested, to the other Party’s representative at the address specified by such Party.
+ARTICLE 32 – SEVERABILITY
+If a provision of the Agreement becomes, or is determined to be, illegal, invalid, or unenforceable, that will not affect the
+legality, validity or enforceability of any other provision of the Agreement or of any portion of the invalidated provision that
+remains legal, valid, or enforceable.
+ARTICLE 33 – WAIVER
+Revised 12 14 21 14
+Terms and Conditions of Purchase
+Waiver or non-enforcement by either Party of a provision of the Agreement will not constitute a waiver or non-enforcement of
+any other provision or of any subsequent breach of the same or similar provision.
+ARTICLE 34 – AMENDMENTS
+The Parties may make changes in the Goods and/or Services or otherwise amend the Agreement, but only by a writing signed
+by both Parties’ authorized representatives. In the event there is a Material Change to the Agreement, the parties agree to
+meet and confer in good faith in order to modify the terms of the Agreement. A Material Change as used herein refers to:
+a. A change to the scope of Goods and/or Services to be provided by Supplier, as agreed to by UC;
+b. A change in the Institutional Information Supplier is required to create, receive, maintain or transmit in performance
+of the Agreement, such that the Protection Level Classification of such Institutional Information changes;
+c. Changes in the status of the parties;
+d. Changes in flow down terms from external parties; and
+e. Changes in law or regulation applicable to this Agreement.
+Each party shall notify the other party upon the occurrence of a Material Change.
+ARTICLE 35 – GOVERNING LAW AND VENUE
+California law will control the Agreement and any document to which it is appended. The exclusive jurisdiction and venue for
+any and all actions arising out of or brought under the Agreement is in a state court of competent jurisdiction, situated in the
+county in the State of California in which the UC Location is located or, where the procurement covers more than one UC
+Location, the exclusive venue is Alameda County, California.
+ARTICLE 36 – ASSISTANCE IN LITIGATION OR ADMINISTRATIVE PROCEEDINGS
+Supplier will make itself and its employees, subcontractors, or agents assisting Supplier in the performance of its obligations
+reasonably available to UC at no cost to UC to testify as witnesses, or otherwise, in the event of investigations, or proceedings
+against UC, its directors, officers, agents, or employees relating to the Goods or Services.
+ARTICLE 37 – SUPPLIER TERMS
+Any additional terms that Supplier includes in an order form or similar document will be of no force and effect, unless UC
+expressly agrees in writing to such terms.
+ARTICLE 38 – SURVIVAL CLAUSE
+Upon expiration or termination of the Agreement, the following provisions will survive: WARRANTIES; INTELLECTUAL
+PROPERTY, COPYRIGHT, PATENTS, AND DATA RIGHTS; INDEMNITY AND LIABILITY; USE OF UC NAMES AND TRADEMARKS;
+LIABILITY FOR UC-FURNISHED PROPERTY; COOPERATION; TERMS APPLICABLE TO THE FURNISHING OF GOODS; AUDIT
+REQUIREMENTS; PROHIBITION ON UNAUTHORIZED USE OR DISCLOSURE OF INSTITUTIONAL INFORMATION; GOVERNING LAW
+AND VENUE, and, to the extent incorporated into the Agreement, the terms of the APPENDIX–DATA SECURITY, APPENDIX–BAA,
+and/or APPENDIX-GDPR.
+ARTICLE 39 – CONTRACTING FOR COVERED SERVICES
+Covered Services, for the purpose of this Agreement, are defined as work customarily performed by employees in the American
+Federation of State, County, and Municipal Employees (AFSCME) Patient Care Technical (EX) and Service (SX) bargaining units.
+Covered Services include, but are not necessarily limited to, the following services: cleaning, custodial, janitorial, or
+housekeeping services; food services; laundry services; grounds keeping; building maintenance (excluding skilled crafts);
+transportation and parking services; security services; billing and coding services; sterile processing; hospital or nursing
+assistant services; and medical imaging or other medical technician services.
+Unless UC notifies Supplier that the Services are not Covered Services, Supplier warrants that it is in compliance with applicable
+federal, state and local working conditions requirements, including but not limited to those set forth in in other Articles of the
+Agreement. In accordance with Regents Policy 5402 and Article 5 of the AFSCME EX and SX Collective Bargaining Agreements,
+Supplier also warrants that it pays its employees performing the Covered Services at UC locations the equivalent value of the
+wages and benefits – as determined in the Wage and Benefit Parity Appendix – received by UC employees providing similar
+services at the same, or nearest UC location.
+Revised 12 14 21 15
+Terms and Conditions of Purchase
+Supplier shall be prepared to report to UC the total hours worked by each employee or contract worker (collectively the
+“Worker”) who performed services on behalf of Supplier pursuant to this Agreement. Upon request Supplier shall report each
+worker’s name and hours worked providing covered services to UC. Failure to comply with the wages or reporting requirements
+of this clause will be considered a breach of this Agreement.
+Supplier fully acknowledges that should any Worker work (i) 1,000 hours in a rolling twelve (12) month period; or (ii) 35% time
+over a rolling thirty-six (36) month period on behalf of Supplier pursuant to this Agreement, that Worker will be deemed a
+“qualified individual” (“QI”) and will be eligible for UC employment. Supplier acknowledges and agrees that should UC make an
+offer of employment to any QI, and/or if the Worker accepts employment with UC, UC will not be in breach of this Agreement
+or in violation of any other legal obligation it has to Supplier.
+Upon UC’s request, Supplier also agrees to provide verification of an independent audit of wage and benefit parity compliance.
+This audit must be performed by Supplier’s independent auditor or independent internal audit department and at Supplier’s
+expense. Supplier agrees to provide UC requested verification, in a form acceptable to UC, no later than ninety days after
+receiving request.
+Revised 12 14 21 16

@@ -1,0 +1,1775 @@
+
+
+
+
+How to Write Terms and Conditions in 14 Simple Steps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Build a Privacy Program
+
+
+
+
+
+
+Manage Data Requests (DSARs)
+
+
+Data Mapping
+
+
+Privacy Impact Assessment
+
+
+Vendor Risk Management
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Consent Management
+
+
+
+
+
+
+Consent Management
+
+
+Cookie Banner Generator
+
+
+Google Consent Mode
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Business Legal Policies
+
+
+
+
+
+
+Privacy Policy Generator
+
+
+Terms of Service Generator
+
+
+End User License Agreement
+
+
+Subscription Services Agreement
+
+
+Returns Policy Generator
+
+
+Shipping Policy Generator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Integrations
+
+
+
+
+
+
+Shopify App
+
+
+Webflow Consent Plugin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+
+
+
+
+Privacy Policy Generator
+
+
+Cookie Banner Generator
+
+
+Terms of Service Generator
+
+
+Data Requests (DSARs)
+
+
+CCPA Compliance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By Industry
+
+
+
+
+
+
+Ecommerce / Retail
+
+
+Agency
+
+
+Mobile Apps
+
+
+Enterprise
+
+
+Shopify Plus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By Regulation
+
+
+
+
+
+
+GDPR
+
+
+California's CCPA/CPRA
+
+
+Brazil's LGPD
+
+
+Quebec's Law 25
+
+
+PDPL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pricing
+
+
+
+
+
+
+Resources
+
+
+
+
+Privacy Compliance Scanner
+
+
+Blog
+
+
+Privacy 101
+
+
+Website Compliance Scanner
+
+
+Help Center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Powered by Enzuzo
+
+
+
+
+
+
+Customer Showcase
+
+
+Case Studies
+
+
+Become a Partner / Reseller
+
+
+Affiliate Program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Become an Expert
+
+
+
+
+
+
+Blog
+
+
+Support Center
+
+
+Privacy 101
+
+
+Legal Glossary
+
+
+What Is Enzuzo?
+
+
+Free Website Compliance Scanner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log In
+
+
+
+
+
+
+Book a Demo
+
+
+
+
+
+
+Create Free Account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log In
+
+
+Book a Demo
+
+
+Create Free Account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How to Write Terms and Conditions in 14 Simple Steps
+
+
+
+
+
+								Osman Husain
+							
+
+						
+						3/20/23 9:04 PM
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Table of Contents
+            
+
+
+
+
+
+
+
+
+One of the critical business legal documents you need today is a 
+website terms and conditions agreement
+. This document helps display your policy around acceptable payment methods (credit card, PayPal, cryptocurrency), intellectual property rights, termination clause, user behavior, and how data is shared with third party websites.
+
+
+Terms and conditions are 
+also referred to as terms of service or terms of use
+. If you spot either of these in the wild, don't worry. They all mean the same thing.
+
+
+
+
+In this article, we'll show you 
+how to write terms and conditions for your website
+ or mobile app, enabling you to protect your intellectual property and create a legally binding document to inform users of their rights.
+
+
+Plus, we’ll share one simple tool that helps you get all this done in minutes! 
+
+
+Let's get started.
+
+
+ 
+
+
+How to Write Terms and Conditions
+
+
+Like any major legal document, your terms of service should be tailored to the services, products, and experience you provide. It’s hard to achieve that though without knowing where to start. 
+
+
+To help you write your online store terms of service, here’s our guide on what to include. These are the sections that we feature in our very own free 
+terms and conditions generator
+, based on what’s necessary and useful to your customers.
+
+
+ 
+
+
+
+
+ 
+
+
+1. Detail Your Introduction
+
+
+Writing terms and conditions starts with an introductory section. This is where you can outline who you are, how you operate, and what this document covers. 
+
+
+Keep this simple with a one-line statement that explains to the reader what your terms of service covers, or go into more detail by sharing your approach to delivery, privacy, and experience. The choice is yours — the main goal here is to provide a scope for the document before jumping into the “legalese”.
+
+
+ 
+
+
+2. Talk About Updates to Your Terms of Service
+
+
+From time to time, you’ll need to update your website terms of service to make sure they still reflect what you offer and how you operate. Make your customers aware of this by including a few lines about your approach to terms and conditions updates.
+
+
+This section can be as simple as a statement that your terms of service may be updated in the future, and that continued use reflects ongoing agreement of this. You could also share that you plan to keep customers updated on any changes and how — for example by email or in-app notifications.
+
+
+ 
+
+
+3. Inform Users of the Agreement
+
+
+Your terms of service are a legal document, which means that for your visitors to continue using your website they'll need to agree to the terms you lay out. This part of your terms and conditions agreement outlines exactly what that means, and how it happens. 
+
+
+Here’s how we handle this within our 
+terms of service generator
+:
+
+
+“The following terms and conditions, together with any documents and/or additional terms they expressly incorporate by reference constitute a legal agreement (collectively, this "Agreement") and are entered into by and between you ("you", "your", "User") and [Company Name] ("Company" "we" "us", & "our").
+
+
+This Agreement contains very important information regarding your rights and obligations, as well as conditions, limitations, and exclusions that apply to your access and use of [Website URL] (the "Website "). Please read the Agreement carefully.”
+
+
+This text is then followed by a statement that confirms what happens if a user continues to access or use the website. This often involves an acceptance of the terms, a statement that the user can reasonably make this commitment, and any statements of risk. 
+
+
+ 
+
+
+4. Outline Your Responsibilities
+
+
+Like any agreement, your terms of service document comes with a list of responsibilities for your website visitors to follow. These are often simple, but worth noting so there’s no confusion over what’s required or expected. 
+
+
+Think about what using your website involves, and the kind of information and actions your visitors take. In this section, you might want to cover your users’ responsibilities around the following: 
+
+
+
+
+ 
+Only accessing the service if they are able to understand and comply with the terms
+ 
+
+
+ 
+Providing accurate and complete information
+ 
+
+
+ 
+Only using payment methods (e.g. credit cards) that they are authorized to use
+ 
+
+
+ 
+Keeping passwords and user accounts secure
+ 
+
+
+ 
+Notifying of any potential breaches or unauthorized account access
+ 
+
+
+
+
+As a service provider or online retailer, you have way more responsibilities than your customers. Still, they need to be aware of their role within the agreement.
+
+
+ 
+
+
+5. Detail Prohibited Activities
+
+
+Most of us use websites and the information within them for their intended purpose. Chances are, most of your website visitors are there to browse your online store, buy, or compare products for a future purchase. Still, some users might have other reasons to use your services.
+
+
+What you consider a prohibited activity may differ from other websites, but here are some common prohibited activities to include on your list: 
+
+
+
+
+ 
+Attempting to or successfully breaching any security or authorization processes
+ 
+
+
+ 
+Disrupting network services
+ 
+
+
+ 
+Introducing malicious code, viruses, trojans, or malware
+ 
+
+
+ 
+Attempting a denial of service or distributed denial of service (DDoS) attack
+ 
+
+
+ 
+A user or their family using their referral link to buy products for themselves 
+ 
+
+
+ 
+Sharing an exclusive discount code with an unintended audience
+ 
+
+
+ 
+Creating user accounts for others without their knowledge
+ 
+
+
+
+
+This list might look alarming, but it’s helpful to be clear that these actions are not acceptable. While many of these are obviously disruptive or harmful, others — like shopping using your own referral link — may not be an immediately obvious term of service violation. Transparency here helps build a better picture of what’s acceptable within your community.
+
+
+ 
+
+
+6. Discuss Website and Content Ownership
+
+
+With any site, you’re likely to have a lot of imagery and content that’s unique to your online store. It’s only natural to want to protect the use of that content through an intellectual property clause. 
+
+
+Photographs, product descriptions, brand names, graphics, logos, and videos are all examples of content that could be covered by intellectual property rights. All of these were created by someone, and owned by you through your own work or the licensing of others’. 
+
+
+You might also want to cover what happens with user-submitted content. Take a look at the 
+Skims terms of service
+ to see how this looks in action: 
+
+
+ 
+
+
+
+
+ 
+
+
+Make sure this section includes a statement that outlines your approach to content rights and clearly explains that you retain ownership of all content. If some content is not owned by you, you can respect this by referring to your “licensors” without needing to list every creator.
+
+
+ 
+
+
+7. Talk About Rights to Access
+
+
+It’s not always clear to the average website user that they shouldn’t take your photos and use them to promote their own store, or to create an impressive Instagram feed. You want people to save images so they can review and compare them for their own personal use, but not for commercial reasons. Make it clear what’s acceptable within your rights to access section. 
+
+
+Feature a statement here that gives your customers rights to view and download content for personal reasons, so they can build their own mini mood board or share images with friends to get their opinions. This is the kind of content sharing you want to encourage. 
+
+
+It’s also important to include wording that clearly sets out unacceptable use — such as the republication, distribution, or sub-licensing of your content. This helps protect you against unauthorized use of your content from copycat websites, competitors, and aggregators. 
+
+
+If you work with influencers, you might want to create an adapted version exclusively for your contracts with them. This would give them a more generous way to share your content, without falling foul of your terms of service. 
+
+
+ 
+
+
+8. Write Your Company's Rights
+
+
+You need a way to enforce your rights against people that decide not to follow your website's terms of service. In this section, you’ll outline what this involves, so it’s clear what the potential outcomes of unauthorized use are. 
+
+
+In most cases, this is simple. You’ll want to be able to do the following: 
+
+
+
+
+ 
+Terminate a user’s account
+ 
+
+
+ 
+Restrict a user’s account access or level
+ 
+
+
+ 
+Take appropriate legal action with the relevant authorities 
+ 
+
+
+
+
+It’s also a great idea to include a waiver here that absolves you from any issues that arise from the way that someone interacts with your website. Here’s how we handle this within our terms of service generator: 
+
+
+“You are solely and entirely responsible for your use of the website and your computer, internet, and data security.
+
+
+You waive the company and its parent, subsidiaries, affiliates, and their respective directors, officers, employees, agents, service providers, contractors, licensors, licensees, suppliers, and successors from any and all claims resulting from any action taken by the company and any of the foregoing parties relating to any, investigations by either the company or by law enforcement authorities.”
+
+
+This makes it clear that it’s the user’s responsibility to follow your terms of service and to be careful of how they navigate the online space. It means that your website visitors can’t then hold you responsible for their own unauthorized use of your website.
+
+
+ 
+
+
+9. Highlight Third-Party Links and Content
+
+
+Almost every website contains links to third party content or websites. While it’s a great idea to be responsible when linking to other websites, you can never guarantee that the content won’t change in the future. This means it’s essential to include a statement about third party links and content. 
+
+
+Here’s an example from 
+Ponyback Hats
+:
+
+
+ 
+
+
+
+
+ 
+
+
+This section doesn’t need to be long. Simply include a line or two about your policy on linking to third party content, and that any link or inclusion is not an endorsement or recommendation. Ask your visitors to follow links at their own risk, and be clear that you’re not responsible for any loss or damage from doing so.
+
+
+ 
+
+
+10. Limitation of Liability, Disclaimers, and Indemnification
+
+
+It’s not very often that you’ll need to enforce it, but you still need to make sure that your terms of service are set up to protect you in case something goes wrong. This makes disclaimers and a limitation of liability clause a must-have. 
+
+
+Even with the best efforts, you’ll run into situations that you can’t control. There may be a disruption to your delivery network, a misdescribed product, or an unsuitable ad shown by your ad network partner. With a robust list of disclaimers, plus a statement of indemnification, your website visitors won’t be able to challenge you for unexpected problems like the above. 
+
+
+At its simplest, you want to make sure that your visitors understand you provide the information on your website “as is” and that there’s no guarantee of things like accuracy, suitability, or availability. 
+
+
+Here’s an excerpt from our own terms of service that covers liability:
+
+
+ 
+
+
+
+
+This is one area of your terms of service where you might want to seek legal advice — especially if the service or products you offer are complex, subject to additional restrictions, or can result in outcomes like personal injury. It’s always best to make sure you’re fully covered, and that there’s no room for interpretation when it comes to your limitation of liability clause.
+
+
+ 
+
+
+11. Include a Privacy Policy
+
+
+Alongside your terms and conditions, your business needs a 
+strong privacy policy
+ that covers everything your website visitors need to know about personal data and privacy. 
+
+
+It’s tempting to consider rolling your terms of service and privacy policy into one document, but that can get overwhelming for your visitors. With most 
+privacy legislation
+ that’s a no-no, as there’s a big focus on clarity and simplicity. Instead, display your privacy policy on a separate page and provide a link through to it. 
+
+
+Getting your privacy policy right is just as essential as making sure your terms of service protect you and your visitors. It’s a must-have, with privacy legislation now in force in many countries and 
+new privacy laws on the horizon
+. If you don’t already have one, our easy-to-read guide on 
+how to create a privacy policy
+ walks you through the process.
+
+
+ 
+
+
+12. Governing Law
+
+
+With people browsing your business from all over the world, you need to make sure they understand what the applicable laws are when it comes to governance. This is commonly shared through a governing law clause. 
+
+
+Share which state, country, or jurisdiction governs the use of your website, and therefore the laws that will apply. Often this is the location where your business is incorporated, or where your head office is located. This makes it easy for you to engage in any legal dispute resolution or arbitration, should you need to. 
+
+
+Here’s an example from our terms of service generator for a business based in British Columbia, Canada:
+
+
+ 
+
+
+
+
+Your governing law clause clearly explains which jurisdiction’s laws apply, and sets the ground for where any dispute resolution takes place. It helps prevent a situation where someone wishes to pursue arbitration in another state or country, which could be detrimental to your cause. 
+
+
+ 
+
+
+13. Other Matters
+
+
+Think of this section as a “catch all” for any other clauses or statements that you want to include, that don’t necessarily fall into the other headings.
+
+
+Here are some examples of areas you might wish to cover in this miscellaneous section: 
+
+
+
+
+ 
+A statement that any headings or sections are for informational purposes only
+ 
+
+
+ 
+A statement about promotional offers and the ability to end them at any time
+ 
+
+
+ 
+A disclaimer about or a link to your warranty provision, if you offer this 
+ 
+
+
+ 
+Links to other policies and documents — for example your refund policy, returns policy, payment terms, or delivery terms
+ 
+
+
+
+
+In this section, it’s also a great idea to feature a statement that covers what happens if any of your clauses aren’t enforceable. 
+
+
+Here’s a simple way to say this:
+
+
+
+
+“Should any part of this Agreement be held invalid or unenforceable, that portion shall be construed consistent with applicable law and the remaining portions shall remain in full force and effect.”
+
+
+
+
+Without a disclaimer like this, you could be open to a challenge that renders none of your terms enforceable. That’s a big problem, which can easily be solved with a few lines of text near the end of your terms of service document.
+
+
+ 
+
+
+14. Add Contact Information
+
+
+While your visitors can find this information elsewhere on your website, it’s best practice to feature your contact details at the end of your terms of service. That way, people can easily get in touch to ask about your terms while they’re on the page.
+
+
+To offer the best experience, including the following: 
+
+
+
+
+ 
+Company name
+ 
+
+
+ 
+Business address (where they can write to you)
+ 
+
+
+ 
+Email address
+ 
+
+
+ 
+Phone number
+ 
+
+
+ 
+Link to a live chat option (if available)
+ 
+
+
+
+
+If you have a dedicated person handling your legal or data privacy communications, name them here or let your visitors know which department to get in contact with. This helps them get an answer faster, and means your customer support team isn’t tied up with transferring calls or chats.
+
+
+ 
+
+
+Terms and Conditions Examples
+
+
+While we've shown you how to write terms to cover legal risks and protect sensitive customer data, it's also possible that you would like to see 
+examples of terms and conditions from other businesses
+ to help you create your own.
+
+
+The link highlighted above will give you the 11 best terms and conditions examples we found on the internet.
+
+
+ 
+
+
+Can I Write My Own Terms and Conditions or Do I Need a Lawyer? 
+
+
+Yes, you can write your own Terms and Conditions.
+
+
+Many large companies hire lawyers to write their Terms and Conditions. However, you don't need a lawyer or attorney to create legally enforceable Terms and Conditions. You can just write your own Terms and Conditions from scratch or, better yet, use Terms and Conditions solutions like templates and generators. These methods will not only save you money, but they will also give you a clearer idea of how to run your service. Specifically, you'll get a better understanding of:
+
+
+
+
+How to manage legal and financial risks
+
+
+How you can protect your intellectual property
+
+
+How to regulate user behavior and content
+
+
+How to manage customer expectations
+
+
+
+
+ 
+
+
+The Best Ways To Create a Terms and Conditions Agreement
+
+
+As touched upon above, there are three main ways to create Terms and Conditions for your site:
+
+
+ 
+
+
+Do-It-Yourself (DIY)
+
+
+If you have plenty of time, consider creating a Terms and Conditions agreement from scratch. A DIY approach lets you insert any language or clauses you want into your agreement. It'll also give you an extremely solid idea of how to run your service since you're manually writing every clause.
+
+
+ 
+
+
+Use a Terms and Conditions Template
+
+
+If you don't have that much time and prefer having a set of guidelines to follow, consider using a Terms and Conditions template. 
+
+
+A template has all of the language and sections you need to create a comprehensive Terms and Conditions agreement. However, it doesn't limit you to what's already provided. Feel free to add, remove, and edit existing language and clauses in Word, Adobe Acrobat, or Google Docs so the finished product says what you want it to say.
+
+
+ 
+
+
+👉 Download Enzuzo's 
+Free Terms and Conditions Template in Google Docs
+
+
+ 
+
+
+Terms and Conditions Generator
+
+
+Finally, if you're running low on energy and time, consider using 
+Enzuzo's free Terms and Conditions generator
+. Unlike templates and DIY solutions, our generator doesn't require you to write anything. You just have to answer questions about the following:
+
+
+
+
+Your legal business name
+
+
+Business mailing address
+
+
+Street address, including city, state or province, and your zip/postal code
+
+
+Your website's URL
+
+
+Your company email address
+
+
+Your company phone number
+
+
+The governing law for your Terms and Conditions agreement
+
+
+Your privacy policy's URL
+
+
+
+
+Our generator will then use your answers to generate a complete Terms and Conditions agreement for your site.
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Osman Husain
+
+
+Osman is the content lead at Enzuzo. He has a background in data privacy management via a two-year role at ExpressVPN and extensive freelance work with cybersecurity and blockchain companies. Osman also holds an MBA from the Toronto Metropolitan University.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Achieve seamless compliance and reduced privacy risks.
+
+
+
+
+
+
+
+
+
+
+By Industry
+
+
+
+
+
+
+Agencies
+
+
+Ecom/Retail
+
+
+Enterprise
+
+
+Shopify Plus
+
+
+Mobile Apps
+
+
+Webflow Cookie Plugin
+
+
+
+
+
+
+
+
+
+
+By Regulation
+
+
+
+
+
+
+GDPR
+
+
+CCPA/CPRA
+
+
+LGPD
+
+
+Quebec's Law 25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cookie Consent
+
+
+
+
+
+
+Consent management
+
+
+Cookie banner generator
+
+
+Google consent mode
+
+
+Compliance scanner
+
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+
+Contact
+
+
+Pricing
+
+
+Demo
+
+
+Become a partner
+
+
+Compliance checklist
+
+
+Compare Enzuzo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Legal Policies
+
+
+
+
+
+
+Privacy Policy generator
+
+
+Terms of Service generator
+
+
+EULA generator
+
+
+SSA generator
+
+
+Return Policy generator
+
+
+
+
+
+
+
+
+
+
+Customers
+
+
+
+
+
+
+Case Studies
+
+
+Enzuzo examples
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+
+Blog
+
+
+Help
+
+
+Legal glossary
+
+
+Privacy 101 guides
+
+
+
+
+
+
+
+
+
+
+Manage Data
+
+
+
+
+
+
+DSAR Management
+
+
+Data mapping
+
+
+Impact assessment
+
+
+Manage vendor risk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@2025 Enzuzo. All rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Legal Stuff
+
+
+Privacy Policy
+
+
+Terms of Service
+
+
+SSA
+
+
+Make a Data Request
+
+
+Manage Cookies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+

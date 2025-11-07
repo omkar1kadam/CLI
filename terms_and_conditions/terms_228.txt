@@ -1,0 +1,426 @@
+Terms of Use | Plaid
+Skip to main content
+Products
+Payments
+Fraud and Compliance
+Personal Finance Insights
+Credit Underwriting
+Open Finance
+Layer
+Boost conversion with instant onboarding
+Link
+Instantly link usersâ financial accounts
+Use cases
+Lending
+Wealth
+Pay by bank
+Banks & credit unions
+Business finances
+Crypto
+Property management
+Mortgage
+Pricing
+Developers
+Quickstart
+API documentation
+Libraries
+GitHub
+Link demo
+Resources
+Whatâs new
+Blog
+Library
+Industry resources
+Customer stories
+Annual conference
+What is Plaid
+For consumers
+Troubleshoot account connection
+Trust and safety
+Control your data with Plaid Portal
+Log in
+Contact sales
+Products
+Payments
+Fraud and Compliance
+Personal Finance Insights
+Credit Underwriting
+Open Finance
+Layer
+Boost conversion with instant onboarding
+Link
+Instantly link usersâ financial accounts
+Use cases
+Lending
+Wealth
+Pay by bank
+Banks & credit unions
+Business finances
+Crypto
+Property management
+Mortgage
+Pricing
+Developers
+Quickstart
+API documentation
+Libraries
+GitHub
+Link demo
+Resources
+Whatâs new
+Blog
+Library
+Industry resources
+Customer stories
+Annual conference
+What is Plaid
+For consumers
+Troubleshoot account connection
+Trust and safety
+Control your data with Plaid Portal
+Log in
+Contact sales
+Legal
+Language:Â 
+ 
+DEVELOPER TERMS OF USE
+Last Updated: 
+January 19, 2024
+Thanks for your interest in testing out Plaid! These Terms of Use (these âTermsâ) are our rules for our sandbox and development environments. They apply solely to your use of Plaid's customer-facing products or services in these environments. For terms that apply to our data partners that provide data to Plaid via access to their application program interfaces, please see the section below titled â
+Data Partner Terms of Use
+â.
+By clicking âI agree,â âContinue,â or a similar checkbox or button or accessing or using the Services, you indicate your assent to be bound by these Terms. If you do not agree to these Terms, do not use or access the Services. These Terms contain mandatory arbitration provisions that require the use of arbitration to resolve disputes. Please read it carefully.
+These Terms are between Plaid Inc. (f.k.a. Plaid Technologies, Inc.), a Delaware corporation (âPlaidâ) and entity or person accessing or using Plaid's development or sandbox environment (âClientâ). If you are accessing or using the Plaid development or sandbox environment on behalf of another entity, then that entity is the Client. Plaid may modify these Terms from time to time in accordance with Section 10 (Modifications) below.
+1. ACCESS RIGHTS; RESTRICTIONS
+1.1 Access.
+ Subject to the Client's compliance with the terms and conditions of these Terms, Plaid hereby agrees that during the term of these Terms, the Client has the non-exclusive right to: (i) internally use the package of application programming interface materials provided by Plaid (the âAPI Packageâ) solely as necessary to make an application owned and operated by the Client (the âClient Applicationâ) interoperate with the Plaid services described on
+ 
+https://www.plaid.com/
+ 
+(collectively with the API Package, the âServicesâ), (ii) use the Services in such Client Application provided to end users (consumers or businesses) (the âEnd Usersâ) solely for internal evaluation of the Services, and (iii) use the End User information and data provided via the Services (the âOutputâ) solely in such Client Application for such internal evaluation use case. All use of the Services and Output must be only as provided in these Terms, only in accordance with Plaid's applicable technical user documentation and subject to the internal evaluation use case
+1.2 Restrictions.
+ Unless Plaid specifically agrees in writing, Client will not, and will not enable or assist any third-party to: (i) attempt to reverse engineer (except as permitted by law), decompile, disassemble, or otherwise attempt to discover the source code, object code, or underlying structure, ideas, or algorithms of the Services; (ii) modify, translate, or create derivative works based on the Services; (iii) make the Services or Output available to, or use the Services or Output for the benefit of anyone other than Client or End Users; (iv) sell, resell, license, sublicense, distribute, rent or lease any Services or Output to any third-party, or include any Services or Output in a service bureau, time-sharing, or equivalent offering; (v) publicly disseminate information from any source regarding the performance of the Services or Output; or (vi) attempt to create a substitute or similar service through use of, or access to, the Services or Output. Client will use the Services and Output only in compliance with (a) the rights granted hereunder, (b) the Plaid developer policies (available at
+ 
+https://www.plaid.com/legal
+), and (c) any agreements between Client and End Users (for clarity, including any privacy policy or statement). Notwithstanding anything to the contrary, the Client accepts and assumes all responsibility for complying with all applicable laws and regulations in connection with all of Client's activities involving any Services, Output, or End User data. In addition, Client acknowledges and agrees that Plaid is neither a âconsumer reporting agencyâ nor a âfurnisherâ of information to consumer reporting agencies under the Fair Credit Reporting Act (âFCRAâ) and the Output is not a âconsumer reportâ under the FCRA and cannot be used as or in such. Client represents and warrants that it will not, and will not permit or enable any third-party to, use the Services (including Output) as a or as part of a âconsumer reportâ as that term is defined in the FCRA or otherwise use the Services (including Output) such that the Services (including Output) would be deemed âconsumer reportsâ under the FCRA. Client will comply with the provisions set forth in any product- or territory specific exhibit, addendum, or other document attached to these Terms, but such provisions will only apply if Client uses the Service set forth in such document.
+1.3 Ownership.
+ Except for the rights expressly granted under this Section 1, Plaid reserves and retains all right, title, and interest in and to the Services which includes but is not limited to the API Package and any related Output (except for raw End User data, which belongs to the End User), software, products, works, and other intellectual property created, used, or provided by Plaid for the purposes of these Terms. To the extent the Client provides Plaid with any feedback relating to the Services (including, without limitation, feedback related to usability, performance, interactivity, bug reports and test results) (âFeedbackâ), Plaid will own all right, title and interest in and to such Feedback (and the Client hereby makes all assignments necessary to achieve such ownership).
+1.4 Privacy and Authorizations.
+ Before any End User engages with the Client Application in a manner that uses the Services, the Client warrants and will ensure that it provides all notices and obtains all consents required under applicable law to enable Plaid to process End User data in accordance with Plaid's privacy policy (currently available at
+ 
+https://www.plaid.com/privacy
+). Client will not (i) make representations or other statements with respect to End User data that are contrary to or otherwise inconsistent with Plaid's privacy policy or (ii) interfere with any independent efforts by Plaid to provide End User notice or obtain End User consent.
+1.5 Permitted Users.
+ Client may permit its employees, agents, contractors and service providers to access the Services and Output on Client's behalf (âPermitted Usersâ), provided that Client remains responsible for their compliance with all of the terms and conditions of these Terms (including without limitation terms relating to use of Services and Output) and that any such use of the Output and Services is for the sole benefit of Client. If Client enables any third parties as Permitted Users, Client (and not Plaid) remains solely responsible for its relationships with such third parties and for any related billing matters, technical support, or disputes.
+2. DEVELOPMENT ACCOUNTS
+Plaid may offer free sandbox or development accounts for the Services ("Development Accounts"). Client may use Development Accounts solely for internal evaluation of the Services to determine whether to enter into a paid commercial relationship with Plaid, and not for production access or any other purpose. In using Development Accounts, Client must comply with Plaid's relevant documentation, policies, and instructions, including as relates to the data types and use cases eligible for Development Accounts. Plaid may make available different types of Development Accounts, and each Development Account may have limited functionality and other usage limits. Plaid may modify or disable Development Accounts (and delete related data submitted by Client or provided by Plaid) without notice or liability to Client. Plaid has no support obligations for Development Accounts. Subject to this paragraph, Development Accounts remain subject to the terms and conditions of these Terms, including without limitation Sections 1.2 (Restrictions) through 1.5 (Permitted Users), 3 (Compliance Reviews), 7 (Warranty; Disclaimer) and 8 (Limitation of Liability).
+3. COMPLIANCE REVIEWS
+To access or use the Services, Client must successfully pass Plaid's compliance reviews, which may include automated verifications, online questionnaires, and requests for information ("Compliance Reviews"). As part of the Compliance Reviews, Client must provide prompt responses to Plaid's requests for information about Client, the Client Application, Client's business and associated entities, and Client's intended use of the Services. Client represents and warrants that all information it provides to Plaid as part of Compliance Reviews will be accurate and complete, and Client will immediately notify Plaid if any previously provided information is out-of-date or becomes inaccurate. Client may be required to complete more than one Compliance Review, for instance, to enable Development Accounts or upgrade to production access, or as requested by Plaid based on changes in Client's use of the Services or increased risk factors. Client's passage or failure of any Compliance Review is in Plaid's sole discretion. If Client fails any Compliance Review or fails to provide prompt and complete responses within three business days after Plaid's requests for information (even if Client has passed a previous Compliance Review or received provisional access to the Services), Plaid may suspend, revoke, or terminate Client's access to the Services, without notice or liability to Client.
+4. TERM; TERMINATION
+These Terms will commence on the Effective Date and will continue in effect unless terminated in accordance with these Terms. Either party may terminate these Terms in the event the other party materially breaches the terms of these Terms and fails to cure such breach within ten (10) days from receipt of written notice thereof. In addition, Plaid may immediately suspend the Services in the event it determines or believes that (a) there is unauthorized access to the Services via Client's account, (b) continued provision of the Services may do material harm to Plaid or its networks or systems or reputation or subject Plaid to liability, or (c) Client materially breached Section 1 of these Terms. Plaid may terminate these Terms for any reason and without cause upon written notice to Client. But for Section 1.1, all provisions of these Terms will remain in force in the event of termination.
+5. CONFIDENTIALITY
+During the term of these Terms, each party (a âDisclosing Partyâ) may disclose, under these Terms, the other party (a âReceiving Partyâ) with confidential and/or proprietary materials and information of the first party (âConfidential Informationâ). All materials and information disclosed by Disclosing Party to Receiving Party under these Terms and identified at the time of disclosure as âConfidentialâ or bearing a similar legend, and all such other information that the Receiving Party reasonably should have known was the Confidential Information of the Disclosing Party, will be considered Confidential Information; for the avoidance of doubt, the Service, all pricing information and terms of these Terms, are Confidential Information of Plaid. Receiving Party will maintain the confidentiality of the Confidential Information and will not disclose such information to any third-party without the prior written consent of Disclosing Party. Receiving Party will only use the Confidential Information internally for the purposes contemplated under these Terms. The obligations in this Section 5 will not apply to any information that: (i) is made generally available to the public without breach of these Terms, (ii) is developed by the Receiving Party independently from the Disclosing Party's Confidential Information, (iii) is disclosed to Receiving Party by a third-party without restriction, or (iv) was in the Receiving Party's lawful possession prior to the disclosure to the Receiving Party and was not obtained by the Receiving Party either directly or indirectly from the Disclosing Party. Receiving Party may disclose Confidential Information as required by law or court order; provided that, Receiving Party provides Disclosing Party with prompt written notice thereof and uses its best efforts to limit disclosure. At any time, upon Disclosing Party's request, Receiving Party will return to Disclosing Party all Disclosing Party's Confidential Information in its possession, including, without limitation, all copies and extracts thereof. Notwithstanding the foregoing, (a) Receiving Party may disclose Confidential Information to any third-party to the limited extent necessary to exercise its rights, or perform its obligations, under these Terms; provided that, all such third parties are bound in writing by obligations of confidentiality and non-use at least as protective of the Disclosing Party's Confidential Information as these Terms and (b) all Feedback and the API Package will be solely Plaid's âConfidential Information.â
+6. INDEMNITY
+The Client will defend, indemnify and hold Plaid harmless from and against all third-party claims, actions, proceedings, regulatory investigations, damages, losses, judgments, settlements, costs and expenses (including attorneys' fees), arising from or in connection with: (i) Client breach of any laws or regulations (including with respect to privacy); (ii) Client's or any Permitted User's use of the Services and Output; or (iii) Client's violation of any agreements it has with any End User.
+7. WARRANTY; DISCLAIMER
+THE SERVICES ARE PROVIDED âAS IS.â TO THE FULLEST EXTENT PERMITTED BY LAW, NEITHER PLAID NOR ITS AFFILIATES, SUPPLIERS, LICENSORS, AND DISTRIBUTORS MAKE ANY WARRANTY OF ANY KIND, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR ANY WARRANTY THAT THE SERVICES ARE FREE FROM DEFECTS. PLAID DOES NOT MAKE ANY WARRANTY AS TO THE OUTPUT THAT MAY BE OBTAINED FROM USE OF THE SERVICES. CLIENT, IF AN INDIVIDUAL, MAY HAVE OTHER STATUTORY RIGHTS; HOWEVER, TO THE FULLEST EXTENT PERMITTED BY LAW, THE DURATION OF STATUTORILY REQUIRED WARRANTIES, IF ANY, SHALL BE LIMITED TO THE SHORTEST PERIOD PERMITTED BY LAW.
+8. LIMITATION OF LIABILITY
+TO THE FULLEST EXTENT PERMITTED BY LAW, NEITHER PLAID NOR ITS AFFILIATES, SUPPLIERS, LICENSORS, AND DISTRIBUTORS WILL BE LIABLE UNDER THESE TERMS FOR ANY: (A) INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES; (B) LOSS, ERROR, OR INTERRUPTION OF USE OR DATA (IN EACH CASE, WHETHER DIRECT OR INDIRECT); OR (C) COST OF COVER OR LOSS OF BUSINESS, REVENUES, OR PROFITS (IN EACH CASE WHETHER DIRECT OR INDIRECT), EVEN IF THE PARTY KNEW OR SHOULD HAVE KNOWN THAT SUCH DAMAGES WERE POSSIBLE. TO THE FULLEST EXTENT PERMITTED BY LAW, PLAID'S AGGREGATE LIABILITY IN CONNECTION WITH THESE TERMS WILL NOT EXCEED ONE HUNDRED DOLLARS (US$100.00). THE PARTIES AGREE THAT THE WAIVERS AND LIMITATIONS SPECIFIED IN THIS SECTION 8 APPLY REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR OTHERWISE AND WILL SURVIVE AND APPLY EVEN IF ANY LIMITED REMEDY SPECIFIED IN THESE TERMS ARE FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
+9. MISCELLANEOUS
+If any provision of these Terms are found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that these Terms will otherwise remain in full force and effect and enforceable. These Terms are not assignable or transferable by Client except with Plaid's prior written consent; provided, however, that Client may, upon prior written notice to Plaid, transfer and assign its rights and obligations under these Terms to an affiliate or in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of its assets to which these Terms relate. If such a transfer or assignment is made in favor of a direct competitor of Plaid, then Plaid may terminate these Terms upon written notice to Client. Plaid may freely assign these Terms. These Terms are the complete and exclusive statement of the mutual understanding of the parties and supersedes and cancels all previous written and oral agreements, communications, and other understandings relating to the subject matter of these Terms, and all waivers and modifications must be in a writing signed by both parties, except as otherwise provided herein. No agency, partnership, joint venture, or employment is created as a result of these Terms. Any notices in connection with these Terms will be in writing and sent by first class mail, confirmed facsimile or major commercial rapid delivery courier service to the address specified above (or such other address as may be properly specified by written notice hereunder). Email notice will be permitted by Plaid if sent to the Client's account email address. All notices to Plaid will be sent to: Plaid Inc., P.O. Box 7775 #35278, San Francisco, CA 94120, Attn: Legal; with a copy (which does not constitute notice) to legalnotices@plaid.com. Any delay in or failure of performance by either party under these Terms will not be considered a breach of these Terms and will be excused to the extent caused by any occurrence beyond the reasonable control of such party including, but not limited to, acts of God, power outages, governmental actions and requirements, and the acts and omissions of Plaid's data suppliers. During the term of these Terms, (a) Client agrees to participate in case studies and other similar marketing efforts reasonably requested by Plaid; (b) Plaid may disclose that Client is a Plaid customer to third parties; and (c) Plaid may include on and in Plaid's website, case studies, marketing materials, and conference presentations and other speaking opportunities, Client's testimonials and other feedback regarding the Services, name, website URL, use case, and logo and other marks. Upon request from Client, Plaid will promptly stop making the disclosure and use described in the foregoing sentence except to the extent already included in any then-existing materials. These Terms will be governed by the laws of the State of California, without regard to the conflict of law provisions thereof. The application of 1980 United Nations Convention on Contracts for the International Sale of Goods is expressly excluded. Except for claims for injunctive or equitable relief or claims regarding intellectual property rights (which may be brought in any competent court), any dispute arising under these Terms will be finally settled in accordance with the Comprehensive Arbitration Rules of the Judicial Arbitration and Mediation Service, Inc. (âJAMSâ) by a single arbitrator appointed in accordance with such Rules. The arbitration will take place in San Francisco, California, USA, in the English language and the arbitral decision may be enforced in any court. With respect to all disputes arising in relation to these Terms, but subject to the preceding arbitration provision, the parties consent to exclusive jurisdiction and venue in the state and Federal courts located in San Francisco, California.
+10. MODIFICATIONS
+From time to time, Plaid may modify these Terms. Plaid will use commercially reasonable efforts to notify Client of the modifications and the effective date of such modifications through communications via Client's account, email, or other means. Client must accept the modifications to continue accessing or using Development Accounts. If Client objects to the modifications, its exclusive remedy is to cease any and all access and use of Development Accounts. Client may be required to click to accept or otherwise agree to the modified Terms in order to continue accessing or using the Services, and in any event continued access or use of the Services after the modified version of these Terms goes into effect will constitute Client's acceptance of such modified version.
+EXHIBIT A
+âAssetsâ Product Specific Provisions
+THE FOLLOWING PROVISIONS WILL ONLY APPLY IF CLIENT USES PLAID'S âASSETSâ PRODUCT.
+Subject to this Exhibit A, Client may request that Plaid disclose Output to Client's Secondary Investors. "
+Secondary Investor
+â means a third-party investor or purchaser of a financial product originated by Client and provided to an End User (e.g. a loan), with which investor or purchaser Plaid maintains a separate technical integration.
+Client represents and warrants to Plaid that, before disclosure of Output to any Secondary Investor, Client will provide all required notices to and obtain all required consents (including notices and consents required under applicable law) from the applicable End User with respect to Plaid's disclosure of Output to such Secondary Investor.
+Notwithstanding any Plaid technical integration or anything else in the Terms to the contrary: (a) Client is solely responsible for its own relationships with Secondary Investors, including any related billing matters, technical support, or disputes; (b) Client will enter into legally binding written Terms with each Secondary Investor that are consistent with this Exhibit A and all applicable terms and conditions of the Terms, including, without limitation, Section 1.1 (Access) and 1.2 (Restrictions); and (c) Client will remain responsible for compliance by Secondary Investors with all of the terms and conditions of the Terms (including, without limitation, terms relating to use of Output).
+Client's indemnification obligations in Section 5 of the Terms are deemed to include (a) any breach by Client of this Exhibit A, (b) any acts or omissions of Secondary Investors, and (c) any dispute arising among Client, Secondary Investors, and/or End Users relating to the disclosure or use of Output as contemplated in this Exhibit A.
+EXHIBIT B
+EU Service Terms
+RAISP
+. Client acknowledges that the API service endpoints with respect to European financial institutions supported by Plaid (the â
+EU Services
+â) are provided by Plaid Financial LLC (â
+Plaid Financial
+â) pursuant to Plaid Financial's registration with the UK's Financial Conduct Authority as a Registered Account Information Service Provider (RAISP). On behalf of its affiliate, Plaid Financial, Plaid agrees that Plaid Financial is an express party to the Terms in connection with such EU Services. References to Plaid in this Exhibit B and in the Terms will also refer to Plaid Financial with respect to the EU Services. For clarity, the EU Services are deemed Services under the Terms. Plaid may request changes to this Exhibit B in connection with regulatory obligations, with such changes effective upon written notice to Client; provided that Client may object to the changes in writing within thirty (30) days of receiving notice from Plaid. Upon Client objection, the EU Services will be immediately suspended and the Parties will negotiate in good faith regarding the changes; provided that each Party will have the right to terminate the EU Services upon seven (7) days' prior written notice in the event of a failure to agree to such changes.
+Data Handling
+. Client acknowledges that Plaid processes personal data about End Users who are natural persons (â
+Data Subjects
+â) as an independent data controller, and that Plaid may process such data in the United States. The Parties will conduct the transfer by Client of any such personal data from the UK, Switzerland or European Economic Area to Plaid in the United States in accordance with this Section 2.
+If Plaid maintains an active certification under the EU-U.S. and Swiss-U.S. Privacy Shield Framework maintained by the U.S. Department of Commerce (â
+Privacy Shield
+â) and the Privacy Shield is currently in effect, then any such data transfer shall occur pursuant to the Privacy Shield.
+If the Privacy Shield has been invalidated or if Plaid does not maintain an active certification under the Privacy Shield, then any such data transfer will be conducted pursuant to the Standard Contractual Clauses (which will be deemed executed and signed, where appropriate, by the parties as of the Effective Date), and the following terms will apply: (i) Client will be referred to as the âdata exporterâ and Plaid will be referred to as the âdata importerâ in such clauses with relevant details from this Exhibit B being used accordingly; (ii) for purposes of clause II(h) of the Standard Contractual Clauses, the data importer will process the personal data in accordance with the data processing principles set forth in Annex A of the Standard Contractual Clauses; (iii) details in
+ 
+Schedule 1 to Exhibit B
+ will be used to complete Annex B of the Standard Contractual Clauses; and (iv) if there is any conflict between this Exhibit B and the Standard Contractual Clauses, the Standard Contractual Clauses will prevail. â
+Standard Contractual Clauses
+â means 2004/915/EC: Commission Decision of 27 December 2004 amending Decision 2001/497/EC as regards the introduction of an alternative set of standard contractual clauses for the transfer of personal data to third countries (notified under document number C(2004) 5271) (the text of which is available at:
+ 
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32004D0915
+). The parties agree that the terms of this section will apply to any audit conducted pursuant to the Standard Contractual Clauses. Client will cooperate in good faith with Plaid to schedule any such audit on a mutually agreed upon date and time (such agreement not to be unreasonably withheld by either party). Client will not conduct any such audit more than once per calendar year. In connection with any such audit, Client will ensure the auditor: (a) prior to commencing the audit, enters into a suitable nondisclosure agreement containing obligations of confidentiality no less stringent than those contained in the Terms; (b) observes reasonable on-site access and other restrictions reasonably imposed by Plaid; (c) complies with applicable on-site policies and procedures provided by Plaid; and (d) does not unreasonably interfere with Plaid's business activities. Client's auditor will have no right to access any information subject to third-party confidentiality obligations. Client will provide written communication of any audit findings to Plaid, and such findings will be deemed the confidential information of Plaid.
+Schedule 1 to Exhibit B
+Standard Contractual Clauses - Annex B
+Data Subjects
+. The personal data transferred concern the following categories of data subjects:
+Prospective, current, and former customers of Data Exporter (each, an â
+End User
+â).
+Purposes of Transfer(s)
+. The transfer is made for the following purposes:
+for the provision of the services by Data Importer to Data Exporter; and
+for the protection, improvement, and development of the services of Data Importer, and as otherwise outlined in the privacy policy of the Data Importer.
+Categories of Data
+. The personal data transferred concern the following categories of data:
+Data from or about an End User collected during the provision of services by Data Importer, which may include, but is not limited to, the following categories:
+account information, such as account name and account number;,
+account owner information, such as full name, address, phone, and email address;
+financial account details, such as account transactions and account balances,
+login information required by a financial institution, such as username and password; and
+information received from the device of the End User.
+Recipients
+. The personal data transferred may be disclosed only to the following recipients or categories of recipients:
+service providers, partners, contractors, representatives, affiliates, and agents of Data Importer in connection with the services they perform for Data Importer.
+Sensitive Data (where applicable)
+. The personal data transferred concern the following categories of sensitive data:
+Not applicable.
+Data Protection Registration Information of Data Exporter (where applicable)
+.
+Not applicable.
+Additional Useful Information (storage limits and other relevant information)
+.
+Not applicable.
+EXHIBIT C
+âIncomeâ and âEmploymentâ Services Specific Provisions
+THE FOLLOWING PROVISIONS WILL ONLY APPLY IF CLIENT USES PLAID'S âINCOMEâ AND/OR âEMPLOYMENTâ SERVICES.
+Subject to the Terms and this Exhibit C, in connection with Plaid's âIncomeâ and âEmploymentâ services set forth on the applicable Order (such services, the â
+Income and Employment Services
+â):
+Requested Information
+. In connection with certain features and functionalities of the Income and Employment Services, Client may be required to provide to Plaid certain End User information and documentation, including without limitation, the End User's name, phone number, employer's name, account information, and payroll information and documentation (such End User information and documentation, the â
+Requested Information
+â). Client represents and warrants that (a) all Requested Information provided to Plaid is true, accurate, and complete and (b) Client has provided all notices and obtained all consents required under applicable laws, regulations, and third-party agreements for (i) Client to share all Requested Information with Plaid and (ii) Plaid to collect, use, disclose, and otherwise process all Requested Information in accordance with Plaid's privacy policy (currently available at:
+ 
+https://plaid.com/legal/#end-user-privacy-policy
+), including without limitation, to provide the Income and Employment Services to Client. Client further covenants that it will not (a) make representations or other statements with respect to any Requested Information that are contrary to or otherwise inconsistent with the Terms, this Addendum, or Plaid's privacy policy or (b) interfere with any independent efforts by Plaid to provide End User notice or obtain End User consent. The parties acknowledge and agree that the Services include the Income and Employment Services, and any information of or related to End Users that is provided to Client via the Income and Employment Services will be considered Output for purposes of the Terms and this Addendum.
+Secondary Investors
+. Client may request that Plaid disclose Output for the Income and Employment Services to Secondary Investors using the token integration mutually agreed to by Plaid and Client. â
+Secondary Investor
+â means a third-party investor or purchaser of a financial product originated by Client and provided to an End User (e.g. a loan), with which investor or purchaser Plaid maintains a separate technical integration. Client represents and warrants that Client has provided all notices and obtained all consents required under applicable laws, regulations, and third-party agreements for Plaid's disclosure of Output to Secondary Investors. Notwithstanding any Plaid technical integration or anything in the Terms or this Addendum to the contrary, (a) Client is solely responsible for its own relationships with Secondary Investors, including any related billing matters, technical support, or disputes; (b) Client will enter into legally binding written agreements with each Secondary Investor that are consistent with all applicable Terms and this Addendum, including, without limitation, Sections 1.1 (Access) and 1.2 (Restrictions) of the Terms and other terms and conditions relating to use of Output; and (c) Client will remain responsible for Secondary Investors' compliance with all such terms and conditions.
+Income: Payroll
+. If Client's Order for the Income and Employment Services includes Plaid's âIncome: Payrollâ service, the net unit pricing set forth therein for such service may be subject to modification or additional charges included by Plaid in the future as may be required by applicable data sources. For the avoidance of doubt, with respect to End User data available through such âIncome: Payrollâ service, Client will not access, use, or otherwise process such End User data, including in aggregated or anonymized form, for any purpose other than the use case reviewed and permitted by Plaid in writing.
+Additional Indemnity
+. Client will defend, indemnify, and hold Plaid harmless against all third-party claims, actions, proceedings, regulatory investigations, damages, losses, judgments, settlements, costs, and expenses (including attorneys' fees) arising from or in connection with any (a) breach by Client of this Addendum, (b) infringement, misappropriation, or other violation of any third party's intellectual property or other rights by any of the Requested Information provided by Client to Plaid, (c) acts or omissions of Secondary Investors related to Output, and (d) dispute arising among Client, Secondary Investors, and/or End Users relating to the disclosure, use, or other processing of Output provided pursuant to this Addendum.
+DATA PARTNER TERMS OF USE
+Last Updated: 
+November 7, 2024
+Thanks for your interest in working with Plaid! These Terms of Use (âTermsâ) govern solely your partnership with Plaid as a data provider, which involves you (âPartnerâ) making available to Plaid Inc. (f.k.a. Plaid Technologies, Inc.), a Delaware corporation (âPlaidâ) certain application program interfaces (APIs), including endpoints associated therewith (collectively, the âData Access Methodâ). If you use or intend to use Plaid's customer-facing products and services in the sandbox and development environments, please see the section above titled â
+Developer Terms of Use
+â.
+By clicking âI agree,â âContinue,â or a similar checkbox or button or by providing the Data Access Method or by accessing or using the Plaid Data Partner Products or Plaid Data Partner Output, you indicate your assent to be bound by these Terms. If you are agreeing to these Terms on behalf of another entity, then that entity is the Partner, and you represent and warrant that you are authorized to do so. If you or the entity you represent provides a platform solution to other entities, including financial institutions, who maintain consumer financial data that is intended to be subject to this data partnership, then references to Partner in these Terms apply to all such entities, and you agree to ensure compliance with these Terms on behalf of yourself and all such entities. Each of Plaid and Partner is a âPartyâ and together they are the âParties.â Plaid may modify these Terms from time to time in accordance with Section 8.8 (Modifications) below.
+1. SPECIFICATIONS; UPDATES
+Partner will implement the Data Access Method per Plaid's standard specifications, as made available by Plaid to Partner and as modified from time to time as set forth in these Terms (the â
+Specifications
+â). Partner must implement updates to the Specifications related to security concerns, compliance with laws, or other exigent circumstances within the period specified by Plaid and ensure continued operation of the Data Access Method.
+2. ACCESS STANDARDS
+Without limiting Section 10, Partner will provide the Data Access Method with the degree of performance, availability, integrity, reliability, and currentness that is (1) at least the same as any similar third party working with Partner (including any Plaid competitors) and (2) substantially similar to what an End User would receive through the websites, mobile applications, or other online locations maintained or managed by or on behalf of Partner through which an End User can access its financial account information or perform certain transactions (â
+Account Sites
+â). Partner will use commercially reasonable efforts to not disable or limit Plaid's access to the Data Access Method or End User Data and the Parties will mutually agree to any throttling of Plaid's access to the Data Access Method; provided that, notwithstanding the foregoing, if Partner needs to disable or limit such access as a result of security concerns or other exigent circumstances, Partner will promptly notify Plaid and will work in good faith with Plaid to resume such access as soon as possible.
+3. COREX
+If the Data Access Method implements the âCoreXâ Specifications, then this Section applies: Partner acknowledges and agrees that the âCoreXâ Specifications are a subset of the Financial Data Exchange (â
+FDX
+â) API specification, the usage thereof (or any part thereof) constitutes acceptance of the FDX API License Agreement, which can be found at https://financialdataexchange.org/. The FDX API specification is distributed exclusively by FDX. Modifications to eliminate required or conditional elements prescribed in the FDX API Certification Use Cases will render any implementations using said modifications non-conformant with the FDX API Certification Use Cases.
+4. PLAID PRIVACY CONTROLS, RISK MANAGEMENT, AND OTHER OPEN FINANCE PRODUCTS AND SOLUTIONS
+If Partner requests and Plaid enables access to Partner for any of Plaid's data provider-facing privacy controls, risk management, and data partner intelligence products and services such as âPermissions Manager,â âApp Directory,â and âData Partner Intelligenceâ including any and all Plaid-provided credentials, dashboards, and technical documentation associated with the foregoing (collectively, the â
+Plaid Data Partner Products
+â), then this Section applies to such enabled Plaid Data Partner Products: Plaid agrees that during the term of these Terms, Partner has the non-exclusive right to use such Plaid Data Partner Products and information provided by Plaid via such Plaid Data Partner Products (such information, the â
+Plaid Data Partner Output
+â), in each case, solely for (1) viewing details of the authorization granted by an End User to Plaid for Plaid's and Plaid customers' access to End User Data of such End User, (2) enabling an End User to view and/or manage the scope of Plaid's and Plaid customers' access to End User Data of such End User, including through a Partner-operated website, application, or portal accessed by such End User, in accordance with such End User's express consent, (3) internal risk assessment associated with establishing and maintaining Plaid's and Plaid customers' access to End User Data, (4) marketing and advertising products and services to End Users based on Plaid's data provider-facing âData Partner Intelligenceâ product and its resultant Plaid Data Partner Output solely in accordance with the applicable End User's express consent, which Partner shall obtain prior to such marketing or advertising, and (5) any other specific use case approved in writing by Plaid (email sufficient); provided that, where applicable as conveyed by Plaid, Partner shall obtain the applicable End User's express consent prior to undertaking such approved use case and only undertake such approved use case in accordance with such consent. Partner will not, and will not authorize or assist any third-party to: (a) attempt to reverse engineer (except as permitted by applicable law), decompile, disassemble, or otherwise attempt to discover the source code, object code, or underlying structure, ideas, or algorithms of the Plaid Data Partner Products; (b) modify, translate, or create derivative works based on the Plaid Data Partner Products; provided that the foregoing does not prohibit Partner from operating a website, application, or portal that enables End Users to view and manage the scope of access to End User Data as contemplated above; (c) make the Plaid Data Partner Products or Plaid Data Partner Output (or any derivative work thereof) available to, or use the Plaid Data Partner Products or Plaid Data Partner Output (or any derivative work thereof) for the benefit of, anyone other than Partner or End Users; (d) sell, resell, license, sublicense, distribute, rent or lease any Plaid Data Partner Products or Plaid Data Partner Output to any third-party; (e) market or advertise products or services to End Users based on information gathered about End Users through the Plaid Data Partner Products or resultant Plaid Data Partner Output except to the extent permitted in clause (4) or (5) of this Section; or (f) use the Plaid Data Partner Products or Plaid Data Partner Output as a or as part of a âconsumer reportâ as that term is defined in the Fair Credit Reporting Act (â
+FCRA
+â) or otherwise use the Plaid Data Partner Products or Plaid Data Partner Output such that the Plaid Data Partner Products or Plaid Data Partner Output would be deemed âconsumer reportsâ under the FCRA.
+5. TRADEMARKS AND PUBLICITY
+During the term of, and subject to, these Terms, each Party grants the other Party the non-exclusive right to use and display its trademarks, service marks, names, and logos (â
+Trademarks
+â) solely to identify the Parties' relationship under these Terms. Plaid's rights include using and displaying Partner's Trademarks within Plaid's and Plaid customers' services (e.g., Plaid Link, Plaid Portal, Plaid Developer Dashboard) and disclosing the general nature of the Parties' relationship to Plaid customers and End Users. Use of a Party's Trademarks is subject to any usage guidelines it provides in writing. Except as expressly provided herein or as required by applicable laws, any press release or other public announcement relating to these Terms is subject to each Party's prior consent.
+6. WARRANTIES; DISCLAIMERS; LIMITATION OF LIABILITY
+Each Party represents and warrants that it has all corporate rights, power, and authority necessary to enter into and perform under these Terms. EXCEPT AS EXPRESSLY SET FORTH HEREIN, NEITHER PLAID NOR ITS AFFILIATES, SUPPLIERS, LICENSORS, CUSTOMERS, AND DISTRIBUTORS MAKES ANY WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT. TO THE FULLEST EXTENT PERMITTED BY LAW, NEITHER PLAID NOR ITS AFFILIATES, SUPPLIERS, LICENSORS, CUSTOMERS, AND DISTRIBUTORS WILL HAVE ANY LIABILITY ARISING OUT OF THESE TERMS, INCLUDING FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE OR CONSEQUENTIAL DAMAGES OF ANY KIND, EVEN IF INFORMED OF THEIR POSSIBILITY IN ADVANCE.
+7. CONFIDENTIAL INFORMATION
+The Receiving Party will hold the Disclosing Party's Confidential Information in confidence (using at least the degree of care the Receiving Party uses for its own similar information) and not disclose such Confidential Information except as permitted in these Terms. The Receiving Party will use the Disclosing Party's Confidential Information solely to fulfill its obligations and exercise its rights in these Terms. The Receiving Party may disclose such Confidential Information to its affiliates and its and their employees, agents, contractors and other representatives having a legitimate need to know, provided it remains responsible for their compliance with this Section and they are bound to confidentiality obligations no less protective than this Section. Without limiting its other obligations, Partner will use the Specifications solely to enable use of the Data Access Method as contemplated in these Terms. This Section does not apply to information (other than the Specifications) that the Receiving Party can document (a) is or becomes public knowledge through no fault of the Receiving Party, (b) it rightfully knew or possessed prior to receipt under these Terms, (c) it rightfully received from another source without breach of confidentiality obligations, or (d) it independently developed without using the Disclosing Party's Confidential Information. The Receiving Party may disclose the Disclosing Party's Confidential Information if required by law, subpoena, or court order, provided (if permitted by law) it notifies the Disclosing Party in advance and cooperates in any effort to obtain confidential treatment. Unauthorized use or disclosure of Confidential Information may cause substantial harm for which damages alone are an insufficient remedy. The Disclosing Party may seek appropriate equitable relief, in addition to other available remedies, for breach or threatened breach of this Section. At the Disclosing Party's request upon expiration or termination of these Terms or otherwise, the Receiving Party will delete all of the Disclosing Party's Confidential Information in its possession. Notwithstanding the foregoing, Confidential Information may be retained in the Receiving Party's standard backups or as required by law, but will remain subject to this Section.
+8. GENERAL
+8.1 Assignment.
+ These Terms are not assignable or transferable by Partner except with Plaid's prior written consent. Any non-permitted assignment is void. Plaid may freely assign these Terms. Each Party may extend its rights or delegate its responsibilities to its affiliates and contractors acting on its behalf, in which case such Party will remain responsible for their compliance with these Terms.
+8.2 Governing Law; Jurisdiction; Venue.
+ These Terms are governed by the laws of the State of California and the United States without regard to conflicts of laws provisions. The jurisdiction and venue for actions related to these Terms will be the state and United States federal courts located in San Francisco, California and both Parties submit to the personal jurisdiction of such courts.
+8.3 Entire Agreement.
+ These Terms (including the Specifications) are the Parties' entire agreement regarding its subject matter and supersedes any prior or contemporaneous agreements regarding its subject matter. If there is a conflict between (i) a provision in a separate non-disclosure agreement or data access agreement between Plaid and Partner and (ii) a provision in this agreement, then such provision in such non-disclosure agreement or data access agreement will govern solely with respect to the subject matter of such conflict. No other online or click-through terms of Partner apply in connection with these Terms.
+8.4 Waivers; Severability.
+ Waivers must be signed by the waiving Party's authorized representative and cannot be implied from conduct. If any of these Terms are held invalid, illegal or unenforceable, it will be limited to the minimum extent necessary so the rest of these Terms remain in effect.
+8.5 Force Majeure.
+ Neither Party will be liable for any delay or failure to perform an obligation under these Terms if such Party's performance is prevented, hindered, or delayed by the occurrence of any act of nature, governmental act, supervening illegality, war, malicious damage, fire, flood, pandemic, explosion, civil commotion, or similar event beyond the reasonable control of the affected Party and which impact could not have been prevented by reasonable precautions (a â
+Force Majeure
+â). The affected Party will promptly notify the other Party of the Force Majeure, its cause and its likely duration.
+8.6 Non-Exclusive; Independent Contractors.
+ Subject to each Party's express obligations in these Terms, these Terms are non-exclusive and do not prevent either Party from entering into a similar agreement with any third party. The Parties are independent contractors, not agents, service providers, joint venturers, or partners, despite use of the term âPartnerâ. Neither Party is acting as a service provider or vendor to the other Party in connection with these Terms, and in Plaid's case, Plaid is acting on behalf of applicable Plaid customers and End Users and is not performing services for Partner within the meaning of the Bank Service Company Act, 12 U.S.C. 1861 et seq.
+8.7 Interpretation.
+ In these Terms, headings are for convenience only and âincludingâ and similar terms are to be construed without limitation.
+8.8 Modifications.
+ From time to time, Plaid may modify these Terms. Plaid will use commercially reasonable efforts to notify Partner of the modifications and the effective date of such modifications through communications via Partner's account, email, or other means. Partner must accept the modifications to continue accessing or using Plaid Data Partner Products. If Partner objects to the modifications, its exclusive remedy is to cease any and all access and use of Plaid Data Partner Products. Partner may be required to click to accept or otherwise agree to the modified Terms in order to continue accessing or using the Plaid Data Partner Products, and in any event continued access or use of the Plaid Data Partner Products after the modified version of these Terms goes into effect will constitute Partner's acceptance of such modified version.
+9. DEFINITIONS
+9.1
+ â
+Confidential Information
+â means information of the Disclosing Party disclosed under these Terms that is designated by the Disclosing Party as proprietary or confidential or that should be reasonably understood to be proprietary or confidential due to its nature and the circumstances of its disclosure. End User Data is not considered Confidential Information. The Specifications are deemed Plaid's Confidential Information and these Terms are deemed each Party's Confidential Information.
+9.2
+ â
+Disclosing Party
+â means the Party that discloses Confidential Information, or on whose behalf Confidential Information is disclosed, to the other Party.
+9.3
+ â
+End User
+â means a person that maintains a financial account with Partner and that uses Plaid services or Plaid customer services as enabled through the Data Access Method under these Terms.
+9.4
+ â
+Receiving Party
+â means the Party that receives Confidential Information, or on whose behalf Confidential Information is received, from the other Party.
+10. BASELINE PERFORMANCE METRICS
+Partner will meet the following baseline performance metrics, which are generally based on FDX specifications and recommendations.
+Metric
+Performance
+Volume
+Partner will support the total number of requests to the Data Access Method as provided by Plaid.
+Availability
+99.9% or higher*
+*Calculation:
+Availability = (Total minutes in a calendar month - Total number of unplanned Downtime Minutes in such calendar month) / Total minutes in such calendar month
+Downtime Minute = A minute during which the Success Rate for API requests to any endpoint of the Data Access Method is below 90%.
+Success Rate = (Total number of API requests to an endpoint of the Data Access Method that returns a response consistent with its specifications / Total number of API requests to such endpoint) * 100. For clarity, the Success Rate calculation will not include API requests in which the applicable endpoint does not return a response consistent with its specifications solely as a result of an error by Plaid.
+Response Time
+Authorization and consent flow UI (e.g., redirect landing pages and page views)
+P50 = 1 second
+P90 = 2 seconds
+30 days of transactions data for an account*
+*Transactions data responses for shorter time periods (e.g., 7 days) or longer time periods (e.g., 2 years) may correspondingly have shorter or longer P50 and P90 response times. For example, transactions data response times for 2 years of transactions should be no higher than P50 = 5 seconds and P90 = 10 seconds.
+ 
+P50 = 0.3 seconds
+P90 = 1 second
+All other endpoints of the Data Access Method
+P50 = 0.2 seconds
+P90 = 0.5 seconds
+Tokens
+Partner will grant Plaid a short-lived access token and a long-lived refresh token for each End User.
+Data Completeness
+Partner will make accessible via the Data Access Method (1) all End User data fields designated as mandatory in the Specifications and (2) all End User data fields designated as optional in the Specifications but are then-available through the Account Sites.
+Ready to get started?
+Get started
+Contact sales
+Products
+Auth
+Identity
+Balance
+Signal
+Transfer
+Identity Verification
+Beacon
+Monitor
+Transactions
+Investments
+Liabilities
+Enrich
+Assets
+Income
+Plaid Link
+Consumer Report
+Layer
+Investments Move
+Protect
+Use Cases
+Banks & credit unions
+Pay by bank
+Mortgage
+Government & public sector
+Property management
+Gaming
+Crypto
+Lending
+Business finances
+Wealth
+Developers
+Quickstart
+API documentation
+Libraries
+GitHub
+Link demo
+About us
+Company
+Careers
+Contact
+Partners
+Press
+Safety
+Legal
+Resources
+Pricing
+Global coverage
+Plaid Blog
+Industry resources
+Annual conference
+Customer stories
+About us
+Company
+Careers
+Contact
+Partners
+Press
+Safety
+Legal
+Resources
+Pricing
+Global coverage
+Plaid Blog
+Industry resources
+Annual conference
+Customer stories
+Use Cases
+Banks & credit unions
+Pay by bank
+Mortgage
+Government & public sector
+Property management
+Gaming
+Crypto
+Lending
+Business finances
+Wealth
+Developers
+Quickstart
+API documentation
+Libraries
+GitHub
+Link demo
+For consumers
+Troubleshoot account connection
+Trust and safety
+How it works
+Plaid Portal
+Delete my data
+End user privacy policy
+Biometric Policy
+FAQs
+Plaid Consumer Reporting Agency, Inc.
+For financial institutions
+Open Finance Solution
+Core Exchange
+Permissions Manager
+App Directory
+Choose...
+United States
+United Kingdom
+European Union
+Â© 
+2025
+ 
+Plaid Inc.

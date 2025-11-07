@@ -1,0 +1,103 @@
+Trimble legal terms and conditions
+Skip to content
+Trimble Legal
+This section contains information about Trimble agreement terms, intellectual property, policies, compliance, and similar matters. If you have comments or questions, please 
+contact us
+.
+Customers
+The following terms and conditions may apply for purchases of products and services from Trimble or its affiliates, unless there is a separate written agreement between the parties.
+Customer Terms
+, which apply when referenced in a quotation or similar document for the provision of products and services by Trimble. 
+Offering Terms
+, which apply to transactions through an authorized reseller or a Trimble online store, primarily for software, SaaS, and subscriptions. 
+eCommerce Transaction Terms
+, which apply to the purchase of certain products and professional services through Trimble eCommerce solutions when referenced in that eCommerce solution.
+Terms and Conditions for Services
+, which apply when referenced in a statement of work or similar document for the provision of services by Trimble. 
+Terms and Conditions of Sale
+, which apply when referenced in a quotation or similar document for the provisions of certain hardware-centric products and services by Trimble.
+ 
+Supplemental Terms for eCommerce Purchases
+, which apply to purchases through a Trimble online store or portal governed by the Customer Terms, Offering Terms, Site Terms of Use, or Learn. Trimble Terms of Service.
+Vendors and Suppliers
+The following terms and conditions may apply for the supply of products and services to Trimble or its affiliates, unless there is a separate written agreement between the parties.
+Terms of Purchase
+, which apply when referenced in a quotation or similar document for the provisions of goods to Trimble.
+Terms and Conditions for Inbound Services
+, which apply when referenced in a statement of work or similar document for the provision of services to Trimble. 
+AI Supplemental Terms
+, which apply when referenced in an agreement or similar document for the provision of services to Trimble where those services include AI functionality and/or features.
+Third-Party Compliance and Ethics
+Developers
+Developer Terms
+, which apply to users of Trimble's Developer Portal and/or Developer Toolkit.
+ 
+Websites and Web Properties
+Site Terms of Use
+, which apply to the access to and use of Trimble websites and web properties (such as online portals or online services) when referenced on those websites and web properties.
+Intellectual Property
+Trimble Trademark Usage Guidelines
+Digital Millennium Copyright Act (DMCA) and EU Digital Services Act (DSA)
+ - 
+Notice and procedure for making claims of copyright infringement
+.
+Policies and Compliance
+Code of Business Conduct and Ethics
+Corporate Governance Documents and Public Trimble Policies
+Corporate Compliance
+ - small business program, trade compliance, etc. 
+Product Environmental Compliance
+ - product life cycle, sourcing, conflict minerals, quality, safety, disposal, etc.
+Privacy
+Trimble Privacy Center
+Trimble Privacy Notice
+California Notice at Collection
+Your Privacy Choices (US residents)
+ 
+ 
+Events
+Mobile Application Terms
+Attention
+We tried to combine the products in your guest cart with your saved cart, but we encountered an issue while merging them. When choosing a subscription, please select either monthly or yearly as they cannot be combined. Kindly review your cart before proceeding to checkout.
+Continue
+Cart updated
+Some items in your cart are not available for purchase in your region, so we removed them. Please review your cart before proceeding.
+
+        Items Removed:
+ undefined
+OK
+Attention
+The software you are trying to purchase is not available in your country or region.
+OK
+Cart updated
+The items in your cart have been updated for two reasons. Firstly, the prices now match the currency linked to your account address. Secondly, some items have been removed because they are not available for purchase in your region. Please review your cart before proceeding.
+
+        Items Removed:
+ undefined
+OK
+Cart updated
+The items in your cart have been updated for two reasons. Firstly, you've added too many of one item to your cart. Secondly, some items have been removed because they are not available for purchase in your region. Please review your cart before proceeding.
+
+        Items Removed:
+ undefined
+OK
+Cart updated
+The items in your cart have been updated for three reasons. Firstly, the prices now match the currency linked to your account address. Secondly, you've added too many of one item to your cart. Thirdly, some items have been removed because they are not available for purchase in your region. Please review your cart before proceeding.
+
+        Items Removed:
+ undefined
+OK
+Cart updated
+Your currency has been changed to match the currency associated with your account address.
+Continue
+Cart updated
+Your cart has been updated for two reasons. First, the prices now reflect the currency associated with your account address. Second, you've added too many of one item to your cart. Please review your cart before proceeding.
+Continue
+Cart updated
+While combining the products in your guest cart with your saved cart, at least one item in your cart has exceeded the maximum allowable quantity. Please review and correct your cart before proceeding to checkout.
+Continue
+
+
+
+
+

@@ -1,0 +1,228 @@
+Platform Terms of Service | Circle
+Circle
+Product
+Branded App
+Resources
+Discover
+Pricing
+Log in
+Start free trial
+Open main menu
+Platform Terms of Service
+
+
+Last Updated: July 10, 2025
+
+
+
+
+These Terms of Service (these “
+Terms
+”) are a binding contract between you and CircleCo, Inc. (“
+we
+”, “
+us
+”, “
+our
+”, or “
+Circle
+”). The Terms apply to your access to, and your use of our website at 
+https://circle.so
+ (our “
+Website
+”), our mobile applications (our “
+App
+”) and our other online products or services that link to these Terms (collectively, the “
+Services
+”) through our Website or App. Notwithstanding the foregoing, if you have been presented through the Services, and agreed to, separate Community Terms governing a Community (each as defined in Section 6.4 below), then such terms will govern with respect to your access to and use of such Community only.
+PLEASE READ THESE TERMS CAREFULLY.
+BY ACCEPTING THESE TERMS, EITHER BY CLICKING “I ACCEPT,” OR BY OTHERWISE ACCESSING OR USING OUR SERVICES
+, YOU ACKNOWLEDGE AND AGREE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE OR CONSENT TO BE BOUND BY THESE TERMS EITHER (A) ON BEHALF OF YOURSELF AS AN INDIVIDUAL, OR (B) IF YOU ARE ACCESSING THE SERVICES ON BEHALF OF AN ENTITY, ORGANIZATION, OR COMPANY, ON BEHALF OF SUCH ENTITY, ORGANIZATION OR COMPANY FOR WHICH YOU ACT, AND YOU REPRESENT THAT YOU HAVE THE AUTHORITY TO BIND SUCH ENTITY, ORGANIZATION OR COMPANY TO THESE TERMS. IF YOU ARE NOT ELIGIBLE OR IF YOU DO NOT AGREE WITH OR CONSENT TO BEING BOUND BY ANY OF THE TERMS, YOU ARE NOT AUTHORIZED TO USE OUR SERVICES. YOU ALSO ACKNOWLEDGE AND AGREE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO THE PROCESSING OF YOUR PERSONAL INFORMATION IN CONNECTION WITH THE SERVICES IN ACCORDANCE WITH OUR PRIVACY POLICY (AVAILABLE AT 
+HTTPS://CIRCLE.SO/PRIVACY
+), WHICH IS HEREBY INCORPORATED BY REFERENCE INTO THESE TERMS.
+ARBITRATION NOTICE
+. YOU AGREE THAT DISPUTES ARISING UNDER THESE TERMS WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION AS DESCRIBED IN SECTION 12 (DISPUTE RESOLUTION; BINDING ARBITRATION) AND UNLESS YOU OPT OUT PURSUANT TO THE INSTRUCTIONS PROVIDED THEREIN, THE EXCLUSIVE USE OF FINAL AND BINDING ARBITRATION ON AN INDIVIDUAL BASIS ONLY TO RESOLVE DISPUTES, RATHER THAN JURY TRIALS OR CLASS, COLLECTIVE, PRIVATE ATTORNEY GENERAL OR REPRESENTATIVE ACTIONS OR PROCEEDINGS. ADDITIONALLY, YOU AND CIRCLE ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN ANY CLASS ACTION OR REPRESENTATIVE PROCEEDING.
+As provided in greater detail in these Terms (and without limiting the express language of these Terms), you acknowledge the following:
+each component of our Services is licensed, not sold, to you, and you may use the Services only as set forth in these Terms;
+the use of the Services may be subject to separate third-party terms of service and fees, including, without limitation, Community Terms and terms of service and fees from your mobile network operator, including fees charged for data usage and overage, which are solely your responsibility;
+you consent to the collection, use, and disclosure of your personal information in accordance with our Privacy Policy (available at https://circle.so/privacy);
+the Services are provided “as is” without warranties of any kind and our liability to you is limited;
+disputes arising under these Terms will be resolved by binding arbitration, as described below; and
+if you are using our App on an iOS-based device, you agree to and acknowledge Section 1 (Notice Regarding Apple) below.
+1.
+Notice regarding Apple
+. You acknowledge that these Terms are between you and Circle only, not with Apple, and Apple is not responsible for any App or the content thereof. Apple has no obligation whatsoever to furnish any maintenance and support services with respect to any App. In the event of any failure of any App to conform to any applicable warranty, then you may notify Apple and request that Apple refund the purchase price for the relevant App to you; and, to the maximum extent permitted by applicable law, Apple has no other warranty obligation whatsoever with respect to any App. Apple is not responsible for addressing any claims by you or any third party relating to any App or your possession and/or use of any App, including, but not limited to: (i) product liability claims; (ii) any claim that any App fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation.
+Apple is not responsible for the investigation, defense, settlement, and discharge of any third-party claim that any App or your possession and use of any App infringes that third party’s intellectual property rights. You will comply with any applicable third-party terms, when using any App. Apple, and Apple’s subsidiaries, are third-party beneficiaries of this section of these Terms, and upon your acceptance of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce this section of these Terms against you as a third-party beneficiary of these Terms.
+You hereby represent and warrant that: (a) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (b) you are not listed on any U.S. Government list of prohibited or restricted parties. If Circle provides a translation of the English language version of these Terms, the translation is provided solely for convenience, and the English version will prevail.
+2.
+LICENSES
+2.1.
+License to Services
+. Circle hereby grants you a personal, non-exclusive, non-transferable, limited license to: (a) use the Services in accordance with these Terms; and (b) download and install an instance of the App onto your mobile device. You are not allowed to modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer or sell any information obtained directly from the Services. Further, you may not reproduce any part of the Services and any such violation with respect to the Services will terminate the license(s) granted herein.
+2.2.
+Your Content
+; Usage Data. You hereby grant Circle a non-exclusive, worldwide, royalty-free, fully paid, sublicensable, fully transferable, irrevocable (except with respect to personal information to the extent required by applicable law) license and right to collect, access, use, derive, disclose, generate, transfer, transmit, store, host, or otherwise process (“
+Process
+”) data, information, and other content and materials (including, but not limited to, text, messages, audio content, video, images, or other works) submitted to the Service, or stored or otherwise Processed by the Service in connection with your use thereof (“
+Your Content
+”) together with data concerning use or performance of the Service (“
+Usage Data
+”): (a) during any period in which you access or use the Service (including pursuant to an agreement between you and the creator of a Community), for the purpose of exercising Circle’s rights and performing its obligations under these Terms and any agreement with the creator of that Community (including, without limitation, to provide the Service) and (b) in perpetuity, in a form that does not identify you as the source thereof and does not otherwise constitute personal information, to develop and improve Circle’s products and services and for all other lawful business practices, such as analytics, benchmarking, and reports.
+2.3.
+
+
+Disclaimer
+. You are solely responsible for ensuring that use of the
+  Service to store and transmit Your Content is in compliance with all
+  applicable laws and regulations. Circle is under no obligation to edit or
+  control Your Content that you post or publish, and will not be in any way
+  responsible or liable for the foregoing. Circle may, however, at any time and
+  without prior notice, screen, remove, edit, or block any of Your Content that
+  violate these Terms or that are otherwise objectionable in Circle’s sole
+  judgment.
+
+
+
+3.
+Eligibility
+. You must be at least 18 years of age to use our Services or have the consent of a parent or legal guardian. By agreeing to these Terms, you represent and warrant to us that: (a) you are at least 18 years of age or you are at least 13 years old and have obtained verifiable consent from a parent or legal guardian to join the Community; (b) you have not previously been suspended or removed from our Services; and (c) your registration and your use of the Services complies with all applicable laws and regulations.
+4.
+OWNERSHIP; TRADEMARKS; SUBMISSIONS; OPERATION OF THE SERVICE
+
+
+4.1.
+Ownership
+. The Services as well as any materials provided, contained in or made available for use in connection with the Services (collectively, the “
+Circle Materials
+”) are protected by law, including, but not limited to United States and international copyright, trademark, patent, trade secret and other intellectual property or proprietary rights laws. All rights, title and interest (including all copyrights, trademarks and other intellectual property rights) in the Services and the Circle Materials, including any and all names, designs, graphics, data, images, pictures, logos and icons on the Services and the Circle Materials belong to Circle or its third-party licensors. The compilation of all content, including the look and feel of the Services, is the exclusive property of Circle. Except as may be expressly provided herein, nothing contained in these Terms or elsewhere shall be construed as Circle conferring any license or right, by implication, estoppels or otherwise, under copyright, trademark or other intellectual property rights, to the Services or any of the Circle Materials to you. You may not, without the permission of Circle, “mirror” any of the Circle Materials on any other server. Any unauthorized use of any of the Circle Materials may violate copyright laws, trademark laws, the laws of privacy and publicity, and communications regulations and statutes, and subject you to civil and criminal prosecution.
+4.2.
+Trademarks
+. The trademarks, service marks, and logos, including but not limited to Circle’s name, logo, and all related names, logos, and service names, service marks, designs, and slogans (the “
+Trademarks
+”) used and displayed on the Services (including the Circle Materials) are registered and unregistered Trademarks of Circle or others. Nothing on the Services should be construed as granting, by implication, estoppel, or otherwise, any license or right to use any Trademark displayed on the Services (including the Circle Materials), without the written permission of the Trademark owner. Circle’s Trademarks may not be used in any way without prior, written permission of Circle. Circle prohibits use of Circle’s name or Trademarks as a “hot” link to any website unless Circle first approves the establishment of such a link writing.
+4.3.
+Submissions
+. All submissions, suggestions, ideas, and other feedback regarding the Services (the “
+Submission
+”), except your personal information, communicated to Circle including through the Services, is and shall become the sole and exclusive property of Circle. Circle is not required to treat any Submissions as confidential, and will not incur any liability as a result of any similarities that may appear in future Circle endeavors. Circle will have exclusive ownership of all present and future existing rights, including all commercial rights, to the Submission of every kind and nature in perpetuity throughout the universe, without acknowledgment or compensation to you. You acknowledge that you are responsible for whatever material you submit, and that you, not Circle, have full responsibility for the Submission, including its legality, reliability, appropriateness, novelty, and copyright. Circle has the right but not the obligation to monitor and edit or remove any activity or content in accordance with our Privacy Policy (available at 
+https://circle.so/privacy
+). Circle takes no responsibility and assumes no liability for any content posted by you or any third party.
+4.4.
+Operation of the Service
+. The Services are controlled and operated by Circle from its offices within the United States. Circle makes no representation that any of the Services or Circle Materials are appropriate or available for use in other locations, and access to them from territories where their contents are illegal is prohibited. Those who choose and access any of the Services from other locations do so on their own initiative and are responsible for compliance with applicable local laws.
+5.
+User Conduct
+. As a specific condition of your use of any of the Services, you explicitly agree not to, and not to permit any third party to: (a) use any of the Services for any purpose that is unlawful or prohibited by these Terms; (b) intentionally submit or transmit inaccurate information through the Services; (c) impersonate or pretend to be anyone else while using the Services; (d) use the Services in any way that could damage, disable, overburden, or impair any of the Services, or interfere with anyone else’s use of any of the Services; (e) attempt to gain unauthorized access to Circle computer systems or networks connected to Circle, through hacking, password mining or any other means; (f) attempt to reverse engineer any portion of any of the Services or attempt to infringe the intellectual property rights of others in any way; (g) obtain or attempt to obtain any materials or information through any means not intentionally made available through any of the Services; (h) attempt to circumvent any content-filtering techniques we employ or attempt to access any feature or area of our Services that you are not authorized to access; (i) introduce any malicious or technologically harmful material into our Services; (j) develop or use any third-party applications that interact with our Services without our prior written consent, including any scripts designed to scrape or extract data from our Services; and (k) use our Services for any illegal or unauthorized purpose, or engage in, encourage or promote any activity that violates these Terms.
+6.
+THIRD-PARTY SOFTWARE; THIRD-PARTY CONTENT; THIRD-PARTY MATERIALS; COMMUNITY TERMS
+6.1.
+Third-Party Software
+. The software you download in connection with the App may consist of a package of components, including certain third-party software provided under separate license terms. Your use of the third-party software in conjunction with the App in a manner consistent with the terms of these Terms is permitted, however, you may have broader rights under the applicable third-party terms and nothing in these Terms is intended to impose further restrictions on your use of the third-party software.
+6.2.
+Third-Party Content
+. The Services may contain links to or from third-party websites. Circle has no control over the content or privacy policies of third-party websites that you may link to from the Services or their advertisers. If you visit a linked website, be aware that the third party operating any such website may have access to any information you submit via that website. Circle is not responsible for any third party’s failure to establish or abide by its or our Privacy Policy. Check the privacy policy for each website that you visit prior to submitting any personal information. Links to third-party websites do not imply endorsement of the websites by Circle.
+6.3.
+Third-Party Materials
+. You understand that by using the Services, you may encounter data, information, applications, materials, and other content from third parties (collectively, “
+Third-Party Materials
+”), and data, information, applications, materials and other content from Circle, that may contain errors, be offensive, indecent, or objectionable. You use the Services, and rely upon any Third-Party Materials, at your sole risk. Circle will not have any liability to you for any Third-Party Materials may be found to be offensive, indecent, or that are inaccurate, incomplete, untimely, invalid, illegal, indecent, of poor quality, or otherwise objectionable.
+6.4.
+Community Terms
+. Part of the Service includes enabling certain third parties to form communities (each, a “
+Community
+”), and to make these Communities available to others on the Service. In order to access any Community, you must first agree to that Community’s terms and conditions and privacy notices (“
+Community Terms
+”). By participating in any such Community or by accepting the Community Terms, you thereby signify that you have read and agree to such Community Terms.
+
+
+6.5.
+Child Sexual Abuse and Exploitation
+. We prohibit any sexual content or suggestive content, and predatory or inappropriate behavior involving minors (i.e. users under 18 years old) or someone who appears to be a minor. This includes sharing, offering, or asking for child exploitation content, including child sexual abuse material (CSAM). If you are unsure about a piece of content involving a minor, do not share it. To report sexual, suggestive, or inappropriate behavior minors, you can use the in-line report feature on the website or app. When child sexual exploitation content is identified, the violative content is removed as soon as possible and the related account is banned. If we confirm the presence of CSAM, we take the steps required by law to preserve and refer the relevant content to appropriate authorities. In the United States, federal law requires that U.S.-based electronic service providers report instances of apparent CSAM to the 
+National Center for Missing and Exploited Children
+ (NCMEC). NCMEC coordinates reports with global law enforcement agencies in over 120 countries through its partner organization, the International Center for Missing and Exploited Children.
+
+
+7.
+Revision Date, Modifications; Suspensions and Terminations
+. These Terms are effective and were last updated as of the revision date at the beginning of these Terms. At any time, Circle may revise these Terms at our sole discretion. If we make changes, we will post the revised Terms, and update the revision date above. We may, but are not required to, notify you by sending an email notification to the address associated with your account or providing notice through our Services. Revisions are effective and binding when posted on the Services. Any continued use of any of the Services following any revision means you agree to the revisions. Circle expressly reserves the right to terminate or discontinue any of the Services at any time and for any reason, with or without notice to you.
+8.
+DMCA Notification
+. We comply with the provisions of the Digital Millennium Copyright Act applicable to Internet service providers (17 U.S.C. § 512, as amended) (“DMCA”) and the Services are subject to our DMCA policy located at 
+https://circle.so/dmca
+. If you believe that your copyrighted work has been copied in a way that constitutes copyright infringement and is accessible via the Services, please notify us in accordance with that policy.
+9.
+Disclaimers
+. THE SERVICES, CIRCLE MATERIALS, AND ALL CONTENT THEREIN ARE PROVIDED BY CIRCLE ON AN “AS AVAILABLE” AND “AS IS” BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON- INFRINGEMENT. WE DO NOT REPRESENT OR WARRANT THAT: (A) THE SERVICES AND CIRCLE MATERIALS ARE FREE OF ERRORS; (B) DEFECTS WILL BE CORRECTED; (C) THE SERVICES OR OUR SERVERS ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS; OR (D) INFORMATION COMMUNICATED THROUGH THE SERVICES ARE ACCURATE, COMPLETE, OR USEFUL. YOU ACKNOWLEDGE AND AGREE THAT YOUR ACCESS TO, RELIANCE ON, AND USE OF THE SERVICES OR ANY CONTENT THEREIN IS AT YOUR OWN RISK. YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR DEVICE OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF SUCH CONTENT, MATERIAL AND/OR DATA. WITHOUT LIMITING THE FOREGOING, WE MAKES NO REPRESENTATION OR WARRANTY AS TO THE QUALITY, RELIABILITY, COMPLETENESS, ACCURACY, TIMELINESS, AVAILABILITY, SECURITY OR FUNCTIONALITY OF THE SERVICES OR ANY CONTENT THEREON. WE WILL NOT BE LIABLE FOR ANY HARM TO YOUR COMPUTER SYSTEM OR MOBILE DEVICE, OR LOSS OF DATA, THAT RESULTS FROM YOUR ACCESS TO OR USE OF THE SERVICES OR ANY CONTENT, OR FOR THE DELETION OF, OR THE FAILURE TO STORE. CIRCLE MAKES NO WARRANTY THAT THE SERVICES WILL MEET YOUR REQUIREMENTS OR BE AVAILABLE ON AN UNINTERRUPTED, SECURE, OR ERROR-FREE BASIS OR THAT DEFECTS IN THE SERVICES WILL BE CORRECTED. THE SERVICES MAY NOT BE CONTINUOUSLY AVAILABLE DUE TO MAINTENANCE OR REPAIRS OR DUE TO COMPUTER PROBLEMS OR CRASHES, DISRUPTION IN INTERNET SERVICE OR OTHER UNFORESEEN CIRCUMSTANCES. THE SERVICES AND ASSOCIATED CONTENT ARE INTENDED FOR USE AND DISPLAY ONLY WHERE ITS USE AND DISPLAY ARE PERMISSIBLE IN ACCORDANCE WITH APPLICABLE LAWS AND REGULATIONS.
+CIRCLE DISCLAIMS ANY AND ALL RESPONSIBILITY FOR ANY LOSS, INJURY, CLAIM, LIABILITY, OR DAMAGE OF ANY KIND RESULTING FROM, ARISING OUT OF, OR IN ANY WAY RELATED TO (A) ANY ERRORS IN OR OMISSIONS ON OR FROM ANY OF THE SERVICES AND CONTENT THEREIN, INCLUDING BUT NOT LIMITED TO TECHNICAL INACCURACIES AND TYPOGRAPHICAL ERRORS, (B) ANY THIRD-PARTY WEBSITES OR CONTENT THEREIN DIRECTLY OR INDIRECTLY ACCESSED THROUGH LINKS IN THE SITES OR MATERIALS PROVIDED, INCLUDING BUT NOT LIMITED TO ANY ERRORS IN OR OMISSIONS CONTAINED THEREIN, (C) THE UNAVAILABILITY OF ANY OF THE SERVICES OR ANY PORTION THEREOF, (D) YOUR USE OF ANY OF THE SERVICES, OR (E) YOUR USE OF ANY EQUIPMENT OR SOFTWARE IN CONNECTION WITH ANY OF THE SERVICES.
+ANY DEALINGS WITH ANY THIRD PARTIES (INCLUDING ADVERTISERS AND/OR SPONSORS) APPEARING ON THE SITES OR MATERIALS PROVIDED OR MADE AVAILABLE IN CONNECTION WITH PARTICIPATION IN ANY OFFERINGS AND ANY OTHER TERMS, CONDITIONS, WARRANTIES OR REPRESENTATIONS ASSOCIATED WITH SUCH ACTIVITIES ARE SOLELY BETWEEN YOU AND SUCH ADVERTISER OR OTHER THIRD PARTIES. WE ARE NOT RESPONSIBLE FOR EXAMINING OR EVALUATING, AND WE DO NOT WARRANT THE OFFERINGS OF, ANY OF THESE BUSINESSES OR INDIVIDUALS OR THE CONTENT OF THEIR WEBSITES. CIRCLE DOES NOT ASSUME ANY RESPONSIBILITY OR LIABILITY FOR THE ACTIONS AND CONTENT OF ALL THESE AND ANY OTHER THIRD PARTIES. YOU SHOULD CAREFULLY REVIEW THEIR PRIVACY STATEMENTS OR POLICIES AND OTHER TERMS OR CONDITIONS OF USE OR SERVICE. CIRCLE IS NOT RESPONSIBLE OR LIABLE TO ANY PARTY WHO PARTICIPATES IN ANY SUCH DEALINGS.
+WE ATTEMPT TO DISPLAY THE MATERIALS AND INFORMATION YOU VIEW ON THE SERVICES AS ACCURATELY AS POSSIBLE. BUT WE DO NOT GUARANTEE THE ACCURACY OF SUCH MATERIALS AND INFORMATION.
+SOME JURISDICTIONS DO NOT ALLOW THE DISCLAIMER OF IMPLIED TERMS IN CONTRACTS WITH CONSUMERS, SO SOME OR ALL OF THE DISCLAIMERS IN THIS SECTION MAY NOT APPLY TO YOU.
+10.
+Limitation of Liability. EXCEPT AS PROVIDED IN SECTIONS 12.5 (COMMENCING ARBITRATION) AND 12.7 (ARBITRATION RELIEF) AND TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT WILL CIRCLE OR ITS DIRECTORS, OFFICERS, EMPLOYEES, AFFILIATES, SUBSIDIARIES, PARENT COMPANIES, MEMBERS, SHAREHOLDERS, AGENTS OR OTHER REPRESENTATIVES BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY OTHER DAMAGES OF ANY KIND, ARISING OUT OF OR RELATED TO THE SERVICES. CIRCLE’S AGGREGATE LIABILITY ARISING OUT OF OR IN CONNECTION WITH THESE TERMS OR ANY USE OF (OR INABILITY TO USE) THE SERVICE, WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, EVEN IF FORSEEABLE, WILL NOT EXCEED US$100. THESE EXCLUSIONS AND LIMITATIONS OF LIABILITY WILL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW AND WILL SURVIVE CANCELATION OR TERMINATION OF YOUR ACCOUNT. CERTAIN APPLICABLE LAWS MAY NOT ALLOW THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE EXCLUSIONS OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MIGHT HAVE ADDITIONAL RIGHTS.
+11.
+Disputes with Third Parties
+. CIRCLE IS NOT AFFILIATED WITH ANY THIRD-PARTY SERVICES ACCESSED OR MADE AVAILABLE ON THE SERVICE OR ANY THIRD PARTY USING THE SERVICE, INCLUDING OTHER USERS. ANY DISPUTE YOU HAVE WITH ANY THIRD-PARTY SERVICES OR OTHER THIRD PARTY USING THE SERVICE, INCLUDING, WITHOUT LIMITATION, ANY COMMUNITY OR A CREATOR OR USER OF A COMMUNITY, IS DIRECTLY BETWEEN YOU AND THAT THIRD PARTY. YOU IRREVOCABLY RELEASE CIRCLE FROM ANY AND ALL CLAIMS, DEMANDS AND DAMAGES (ACTUAL AND CONSEQUENTIAL) OF EVERY KIND AND NATURE, KNOWN AND UNKNOWN, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THOSE DISPUTES. YOU WILL TAKE REASONABLE PRECAUTIONS IN ALL INTERACTIONS WITH OTHER USERS, PARTICULARLY IF YOU MEET OFFLINE OR IN PERSON. YOU ASSUME ALL RISK WHEN ENGAGING THE SERVICES OF ANY OTHER USER AND IN CONNECTION WITH USING THE SERVICE, INCLUDING BUT NOT LIMITED TO ANY RISKS ASSOCIATED WITH SHARING CONFIDENTIAL INFORMATION WITH ANY OTHER USER. IN SUCH INSTANCE, YOU AGREE TO HOLD CIRCLE HARMLESS AND RELEASE CIRCLE FROM ANY ASSOCIATED CLAIMS.
+12.
+DISPUTE RESOLUTION; BINDING ARBITRATION
+12.1.
+Generally
+. Except as described in Section 12.2 (Exceptions) and 12.3 (Opt-Out), you and Circle agree that every dispute arising in connection with these Terms, the Service, or communications from us will be resolved through binding arbitration. Arbitration uses a neutral arbitrator instead of a judge or jury, is less formal than a court proceeding, may allow for more limited discovery than in court, and is subject to very limited review by courts. This agreement to arbitrate disputes includes all claims whether based in contract, tort, statute, fraud, misrepresentation, or any other legal theory, and regardless of whether a claim arises during or after the termination of these Terms. Any dispute relating to the interpretation, applicability, or enforceability of this binding arbitration agreement will be resolved by the arbitrator.
+YOU UNDERSTAND AND AGREE THAT, BY ENTERING INTO THESE TERMS, YOU AND CIRCLE ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION.
+12.2.
+Exceptions
+. Although we are agreeing to arbitrate most disputes between us, nothing in these Terms will be deemed to waive, preclude, or otherwise limit the right of either party to: (a) bring an individual action in small claims court; (b) pursue an enforcement action through the applicable federal, state, or local agency if that action is available; (c) seek injunctive relief in a court of law in aid of arbitration; or (d) to file suit in a court of law to address an intellectual property infringement claim.
+12.3.
+Opt-Out
+. If you do not wish to resolve disputes by binding arbitration, you may opt out of the provisions of this Section 12 (Dispute Resolution and Arbitration) within 30 days after the date that you agree to these Terms by sending a letter to CircleCo, Inc., Attention: Legal Department – Arbitration Opt-Out, 228 Park Ave S. PMB 52933 New York, NY 10003[A3] that specifies: your full legal name, the email address associated with your account on the Service, and a statement that you wish to opt out of arbitration (“
+Opt-Out Notice
+”). Once Circle receives your Opt-Out Notice, this Section 12 (Dispute Resolution and Arbitration) will be void and any action arising out of these Terms will be resolved as set forth in Section 13 (Governing Law and Venue). The remaining provisions of these Terms will not be affected by your Opt-Out Notice.
+12.4.
+Arbitrator
+. This arbitration agreement, and any arbitration between us, is subject to the Federal Arbitration Act and will be administered by the JAMS under the rules applicable to consumer disputes (collectively, “
+JAMS Rules
+”) as modified by these Terms. The JAMS Rules and filing forms are available online at www.jamsadr.com, by calling the JAMS at +1-800-352-5267 or by contacting Circle.
+12.5.
+Commencing Arbitration
+. Before initiating arbitration, a party must first send a written notice of the dispute to the other party by certified U.S. Mail or by Federal Express (signature required) or, only if that other party has not provided a current physical address, then by electronic mail (“
+Notice of Arbitration
+”). Circle’s address for notice is: CircleCo, Inc., 228 Park Ave S. PMB 52933 New York, NY 10003. The Notice of Arbitration must: (a) identify the name or account number of the party making the claim; (b) describe the nature and basis of the claim or dispute; and (c) set forth the specific relief sought (“
+Demand
+”). The parties will make good faith efforts to resolve the claim directly, but if the parties do not reach an agreement to do so within 30 days after the Notice of Arbitration is received, you or Circle may commence an arbitration proceeding. If you commence arbitration in accordance with these Terms, Circle will reimburse you for your payment of the filing fee, unless your claim is for more than US$10,000 or if Circle has received 25 or more similar demands for arbitration, in which case the payment of any fees will be decided by the JAMS Rules. If the arbitrator finds that either the substance of the claim or the relief sought in the Demand is frivolous or brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)), then the payment of all fees will be governed by the JAMS Rules and the other party may seek reimbursement for any fees paid to JAMS.
+12.6.
+Arbitration Proceedings
+. Any arbitration hearing will take place in the county and state of your residence unless we agree otherwise or, if the claim is for US$10,000 or less (and does not seek injunctive relief), you may choose whether the arbitration will be conducted: (a) solely on the basis of documents submitted to the arbitrator; (b) through a telephonic or video hearing; or (c) by an in-person hearing as established by the JAMS Rules in the county (or parish) of your residence. During the arbitration, the amount of any settlement offer made by you or Circle must not be disclosed to the arbitrator until after the arbitrator makes a final decision and award, if any. Regardless of the manner in which the arbitration is conducted, the arbitrator must issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the decision and award, if any, are based.
+12.7.
+Arbitration Relief
+. Except as provided in Section 12.8 (No Class Actions), the arbitrator can award any relief that would be available if the claims had been brought in a court of competent jurisdiction. If the arbitrator awards you an amount higher than the last written settlement amount offered by Circle before an arbitrator was selected, Circle will pay to you the higher of: (a) the amount awarded by the arbitrator and (b) US$10,000. The arbitrator’s award shall be final and binding on all parties, except (1) for judicial review expressly permitted by law or (2) if the arbitrator’s award includes an award of injunctive relief against a party, in which case that party shall have the right to seek judicial review of the injunctive relief in a court of competent jurisdiction that shall not be bound by the arbitrator’s application or conclusions of law. Judgment on the award may be entered in any court having jurisdiction.
+12.8.
+No Class Actions
+. YOU AND CIRCLE AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. Further, unless both you and Circle agree otherwise, the arbitrator may not consolidate more than one person’s claims, and may not otherwise preside over any form of a representative or class proceeding.
+12.9.
+Modifications to this Arbitration Provision
+. If Circle makes any substantive change to this arbitration provision, you may reject the change by sending us written notice within 30 days of the change to Circle’s address for Notice of Arbitration, in which case your account with Circle will be immediately terminated and this arbitration provision, as in effect immediately prior to the changes you rejected will survive.
+12.10.
+Enforceability
+. If Section 12.8 (No Class Actions) or the entirety of this Section 12 (Dispute Resolution and Arbitration) is found to be unenforceable, or if Circle receives an Opt-Out Notice from you, then the entirety of this Section 12 (Dispute Resolution and Arbitration) will be null and void and, in that case, the exclusive jurisdiction and venue described in Section 13 (Governing Law and Venue) will govern any action arising out of or related to these Terms.
+13.
+Governing Law and Venue
+. These Terms, your access to and use of the Services, and any claim or dispute you may bring against Circle, its affiliates, subsidiaries, parent companies, members, shareholders, agents and assigns, shall be governed by and construed and enforced in accordance with the laws of the State of New York, without regard to conflict of law rules or principles (whether of the State of New York or any other jurisdiction) that would cause the application of the laws of any other jurisdiction. Any dispute between the parties that is not subject to arbitration or cannot be heard in small claims court, shall be resolved in the state or federal courts of the State of New York and the United States, respectively, sitting in the State of New York, and Kings County.
+14.
+Termination
+. Notwithstanding anything contained in these Terms, we reserve the right, without notice and in our sole discretion, to terminate your right to access or use the Services at any time and for any or no reason, and you acknowledge and agree that we shall have no liability or obligation to you in such event and that you will not be entitled to a refund of any amounts that you have already paid to us, to the fullest extent permitted by applicable law.
+15.
+Severability
+. If any term, clause or provision of these Terms is held invalid or unenforceable, then that term, clause or provision will be severable from these Terms and will not affect the validity or enforceability of any remaining part of that term, clause or provision, or any other term, clause or provision of these Terms.
+16.
+Assignment
+. These Terms, including any rights and licenses under these Terms, may not be transferred or assigned by you in whole or in part, by operation of law or otherwise, without the prior written consent of Circle. If Circle sells its assets to or is acquired by another company, or if it merges with another company, you, by using the Services, authorize Circle to assign these Terms and the information you provided to Circle or that Circle collected while you used the Services in connection with such sale or merger.
+17.
+Consent to Electronic Communication
+. By using the Services, you consent to receiving electronic communications from us regarding your use of the Services, or for operational and informational purposes. You also agree that by using the Services, you affirmatively consent to Circle using electronic records or your digital signature to satisfy any statute, regulation, or rule of law requiring that such information be provided in writing and that you have not withdrawn such consent.
+18.
+General. These Terms constitute the entire agreement between you and Circle relating to your access to and use of the Services. No waiver of any provision of these Terms will constitute a waiver of such provision in any prior, concurrent or subsequent circumstance, and Circle’s failure to assert any right or provision under these Terms shall not constitute a waiver of such right or provision. These Terms are not intended to confer third-party beneficiary rights upon any other person or entity.
+If you have any questions, comments or concerns about the Terms, you may contact us using the information provided below:
+CircleCo, Inc.
+228 Park Ave S.
+PMB 52933
+New York, NY 10003
+legal@circle.so

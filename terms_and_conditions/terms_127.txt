@@ -1,0 +1,435 @@
+
+
+
+
+
+
+
+
+
+
+Click to agree with what? No one reads terms of service, studies confirm | Internet | The Guardian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+Skip to navigation
+Close dialogue
+1
+/
+1
+Next image
+Previous image
+Toggle caption
+Skip to navigation
+Print subscriptions
+Search jobs
+ Sign in
+Int
+International edition
+UK edition
+US edition
+Australia edition
+Europe edition
+The Guardian - Back to home
+The Guardian
+News
+Opinion
+Sport
+Culture
+Lifestyle
+Show more
+Hide expanded menu
+News
+View all News
+World news
+US politics
+UK news
+Climate crisis
+Middle East
+Ukraine
+Environment
+Science
+Global development
+Football
+Tech
+Business
+Obituaries
+Opinion
+View all Opinion
+The Guardian view
+Columnists
+Cartoons
+Opinion videos
+Letters
+Sport
+View all Sport
+Football
+Cricket
+Rugby union
+Tennis
+Cycling
+F1
+Golf
+US sports
+Culture
+View all Culture
+Books
+Music
+TV & radio
+Art & design
+Film
+Games
+Classical
+Stage
+Lifestyle
+View all Lifestyle
+Fashion
+Food
+Recipes
+Love & sex
+Health & fitness
+Home & garden
+Women
+Men
+Family
+Travel
+Money
+Search input
+ 
+google-search
+ 
+Search
+Support us
+Print subscriptions
+Search jobs
+Holidays
+Digital Archive
+Guardian Licensing
+Live events
+About Us
+The Guardian app
+Video
+Podcasts
+Pictures
+Newsletters
+Today's paper
+Inside the Guardian
+Guardian Weekly
+Crosswords
+Wordiply
+Corrections
+Tips
+Search input
+ 
+google-search
+ 
+Search
+Search jobs
+Holidays
+Digital Archive
+Guardian Licensing
+Live events
+About Us
+World
+US politics
+UK
+Climate crisis
+Middle East
+Ukraine
+Environment
+Science
+Global development
+Football
+Tech
+Business
+Obituaries
+ 
+‘The biggest lie on the internet’: actually reading online privacy and service agreements before clicking ‘accept’.
+ Photograph: Christopher Meder/Getty Images/iStockphoto
+View image in fullscreen
+‘The biggest lie on the internet’: actually reading online privacy and service agreements before clicking ‘accept’.
+ Photograph: Christopher Meder/Getty Images/iStockphoto
+Internet
+ 
+This article is more than 
+8 years old
+Click to agree with what? No one reads terms of service, studies confirm
+This article is more than 8 years old
+Apparently losing rights to data and legal recourse is not enough of a reason to inspect online contracts. So how can websites get users to read the fine print?
+David Berreby
+Fri 3 Mar 2017 13.38 GMT
+Last modified on Fri 10 Mar 2017 20.39 GMT
+Share
+T
+he words on the screen, in small type, were as innocent and familiar as a house key. “By clicking Join,” they read, “you agree to abide by our terms of service.” Hundreds of college students tapped the big green “Join” button to become members of NameDrop, a new social network. But according to paragraph 2.3.1 of the terms of service, they’d agreed to give NameDrop their future first-born children.
+Only a quarter of the 543 students even bothered to look at the fine print. But “look” is not “read”: on average, these more careful joiners spent around a minute with the thousands of words that make up NameDrop’s privacy and service agreements. And then they all agreed to them.
+Will you read this article about terms and conditions? You really should do | Robert Glancy
+Read more
+Fortunately, NameDrop
+ 
+doesn’t exist. The students were subjects in an experiment run by two communications professors, Jonathan Obar of York University in Toronto and Anne Oeldorf-Hirsch of the University of Connecticut. They were confirming, in the lab, what other scholars have found by painstakingly combing data on actual user behavior: nobody reads online contracts, license agreements, terms of service, privacy policies and other agreements. We say we do, with our millions of obedient clicks, but that is, as Obar and Oeldorf-Hirsch wrote last year in their paper about the experiment, “the biggest lie on the internet”.
+But there’s a lot in click-to-agree contracts that would give many people pause if they knew about them. For example, users give web-based services – and third parties the services contract with, about which users know nothing – the right to keep, analyze and sell their data. Increasingly often, too, people click away their right to go to court if anything goes wrong. “There’s a real concern that consumer protection law is basically being swallowed by click-by-agree clauses,” said David Hoffman, a professor at the University of Pennsylvania Law School, who researches the law and psychology of contracts.
+Hoffman is among the legal scholars who believe the no-reading problem isn’t new. After all, he points out, few people read the fine print even when it was literally in print.
+However, it’s possible that the design of click-to-accept pages makes the problem worse. A few years ago Rainer Böhme of UC Berkeley and Stefan Köpsell of Dresden’s Technische Universität tested alternative wordings of a simple consent form on more than 80,000 internet users. Some were told their consent was required and presented with highlighted “I agree” button. They went along 26% more often than did other users, who had been politely asked to participate (with phrases like “we would appreciate very much your assistance” and both “yes” and “no” options represented by lookalike buttons).
+In other words, when design invites people to consider their options, at least some do. If the design nudges them instead to follow a habit that years of click-to-agree has instilled, then they’ll do that instead. “Ubiquitous EULAs [end user license agreements] have trained even privacy-concerned users to click on ‘accept’ whenever they face an interception that reminds them of a EULA,” Böhme and Köpsell wrote.
+That suggests it might be possible to address the no-reading problem with design fixes. One approach is to move the contract out of the one-second moment before access is granted, and to place its terms before the user when they become relevant. For example, Obar said, Facebook’s pop-up for posting a photo offers a bright “who can see this?” link that explains that aspect of its privacy terms.
+It’s not clear that such design tweaks change people’s behavior that much. But there’s a larger problem with this approach: reading an average American’s digital contracts would take almost 250 hours a year. That burden, if anyone took it seriously, would be exhausting.
+More importantly, it’s reasonable to ask if this taking up this burden – or any term-reading at all – is rational. After all, an individual who depends on Google, Facebook or Twitter is not in a position to negotiate her own separate agreement. Why spend time on a contract you can neither change nor refuse?
+So the real click-to-agree problem may not be that individuals fail in their duty. It may, instead, be that we have stuck individuals with this impossible duty in the first place. There are, after all, other ways to conceive of our relationships to Google, Facebook, Apple, Amazon and the thousands of other entities that ask us to sign these documents.
+It might make more sense, Obar suggested, to hand off the work to specialists, the way millions already hand off tax preparation to accountants. A prototype of this kind of “info-mediation” is the website 
+Terms of Service; didn’t read
+. It provides users with a very brief bullet summaries of companies’ policies and agreements, and an overall rating of their quality from the user’s standpoint. If you trust the site, it can be a handy guide.
+Or, perhaps society could subject internet agreements to industry-wide codes of conduct. You don’t have a contract with a doctor, but you can expect her to adhere to the Hippocratic oath and a host of other obligations to you because of her license. Digital agreements could be governed by a code of ethics that bars their parties from abusive terms.
+“Click to agree” could be changed for a system that better protects us, and that doesn’t make liars of us all. The real sticking point for that ambition would be deciding what “something better” means. How much efficiency should be traded for a recognition of each user’s autonomy? What rights, already largely traded away, should we fight to claw back?
+“There’s no easy fix,” Hoffman said. “Everyone has a different perspective. And the reason they have a different perspective is because no one knows what to do.”
+Explore more on these topics
+Internet
+Social media
+Social networking
+Privacy
+features
+Share
+Reuse this content
+Comments
+ 
+(
+…
+)
+Sign in
+ 
+or
+ 
+create your Guardian account
+ 
+to join the discussion
+Most viewed
+Most viewed
+World
+US politics
+UK
+Climate crisis
+Middle East
+Ukraine
+Environment
+Science
+Global development
+Football
+Tech
+Business
+Obituaries
+News
+Opinion
+Sport
+Culture
+Lifestyle
+Original reporting and incisive analysis, direct from the Guardian every morning
+Sign up for our email
+Help
+Complaints & corrections
+SecureDrop
+Work for us
+ 
+Privacy policy
+Cookie policy
+Terms & conditions
+Contact us
+All topics
+All writers
+Digital newspaper archive
+Tax strategy
+Facebook
+YouTube
+Instagram
+LinkedIn
+Newsletters
+Advertise with us
+Search UK jobs
+Tips
+Accessibility settings
+Back to top
+© 
+2025
+ Guardian News & Media Limited or its affiliated companies. All rights reserved.
+ 
+(dcr)
+
+
+

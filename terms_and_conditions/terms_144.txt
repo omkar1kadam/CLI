@@ -1,0 +1,2341 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Agreements and Guidelines - Support - Apple Developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View in English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Global Nav Open Menu
+
+
+
+
+
+
+Global Nav Close Menu
+
+
+
+
+
+
+
+
+
+
+Apple Developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+Cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apple Developer
+
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+
+
+
+
+
+Discover
+
+
+
+
+
+
+
+
+
+
+Design
+
+
+
+
+
+
+
+
+
+
+Develop
+
+
+
+
+
+
+
+
+
+
+Distribute
+
+
+
+
+
+
+
+
+
+
+Support
+
+
+
+
+
+
+
+
+
+
+Account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+									Cancel
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Only search within “
+”
+
+
+Quick Links
+
+
+
+
+
+
+5 Quick Links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Support
+
+
+
+
+
+
+
+
+Open Menu
+
+
+
+
+
+
+Close Menu
+
+
+
+
+
+
+
+
+
+
+Overview
+
+
+
+
+
+
+Articles
+
+
+
+
+
+
+Help Guides
+
+
+
+
+
+
+Agreements and Guidelines
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact us
+							
+Support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Agreements and Guidelines for Apple Developers
+
+
+In order to use Apple’s developer tools and services, or distribute software on Apple platforms, you’ll need to adhere to the applicable terms in the following agreements and guidelines. Be certain to read the relevant terms carefully as you design and develop your software.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Program license agreements
+
+
+Please note that the English language version of the agreements you accept in your developer account are binding and the most up to date. Any other language translations of select agreements that we may provide are for your convenience.
+
+
+Apple Developer
+ Program License Agreement
+
+
+Terms and conditions that govern membership in the 
+Apple Developer
+ Program and the distribution of free apps.
+
+
+View agreement
+
+
+
+
+View agreement (PDF)
+
+
+View translations
+
+
+
+
+Paid Applications Agreement (Schedules 2 and 3 of the 
+Apple Developer
+ Program License Agreement)
+
+
+A schedule to the 
+Apple Developer
+ Program License Agreement. Acceptance of the latest version in 
+App Store Connect
+ is required to offer paid apps and 
+in-app purchases
+.
+
+
+View agreement
+
+
+
+
+View agreement (PDF)
+
+
+View translations
+
+
+
+
+
+
+View exhibits (PDF)
+
+
+View translations
+
+
+
+
+Apple Developer
+ Enterprise Program License Agreement
+
+
+Terms and conditions that govern membership in the 
+Apple Developer
+ Enterprise Program.
+
+
+
+
+View agreement
+
+
+View translations
+
+
+
+
+Terms of use agreements
+
+
+Apple Developer Agreement
+
+
+Terms and conditions that govern the use of the 
+Apple Developer
+ website, beta software, events, and more.
+
+
+
+
+View agreement
+
+
+View translations
+
+
+
+
+Xcode and Apple SDKs Agreement
+
+
+Terms and conditions that govern the use of Xcode developer tools and software development kits (SDKs).
+
+
+
+
+View agreement
+
+
+
+
+App Store Connect
+ Terms of Service
+
+
+Terms and conditions that govern the use of the 
+App Store Connect
+ website and services used to distribute apps on the 
+App Store.
+
+
+
+
+View agreement
+
+
+
+
+TestFlight Terms and Conditions
+
+
+Terms and conditions that govern the use of TestFlight, including beta testing of any prerelease applications downloaded through TestFlight.
+
+
+
+
+View agreement
+
+
+
+
+Apple Developer
+ Forums Agreement
+
+
+Terms and conditions that govern participation in one or more discussion forums made available by Apple to Apple developers.
+
+
+
+
+View agreement
+
+
+
+
+Guidelines
+
+
+App Review Guidelines
+
+
+A set of technical, content, and design criteria we use to review all apps and app updates submitted to the 
+App Store
+ in an effort to determine whether they are reliable, perform as expected, respect user privacy, and are free of objectionable content.
+
+
+
+
+View guidelines
+
+
+View translations
+
+
+
+
+Human Interface Guidelines
+
+
+Guidance and UI resources for designing great apps that integrate seamlessly with Apple platforms.
+
+
+
+
+View guidelines
+
+
+View translations
+
+
+
+
+App Store
+ Marketing Resources and Identity Guidelines
+
+
+Guidance on including 
+App Store
+ badges, photography and video, Apple product images, and more in your marketing communications.
+
+
+
+
+View guidelines
+
+
+View translations
+
+
+
+
+Guidelines for Using Apple Trademarks and Copyrights
+
+
+Guidance on using Apple trademarks, service marks, or images in your marketing and reference materials, websites, products, and packaging.
+
+
+
+
+View guidelines
+
+
+
+
+
+
+View licensing and trademarks
+
+
+
+
+App Store
+ Promo Artwork Guidelines
+
+
+Guidance on preparing your promotional artwork if your app is considered for featuring by the 
+App Store.
+
+
+
+
+View guidelines
+
+
+
+
+Apple Pay
+ Marketing Guidelines
+
+
+Guidance on letting your customers know that you support 
+Apple Pay.
+
+
+
+
+View guidelines
+
+
+
+
+Acceptable Use Guidelines for 
+Apple Pay
+ on the Web
+
+
+Guidance on incorporating 
+Apple Pay
+ into your website.
+
+
+
+
+View guidelines
+
+
+
+
+Add to 
+Apple Wallet
+ Guidelines
+
+
+Guidance on including “Add to 
+Apple Wallet”
+ buttons in your apps, web pages, and emails, as well as using the badge on printed materials.
+
+
+
+
+View guidelines
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Please note that the English version of the 
+Apple Developer
+ Program License Agreement you accept in your developer account is binding and the most up to date. Translations of select agreements may also be available within a reasonable period of time after the English versions are updated. Any translations are provided for your convenience.
+
+
+Last update: June 9, 2025
+
+
+
+
+简体中文
+
+
+繁體中文
+
+
+日本語
+
+
+한국어
+
+
+български език
+
+
+Ελληνικά
+
+
+русский
+
+
+Čeština
+
+
+Dansk
+
+
+Deutsch
+
+
+Eesti keel
+
+
+English (UK)
+
+
+Español
+
+
+Español mexicano
+
+
+Français
+
+
+Gaeilge
+
+
+Hrvatski
+
+
+Italiano
+
+
+Latviešu valoda
+
+
+Lietuvių kalba
+
+
+Limba română
+
+
+Magyar nyelv
+
+
+Malti
+
+
+Nederlands
+
+
+Norsk
+
+
+Polski
+
+
+Português
+
+
+Português do Brasil
+
+
+Slovenčina
+
+
+Slovenščina
+
+
+Suomi
+
+
+Svenska
+
+
+ภาษาไทย
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Please note that the English version of the Paid Applications Agreement (Schedules 2 and 3 of the 
+Apple Developer
+ Program License Agreement) you accept in your developer account is binding and the most up to date. Translations of select agreements may also be available within a reasonable period of time after the English versions are updated. Any translations are provided for your convenience.
+
+
+Last update: June 10, 2024
+
+
+
+
+简体中文
+
+
+繁體中文
+
+
+日本語
+
+
+한국어
+
+
+български език
+
+
+Ελληνικά
+
+
+русский
+
+
+Čeština
+
+
+Dansk
+
+
+Deutsch
+
+
+Eesti keel
+
+
+English (UK)
+
+
+Español
+
+
+Español mexicano
+
+
+Français
+
+
+Gaeilge
+
+
+Hrvatski
+
+
+Italiano
+
+
+Latviešu valoda
+
+
+Lietuvių kalba
+
+
+Limba română
+
+
+Magyar nyelv
+
+
+Malti
+
+
+Nederlands
+
+
+Norsk
+
+
+Polski
+
+
+Português
+
+
+Português do Brasil
+
+
+Slovenčina
+
+
+Slovenščina
+
+
+Suomi
+
+
+Svenska
+
+
+ภาษาไทย
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Please note that the English version of the Paid Applications Exhibits (Exhibits to Schedules 2 and 3 of the Apple Developer Program License Agreement) you accept in your developer account is binding and the most up to date. Translations of select agreements may also be available within a reasonable period of time after the English versions are updated. Any translations are provided for your convenience.
+
+
+Last update: March 31, 2025
+
+
+
+
+简体中文
+
+
+繁體中文
+
+
+日本語
+
+
+한국어
+
+
+български език
+
+
+Ελληνικά
+
+
+русский
+
+
+Čeština
+
+
+Dansk
+
+
+Deutsch
+
+
+Eesti keel
+
+
+English (UK)
+
+
+Español
+
+
+Español mexicano
+
+
+Français
+
+
+Gaeilge
+
+
+Hrvatski
+
+
+Italiano
+
+
+Latviešu valoda
+
+
+Lietuvių kalba
+
+
+Limba română
+
+
+Magyar nyelv
+
+
+Malti
+
+
+Nederlands
+
+
+Norsk
+
+
+Polski
+
+
+Português
+
+
+Português do Brasil
+
+
+Slovenčina
+
+
+Slovenščina
+
+
+Suomi
+
+
+Svenska
+
+
+ภาษาไทย
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Please note that the English version of the 
+Apple Developer
+ Agreement Translations you accept in your developer account is binding and the most up to date. Translations of select agreements may also be available within a reasonable period of time after the English versions are updated. Any translations are provided for your convenience.
+
+
+Last update: March 18, 2025
+
+
+
+
+简体中文
+
+
+繁體中文
+
+
+日本語
+
+
+한국어
+
+
+Dansk
+
+
+Deutsch
+
+
+Español
+
+
+Français
+
+
+Italiano
+
+
+Nederlands
+
+
+Norsk
+
+
+Polski
+
+
+Português do Brasil
+
+
+Português de Portugal
+
+
+русский
+
+
+Suomi
+
+
+Svenska
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Please note that the English version of the 
+Apple Developer
+ Enterprise Program License Agreement you accept in your developer account is binding and the most up to date. Translations of select agreements may also be available within a reasonable period of time after the English versions are updated. Any translations are provided for your convenience.
+
+
+Last update: June 9, 2025
+
+
+
+
+简体中文
+
+
+繁體中文
+
+
+日本語
+
+
+한국어
+
+
+Dansk
+
+
+Deutsch
+
+
+Español
+
+
+Français
+
+
+Italiano
+
+
+Nederlands
+
+
+Norsk
+
+
+Polski
+
+
+Português do Brasil
+
+
+Português de Portugal
+
+
+русский
+
+
+Suomi
+
+
+Svenska
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select a translation:
+
+
+
+
+简体中文
+
+
+日本語
+
+
+한국어
+
+
+български език
+
+
+Ελληνικά
+
+
+Čeština
+
+
+Dansk
+
+
+Deutsch
+
+
+Eesti keel
+
+
+English (UK)
+
+
+Español
+
+
+Español mexicano
+
+
+Français
+
+
+Gaeilge
+
+
+Hrvatski
+
+
+Italiano
+
+
+Latviešu valoda
+
+
+Lietuvių kalba
+
+
+Limba română
+
+
+Magyar nyelv
+
+
+Malti
+
+
+Nederlands
+
+
+Polski
+
+
+Português
+
+
+Português do Brasil
+
+
+Slovenčina
+
+
+Slovenščina
+
+
+Suomi
+
+
+Svenska
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select a translation:
+
+
+
+
+简体中文
+
+
+日本語
+
+
+한국어
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select a translation:
+
+
+
+
+简体中文
+
+
+日本語
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Submit your
+feedback
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ask questions on the forums
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Apple Developer Support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Developer Footer
+
+
+
+
+Support
+
+
+Agreements and Guidelines
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platforms
+
+
+
+
+ 
+Open Menu
+ 
+
+
+ 
+Close Menu
+ 
+
+
+
+
+iOS
+
+
+iPadOS
+
+
+macOS
+
+
+tvOS
+
+
+visionOS
+
+
+watchOS
+
+
+
+
+
+
+
+
+
+
+
+
+Tools
+
+
+
+
+ 
+Open Menu
+ 
+
+
+ 
+Close Menu
+ 
+
+
+
+
+Swift
+
+
+SwiftUI
+
+
+Swift Playground
+
+
+TestFlight
+
+
+Xcode
+
+
+Xcode Cloud
+
+
+SF Symbols
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Topics & Technologies
+
+
+
+
+ 
+Open Menu
+ 
+
+
+ 
+Close Menu
+ 
+
+
+
+
+Accessibility
+
+
+Accessories
+
+
+App Extensions
+
+
+App Store
+
+
+Audio & Video
+
+
+Augmented Reality
+
+
+Design
+
+
+Distribution
+
+
+Education
+
+
+Fonts
+
+
+Games
+
+
+Health & Fitness
+
+
+In-App Purchase
+
+
+Localization
+
+
+Maps & Location
+
+
+Machine Learning
+
+
+Open Source
+
+
+Security
+
+
+Safari & Web
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+ 
+Open Menu
+ 
+
+
+ 
+Close Menu
+ 
+
+
+
+
+Documentation
+
+
+Tutorials
+
+
+Downloads
+
+
+Forums
+
+
+Videos
+
+
+
+
+
+
+
+
+
+
+
+
+Support
+
+
+
+
+ 
+Open Menu
+ 
+
+
+ 
+Close Menu
+ 
+
+
+
+
+Support Articles
+
+
+Contact Us
+
+
+Bug Reporting
+
+
+System Status
+
+
+
+
+
+
+
+
+
+
+
+
+Account
+
+
+
+
+ 
+Open Menu
+ 
+
+
+ 
+Close Menu
+ 
+
+
+
+
+Apple Developer
+
+
+App Store Connect
+
+
+Certificates, IDs, & Profiles
+
+
+Feedback Assistant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Programs
+
+
+
+
+ 
+Open Menu
+ 
+
+
+ 
+Close Menu
+ 
+
+
+
+
+Apple Developer Program
+
+
+Apple Developer Enterprise Program
+
+
+App Store Small Business Program
+
+
+MFi Program
+
+
+News Partner Program
+
+
+Video Partner Program
+
+
+Security Bounty Program
+
+
+Security Research Device Program
+
+
+
+
+
+
+
+
+
+
+
+
+Events
+
+
+
+
+ 
+Open Menu
+ 
+
+
+ 
+Close Menu
+ 
+
+
+
+
+Meet with Apple
+
+
+Apple Developer Centers
+
+
+App Store Awards
+
+
+Apple Design Awards
+
+
+Apple Developer Academies
+
+
+WWDC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			Get the 
+Apple Developer app
+.
+		
+
+
+
+
+
+
+
+
+
+
+Light
+
+
+
+
+
+
+
+
+Dark
+
+
+
+
+
+
+
+
+Auto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright ©  2025 
+Apple Inc.
+ All rights reserved.
+
+
+
+
+Terms of Use
+
+
+Privacy Policy
+
+
+Agreements and Guidelines
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

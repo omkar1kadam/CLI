@@ -1,0 +1,188 @@
+Business.gov.nl uses cookies to improve the website. These functional and analytical cookies do not contain your personal data. Do you want to watch video content? Third parties may place tracking cookies to track your online behaviour. You can refuse these tracking cookies.
+ 
+How cookies are used on Business.gov.nl.
+Accept all cookies
+Refuse tracking cookies
+Skip to main content
+Go to the search page
+Logo Business.gov.nl, government information for entrepreneurs.
+Menu
+Home
+Topics
+Main menu
+Topics
+Coming to the Netherlands
+Starting a business
+Running your business
+Finance and taxes
+Staff
+Business location
+Products, services, and innovation
+International business
+Sustainable business
+Ending or transferring your business
+Regulations
+Main menu
+Regulations
+Regulations
+Amendments
+Subsidies
+Videos
+Factsheets
+Contact
+Ondernemersplein.overheid.nl (Nederlands)
+Search
+Home
+Running your business
+Legal matters
+Drafting general terms and conditions
+Published by
+:
+Netherlands Chamber of Commerce, KVK
+6 min read
+Nederlandse versie
+By drawing up general terms and conditions, it is clear to your customer or guest how matters such as warranty, cancellation, liability, and payment are arranged. You are not obliged to draw up general terms and conditions. 
+On this page
+What are general terms and conditions?
+Why general terms and conditions?
+Drafting terms and conditions
+Filing general terms and conditions with KVK
+General terms and conditions for online shops
+Cancellation policy for holidays
+What are general terms and conditions?
+General terms and conditions are the rules that apply to an agreement. For example, when your customer buys a product or purchases a service from you.
+Why general terms and conditions?
+With general terms and conditions, it is immediately clear which rights and obligations you and your customer have. Your customers know where they stand. For example, regarding the warranty, liability, and payment. And you can reduce the risks you run as an entrepreneur.
+You are not obliged to draw up general terms and conditions. But there are a number of rules that you must adhere to when drawing up general terms and conditions. For example, conditions may 
+not be unreasonable and you have the duty of disclosure
+.
+Drafting terms and conditions
+General terms and conditions can be drawn up in various ways. You can draw them up yourself, use an example text, or have the conditions drawn up by a legal advisor.
+Use an example for terms and conditions
+You can find examples for general terms and conditions (model texts) at branch organisations, professional associations, or other providers of customised and sample contracts.
+Check if you must use general terms and conditions of your sector association
+Some sector organisations require their members to use terms and conditions. For example, in 
+childcare
+ (in Dutch). The Social and Economic Council (SER) has an 
+overview of sectors
+ (in Dutch) with standard conditions that members must use.
+What to include in the general terms and conditions 
+Note that the terms and conditions vary by industry. Entrepreneurs can also make separate purchase and/or sales conditions. The general terms and conditions often include the following terms:
+Open all
+Open
+Liability
+As an entrepreneur, you can be held liable for all direct damage (for example, repair costs or replacement costs) and indirect damage (for example, water damage in the event of a fire). You may never refuse all liability, but you can limit your liability with your terms and conditions.
+Open
+Payment term
+You may determine a reasonable payment term for consumers. You record that in the general terms and conditions. A 
+statutory payment term
+ applies to companies and the government. Would you like to use a shorter or longer payment term? Then you must record this in your general terms and conditions. You can also agree on this payment term in a contract.
+Open
+Retention of title (ownership)
+If you record retention of title in the terms and conditions, the goods remain yours until your customer has paid. You can then, for example, 
+reclaim your goods
+ if the customer goes bankrupt.
+Open
+Guarantee
+Your product must do what it promises. Your buyer has a 
+legal guarantee
+, a warranty. In your general terms and conditions, you can add information about, for example, extra warranty. Or the duration of the warranty. You cannot limit the legal warranty on your product in the general terms and conditions.
+Open
+Terms of delivery
+Delivery conditions apply to everything that has to do with the delivery of a product. Such as delivery time, cancellation, and agreements about transport and delivery costs. For international trade, you can use 
+the ICC Incoterms®.
+ These are standardised international delivery terms that you can agree with your customers and suppliers.
+Open
+Force majeure and force majeure clause
+If you are unable to keep to your agreements, you are normally responsible for the damage the other party has suffered. In some cases, you can invoke force majeure. For example, if you are unable to deliver products due to war or an environmental disaster. Read more about when there is 
+force majeure
+.
+Filing general terms and conditions with KVK
+You can 
+file your general terms and conditions
+ at the Netherlands Chamber of Commerce KVK or at the court. That is called a filing. This is not mandatory, but useful. This way they are available for retrieval, they have a stronger proof of fact, and it looks professional. Do you want to withdraw your general terms and conditions? You can 
+end your filing
+ with KVK by email.
+Request terms and conditions
+Would you like to look up your own terms and conditions, or those of a customer or client at KVK? You can 
+request the general terms and conditions
+ by telephone: 088-5851585.
+Inform your customer clearly and on time
+Your terms and conditions should be clear to your customers. If you mainly do business in the Netherlands, you should write them in Dutch. You can make a translation for international customers.
+Your customers must be able to read the terms and conditions before concluding the purchase agreement. You cannot provide the conditions with the product. Do you provide an ongoing service, such as a subscription, and do you want to change the terms and conditions? Then you must 
+abide by the rules
+.
+Read more about 
+general terms and conditions
+ on the KVK website.
+General terms and conditions for online shops
+Do you have an online shop (
+webshop
+)? The rules for an online shop are different than for a physical store. If you also have a physical store, it is useful to set up separate conditions for 
+your online business
+.
+Cancellation period (right of withdrawal) for online sales
+Customers who buy a product or service from you online are legally entitled to a 14-day 
+cancellation period
+, or reflection period. In these 14 days they can cancel the purchase or contract. This is called the right of withdrawal. Do you have general terms and conditions for your online shop? You must record the cancellation period there.
+Include in your terms and conditions:
+what exactly the cancellation period means
+the length of the cancellation period. It may be longer than 14 days, but not shorter.
+for which products and services there is no cancellation period. Note: the law states for which products and services an 
+exception applies
+ (in Dutch). You are not allowed to make up your own exceptions.
+Easy to find
+It is not enough if the reflection period is only mentioned in your general terms and conditions. Publish this information clearly and easy to find on your website. If you do not properly inform the customer about the reflection period, your customer has 1 year more to return or cancel the purchase. The statutory reflection period does not apply to entrepreneurs. Read more about the 
+statutory cancellation period
+.
+Delivery costs and costs for return
+If your customer returns the product within the cancellation period, you must refund the purchase price and the delivery costs. Also mention in your general terms and conditions who is responsible for the costs of the return shipment. This must be clear before the sale.
+Saving terms and conditions
+Your customer must be able to save the terms and conditions. So that they can read later which conditions applied at the time of purchase. So, make the conditions available not only as a web page (in HTML), but also as a PDF, for example.
+Checklist online sales
+The Netherlands Authority for Consumers & Markets (ACM) has 
+a checklist
+ (in Dutch) to check whether you comply with the rules. Also read the 
+rules for online sales.
+Cancellation policy for holidays
+During booking, ask your customer to agree to your terms and conditions. Your terms and conditions also contain your cancellation conditions. Cancellation is the termination (stopping) of an agreement after the booking. Both you and your customer can cancel the agreement.
+Conditions for cancellation
+In the cancellation conditions, you state the period of time within which your customer may cancel the stay. And what costs they still have to pay. You can also describe which conditions the customer must meet in order to be allowed to cancel.
+Payment in case of cancellation
+In the event of cancellation, the customer often has to pay you a percentage of the pre-agreed price. Even if they do not use the holiday accommodation. How much the customer has to pay depends on when they cancel the stay. The sooner the customer cancels, the lower the percentage that they still have to pay. Does the customer cancel the booking shortly in advance? Then you can demand they pay the agreed amount (almost) in full. You can also consider refunding the customer if they find someone else for the holiday accommodation in the same period. But you can charge them administration costs.
+Examples of general terms and conditions
+Would you like to know more about good cancellation conditions? Your industry or professional association can help you with example terms and conditions.
+How would you rate this page?
+(question 1 of max 3)
+We are sorry to hear that. How can we improve?
+(question 2 of 3)
+The information is incomplete
+I do not understand the information
+The information is incorrect
+I do not agree with these rules
+None of the above
+Related articles
+Legal matters
+Business dispute in international business
+Agreements and contracts: all you need to know
+External links
+Can you avoid arguments with general terms and conditions?
+Questions relating to this article?
+Please contact the 
+Netherlands Chamber of Commerce, KVK
++31 (0)88 585 2222
+Service & Contact page
+Ask other entrepreneurs for advice on Higherlevel.nl
+To top
+Logo Business.gov.nl, government information for entrepreneurs.
+About this website
+About us
+Contact
+Partners
+Accessibility
+Disclaimer
+Privacy and cookies
+Glossary
+Ondernemersplein (Dutch)
+Our main contributors:
+Drafting general terms and conditions | Business.gov.nl

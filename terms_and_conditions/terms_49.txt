@@ -1,0 +1,292 @@
+Legal Center and Policies | User Terms and Conditions
+EN
+Get World App
+Legal Center
+User Terms and Conditions
+Privacy Notice
+Cookie Policy
+Biometric Data Consent Form
+World Foundation Terms and Conditions
+1. Introduction
+1.1 Scope of these Terms
+IMPORTANT NOTICE REGARDING ARBITRATION AND CLASS WAIVERS: 
+IMPORTANT INFORMATION REGARDING RISKS ASSOCIATED WITH CRYPTOCURRENCY AND BLOCKCHAIN TECHNOLOGY:
+1.2 Access to and use of Our Features and Rewards
+2. Definitions
+3. Eligibility & Compliance
+4. Changes to Features or Terms
+5. Features Overview
+6. Fees & Taxes
+7. Additional Risks
+8. Intellectual Property, Licensing, and Restrictions
+9. Suspension
+10. Content
+11. DISCLAIMER OF WARRANTIES
+12. LIMITATION OF LIABILITY
+13. Governing Law
+14. DISPUTE RESOLUTION, ARBITRATION AND WAIVER OF CLASS ACTION
+15. General Provisions
+User Terms and Conditions
+World Foundation Terms and Conditions
+1. Introduction
+1.1 Scope of these Terms
+IMPORTANT NOTICE REGARDING ARBITRATION AND CLASS WAIVERS: 
+IMPORTANT INFORMATION REGARDING RISKS ASSOCIATED WITH CRYPTOCURRENCY AND BLOCKCHAIN TECHNOLOGY:
+1.2 Access to and use of Our Features and Rewards
+2. Definitions
+3. Eligibility & Compliance
+4. Changes to Features or Terms
+5. Features Overview
+6. Fees & Taxes
+7. Additional Risks
+8. Intellectual Property, Licensing, and Restrictions
+9. Suspension
+10. Content
+11. DISCLAIMER OF WARRANTIES
+12. LIMITATION OF LIABILITY
+13. Governing Law
+14. DISPUTE RESOLUTION, ARBITRATION AND WAIVER OF CLASS ACTION
+15. General Provisions
+User Terms and Conditions
+Version
+: 
+3.23
+Effective
+ 
+June 08 2025
+Download
+World Foundation Terms and Conditions
+1. Introduction
+1.1 Scope of these Terms
+World is an open‑source protocol developed and maintained by a global community. These Terms of Service (the “Terms”) form a binding contract between you and (i) World Foundation, a Cayman Islands exempted limited‑guarantee foundation company (“Foundation”), (ii) World Assets Limited, a British Virgin Islands limited company (“World Assets”), and (iii) World Chain LLC, a Cayman Islands limited liability company (“World Chain”, and together with Foundation and World Assets, “World”, “we”, “our”, or “us”).
+These Terms govern your access to and use of: (a) the World ID protocol (the “Protocol”); (b) our websites, dashboards, SDKs, smart contracts, and associated applications or services we provide; (c) World Chain, and associated applications or services we provide; (d) the features described in Section 5 below; and (e) any other products, content, or services that we expressly state are subject to these Terms (each a “Feature,” and collectively, the “Features”).
+PLEASE READ ALL OF THESE TERMS CAREFULLY BEFORE USING OR ACCESSING THE FEATURES. THEY CONTAIN IMPORTANT DESCRIPTIONS, DISCLOSURES, OBLIGATIONS, RIGHTS, AND WAIVERS THAT MAY AFFECT YOU.
+By accessing or using any Feature you (a) acknowledge that you have read, understood, and agree to be bound by these Terms and acknowledge our Privacy Notice, each as amended from time to time, (b) represent that you are authorized to accept these Terms on behalf of yourself or any entity you represent, (c) represent and warrant that you meet the Eligibility & Compliance criteria contained in Section 3 of these Terms, and (d) acknowledge and agree that accessing, using, or continuing to use any Feature shall constitute acceptance of these Terms, as they may be amended from time to time. If you do not agree, you must not access or use the Features.
+IMPORTANT NOTICE REGARDING ARBITRATION AND CLASS WAIVERS: 
+THESE TERMS CONTAIN A BINDING ARBITRATION AGREEMENT AND CLASS ACTION WAIVER IN SECTION 14, WHICH AFFECT YOUR LEGAL RIGHTS IF YOU LIVE IN AN APPLICABLE JURISDICTION. IF YOU ARE IN AN APPLICABLE JURISDICTION, THE TERMS IN THIS SECTION REQUIRE YOU TO RESOLVE DISPUTES WITH THE COMPANY THROUGH BINDING INDIVIDUAL ARBITRATION, RATHER THAN IN COURT, AND WAIVES YOUR RIGHT TO PARTICIPATE IN CLASS ACTIONS OR CLASS ARBITRATIONS. PLEASE READ SECTION 14 CAREFULLY. YOU HAVE A LIMITED RIGHT TO OPT OUT OF THE ARBITRATION AGREEMENT AS DESCRIBED IN SECTION 14.
+IMPORTANT INFORMATION REGARDING RISKS ASSOCIATED WITH CRYPTOCURRENCY AND BLOCKCHAIN TECHNOLOGY:
+Cryptocurrencies, tokens, and blockchain applications can be highly risky. They are novel and rapidly-evolving technologies whose availability, usage, utility, value, and functionality is dependent on and affected by third party actors, market forces, regulatory environments, and emergent or changing technologies and behaviors. These factors create significant complexity and introduce new and unanticipated risks or consequences. WLD may never increase in value and/or utility, or it may lose all value and/or utility. Regulatory changes or events may make some or all of the Features unavailable. 
+1.2 Access to and use of Our Features and Rewards
+Many aspects of the Features (such as World ID, your wallet, or actions you perform on World Chain) require the use of your private keys, which you maintain complete custody and control over. We cannot access, use, or obtain your private keys–meaning that if you lose them, or lose your ability to access or use them, we cannot assist you in getting them back, nor can we assist you in performing any action that would require their use (such as executing a transaction). If you lose your private keys or your ability to use them, there is a very high likelihood that you may also lose all assets, content, and/or functionality associated with the Features.
+An important note about WLD you may receive. 
+The Features provided to you are not investments or investment products–we are not asking or recommending that you buy or sell anything, and nothing should be construed as such. Eligible users may be able to receive free WLD in connection with certain Features–such as user token claims or the WLD Vault. 
+User token claims are not guaranteed. 
+WLD grants are automatically available for all eligible users who have a verified World ID and/or, where available, a verified credential. If you are already an eligible verified human, you may claim user tokens without providing anything of value to World as the claim is in and of itself a simple check (using zero-knowledge proofs) to determine that you are in fact eligible. Because the Features use blockchain technology, a record that you made a claim is stored onchain. The first time you claim user tokens determines the amount you may be eligible to claim in future months, and this amount may expire or decrease over time until you make your initial claim. Some users who have verified their World ID or used other aspects of our Features, but were previously unable to receive user tokens, may be eligible to receive additional WLD as a reward for their previous usage upon user tokens being made available to them. 
+We reserve the right to modify or decrease the amount of WLD user tokens you may receive, even if you have already made an initial claim, at any time and in our sole discretion
+. 
+You may be eligible to earn rewards using the WLD Vault (as described in Section 5.6 below). Rewards from the WLD vault are not guaranteed, and may be reduced or eliminated at any time. We do not determine or control the value of WLD, nor do we make it available for sale to you. No Feature, including WLD, represents or gives you any ownership or voting rights, or rights to revenue or any other type of distribution. 
+Activities involving WLD or any other cryptocurrency/digital asset may not be permitted where you live, and it is your responsibility to comply with all applicable laws. Please consider whether buying, selling, using, or holding cryptocurrencies or tokens, including WLD, is suitable for you in light of your circumstances and your understanding of these technologies. WLD may not have any value, or whatever value you believe it has may change quickly and/or be erased entirely. We do not guarantee that the Features will operate as planned, or that WLD will have value. We do not and are not able to provide you with any financial, legal, or other professional advice–if you have questions of this nature it may be appropriate for you to seek input from a qualified third party.
+When accessing the Features, you may provide us with categories of personal information, such as your name or telephone number. If you provide information to establish your proof of personhood and to claim your WLD tokens, then you may provide special categories of sensitive personal data, such as your biometric information. Our 
+ 
+Privacy Notice
+ and 
+ 
+Biometric Data Consent Form
+ describe the data we collect from you and how we use it.
+More information regarding risks and disclosures can be found 
+ 
+here
+, and in our 
+ 
+whitepaper
+.
+2. Definitions
+Unless the context requires otherwise, the following terms have the meanings given below:
+Digital Token
+ means any cryptographic token or digital asset, including WLD.
+Marks
+ means the World Foundation, Worldcoin Foundation, and World Assets name(s), the World name, the World logo, the Worldcoin name, the Worldcoin logo, and any related trademarks or service marks.
+User
+, 
+you
+, or 
+your
+ means any natural or legal person who accesses or uses the Features.
+3. Eligibility & Compliance
+You may use the Features only if you:
+are at least 18 years old and have the legal capacity to contract;
+are not a resident, national, or entity that is subject to, or located in a jurisdiction that is subject to, sanctions or blocking lists maintained by the United States (including, but not limited to, the U.S. Office of Foreign Assets Control and the U.S. Department of Commerce), the European Union, the United Kingdom, the United Nations, or any similar lists maintained in a jurisdiction where you may access the Features;
+are not otherwise the target of, or subject to, export controls, anti-boycott laws, or similar restrictive measures administered or enforced by any relevant governmental authority;
+comply with these Terms and with all applicable laws and regulations, including but not limited to, any “Know your Customer” (“KYC”), Anti-Money Laundering (“AML”), Counter-Terrorist Financing (“CFT”), or Travel Rule requirements; and
+use the Features only for legitimate, lawful purposes.
+Certain Features, such as the Worldcoin Interface described in Section 5.6 below, may not be available to persons or corporations resident in, or having a principal place of business in, the State of New York.
+Availability.
+ Webpages describing the Features may be accessible worldwide, but this does not mean all Features are legal or available in your country. You may not use VPNs, proxies, or similar methods to evade geographic or other restrictions or otherwise circumvent the obligations set forth in these Terms when using the Features. 
+It is your responsibility to make sure that your use of the Features are legal where you use them. Features are not available in all languages.
+4. Changes to Features or Terms
+We may update or add new Features, and we may also update or modify these Terms at any time. When we revise the Terms we will post the updated version and revise the “Last Updated” date. Material changes will be announced via the Features or another reasonable channel to the extent required by law. Continued use after a change becomes effective constitutes acceptance of the revised Terms. If you disagree with any changes, you must stop using the Features, which you can do at any time. Because the Features are evolving over time we may change or discontinue all or any part of the Features at any time and without notice, at our sole discretion, to the extent permitted by applicable law.
+5. Features Overview
+5.1 World ID Protocol. 
+The Protocol allows a person to prove you are a real and unique human while preserving privacy. We control the Protocol and make it available only through partners we have authorized to do so (“World ID Partners”). You may register once. hile we make every effort to ensure that World ID is accurate, there is no guarantee that the service is 100% reliable and accurate. In addition, there is the possibility of a false positive occurring when you try to sign up to World ID for the first time. Further information on how to obtain a World ID may be provided to you by World ID Partners during the signup process.
+5.2 World ID SDK.
+ We may make available a software development kit (“SDK”) to allow third parties to build on top of the Protocol. By using the SDK along with your explicit consent to these Terms and other applicable terms, you agree to these Terms and any additional terms we may provide with the SDK.
+5.3 WLD Token.
+ The supply of Worldcoin tokens (which may be symbolized as "WLD") is currently fixed at 10 billion, and are made available through World Assets, Ltd. Additional details regarding the supply and allocation of WLD can be found in our 
+ 
+whitepaper
+.
+5.4 World Chain. 
+World Chain is an EVM‑compatible Layer‑2 blockchain. The chain might experience downtime, slowness, hacks, or other interruptions due to factors beyond our control. We do not guarantee that transactions on World Chain will confirm within any specific time frame, or at all, nor do we guarantee they will remain immutable. Blockchain networks like World Chain are permissionless, meaning third parties may build applications or features that are not approved or controlled by us. You should use caution when interacting with any feature or application on a blockchain, including World Chain. You assume all associated risks when using or interacting with any aspect of World Chain.
+5.5 Worldcoin Interface.
+ Subject to availability and eligibility, you may be able to use your self-custodial wallet to access and use our "Worldcoin" mini app interface, which is a separate user interface that can be accessed within the “World App” mobile application. World App is provided and maintained by Tools for Humanity Corporation ("TFH"). Your actions within the Worldcoin interface are automatically completed and stored using smart contracts and accounts on World Chain that are not owned or controlled by TFH. When you use this interface to perform or access certain actions, such as claiming or receiving WLD tokens or interacting with the WLD Vault, you are interacting with these smart contracts and accounts on World Chain. Depending on availability and eligibility, you may also be able to directly perform these actions onchain without needing to use the Wordcoin interface via World App. Adding or removing WLD tokens into or from the WLD Vault is entirely dependent on your use of your private key. Depositing WLD into the WLD Vault means you are placing them in a permissionless smart contract subject to a pre-programmed delay period, which you must accept prior to any deposit.This means you will not be able to withdraw your WLD tokens until this delay period has expired. The delay period will be displayed to you in the Worldcoin interface. World does not receive the WLD tokens you choose to deposit into the WLD Vault–you remain in complete control of your ability to deposit or withdraw your tokens using your private key, and we take no custody or responsibility with respect to the tokens you may deposit.
+5.6 Invite Rewards.
+ We work with third parties to grow the World network and Protocol through Invite Rewards. Where available, you may be eligible for rewards for participating in an “Invite” feature made available to you via the Referral Rewards interface accessible through World App. Using the Referral Rewards feature, you can invite friends and family to obtain and verify a World ID. Successful referrals may automatically result in you receiving WLD. 
+World Assets reserves the right to refuse to offer you a referral reward, to limit the amount of referrals you may make, or to modify any criteria or terms governing your eligibility or use of the Referral Rewards program at any time, in its sole discretion.
+6. Fees & Taxes
+Network fees, including base fees, gas fees, and optional priority fees, are paid directly to the network and are non-refundable. In some cases, fees assessed on transactions may be paid by third-parties on your behalf. Other platforms, networks, or applications may assess fees and are your responsibility. Your transactions may result in tax consequences depending on your jurisdiction or the place in which you make them. It is your sole responsibility to determine whether, and to what extent, any taxes apply based on your use of the Features and to withhold, collect, report, and remit the correct amount of any tax obligations to the appropriate authorities if so.
+7. Additional Risks
+7.1 Not Legal Tender.
+ Digital Tokens are not legal tender, are not backed by any government, and are not subject to Federal Deposit Insurance Corporation, Securities Investor Protection Corporation protections, or similar protections found in other countries. We are not a bank and do not offer fiduciary services. We are not regulated by any federal or state regulatory agency and are not subject to the examination or reporting requirements of any such agencies. We make no guarantee as to the functionality of the blockchains we support, which could, among other things, lead to delays, conflicts of interest, or operational decisions by third parties that are unfavorable to certain owners of Digital Tokens, or lead to your inability to complete a transaction using the Features.
+7.2 Transactions Disclaimer. 
+The transaction details you submit via Features may not be completed, or may be substantially delayed on the applicable blockchain, and we take no responsibility for the failure of the transaction to be confirmed or processed or expected. There are no warranties or guarantees that a transfer initiated via the Features may not be completed, or may be substantially delayed on the applicable blockchain and we take no responsibility for the failure of a transaction to be confirmed or processed as expected. There are no warranties or guarantees that a transfer initiated via the Features will successfully transfer title or right in any Digital Token.
+7.3 New Technology.
+ The Features are new. While this software has been extensively tested, the software used for the Features is still relatively new and could have bugs or security vulnerabilities. Further, the software is still under development and may undergo significant changes over time that may not meet users’ expectations.
+7.4 Information Security Risk. 
+Digital Tokens and use of the Features may be subject to expropriation or theft. Hackers or other malicious groups or organisations may attempt to interfere with the Features in a variety of ways, including, but not limited to, malware attacks, denial of service attacks, consensus-based attacks, Sybil attacks, smurfing and spoofing. Furthermore, because the blockchain networks we support, such as the Ethereum protocol, rest on open source software, the software underlying the Features may contain intentional or unintentional bugs or weaknesses which may negatively affect the Features. In the event of such a software bug or weakness, there may be no remedy and users are not guaranteed any remedy, refund or compensation.
+7.5 Accuracy.
+ Although we intend to provide accurate and timely information provided through the Features (including, without limitation, the content) may not always be entirely accurate, complete or current and may also include technical inaccuracies or typographical errors. In an effort to continue to provide you with as complete and accurate information as possible, information may, to the extent permitted by applicable law, be changed or updated from time to time without notice, including without limitation information regarding our policies, products and services. Accordingly, you should verify all information before relying on it, and all decisions based on information provided through the Features are your sole responsibility and we shall have no liability for such decisions.
+7.6 Availability.
+ Although we strive to provide you with excellent service, we do not guarantee that the Features will be available without interruption. The Featuress may be temporarily unavailable from time to time for maintenance or other reasons. We assume no responsibility for any error, omission, interruption, deletion, defect, delay in operation or transmission, communications line failure, theft or destruction or unauthorised access to, or alteration of, user communications. We are not responsible for any problems or technical malfunction of any telephone network or lines, computer online systems, servers or providers, computer equipment, software, failure of email or players on account of technical problems or traffic congestion on the Internet or on the Features or combination thereof, including injury or damage to users or to any other person's computer related to or resulting from participating or downloading materials in connection with the Features. We are not responsible for any loss or damage, financial damages or lost profits, loss of business, or personal injury or death, resulting from anyone's use of the Features, any Content (as defined in Section 10.1) posted on or through the Features or transmitted to users, or any interactions between users of the Features, whether online or offline.
+7.7 Forks.
+ The software used to create WLD is open-source and free for anyone to copy and use. This means that anyone can create a modified version of WLD, otherwise known as a “Fork.” In the event of a Fork or any other disruption of a Digital Tokens network, we may not be able to support any activity related to the Fork. Transactions may not be completed, completed partially, incorrectly completed, or substantially delayed when a Fork occurs. We are not responsible for any losses you incur which are caused in whole or in part by a Fork or other network disruption.
+8. Intellectual Property, Licensing, and Restrictions
+8.1 Ownership.
+ Our software, the Protocol, the Features, the Content, the Marks (as defined in Section 2) and the design, selection, and arrangement of the Content in the Features (the “IP”) are protected by copyright, trademark, patent, and other intellectual property rights and laws of the United States and other applicable countries. You agree to abide by all applicable intellectual property rights and laws, as well as any trademark or copyright notices or restrictions contained in the Agreement or the Features. You may not remove any copyright, trademark, or proprietary notices contained in the IP.
+8.2 Trademarks.
+ The World Foundation and World Assets name, the World name and design, the World logo and all related logos, and slogans of our trademarks or service marks (the “Marks”). You may not copy, imitate, or use the Marks, in whole or in part, without our written permission. All other trademarks, names, or logos mentioned in connection with the Features are the property of their respective owners and you may not copy, imitate, or use them, in whole or in part, without the written permission of the applicable trademark owner. The inclusion of any marks of others in the Features does not constitute an approval, endorsement, or recommendation by us.
+8.3 License.
+ Provided that you are eligible to use the Features and subject to your compliance with these Terms, we hereby grant you a limited license to access and use the Features.
+8.4 License Restrictions. 
+You may not republish Content on any Internet, Intranet or Extranet site or incorporate the information in any other database or compilation, and any other use of the Content is strictly prohibited. Any use of the Features other than as specifically authorized herein, without our prior written permission, is strictly prohibited and will terminate the license granted herein. Such unauthorized use may also violate applicable laws including without limitation copyright and trademark laws and applicable communications regulations and statutes. Unless explicitly stated herein, nothing in these Terms are construed as conferring any license to intellectual property rights, whether by estoppel, implication or otherwise. This license is revocable by us at any time without notice and with or without cause, to the extent permitted by applicable law.
+8.5 Government.
+ If you are a U.S. Government end user, we are licensing the Features to you as a “Commercial Item” as that term is defined in the U.S. Code of Federal Regulations (see 48 C.F.R. § 2.101), and the rights we grant you to the Features are the same as the rights we grant to all others under these Terms.
+9. Suspension
+We may suspend and restrict your access to the Features: (i) We are so required by a facially valid subpoena, court order, or binding order of a government authority; (ii) We reasonably suspect you of using the Feature in connection with a Prohibited Use; (iii) Use of your using the Feature is subject to any pending litigation, investigation, or government proceeding and/or we perceive a heightened risk of legal or regulatory non-compliance associated with your activity; (iv) Our service partners are unable to support your use; (v) You take any action that we deem as circumventing our controls (such as but not limited to attempting to create multiple accounts).
+10. Content
+10.1 Reliance on Content; Changes to the Features.
+ The information and material we provide to you through the Features (“Content”) are solely for general information purposes, and we do not guarantee its accuracy, usefulness, or completeness, to the extent permitted by applicable law. Any reliance you place on our Content is strictly at your own risk. We have no liability or responsibility for any actions you take or do not take because of the Content, or for anyone with whom you share the Content. Other users’ statements describing their use of our Features found on the Features or anywhere else should not be viewed as our endorsement of their statements if the statements are inconsistent with these Terms or our Content. We may update the Content from time to time, but such Content may not be complete or up-to-date, and we are under no obligation to you to update the Content or any other part of the Features. We may modify or discontinue, temporarily or permanently, any part or all of the Content or Features without prior notice to you, to the extent permitted by applicable law. We will not be liable for any modification, suspension, or discontinuance of part or all of the Content or the Features, to the extent permitted by applicable law.
+10.2 Third-Party Services and Content
+. We may provide or allow access to educational materials, webinars, meet-ups, applications, services, and promotions from or offered by third parties (“Third-Party Services”). These Third-Party Services may require you to provide certain information or data upon accessing or using them. If you share any personal information, pictures, opinions, content, or any other data on those services, you do so at your own risk, and your use of those services is subject to the terms of use and privacy policies of those services, and not ours. You should review the terms of services of each Third-Party Service to better understand your rights, and the manner in which those platforms use your data. We are not responsible for any loss, theft, compromise, or misuse of your data whatsoever in connection with any Third-Party Service (including negligence) except to the extent such liability cannot be limited under applicable laws. Your use of any information provided by a Third-Party Service (“Third-Party Content”) is at your own risk, and we make no promises to you that any Third-Party Content is accurate, complete, authentic, or appropriate for your personal circumstances. Third-Party Content includes information provided by other users not specifically endorsed by us.
+10.3 User Content. 
+As a member of the World community, you may post messages, data, software, images, videos, or other content (“User Content”) on message boards, blogs, social media accounts owned by us, as well as various other publicly available locations on the Features. These forums may be hosted by us or a Third-Party Service Provider on our behalf. You are responsible for all User Content you submit, upload, post, or store through the Feature. You must provide all required and appropriate warnings, information, and disclosures regarding your User Content. We are not responsible for any User Content you submit through the Features
+10.4 User Content License.
+ By submitting User Content to us, you represent that you have all necessary rights to the User Content and you thereby grant us a perpetual, worldwide, non-exclusive, royalty-free, sub-licensable, and transferable license to use, reproduce, distribute, prepare derivative works from, modify, display, and perform all or any portion of the User Content in connection with our marketing and promotions, and for any other legitimate business purpose related to the FeaturesWe may redistribute part or all of and derivative works from your User Content in any media formats and through any media channels we choose. You also hereby grant us and other users a non-exclusive license to use, access, reproduce, distribute, modify, and display, and perform your User Content through the Features. Section 10.4 will apply to the fullest extent permitted by applicable law.
+10.5 User Content Restrictions. 
+You agree not to use, nor permit any third party to use, the Features to post or transmit any User Content that: (a) is libelous or defamatory, or discloses private or personal matters concerning any person; (b) is indecent, obscene, pornographic, harassing, threatening, abusive, hateful, racially or ethnically offensive; encourages conduct that would be considered a criminal offense, give rise to civil liability, or violate any law, or is otherwise inappropriate; (c) would violate the intellectual property rights of others, including unauthorized copyrighted text, images or programs, trade secrets or other confidential proprietary information, or trademarks or service marks used in an infringing fashion; or (d) unreasonably interferes with another user’s use of the Features. You represent to us that you are posting User Content to the Features voluntarily; accordingly, posting User Content does not create an employer-employee relationship between you and us. You may not copy or use email addresses, mobile phone numbers, balances, usernames, or any other personal information about other users without their permission. Unsolicited emails, mailings, telephone calls, or other communications to other users through the Features or in any other channel are prohibited.
+10.6 Complaints and DMCA Takedowns.
+ If you believe that your trademark or copyrighted work is being infringed by our Content or User Content on the Features or is otherwise being published in a way suggesting some endorsement of or affiliation with us, please send an email to us at 
+[email protected]
+ with the subject line “[Trademark/Copyright] Complaint,” whichever the case may be. For your complaint to be effective and in order for us to take action under the Digital Millennium Copyright Act (“DMCA”), you must follow all DMCA requirements by including the following information in your email:
+Clear identification of the copyrighted work or mark claimed to be infringed, including the Copyright Registration number if the work is registered;
+Identification of the work or mark that is claimed to be infringing and that you want removed;
+The URL or other clear direction to enable us to locate the alleged infringing content;
+Your email address, mailing address, and telephone number; and
+A signed statement that you have a good faith belief that the content is infringing, that the information you are providing is correct, and that you are the owner or authorized to represent the owner of the content.
+You should also be aware that under Section 512(f) of the DMCA, any person who knowingly sends meritless notices of infringement may be liable for damages, so please do not make any false claims. We may share any information or correspondence you provide us with third parties, including the person who uploaded the allegedly infringing material to the Feature.
+When we receive a bona fide infringement notice, our policy is to: (a) immediately remove or disable access to the infringing content; (b) notify the person who uploaded the infringing material that we have removed or disabled access to the material; and (c) for repeat offenders, terminate the person’s access to the Features. If we receive a counter-notice from such a person, we may send a copy of the counter-notice to you explaining that we may restore the removed material or cease disabling it in 10 business days. Unless you file an action seeking a court order against us or against the person who uploaded the content, we will restore access to the removed material in 10 to 14 business days or more after receipt of the counter-notice, at our discretion.
+11. DISCLAIMER OF WARRANTIES
+11.1 Your use of the Features is at your own risk. The Features, WLD, the Content and all other IP are provided on an “AS-IS” and “AS AVAILABLE” basis without any representation or warranty, whether express, implied, or statutory. To the maximum extent permitted by applicable law, we specifically disclaim any implied warranties of title, merchantability, fitness for a particular purpose, or non-infringement as to the features, content, or other IP contained in the Features. Some jurisdictions do not allow the exclusion of implied warranties, so the above exclusions may not apply to you. We do not endorse, guarantee, or assume responsibility for any advertisements, offers, or statements made by third parties, including other users concerning the Features.
+11.2 We do not make any representations or warranties that (a) access to all or part of the Features will be continuous, uninterrupted, timely, secure, or error-free; (b) that the Features or content are accurate, complete, reliable, or current; (c) that the Features are free of viruses or other harmful components; or (d) that the Features or the content will meet your requirements, needs, or expectations.
+11.3 Additionally, we do not make any representations or warranties with respect to the legality of the Features or WLD for any use case, or that the Features or WLD will meet any regulatory or compliance needs. You are also responsible for determining and complying with all legal and regulatory restrictions and requirements that may govern your use of the Features or WLD. Except for the express statements set forth in these Terms, you hereby acknowledge and agree that you have not relied upon any other statement or understanding, whether written or oral, with respect to your access to and use of the Features or WLD.
+11.4 We are not acting and cannot act as your advisor with respect to any financial, legal, investment, or tax matters. Any content speaks only as of the date indicated. Any projections, estimates, forecasts, targets and/or opinions expressed here are subject to risks, uncertainties, and assumptions, and so may be incorrect and may change without notice. No content should be relied upon.
+Certain information here may have been obtained from third-party sources. While such sources are believed to be reliable, we have not independently verified all such information and make no representations as to its accuracy. We are not a registered broker-dealer or investment adviser. We make no representations, and specifically disclaim all warranties, express, implied, or statutory, regarding the accuracy, timeliness, or completeness of any material contained in the Features. Our content is for general information only, and you are solely responsible for determining whether or not to use the Features. You acknowledge that trading, using, and holding Digital Tokens is inherently risky. You acknowledge that the Service may be subject to export restrictions and economic sanctions imposed by U.S. law.
+11.5 We are not liable to you or any third party for any modification or termination of the Features, or suspension or termination of your access to the Features.
+12. LIMITATION OF LIABILITY
+12.1 We don’t exclude or limit our liability to you where it would be illegal to do so. In countries where the below types of exclusions aren’t allowed, we’re responsible to you only for losses and damages that are a reasonably foreseeable result of our failure to use reasonable care and skill or our breach of our contract with you. This paragraph doesn’t affect consumer rights that can’t be waived or limited by any contract or agreement.
+12.2 To the extent permitted by law, you agree that under no circumstances will we or any of our officers, directors, employees, contractors, agents, affiliates, or subsidiaries (the “Foundation Parties”) be liable to you for any indirect, punitive, incidental, special, consequential, or exemplary damages, including damages for loss of profits, goodwill, use, data, or other intangible property, whether such liability is asserted on the basis of tort or otherwise, and whether or not the Foundation Parties have been advised of the possibility of such damages arising out of or in connection with: (a) your use or inability to use the Features, your Digital Tokens, or the World network; (b) inaccessibility or termination of the Features; (c) any hacking, tampering, unauthorized access to or alteration of any transaction or your Data; (d) any transaction or agreement entered into by you with any third party through the Features; (e) any activities or communications of third parties; (e) any loss of the value of any Digital Tokens; (f) any Third-Party Content accessed on or through the Features; (g) errors, mistakes, or inaccuracies in our Content; (h) personal injury or property damage of any nature whatsoever resulting from any access to or use of the Features; (i) viruses, trojan horses, or the like that may be transmitted to or through the Features; or (j) the defamatory, offensive, or illegal conduct of any third party. This limitation of liability will apply whether the damages arise from use or misuse of, or reliance on the Foundation or the Features, notwithstanding any failure of essential purpose of any limited remedy and to the fullest extent permitted by applicable laws.
+12.3 Under no circumstances will the Foundation Parties be liable to you for any direct claims, proceedings, liabilities, obligations, damages, losses, or costs in an amount exceeding $100.00. If you are dissatisfied with the Features, you agree that your sole and exclusive remedy will be for you to discontinue your use of the Features. This limitation of liability will apply to the fullest extent permitted by applicable laws.
+12.4 Release and Indemnification.
+ You agree to defend, indemnify, and hold harmless the Foundation Parties from and against any claims, damages, costs, liabilities, reasonable attorneys’ fees, and expenses brought against a Foundation Party by any third party arising out of or related to: (a) your use of the Features; (b) your violation of these Terms; (c) your violation of any rights of another person; (d) your conduct in connection with the Features; or (e) your use of WLD, any Digital Tokens, or the Worldcoin network. Some jurisdictions limit consumer indemnities, so some or all of the indemnity provisions in this paragraph may not apply to you. If you are obligated to indemnify any of the Foundation Parties, we reserve the right, in our sole discretion, to control any action or proceeding and to determine whether to settle and on what terms.
+IF YOU ARE A CALIFORNIA RESIDENT, you waive the benefits and protections of California Civil Code § 1542, which provides: “[a] general release does not extend to claims that the creditor or releasing party does not know or suspect to exist in his or her favor at the time of executing the release and that, if known by him or her, would have materially affected his or her settlement with the debtor or released party.”
+13. Governing Law
+If you reside in the European Economic Area (EEA), then the law of the Federal Republic of Germany will apply to this Agreement and any disputes arising out of or related to this Agreement. If you reside outside of the EEA, then the laws of the Cayman Islands will apply to this Agreement and any disputes arising out of or related to this Agreement. The governing law stated in this section will apply without regard to principles of conflict of laws. You further agree that the Feature will be deemed to be based solely in Cayman Islands, and that although the Features may be available in other jurisdictions, its availability does not give rise to general or specific personal jurisdiction in any forum outside the Cayman Islands .
+14. DISPUTE RESOLUTION, ARBITRATION AND WAIVER OF CLASS ACTION
+14.1 PLEASE READ THE FOLLOWING PARAGRAPHS CAREFULLY. THEY REQUIRE YOU TO SETTLE DISPUTES WITH US THROUGH INDIVIDUAL ARBITRATION BEFORE A SOLE ARBITRATOR, AND NOT AS A MEMBER OF A CLASS ACTION. ARBITRATION PREVENTS YOU FROM SUING US IN COURT OR FROM HAVING A JURY TRIAL, THOUGH YOU MAY BRING A DISPUTE AGAINST US IN SMALL CLAIMS COURT IF YOU QUALIFY.
+14.2 We will use our best efforts to resolve any potential disputes through informal, good faith negotiations. If a potential dispute arises, you must contact us by sending an email to 
+[email protected]
+ so that we can attempt to resolve it without resorting to formal dispute resolution. If we aren’t able to reach an informal resolution within 60 days of your email, and you elect to bring a federal or state statutory claim, common law claim, claim based in contract, tort, fraud, misrepresentation or any other legal theory, or any other formal proceeding arising out of or relating to these Terms, the Content, or the Features (each, a “Dispute”), then you agree to resolve the Dispute through binding arbitration, on an individual basis according to the following terms (collectively, the “Arbitration Agreement”):
+Arbitration will be conducted confidentially by a single arbitrator. The arbitrator will apply applicable statutes of limitation and all applicable law and will honour claims of privilege recognized by applicable law.
+If you reside in the EEA, then the Dispute will be solely and finally settled by arbitration administered by the German Arbitration Institute (DIS) in accordance with DIS Rules of Arbitration. Arbitration will occur in Berlin, Germany, unless you and we both agree to conduct it elsewhere. You agree that the courts in Berlin, Germany are the proper forum for any appeals of an arbitration award or for court proceedings in the event that this Agreement’s binding arbitration clause is found to be unenforceable.
+If you reside outside the EEA, then the Dispute will be solely and finally settled by arbitration administered by JAMS in accordance with the JAMS Streamlined Arbitration Rules, unless the aggregated amount of the Dispute is $250,000 or more, in which case the JAMS Comprehensive Arbitration Rules will apply. Arbitration will occur in San Francisco, California, unless you and we both agree to conduct it elsewhere. You agree that the federal and state courts in San Francisco, California are the proper forum for any appeals of an arbitration award or for court proceedings in the event that this Agreement’s binding arbitration clause is found to be unenforceable.
+In any arbitration, regardless of its location, the parties will not seek discovery from each other, and the arbitrator will not allow parties to engage in discovery; rather, each party will disclose the evidence supporting their positions at a mutually agreeable time and date prior to the final arbitration hearing.
+This Arbitration Agreement covers the enforceability, revocability, scope, and validity of the Arbitration Agreement or any portion of the Arbitration Agreement, and all other Disputes arising out of or related to the interpretation or applicability of the Arbitration Agreement; and all such matters will be decided by the arbitrator and not by a court or judge.
+If the arbitrator or arbitration administrator imposes filing fees or other administrative costs on you, we will reimburse you, upon request, to the extent such fees or costs would exceed those that you would otherwise have to pay if you were proceeding instead in a court. We will also pay additional fees or costs if required to do so by the arbitration administrator's rules or applicable law.
+At the request of either party, all arbitration proceedings will be conducted in utmost secrecy and, in such case, all documents, testimony, and records will be received, heard, and maintained by the arbitrator in secrecy under seal, available for inspection only by the parties, their respective attorneys, and their respective experts, consultants, or witnesses who have agreed, in advance and in writing, to receive all such information as confidential to be used solely for purposes of the arbitration.
+Other than class procedures and remedies discussed in this Arbitration Agreement, the arbitrator has the authority to grant any remedy that would otherwise be available in court.
+Any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction.
+If the requirement to arbitrate or the prohibition against class actions and other Disputes brought on behalf of third parties contained in this Arbitration Agreement is found to be unenforceable, then only the unenforceable provisions will be deemed to have been removed from these Terms and all remaining obligations in these Terms shall continue in full force and effect.
+14.3 30-Day Right to Opt Out.
+ You have the right to opt out and not be bound by this Arbitration Agreement by sending an email from the address you used to set up your application with the Subject Line: “ARBITRATION AND CLASS ACTION WAIVER OPT-OUT. You must send your email within 30 days of agreeing to these Terms, otherwise you will be bound to arbitrate Disputes in accordance with the terms of this Arbitration Agreement. If you opt out of this Arbitration Agreement, we will also not be bound by the Arbitration Agreement.
+14.4 Changes to this Arbitration Agreement.
+ We will provide you 30 days’ notice of any changes to the section of these Terms titled “Dispute Resolution, Arbitration and Waiver of Class Action” by notice to you, and the changes will become effective 30 days after you receive notice from us. Changes to the Dispute Resolution, Arbitration and Waiver of Class Action section will otherwise apply prospectively only to Disputes that arise after the 30th day. If a court or arbitrator decides that the changes to this section are not enforceable or valid, then the changes will be severed from these Terms and the court or arbitrator will apply the terms of the first Arbitration Agreement in effect after you began using the Features. You may exercise your right to opt out of the new Arbitration Agreement terms by following the procedures set forth in the section above titled “30-Day Right to Opt Out.”
+This Arbitration Agreement will survive the termination of these Terms, and your use of the Features.
+Notwithstanding anything in this Arbitration Agreement to the contrary, either party may bring a lawsuit solely for injunctive relief to stop unauthorised use or abuse of the Features, or infringement of intellectual property rights (for example, trademark, trade secret, copyright, or patent rights) without first engaging in arbitration or the informal dispute resolution process described above.
+15. General Provisions
+15.1 No Waiver; Severability; Non-Assignability. 
+Our failure to enforce a provision is not a waiver of our right to do so later. If a provision is found unenforceable, the remaining provisions of these Terms will remain in full effect and an enforceable term will be substituted reflecting our intent as closely as possible, to the extent permitted by applicable law. You may not assign any of your rights under these Terms, and any such attempt will be void. We may assign our rights to any of its affiliates or subsidiaries, or to any successor in interest of any business associated with the Features.
+15.2 Entire Agreement. 
+These Terms constitute the complete and exclusive statement of the agreement between you and us with respect to the Features and supersedes all prior and contemporaneous understandings, agreements, representations, and warranties, both written and oral, concerning the Features. Section headings in these Terms are for convenience only and will not govern the meaning or interpretation of any provision.
+15.3 Survival.
+ All provisions of these Terms pertaining to suspension or termination, debts owed to the Foundation, general use of the Features, Disputes with the Foundation, as well as provisions which by their nature extend beyond the expiration or termination of these Terms, will survive the termination or expiration of these Terms.
+15.4 Relationship of the Parties.
+ Nothing in these Terms will be deemed or is intended to be deemed, nor will it cause you and the Foundation to be treated as partners, joint-venturers, or otherwise as joint associates for profit, and neither you nor the Foundation will be treated as the agent of the other. This includes the fact that nothing in these Terms establishes or is intended to establish any employment relationship between you and the Foundation.
+15.5 No Professional Advice or Fiduciary Duties. 
+All Content provided by us is for informational purposes only and should not be construed as professional advice. You should not take, or refrain from taking, any action based on any information contained in the Features. Before you make any financial, legal, or other decisions involving the Features or any Digital Tokens, you should seek independent professional advice from an individual who is licensed and qualified in the area for which such advice would be appropriate. These Terms are not intended to, and do not, create or impose any fiduciary duties on us. To the fullest extent permitted by Law, you acknowledge and agree that we owe no fiduciary duties or liabilities to you or any other party, and that to the extent any such duties or liabilities may exist at law or in equity, those duties and liabilities are hereby irrevocably disclaimed, waived, and eliminated. You further agree that the only duties and obligations that we owe you are those set out expressly in these Terms.
+15.6 Change of Control.
+ In the event that we are acquired by or merged with a third-party entity, or otherwise assigns certain functions to an affiliated or successor entity or other entity that we determine is in the best interest of Users, then we reserve the right, in any of these circumstances, to transfer or assign the Data we have collected from you as part of such merger, acquisition, sale, or other change of control, in accordance with applicable law.
+15.7 Force Majeure. 
+We will not be liable for delays, failure in performance, or interruption of service that result directly or indirectly from significant market volatility in Digital Tokens, any act of God, acts of civil or military authorities, acts of terrorists, civil disturbances, war, strike, health emergency, labor dispute, fire, interruption in telecommunications or Internet services or network provider services, failure of equipment or software, or any cause or condition beyond our reasonable control (each, a “Force Majeure Event”). The occurrence of a Force Majeure Event will not affect the validity and enforceability of any of the remaining provisions of these Terms.
+15.8 Grievance Redressal. 
+We have appointed a Grievance Officer for India as detailed below. Please note that the Grievance Officer contact should only be contacted by users in India as per India’s Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021. Additional user verification may be requested.
+Grievance Officer: Marcin Czarnecki
+EMAIL ID: 
+ 
+[email protected]
+WFTOS20240429
+Subscribe to World newsletter
+Be first to know about the thinking, ideas and technology behind a more human economic system
+Subscribe
+World ID
+World App
+World Chain
+Worldcoin
+Ecosystem
+Blog
+Privacy
+Policy
+Get World App
+Find an Orb
+Get the Orb
+Become an Operator
+Grants
+Developer Docs
+Whitepaper
+Tech Tree
+Open Source
+Media Center
+Learn Center
+World FAQs
+World Support
+World Foundation
+Metrics Definitions
+Careers
+Legal Center
+*
+ Eligibility for Worldcoin (WLD) tokens is restricted based on geography, age, and other factors. WLD is not available for distribution via 
+World App
+ to people, companies or organizations who are residents of, or are located or incorporated in the State of New York or other restricted territories. World Assets, Ltd. and World Foundation are not responsible for the availability of WLD on third party platforms, such as centralized or decentralized exchanges. For details, go to:
+ 
+https://world.org/legal/user-terms-and-conditions
+. Crypto products can be highly risky. Important User Information can be found at
+ 
+https://world.org/risks
+.
+™ 2025 World
+Cookie Settings
+Cookie Policy
+Privacy Notice
+Trademark Policy
+Data Requests
+User Terms
+Risks
+Community Alerts

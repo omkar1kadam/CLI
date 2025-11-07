@@ -1,0 +1,228 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What Should Your Business Terms & Conditions Cover?
+Legal Documents & Guides
+Business
+Personal
+Property
+Pricing
+Pricing
+Pricing
+Returning Customer?
+Sign in to your account
+Country
+ Australia
+ Canada
+ India
+ Ireland
+ New Zealand
+ South Africa
+UK
+ Australia 
+ Canada 
+ India 
+ Ireland 
+ New Zealand 
+ South Africa 
+Search
+0
+Basket
+ Sign in
+ Sign up
+Menu
+Home
+>
+Getting your business terms and conditions right
+Getting your business terms and conditions right
+Article reference:
+ UK-IA-ECM04
+Last updated:
+ September 2024 
+|
+ 10 min read
+ In this article 
+What are terms and conditions?
+Why use terms and conditions?
+Contents of a T&C document
+Other considerations
+Further information and links to templates
+What are terms and conditions?
+Terms and conditions are the terms of the legal contract between you and your customer for your supply of goods or services, and which regulates your business relationship.
+They are the conditions on which you agree to do business with someone else.
+They can be called many other names, from simply 
+business terms
+, to 
+terms of sale
+, 
+terms of service
+ or 
+T&C
+. The general assumption of meaning in all these variations is that you are sell your product or offer your service on a non-negotiable 
+take-it-or-leave-it basis
+.
+The word 
+terms
+ and the word 
+conditions
+ mean the same thing. Like some other legal documents such as a last Will and testament, the words are joined with an 
+and
+ in order to emphasise further what they are.
+Too many business managers terms and conditions presents an image of incomprehensible legal jargon comprising a document of awe inspiring length or incorporated into a box so small you can read only six words at a time. As we explain below, such terms in small print are unlikely to be valid in an English court and may incur the wrath of your local trading standards officer.
+In this article, we use 
+client
+ rather than 
+customer
+ for convenience, but all we say applies equally to a business selling goods as to one selling services.
+Why use terms and conditions?
+The purpose of a set of terms and conditions is 
+to record what you have agreed
+, or to present the inflexible terms under which you will accept business, including those that:
+define the contract
+set out business procedures
+protect your business and your rights
+limit your liability
+If you are paid upfront, it still matters that you should have a record of your contract. Quite simply, that you have been paid for the products you've handed over or work you've completed already does not protect you from a later claim.
+Litigation is stressful, and takes key managers away from the business. Defending a claim can also be expensive. It is easier to have good T&C in place to help avoid litigation, than to defend an unclear contract later.
+Even if you are selling a low value product or service, a disagreement with a client can take up significant time and possibly lead to reputational damage.
+You can read further on 
+why terms are so important
+.
+Contents of a T&C document
+A well-drawn terms and conditions document should include the following provisions.
+Definition of basis or subject matter of the contract
+Your terms should make clear what you are selling.
+The products and/or services could be described in detail or by reference to another document, such as a sales brochure or your web site.
+It is perfectly valid to use general words, such as 'services set out in our web site' or 'the products listed in our catalogue', if your T&C cover various situations.
+The price
+This should include all variations and circumstances as well as provisions for increase.
+Because price information is variable from time to time, it is good practice to put it in a separate schedule or refer to it as in 'our price list from time to time', rather than trying to list everything in the body of the document. A reference to 'the prices charged on our web site' is satisfactory here too.
+Set out conditions under which you may change the purchase price, how you will tell your client about the change and whether it will affect this contract.
+If you sell a service repeatedly, such as accounting or web hosting, you will need provision for periodic price increases. This should be covered either by splitting the continuous contract into a series of short, fixed price contracts (such as monthly contracts renewed by subscription payments), or by providing for a periodic increase.
+It will be appropriate for your document to set out the circumstances of the increase and possibly to give notice of it in a way which enables the client to terminate if they do not wish to accept the new price. You may not increase an agreed price unilaterally, any more than your client is able unilaterally to reduce the price.
+Payment terms - method and timing of payment acceptable to you
+As well as setting out how you want to be paid and when (such as by bank transfer within 14 days of the date of an invoice), your contract should include non-payment and late payment provisions.
+In cases where an ongoing service, such as web hosting, is provided, these should include default and penalty provisions.
+Definition of the services procedures
+How much detail you should give depends on your business. There is a fine line between including procedural matters you may change in future and those that will remain unchanged. The former are best on a web page; the later in your T&C.
+Avoid cluttering your T&C with half promises and sales talk such as 'We will endeavour to provide service 24 hours a day'. Remember that the main purpose of the document is to enhance and protect your interest, not promote your business or protect your customer.
+Provisions relating to carriage, delivery, risk and insurance
+Every business selling goods has its own T&C to cover this area of activity.
+Don't generalise with this information. The important thing is to decide what your policy is and include it in the document.
+What happens while the contract runs?
+This may not be relevant for the sale of goods, but it may be important in a sale of service, for example those of a consultant. These provisions would include reporting, testing, staff to be used and any number of other practical points.
+These provisions set out the commercial aspects of the deal and will vary greatly from one business to another.
+Termination provisions
+Some contracts are effectively terminated almost as they are made, for instance a simple sale of products for cash. Other contracts, such as a contract for legal services, might be on-going and renewed from time to time.
+You need to consider:
+how long will your contract last?
+what will trigger the termination?
+what will happen to services not rendered or to goods not yet delivered?
+what penalties will you seek for early termination?
+how will you prove your losses?
+if you are creating a product like software, to whom will it belong if the contract is terminated early?
+is this clear from your sales material and web site?
+Limitation of liability
+These terms limit the damages that you have to pay to your customer if your goods or services fail. They will cover situations such as:
+what happens if you do not provide the products and services as advertised?
+what if the products are defective?
+what defect constitutes a reason for the goods to be returned?
+what if your services are inadequate and how is 'inadequate' defined?
+are your provisions valid in law, and what if they could be partly void?
+Protecting your business from your client
+This is a big area usually covered in a number of separate provisions. They would include a confidentiality clause, provisions about ownership of intellectual property and unexpected action by a third party.
+Intellectual property rights protection
+Your intellectual property may be very valuable. It could be many things: a product design or a methodology or software that you have designed.
+Use and ownership of intellectual property is particularly important in the context of an Internet business.
+In your contract you will want to set out whether your client can use it themselves, and if so, on what basis. Intellectual property rights protection isn't just to say that IP can't be used at all (although you might want this) but the circumstances and ways in which it can and can't be used. For complex IP such as software, you might use a separate end user licence agreement.
+The more valuable your IP, the more conditions of use you'll want to set.
+Indemnity by your client
+An indemnity is a statement that sets out the circumstances in which your client may be liable to re-pay you for your losses and expenses.
+Data protection and privacy
+The Data Protection Act imposes strict duties. It may be necessary to tell clients how you intend to comply, or to comply by telling them what data you hold and why.
+If you trade online, you may refer to your privacy notice as displayed on your website.
+Assignment of the benefit of the agreement
+Assignment means transfer. It is useful to include these provisions if:
+your client is bought by someone else
+you sell your business
+you transfer obligations and rights of fulfilling the contract to someone else
+These points rarely arise, but when they do, they can be enormously important.
+Dispute resolution process
+Of course it is sensible to set out in advance how you intend to resolve a problem between you.
+Net Lawman always uses mediation before arbitration or litigation. As you will read elsewhere on this web site, we are not in favour of arbitration at any price, but mediation is under-used in the UK and has gigantic benefits in savings of time, money and stress.
+Other considerations
+Statutory rights and consumer protection
+Where law made by Parliament sets out the rights of the other party, you cannot reduce those rights in your contract. For example, if under consumer contracts law, a customer has a right to send an item back to you for a full refund within 2 weeks of purchase, you cannot reduce this period to 7 days. You can, however, extend your customers’ rights, for example, to 30 days or 4 weeks.
+In English law, 
+consumers enjoy extensive protection
+ not given to a business. If you fail to provide this, not only are you at risk of being closed down by your local trading standards officer, but you may be subject to legal action by your buyer in respect of which your T&C may be no defence.
+Always draw up your own terms – avoid copying someone else’s
+Avoid copying or using a terms and conditions document from another company, particularly a USA-based one. The US has 52 jurisdictions. In each governing law and certain definitions differ from other states. That means the best chance to cover all eventualities in all states is to include all the 
+defined terms
+. So US drawn T&C are far wordier than we need for the three interlocking jurisdictions in the UK.
+Apart from the obvious point that terms drawn to be appropriate in the state of Utah may be inappropriate in Wales, many of them will not be appropriate to how your individual business works, while many elements you particularly need will be absent from the copied set.
+Net Lawman documents are designed to act as an aide memoire as well as a template, to prompt you to make any necessary changes to suit your own business.
+The client must agree to your terms to be bound to them
+One of the foundation blocks of contract law is that the parties agree. If they are not of the same mind, a court will either say the 
+contract is void
+, or partly void, or it will write in the contract which ones are reasonable in all the circumstances.
+One further consequence of the requirement that the parties to a contract have agreed to all the T&C, is that the terms must have been agreed before the contract is made. Although this is obvious, many web sites are set up in a way that creates a contract before payment is made, but presents the T&C only at the pay point. This is too late. 
+Make sure your terms can be enforced
+.
+Deterrent even if not legally binding
+One corollary of trading worldwide is that it may be sensible to adopt harsh and strict terms on the basis that they provide a deterrent to trouble makers.
+Your clients in Hong Kong or Brazil are unlikely to know much about English law, but if your T&C make out that the world will collapse around them if they misbehave, you may be able to prevent some disputes. Net Lawman does not endorse nor use this practice unless specifically instructed, but we do recognise that it may be helpful in some circumstances.
+Read more about 
+trading with international clients
+.
+If one side wants to transact, you might be able to vary standard T&C
+If you are a buyer, consider whether you should accept the contract put to you by the seller.
+We are all presented with standard terms in every day Internet business. You do not have to accept them. The issue is a question of comparative bargaining power. If there is some term you would like to change, why not put it to your supplier? It is unlikely that a large business will agree to a change for a small value purchase, but what if your business wants to buy at a value that really matters to the supplier? There is a figure at which all business owners would re-consider anything!
+Further information and links to templates
+We have a large number of T&C templates, both for businesses that sell online and those that sell offline. You may be interested in looking at 
+service contract templates
+ for businesses that trade offline or 
+website terms and conditions templates
+ if you trade online.
+Your Account
+About Us
+Contact Support
+Privacy Notice
+Terms & Conditions
+ © 1999 - 2025 Net Lawman Limited. 
+ All rights reserved 
